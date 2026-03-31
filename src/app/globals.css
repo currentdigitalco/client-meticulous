@@ -468,8 +468,18 @@ html, body {
   background-size: 256px;
 }
 
+/* ========== INNER PAGES (scrollable) ========== */
+.min-h-screen {
+  min-height: 100vh;
+  min-height: 100dvh;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
 /* ========== SCROLLBAR ========== */
-::-webkit-scrollbar { width: 0; height: 0; }
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: var(--soil); }
+::-webkit-scrollbar-thumb { background: var(--copper); border-radius: 2px; }
 
 /* ========== REDUCED MOTION ========== */
 @media (prefers-reduced-motion: reduce) {
