@@ -374,19 +374,40 @@ export function MamanHomepage() {
 
       <div className={`nav-overlay ${navOpen ? "open" : ""}`}>
         <div>
+          {/* Page links */}
           <ul className="nav-overlay-list">
-            {screens.slice(1).map((screen, i) => (
-              <li key={screen.id} className="nav-overlay-item">
-                <button
-                  className="nav-overlay-link"
-                  onClick={() => { setNavOpen(false); setTimeout(() => goToScreen(i + 1), 300); }}
-                  style={{ background: "none", border: "none", cursor: "pointer", width: "100%" }}
-                >
-                  {screen.title.replace("\n", " ")}
-                </button>
+            {[
+              { href: "/about", label: "About" },
+              { href: "/services", label: "Services" },
+              { href: "/portfolio", label: "Portfolio" },
+              { href: "/blog", label: "Blog" },
+            ].map((link) => (
+              <li key={link.href} className="nav-overlay-item">
+                <a className="nav-overlay-link" href={link.href}>
+                  {link.label}
+                </a>
               </li>
             ))}
           </ul>
+
+          {/* Section jump links */}
+          <div style={{ marginTop: "2rem", borderTop: "1px solid rgba(255,255,255,0.08)", paddingTop: "1.5rem" }}>
+            <p style={{ fontSize: "0.625rem", textTransform: "uppercase", letterSpacing: "0.2em", color: "var(--copper-light)", marginBottom: "1rem" }}>Jump to section</p>
+            <ul className="nav-overlay-list" style={{ gap: 0 }}>
+              {screens.slice(1).map((screen, i) => (
+                <li key={screen.id} className="nav-overlay-item">
+                  <button
+                    className="nav-overlay-link"
+                    onClick={() => { setNavOpen(false); setTimeout(() => goToScreen(i + 1), 300); }}
+                    style={{ background: "none", border: "none", cursor: "pointer", width: "100%", fontSize: "clamp(1.25rem, 2.5vw, 2rem)", padding: "0.2em 0", color: "var(--stone-dark)" }}
+                  >
+                    {screen.title.replace("\n", " ")}
+                  </button>
+                </li>
+              ))}
+            </ul>
+          </div>
+
           <div className="nav-overlay-contact">
             <a href="tel:802-342-8293"><Phone className="inline-block mr-2" size={14} strokeWidth={2} />802-342-8293</a>
           </div>
