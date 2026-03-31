@@ -186,6 +186,44 @@ export function MamanHomepage() {
     return () => clearInterval(interval);
   }, []);
 
+  /* ---- Animate content elements into a screen ---- */
+  const animateContentIn = useCallback((el: HTMLElement, screenIndex: number, delay: number) => {
+    const trans = transitions[screenIndex];
+    const lines = el.querySelectorAll(".screen-line");
+    const contentEls = el.querySelectorAll(".screen-content > *");
+    const accentBar = el.querySelector(".accent-bar");
+
+    const tl = gsap.timeline({ delay });
+
+    // Pre-set content invisible so there's no flash
+    if (contentEls.length) gsap.set(contentEls, { opacity: 0 });
+    if (accentBar) gsap.set(accentBar, { scaleX: 0 });
+    if (lines.length) gsap.set(lines, { scaleY: 0 });
+
+    // Lines draw in
+    if (lines.length) {
+      const fromOrigin = screenIndex % 2 === 0 ? "top" : "bottom";
+      tl.to(lines, { scaleY: 1, transformOrigin: fromOrigin, duration: 1.2, stagger: 0.15, ease: "power2.inOut" }, 0);
+    }
+
+    // Accent bar
+    if (accentBar) {
+      tl.to(accentBar, { scaleX: 1, transformOrigin: "left", duration: 0.8, ease: "power3.out" }, 0.3);
+    }
+
+    // Content staggers in
+    if (contentEls.length) {
+      const fromX = trans.contentFrom === "left" ? -50 : trans.contentFrom === "right" ? 50 : 0;
+      const fromY = trans.contentFrom === "bottom" ? 40 : 0;
+      tl.fromTo(
+        contentEls,
+        { opacity: 0, x: fromX, y: fromY },
+        { opacity: 1, x: 0, y: 0, duration: 0.7, stagger: 0.1, ease: "power2.out" },
+        0.3
+      );
+    }
+  }, []);
+
   /* ---- SCREEN TRANSITIONS ---- */
   const goToScreen = useCallback(
     (index: number) => {
@@ -207,8 +245,23 @@ export function MamanHomepage() {
           }
           setCurrentScreen(index);
           setIsTransitioning(false);
+
+          // Animate content AFTER transition completes
+          if (nextEl) {
+            animateContentIn(nextEl, index, 0);
+          }
         },
       });
+
+      // Pre-hide next screen's content so it doesn't flash during the screen transition
+      if (nextEl) {
+        const nextContentEls = nextEl.querySelectorAll(".screen-content > *");
+        const nextAccent = nextEl.querySelector(".accent-bar");
+        const nextLines = nextEl.querySelectorAll(".screen-line");
+        if (nextContentEls.length) gsap.set(nextContentEls, { opacity: 0 });
+        if (nextAccent) gsap.set(nextAccent, { scaleX: 0 });
+        if (nextLines.length) gsap.set(nextLines, { scaleY: 0 });
+      }
 
       // EXIT
       if (currentEl) {
@@ -232,7 +285,7 @@ export function MamanHomepage() {
         }
       }
     },
-    [currentScreen, isTransitioning]
+    [currentScreen, isTransitioning, animateContentIn]
   );
 
   const handleNext = useCallback(() => {
@@ -281,41 +334,13 @@ export function MamanHomepage() {
     return () => window.removeEventListener("keydown", onKey);
   }, [handleNext, handlePrev]);
 
-  // Content entry animation on screen change
+  // Initial load animation for screen 0 only
   useEffect(() => {
-    const el = screenRefs.current[currentScreen];
-    if (!el || !loaded) return;
-
-    const trans = transitions[currentScreen];
-    const lines = el.querySelectorAll(".screen-line");
-    const contentEls = el.querySelectorAll(".screen-content > *");
-    const accentBar = el.querySelector(".accent-bar");
-
-    const tl = gsap.timeline();
-
-    // Decorative lines draw in
-    if (lines.length) {
-      const fromOrigin = currentScreen % 2 === 0 ? "top" : "bottom";
-      tl.fromTo(lines, { scaleY: 0, transformOrigin: fromOrigin }, { scaleY: 1, duration: 1.2, stagger: 0.15, ease: "power2.inOut" }, 0);
-    }
-
-    // Accent bar slides in
-    if (accentBar) {
-      tl.fromTo(accentBar, { scaleX: 0, transformOrigin: "left" }, { scaleX: 1, duration: 0.8, ease: "power3.out" }, 0.3);
-    }
-
-    // Content staggers in from configured direction
-    if (contentEls.length) {
-      const fromX = trans.contentFrom === "left" ? -50 : trans.contentFrom === "right" ? 50 : 0;
-      const fromY = trans.contentFrom === "bottom" ? 40 : 0;
-      tl.fromTo(
-        contentEls,
-        { opacity: 0, x: fromX, y: fromY },
-        { opacity: 1, x: 0, y: 0, duration: 0.7, stagger: 0.1, ease: "power2.out" },
-        0.4
-      );
-    }
-  }, [currentScreen, loaded]);
+    if (!loaded) return;
+    const el = screenRefs.current[0];
+    if (!el) return;
+    animateContentIn(el, 0, 0.2);
+  }, [loaded, animateContentIn]);
 
   // Auto-advance timer
   useEffect(() => {
