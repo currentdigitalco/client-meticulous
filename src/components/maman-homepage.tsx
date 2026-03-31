@@ -57,7 +57,7 @@ const screens = [
     subtitle: "Meticulous isn't just our name — it's our standard.",
     body: "Meticulous Mowing & Property Management began in 2009 as a lawn care service in Vermont. Since then, we've grown into a full-scope property company — hardscaping, fencing, flooring, snow removal, and construction. Though we're considerably larger, our commitment to superior quality is as strong today as ever.",
     image: "/images/bg-story.jpeg",
-    cta: "#contact",
+    cta: "/contact",
     ctaLabel: "Get in touch",
     layout: "left" as const,
   },
@@ -68,7 +68,7 @@ const screens = [
     subtitle: "Every blade, every edge, every season.",
     body: "Weekly mowing with competition-grade stripes. Edging, fertilization, overseeding, aeration, and full seasonal programs. Spring cleanups to fall leaf removal. We treat your property like the golf course down the road — because your home deserves the same precision.",
     image: "/images/bg-lawn.jpeg",
-    cta: "#contact",
+    cta: "/contact",
     ctaLabel: "Schedule a consultation",
     layout: "left" as const,
   },
@@ -79,7 +79,7 @@ const screens = [
     subtitle: "Bluestone, flagstone, retaining walls — built right the first time.",
     body: "Patios, walkways, retaining walls, and steps built on engineered foundations. We source Vermont stone when possible and set every piece with the kind of care that means your patio looks better in year ten than year one. No shortcuts on the base. No compromises on drainage.",
     image: "/images/bg-hardscape.jpeg",
-    cta: "#contact",
+    cta: "/contact",
     ctaLabel: "Start your project",
     layout: "right" as const,
   },
@@ -90,7 +90,7 @@ const screens = [
     subtitle: "Vinyl, cedar, chain-link, split rail — gates that swing true.",
     body: "Every post set below the frost line. Every gate hung level. We install vinyl fencing for clean modern lines, cedar privacy for seclusion, chain-link for practical perimeters, and classic Vermont split rail. Your fence should look as good five winters from now as the day we build it.",
     image: "/images/bg-fencing.jpeg",
-    cta: "#contact",
+    cta: "/contact",
     ctaLabel: "Get a quote",
     layout: "left" as const,
   },
@@ -101,7 +101,7 @@ const screens = [
     subtitle: "The same precision we bring outside, applied inside your home.",
     body: "Hardwood, luxury vinyl plank, ceramic tile — installed with meticulous attention to subfloor prep, transitions, and trim. We don't just lay flooring; we transform rooms. From bathroom tile to whole-home hardwood, every cut is measured twice.",
     image: "/images/bg-flooring.jpeg",
-    cta: "#contact",
+    cta: "/contact",
     ctaLabel: "Discuss your floors",
     layout: "right" as const,
   },
@@ -112,7 +112,7 @@ const screens = [
     subtitle: "Four seasons of coverage. No gaps.",
     body: "When Vermont buries your driveway at 3am, we're already on it. Commercial plowing, residential clearing, salt and sand applications — 24/7 storm response. Plus deck construction, outbuildings, and structural framing built to code and beyond expectation.",
     image: "/images/bg-snow.jpeg",
-    cta: "#contact",
+    cta: "/contact",
     ctaLabel: "Learn more",
     layout: "left" as const,
   },
@@ -386,7 +386,7 @@ export function MamanHomepage() {
               { href: "/services", label: "Services" },
               { href: "/portfolio", label: "Portfolio" },
               { href: "/blog", label: "Blog" },
-              { href: "tel:802-342-8293", label: "Contact Us" },
+              { href: "/contact", label: "Contact Us" },
             ].map((link) => (
               <li key={link.href} className="nav-overlay-item">
                 <a className="nav-overlay-link" href={link.href}>
@@ -521,11 +521,7 @@ export function MamanHomepage() {
 
                   {/* CTA */}
                   {screen.ctaLabel && (
-                    <a
-                      href={screen.cta}
-                      className="screen-cta-link"
-                      onClick={(e) => { e.preventDefault(); goToScreen(screens.length - 1); }}
-                    >
+                    <a href={screen.cta} className="screen-cta-link">
                       {screen.ctaLabel}
                       <ArrowRight size={14} strokeWidth={2} />
                     </a>
