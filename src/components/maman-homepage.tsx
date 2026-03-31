@@ -209,23 +209,23 @@ export function MamanHomepage() {
     // Lines draw in
     if (lines.length) {
       const fromOrigin = screenIndex % 2 === 0 ? "top" : "bottom";
-      tl.to(lines, { scaleY: 1, transformOrigin: fromOrigin, duration: 1.2, stagger: 0.15, ease: "power2.inOut" }, 0);
+      tl.to(lines, { scaleY: 1, transformOrigin: fromOrigin, duration: 0.8, stagger: 0.1, ease: "power2.inOut" }, 0);
     }
 
     // Accent bar
     if (accentBar) {
-      tl.to(accentBar, { scaleX: 1, transformOrigin: "left", duration: 0.8, ease: "power3.out" }, 0.3);
+      tl.to(accentBar, { scaleX: 1, transformOrigin: "left", duration: 0.5, ease: "power3.out" }, 0);
     }
 
-    // Content staggers in
+    // Content staggers in — starts immediately, tight stagger
     if (contentEls.length) {
-      const fromX = trans.contentFrom === "left" ? -50 : trans.contentFrom === "right" ? 50 : 0;
-      const fromY = trans.contentFrom === "bottom" ? 40 : 0;
+      const fromX = trans.contentFrom === "left" ? -30 : trans.contentFrom === "right" ? 30 : 0;
+      const fromY = trans.contentFrom === "bottom" ? 25 : 0;
       tl.fromTo(
         contentEls,
         { opacity: 0, x: fromX, y: fromY },
-        { opacity: 1, x: 0, y: 0, duration: 0.7, stagger: 0.1, ease: "power2.out" },
-        0.3
+        { opacity: 1, x: 0, y: 0, duration: 0.5, stagger: 0.06, ease: "power2.out" },
+        0.05
       );
     }
   }, []);
@@ -251,13 +251,13 @@ export function MamanHomepage() {
           }
           setCurrentScreen(index);
           setIsTransitioning(false);
-
-          // Animate content AFTER transition completes
-          if (nextEl) {
-            animateContentIn(nextEl, index, 0);
-          }
         },
       });
+
+      // Start content animation early — overlaps with the screen transition
+      if (nextEl) {
+        setTimeout(() => animateContentIn(nextEl, index, 0), 350);
+      }
 
       // Pre-hide next screen's content so it doesn't flash during the screen transition
       if (nextEl) {
