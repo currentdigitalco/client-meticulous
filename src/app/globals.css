@@ -181,9 +181,9 @@ html.scroll-locked, html.scroll-locked body {
 
 @media (max-width: 768px) {
   .screen-content-wrapper {
-    padding: 5rem 6%;
-    align-items: flex-end;
-    padding-bottom: 8rem;
+    padding: 6rem 6% 4rem;
+    align-items: flex-start;
+    padding-top: 30vh;
   }
 }
 
