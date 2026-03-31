@@ -446,7 +446,20 @@ export function MamanHomepage() {
             >
               {/* Background */}
               <div className="screen-bg">
-                <img src={screen.image} alt="" loading={i < 2 ? "eager" : "lazy"} />
+                {isLanding ? (
+                  <video
+                    autoPlay
+                    muted
+                    loop
+                    playsInline
+                    poster={screen.image}
+                    className="absolute inset-0 w-full h-full object-cover"
+                  >
+                    <source src="/images/hero-video.mp4" type="video/mp4" />
+                  </video>
+                ) : (
+                  <img src={screen.image} alt="" loading={i < 2 ? "eager" : "lazy"} />
+                )}
               </div>
 
               {/* Gradient overlay — varies by layout */}
