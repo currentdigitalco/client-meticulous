@@ -342,30 +342,7 @@ export function MamanHomepage() {
     animateContentIn(el, 0, 0.2);
   }, [loaded, animateContentIn]);
 
-  // Auto-advance timer
-  useEffect(() => {
-    if (!loaded || currentScreen === 0 || navOpen) return;
-    const DURATION = 8000;
-    const startTime = Date.now();
-
-    const tick = () => {
-      const elapsed = Date.now() - startTime;
-      const p = Math.min(1, elapsed / DURATION);
-      const dot = document.querySelector(`.pagination-dot[data-index="${currentScreen}"] .pagination-timer-progress`) as SVGCircleElement | null;
-      if (dot) dot.style.strokeDashoffset = String(38 - 38 * p);
-      if (elapsed < DURATION) timerRafRef.current = requestAnimationFrame(tick);
-    };
-    timerRafRef.current = requestAnimationFrame(tick);
-    autoTimerRef.current = setTimeout(handleNext, DURATION);
-
-    return () => {
-      if (autoTimerRef.current) clearTimeout(autoTimerRef.current);
-      cancelAnimationFrame(timerRafRef.current);
-      document.querySelectorAll(".pagination-timer-progress").forEach((el) => {
-        (el as SVGCircleElement).style.strokeDashoffset = "38";
-      });
-    };
-  }, [currentScreen, loaded, navOpen, handleNext]);
+  // No auto-advance — user scrolls manually
 
   /* ============ RENDER ============ */
   return (
