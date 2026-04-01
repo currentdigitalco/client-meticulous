@@ -33,7 +33,7 @@ export function ContactPage() {
               <span className="text-stone italic">your property.</span>
             </h1>
             <p className="mt-4 text-stone-dark/50 text-base">
-              Free consultations. Transparent pricing. No pressure.
+              Reliable service starts with a conversation.
             </p>
           </div>
 
@@ -88,7 +88,7 @@ export function ContactPage() {
                   required
                   rows={5}
                   className="w-full rounded-xl border-0 bg-white/5 px-5 py-4 text-cream ring-1 ring-white/10 placeholder:text-stone-dark/30 focus:outline-none focus:ring-2 focus:ring-forest transition-all duration-200 resize-none"
-                  placeholder="Tell us about your project — lawn care, patio, fence, flooring, snow removal, construction, or something else..."
+                  placeholder="Tell us about your property — grounds maintenance, snow management, construction, rental support, or something else..."
                 />
               </div>
 
@@ -113,13 +113,13 @@ export function ContactPage() {
                 <p className="text-sm font-medium text-cream">802-342-8293</p>
               </div>
             </a>
-            <a href="mailto:info@meticulous802.com" className="flex items-center gap-3 text-stone-dark/60 hover:text-cream transition-colors">
+            <a href="mailto:getmeticulous@gmail.com" className="flex items-center gap-3 text-stone-dark/60 hover:text-cream transition-colors">
               <div className="flex h-10 w-10 items-center justify-center rounded-full bg-white/5 ring-1 ring-white/10">
                 <Mail className="h-4 w-4" strokeWidth={2} />
               </div>
               <div>
                 <p className="text-xs text-stone-dark/40 uppercase tracking-wider">Email</p>
-                <p className="text-sm font-medium text-cream">info@meticulous802.com</p>
+                <p className="text-sm font-medium text-cream">getmeticulous@gmail.com</p>
               </div>
             </a>
             <div className="flex items-center gap-3 text-stone-dark/60">

@@ -10,58 +10,76 @@ gsap.registerPlugin(ScrollTrigger);
 
 const services = [
   {
-    id: "lawn",
-    title: "Precision Lawn Care",
-    subtitle: "Diamond-cut stripes that stop traffic.",
+    id: "grounds-maintenance",
+    title: "Grounds Maintenance",
+    subtitle: "Professional grounds care, consistently maintained.",
     image: "/images/bg-lawn.jpeg",
     detailImage: "/images/detail-lawn.jpeg",
-    description: "Weekly mowing with competition-grade stripes. Edging, fertilization, overseeding, aeration, and full seasonal programs. Spring cleanups to fall leaf removal. We treat your property like the golf course down the road.",
-    features: ["Weekly mowing & edging", "Fertilization programs", "Overseeding & aeration", "Spring & fall cleanups", "Mulch installation", "Shrub & hedge trimming"],
+    description: "Professional grounds care designed to keep your property sharp, healthy, and consistently maintained throughout the season. From routine mowing and trimming to seasonal cleanups and ongoing exterior upkeep, we help homeowners, second-home owners, and property managers maintain properties that look sharp and stay under control.",
+    features: ["Routine mowing & trimming", "Edging & exterior upkeep", "Spring & fall cleanups", "Seasonal maintenance programs", "Mulch installation", "Shrub & hedge trimming"],
   },
   {
-    id: "hardscape",
-    title: "Hardscape & Stone",
-    subtitle: "Engineered for Vermont's freeze-thaw cycles.",
+    id: "landscaping",
+    title: "Landscaping & Exterior Enhancements",
+    subtitle: "Curb appeal that feels clean and intentional.",
     image: "/images/bg-hardscape.jpeg",
     detailImage: "/images/detail-hardscape.jpeg",
-    description: "Patios, walkways, retaining walls, and steps built on engineered foundations. We source Vermont stone when possible and set every piece with the kind of care that means your patio looks better in year ten than year one.",
-    features: ["Bluestone & flagstone patios", "Natural stone walkways", "Retaining walls", "Stone steps & landings", "Drainage solutions", "Foundation engineering"],
+    description: "Exterior upgrades and landscape improvements that enhance curb appeal and create a more polished overall presentation. From mulching and planting to seasonal cleanups and curb appeal upgrades, we bring a detail-focused approach to every project.",
+    features: ["Mulching & planting", "Seasonal cleanups", "Curb appeal improvements", "Exterior property upgrades", "Garden bed maintenance", "Property presentation"],
   },
   {
-    id: "fencing",
-    title: "Fence Installation",
-    subtitle: "Posts anchored below the frost line.",
+    id: "property-maintenance",
+    title: "Property Maintenance",
+    subtitle: "Stay ahead of repairs and upkeep.",
     image: "/images/bg-fencing.jpeg",
     detailImage: "/images/detail-fencing.jpeg",
-    description: "Every post set below the frost line. Every gate hung level. Your fence should look as good five winters from now as the day we build it.",
-    features: ["Vinyl fencing", "Cedar privacy fencing", "Chain-link fencing", "Cedar split rail", "Gate installation", "Post-and-rail repairs"],
+    description: "Reliable property support services designed to help owners stay ahead of repairs, upkeep, and seasonal maintenance needs. Keeping up with property maintenance can be time-consuming and overwhelming — especially for second-home owners and rental properties. We help simplify ownership and keep your property in top condition.",
+    features: ["General exterior maintenance", "Property support services", "Repair coordination", "Seasonal maintenance", "Second-home oversight", "Preventative upkeep"],
   },
   {
-    id: "flooring",
-    title: "Interior Flooring",
-    subtitle: "Your home, elevated from the ground up.",
-    image: "/images/bg-flooring.jpeg",
-    detailImage: "/images/detail-flooring.jpeg",
-    description: "Hardwood, luxury vinyl plank, ceramic tile — installed with meticulous attention to subfloor prep, transitions, and trim. We don't just lay flooring; we transform rooms.",
-    features: ["Hardwood installation", "Luxury vinyl plank (LVP)", "Ceramic & porcelain tile", "Subfloor preparation", "Baseboard & trim", "Pattern & inlay work"],
-  },
-  {
-    id: "snow",
-    title: "Snow Removal",
-    subtitle: "Battling winter before you even wake up.",
+    id: "snow-ice-management",
+    title: "Snow & Ice Management",
+    subtitle: "Dependable winter response when it matters most.",
     image: "/images/bg-snow.jpeg",
     detailImage: "/images/detail-snow.jpeg",
-    description: "When Vermont buries your driveway at 3am, we're already on it. Commercial plowing, residential clearing, salt and sand applications — 24/7 storm response.",
+    description: "Winter in Vermont demands a company you can rely on. Professional snow and ice management services — including plowing, shoveling, and salting — designed to keep your property accessible, safer, and operational during winter conditions.",
     features: ["Commercial plowing", "Residential clearing", "Salt & sand application", "24/7 storm response", "Walkway & step clearing", "Seasonal contracts"],
   },
   {
-    id: "construction",
-    title: "Construction & Framing",
-    subtitle: "Built to code. Built to last.",
+    id: "hardscaping",
+    title: "Hardscaping & Exterior Improvements",
+    subtitle: "Custom outdoor features built to last.",
+    image: "/images/bg-hardscape.jpeg",
+    detailImage: "/images/detail-hardscape.jpeg",
+    description: "Custom outdoor features and structural landscape elements built to enhance both the beauty and usability of your property. From concept to completion, we focus on clean installation, proper base preparation, and long-term durability.",
+    features: ["Patios & walkways", "Retaining walls", "Natural stone installations", "Outdoor living features", "Drainage solutions", "Foundation engineering"],
+  },
+  {
+    id: "carpentry",
+    title: "Carpentry & Construction Services",
+    subtitle: "Craftsmanship, professionalism, and care.",
     image: "/images/hero-landing.jpeg",
     detailImage: "/images/detail-story.jpeg",
-    description: "From deck framing to outbuilding construction. Structural builds that meet code and exceed expectations. Vermont-grade craftsmanship on every joint.",
-    features: ["Deck construction", "Outbuildings & sheds", "Structural framing", "Permit coordination", "Additions & renovations", "Custom carpentry"],
+    description: "Practical improvements and exterior construction solutions completed with craftsmanship, professionalism, and care. As a registered residential contractor in Vermont, we operate with accountability and a focus on quality workmanship.",
+    features: ["Exterior repairs", "Structural improvements", "Custom builds", "Deck construction", "Remodeling support", "Permit coordination"],
+  },
+  {
+    id: "housekeeping",
+    title: "Housekeeping & Turnover Services",
+    subtitle: "Refreshed, presentable, and ready for arrival.",
+    image: "/images/bg-flooring.jpeg",
+    detailImage: "/images/detail-flooring.jpeg",
+    description: "Detailed cleaning and turnover support designed to keep rental and guest properties refreshed, presentable, and ready for arrival. Whether you manage bookings or need support keeping your property guest-ready, we provide dependable turnover solutions you can count on.",
+    features: ["Vacation rental cleaning", "Turnover preparation", "Guest-ready inspections", "Consistent service standards", "Second-home refreshes", "Detail cleaning"],
+  },
+  {
+    id: "rental-support",
+    title: "Rental Property Support & Management",
+    subtitle: "Dependable support for property owners.",
+    image: "/images/bg-fencing.jpeg",
+    detailImage: "/images/detail-fencing.jpeg",
+    description: "Dependable support for property owners who need help maintaining readiness, presentation, and day-to-day operational care. As a registered Property Management Firm, we help owners keep their properties running smoothly, presentable, and ready for guests or tenants year-round.",
+    features: ["Readiness checks", "Maintenance coordination", "Ongoing property care", "Tenant & guest preparation", "Property presentation", "Day-to-day operations"],
   },
 ];
 
@@ -91,8 +109,11 @@ export function ServicesPage() {
         <div className="relative z-10 mx-auto max-w-7xl px-6 md:px-8 w-full">
           <p className="text-xs font-medium uppercase tracking-[0.3em] text-copper-light">Our Services</p>
           <h1 className="services-hero-title mt-4 font-display text-5xl md:text-6xl lg:text-7xl tracking-tight leading-[0.95]">
-            Six trades.<br />Four seasons.<br /><span className="text-stone italic">One standard.</span>
+            Complete care.<br />Every season.<br /><span className="text-stone italic">One standard.</span>
           </h1>
+          <p className="mt-6 text-lg text-stone-dark/70 max-w-xl leading-relaxed">
+            Dependable, professional property services designed to keep your property maintained, protected, and looking its best year-round.
+          </p>
         </div>
       </section>
 
@@ -112,7 +133,7 @@ export function ServicesPage() {
                   <div className="relative rounded-2xl overflow-hidden aspect-[16/10]">
                     <img src={service.image} alt={service.title} className="w-full h-full object-cover" loading="lazy" />
                     <div className="absolute top-4 left-4 rounded-full bg-soil/80 backdrop-blur-sm px-4 py-1.5 text-xs font-medium text-cream ring-1 ring-white/10">
-                      {service.id.charAt(0).toUpperCase() + service.id.slice(1)}
+                      {service.title}
                     </div>
                   </div>
                 </div>
@@ -133,8 +154,8 @@ export function ServicesPage() {
                       </li>
                     ))}
                   </ul>
-                  <a href="tel:802-342-8293" className="mt-8 inline-flex items-center gap-2 text-sm font-medium text-forest-light hover:text-cream transition-colors">
-                    Get a free estimate <ArrowRight size={14} strokeWidth={2} />
+                  <a href={`/services/${service.id}`} className="mt-8 inline-flex items-center gap-2 text-sm font-medium text-forest-light hover:text-cream transition-colors">
+                    Learn more <ArrowRight size={14} strokeWidth={2} />
                   </a>
                 </div>
               </div>
@@ -147,12 +168,17 @@ export function ServicesPage() {
       <section className="py-24 md:py-32 bg-forest">
         <div className="mx-auto max-w-3xl px-6 md:px-8 text-center">
           <h2 className="font-display text-3xl md:text-5xl text-cream tracking-tight">
-            Not sure what you need?<br />Let&apos;s walk the property.
+            Need something<br />not listed?
           </h2>
-          <p className="mt-4 text-stone-dark/70">Free consultations. We&apos;ll figure it out together.</p>
-          <a href="tel:802-342-8293" className="mt-8 inline-flex items-center gap-2 rounded-full bg-cream px-8 py-4 text-base font-medium text-forest transition-all hover:bg-stone-light">
-            Call 802-342-8293
-          </a>
+          <p className="mt-4 text-stone-dark/70 max-w-lg mx-auto">If it falls within property care, maintenance, presentation, construction support, or rental operations, there&apos;s a good chance we can help.</p>
+          <div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center">
+            <a href="/contact" className="inline-flex items-center justify-center gap-2 rounded-full bg-cream px-8 py-4 text-base font-medium text-forest transition-all hover:bg-stone-light">
+              Get a Quote
+            </a>
+            <a href="tel:802-342-8293" className="inline-flex items-center justify-center gap-2 rounded-full bg-transparent ring-1 ring-cream/30 px-8 py-4 text-base font-medium text-cream transition-all hover:bg-cream/10">
+              Call 802-342-8293
+            </a>
+          </div>
         </div>
       </section>
     </InnerLayout>

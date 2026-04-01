@@ -22,23 +22,24 @@ const satoshi = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Meticulous Mowing & Property Management | Vermont's Premier Property Care",
+  title: "Meticulous LLC | Complete Property Care in Killington, Rutland & Vermont",
   description:
-    "Vermont's all-season property experts since 2009. Lawn care, hardscaping, fencing, flooring, snow removal & construction. One company, every season, done right. Call 802-342-8293.",
+    "Complete property care built around higher standards. Grounds maintenance, snow & ice management, landscaping, construction, rental property support & more. Serving Rutland County since 2009. Call 802-342-8293.",
   keywords: [
-    "Vermont property management",
-    "lawn care Vermont",
+    "Vermont property care",
+    "grounds maintenance Vermont",
+    "snow plowing Killington",
+    "landscaping Rutland Vermont",
+    "property maintenance Vermont",
+    "rental property management Vermont",
     "hardscaping Vermont",
-    "fence installation Vermont",
-    "flooring installation Vermont",
-    "snow removal Vermont",
-    "Meticulous Mowing",
-    "802 property care",
+    "Meticulous LLC",
+    "Rutland County property services",
   ],
   openGraph: {
-    title: "Meticulous Mowing & Property Management",
+    title: "Meticulous LLC | Complete Property Care",
     description:
-      "One company. Every season. Done right. Vermont's premier property care since 2009.",
+      "Complete property care, built around higher standards. Serving Killington, Rutland & surrounding Vermont communities since 2009.",
     type: "website",
     locale: "en_US",
     url: "https://www.meticulous802.com",
@@ -54,23 +55,27 @@ export default function RootLayout({
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    name: "Meticulous Mowing & Property Management, LLC",
+    name: "Meticulous LLC",
     description:
-      "Vermont's all-season property experts. Lawn care, hardscaping, fencing, flooring, snow removal & construction.",
+      "Complete property care built around higher standards. Grounds maintenance, landscaping, snow & ice management, hardscaping, carpentry, housekeeping, and rental property support.",
     telephone: "+1-802-342-8293",
+    email: "getmeticulous@gmail.com",
+    url: "https://www.meticulous802.com",
     areaServed: {
       "@type": "State",
       name: "Vermont",
     },
     foundingDate: "2009",
-    slogan: "One Company. Every Season. Done Right.",
+    slogan: "Meticulous isn't just our name. It's our standard.",
     serviceType: [
-      "Lawn Care",
-      "Hardscaping",
-      "Fence Installation",
-      "Flooring Installation",
-      "Snow Removal",
-      "Construction",
+      "Grounds Maintenance",
+      "Landscaping & Exterior Enhancements",
+      "Property Maintenance",
+      "Snow & Ice Management",
+      "Hardscaping & Exterior Improvements",
+      "Carpentry & Construction Services",
+      "Housekeeping & Turnover Services",
+      "Rental Property Support & Management",
     ],
   };
 
