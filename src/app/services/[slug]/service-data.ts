@@ -39,7 +39,7 @@ export const serviceDetails: ServiceDetail[] = [
     subtitle: "Landscaping Services & Exterior Property Enhancements in Vermont",
     seoTitle: "Landscaping & Exterior Enhancements | Vermont | Meticulous LLC",
     seoDescription: "Professional landscaping and exterior enhancement services in Vermont. Mulching, planting, seasonal cleanups & curb appeal upgrades. Call 802-342-8293.",
-    heroImage: "/images/bg-hardscape.jpeg",
+    heroImage: "/images/bg-landscaping.jpeg",
     introParagraphs: [
       "Meticulous LLC offers professional landscaping and exterior enhancement services designed to improve the appearance and overall presentation of your property.",
       "From mulching and planting to seasonal cleanups and curb appeal upgrades, we help create outdoor spaces that feel clean, intentional, and well maintained.",
@@ -61,7 +61,7 @@ export const serviceDetails: ServiceDetail[] = [
     subtitle: "Property Maintenance Services in Killington, Rutland & Surrounding Areas",
     seoTitle: "Property Maintenance Services | Killington & Rutland, VT | Meticulous LLC",
     seoDescription: "Reliable property maintenance services in Killington, Rutland & surrounding Vermont areas. Routine upkeep, seasonal maintenance & repair coordination. Call 802-342-8293.",
-    heroImage: "/images/bg-fencing.jpeg",
+    heroImage: "/images/bg-property-maintenance.jpeg",
     introParagraphs: [
       "Keeping up with property maintenance can be time-consuming and overwhelming \u2014 especially for second-home owners and rental properties.",
       "At Meticulous LLC, we provide reliable property maintenance services designed to help keep your property functional, presentable, and well cared for year-round.",
@@ -149,7 +149,7 @@ export const serviceDetails: ServiceDetail[] = [
     subtitle: "Vacation Rental Cleaning & Turnover Services in Killington & Surrounding Areas",
     seoTitle: "Vacation Rental Cleaning & Turnover | Killington, VT | Meticulous LLC",
     seoDescription: "Reliable housekeeping & turnover services for vacation rentals in Killington & surrounding Vermont areas. Consistent cleaning, detail-focused, guest-ready every time. Call 802-342-8293.",
-    heroImage: "/images/bg-flooring.jpeg",
+    heroImage: "/images/bg-housekeeping.jpeg",
     introParagraphs: [
       "Meticulous LLC provides reliable housekeeping and turnover services for vacation rentals, second homes, and managed properties.",
       "We help ensure your property is clean, refreshed, and ready for guests with consistent service and attention to detail.",
@@ -171,7 +171,7 @@ export const serviceDetails: ServiceDetail[] = [
     subtitle: "Rental Property Support Services in Rutland County, Vermont",
     seoTitle: "Rental Property Support & Management | Rutland County, VT | Meticulous LLC",
     seoDescription: "Hands-on rental property support in Rutland County, Vermont. Readiness checks, maintenance coordination & ongoing property care by a registered Property Management Firm. Call 802-342-8293.",
-    heroImage: "/images/bg-fencing.jpeg",
+    heroImage: "/images/bg-rental.jpeg",
     introParagraphs: [
       "Managing a rental property takes time, coordination, and attention to detail.",
       "Meticulous LLC provides hands-on rental property support services, including readiness checks, maintenance coordination, and ongoing property care.",

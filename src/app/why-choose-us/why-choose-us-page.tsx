@@ -246,8 +246,8 @@ export function WhyChooseUsPage() {
             </div>
             <div className="fade-up relative rounded-2xl overflow-hidden aspect-[4/5]">
               <img
-                src="/images/bg-lawn.jpeg"
-                alt="Meticulous service vehicle"
+                src="/images/bg-property-maintenance.jpeg"
+                alt="Meticulous property maintenance"
                 className="w-full h-full object-cover"
               />
               <div className="absolute bottom-0 left-0 right-0 p-6 bg-gradient-to-t from-soil/80 to-transparent">
