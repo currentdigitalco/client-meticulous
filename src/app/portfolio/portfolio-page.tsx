@@ -13,18 +13,18 @@ const categories = ["All", "Lawn", "Hardscape", "Fencing", "Flooring", "Snow", "
 type Category = (typeof categories)[number];
 
 const projects = [
-  { title: "Bluestone Patio — Shelburne", category: "Hardscape" as Category, image: "/images/bg-hardscape.jpeg", span: "md:col-span-2 md:row-span-2" },
-  { title: "Cedar Privacy Fence", category: "Fencing" as Category, image: "/images/bg-fencing.jpeg", span: "md:col-span-1 md:row-span-1" },
+  { title: "Bathroom Renovation — Before & After", category: "Construction" as Category, image: "/images/portfolio-bathroom-beforeafter.jpg", span: "md:col-span-2 md:row-span-2" },
+  { title: "Fence Install — Downtown Rutland", category: "Fencing" as Category, image: "/images/portfolio-fence-build.jpg", span: "md:col-span-1 md:row-span-1" },
   { title: "Summer Diamond Stripes", category: "Lawn" as Category, image: "/images/bg-lawn.jpeg", span: "md:col-span-1 md:row-span-1" },
-  { title: "Wide Plank Hardwood", category: "Flooring" as Category, image: "/images/bg-flooring.jpeg", span: "md:col-span-1 md:row-span-2" },
-  { title: "Flagstone Walkway", category: "Hardscape" as Category, image: "/images/detail-hardscape.jpeg", span: "md:col-span-1 md:row-span-1" },
-  { title: "Winter Storm Response", category: "Snow" as Category, image: "/images/bg-snow.jpeg", span: "md:col-span-2 md:row-span-1" },
-  { title: "Deck Framing — Burlington", category: "Construction" as Category, image: "/images/hero-landing.jpeg", span: "md:col-span-1 md:row-span-1" },
-  { title: "Vinyl Fence — Williston", category: "Fencing" as Category, image: "/images/detail-fencing.jpeg", span: "md:col-span-1 md:row-span-1" },
-  { title: "LVP Bathroom Install", category: "Flooring" as Category, image: "/images/detail-flooring.jpeg", span: "md:col-span-1 md:row-span-1" },
+  { title: "Kitchen Remodel — Complete", category: "Flooring" as Category, image: "/images/portfolio-kitchen-reno.jpg", span: "md:col-span-1 md:row-span-2" },
+  { title: "Excavator on Site", category: "Hardscape" as Category, image: "/images/portfolio-excavator.jpg", span: "md:col-span-1 md:row-span-1" },
+  { title: "Plow Fleet — Downtown Rutland", category: "Snow" as Category, image: "/images/portfolio-snow-trucks.jpg", span: "md:col-span-2 md:row-span-1" },
+  { title: "Flat Roof Repair", category: "Construction" as Category, image: "/images/portfolio-roof-repair.jpg", span: "md:col-span-1 md:row-span-1" },
+  { title: "Cedar Privacy Fence", category: "Fencing" as Category, image: "/images/bg-fencing.jpeg", span: "md:col-span-1 md:row-span-1" },
+  { title: "Drywall & Framing", category: "Construction" as Category, image: "/images/portfolio-drywall.jpg", span: "md:col-span-1 md:row-span-1" },
   { title: "Property Transformation", category: "Lawn" as Category, image: "/images/detail-lawn.jpeg", span: "md:col-span-1 md:row-span-1" },
-  { title: "3am Plow Run", category: "Snow" as Category, image: "/images/detail-snow.jpeg", span: "md:col-span-1 md:row-span-1" },
-  { title: "Patio Foundation Prep", category: "Hardscape" as Category, image: "/images/detail-story.jpeg", span: "md:col-span-1 md:row-span-1" },
+  { title: "Snow Removal — Crew on Deck", category: "Snow" as Category, image: "/images/portfolio-snow-team.jpg", span: "md:col-span-1 md:row-span-1" },
+  { title: "Snow Hauling — Dump Truck", category: "Snow" as Category, image: "/images/portfolio-snow-dump.jpg", span: "md:col-span-1 md:row-span-1" },
 ];
 
 export function PortfolioPage() {
