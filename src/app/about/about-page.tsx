@@ -87,7 +87,7 @@ export function AboutPage() {
               </p>
             </div>
             <div className="fade-up relative rounded-2xl overflow-hidden aspect-[4/5]">
-              <img src="/images/detail-story.jpeg" alt="Meticulous crew at work" className="w-full h-full object-cover" />
+              <img src="/images/team-photo.jpg" alt="Meticulous team" className="w-full h-full object-cover object-top" />
               <div className="absolute bottom-0 left-0 right-0 p-6 bg-gradient-to-t from-soil/80 to-transparent">
                 <p className="font-display text-lg text-cream italic">Meticulous isn&apos;t just our name. It&apos;s our standard.</p>
               </div>
