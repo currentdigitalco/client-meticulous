@@ -3,73 +3,12 @@
 import { useEffect } from "react";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
+import Link from "next/link";
 import { InnerLayout } from "@/components/shared/inner-layout";
 import { ArrowRight, Clock } from "lucide-react";
+import { blogPosts } from "@/lib/blog-posts";
 
 gsap.registerPlugin(ScrollTrigger);
-
-const posts = [
-  {
-    slug: "when-to-aerate-your-lawn-vermont",
-    title: "When to Aerate Your Lawn in Vermont",
-    excerpt: "Timing is everything. Aerate too early and you stress the turf. Too late and the ground's already frozen. Here's the window that works for Vermont soil.",
-    category: "Lawn Care",
-    date: "March 2026",
-    readTime: "4 min read",
-    image: "/images/blog-aerate-lawn.jpeg",
-    featured: true,
-  },
-  {
-    slug: "bluestone-vs-concrete-pavers",
-    title: "Bluestone vs. Concrete Pavers: Which Lasts in Vermont?",
-    excerpt: "Both look great on day one. But after five Vermont winters? We break down the real-world performance of each material for patios and walkways.",
-    category: "Hardscape",
-    date: "February 2026",
-    readTime: "6 min read",
-    image: "/images/blog-bluestone-pavers.jpeg",
-    featured: false,
-  },
-  {
-    slug: "vinyl-vs-cedar-fencing",
-    title: "Vinyl vs. Cedar Fencing: A Vermont Homeowner's Guide",
-    excerpt: "Cedar has character. Vinyl has zero maintenance. But which one actually holds up when the snow piles up against it for four months straight?",
-    category: "Fencing",
-    date: "January 2026",
-    readTime: "5 min read",
-    image: "/images/blog-cedar-fence.jpeg",
-    featured: false,
-  },
-  {
-    slug: "preparing-property-for-winter",
-    title: "How to Prepare Your Vermont Property for Winter",
-    excerpt: "The checklist we give every client in October. Drain the hoses, protect the patios, prep the driveway markers, and schedule your plow contract.",
-    category: "Snow Removal",
-    date: "October 2025",
-    readTime: "7 min read",
-    image: "/images/blog-winter-prep.jpeg",
-    featured: false,
-  },
-  {
-    slug: "lvp-vs-hardwood-flooring",
-    title: "LVP vs. Hardwood: What We Install Most (and Why)",
-    excerpt: "Luxury vinyl plank has gotten incredibly good. But hardwood still wins in resale value. Here's how we help clients decide between the two.",
-    category: "Flooring",
-    date: "September 2025",
-    readTime: "5 min read",
-    image: "/images/blog-lvp-flooring.jpeg",
-    featured: false,
-  },
-  {
-    slug: "frost-line-depth-vermont-fencing",
-    title: "Why Frost Line Depth Matters for Vermont Fences",
-    excerpt: "A fence post that's not set deep enough will heave in the first freeze. Here's the engineering behind why we dig deeper than the competition.",
-    category: "Fencing",
-    date: "August 2025",
-    readTime: "4 min read",
-    image: "/images/blog-frost-line.jpeg",
-    featured: false,
-  },
-];
 
 export function BlogPage() {
   useEffect(() => {
@@ -86,8 +25,8 @@ export function BlogPage() {
     return () => ctx.revert();
   }, []);
 
-  const featured = posts.find((p) => p.featured);
-  const rest = posts.filter((p) => !p.featured);
+  const featured = blogPosts.find((p) => p.featured);
+  const rest = blogPosts.filter((p) => !p.featured);
 
   return (
     <InnerLayout>
@@ -105,7 +44,7 @@ export function BlogPage() {
       {featured && (
         <section className="pb-16 md:pb-24">
           <div className="mx-auto max-w-7xl px-6 md:px-8">
-            <div className="blog-card group relative grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-0 rounded-2xl overflow-hidden bg-soil-light/30 ring-1 ring-white/5 cursor-pointer">
+            <Link href={`/blog/${featured.slug}`} className="blog-card group relative grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-0 rounded-2xl overflow-hidden bg-soil-light/30 ring-1 ring-white/5 cursor-pointer block">
               <div className="relative aspect-[16/10] md:aspect-auto overflow-hidden">
                 <img src={featured.image} alt={featured.title} className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" />
                 <div className="absolute top-4 left-4 rounded-full bg-forest/90 backdrop-blur-sm px-4 py-1.5 text-xs font-medium text-cream">
@@ -126,7 +65,7 @@ export function BlogPage() {
                   Read article <ArrowRight size={14} strokeWidth={2} />
                 </span>
               </div>
-            </div>
+            </Link>
           </div>
         </section>
       )}
@@ -136,7 +75,7 @@ export function BlogPage() {
         <div className="mx-auto max-w-7xl px-6 md:px-8">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {rest.map((post) => (
-              <article key={post.slug} className="blog-card group cursor-pointer">
+              <Link key={post.slug} href={`/blog/${post.slug}`} className="blog-card group cursor-pointer block">
                 <div className="relative rounded-xl overflow-hidden aspect-[16/10] mb-5">
                   <img src={post.image} alt={post.title} className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" loading="lazy" />
                   <div className="absolute top-3 left-3 rounded-full bg-soil/80 backdrop-blur-sm px-3 py-1 text-[11px] font-medium text-cream ring-1 ring-white/10">
@@ -154,7 +93,7 @@ export function BlogPage() {
                 <span className="mt-4 inline-flex items-center gap-1.5 text-xs font-medium text-forest-light group-hover:text-cream transition-colors">
                   Read more <ArrowRight size={12} strokeWidth={2} />
                 </span>
-              </article>
+              </Link>
             ))}
           </div>
         </div>

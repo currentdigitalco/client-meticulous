@@ -473,6 +473,78 @@ html.scroll-locked, html.scroll-locked body {
   background-size: 256px;
 }
 
+/* ========== BLOG PROSE ========== */
+.prose-meticulous {
+  font-size: 1.0625rem;
+  line-height: 1.8;
+  color: rgba(212, 202, 187, 0.7);
+}
+.prose-meticulous h2 {
+  font-family: var(--font-display), serif;
+  font-size: 1.625rem;
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+  color: var(--cream);
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+.prose-meticulous p {
+  margin-bottom: 1.25rem;
+}
+.prose-meticulous ul {
+  margin-bottom: 1.25rem;
+  padding-left: 1.25rem;
+  list-style: none;
+}
+.prose-meticulous ul li {
+  position: relative;
+  padding-left: 1rem;
+  margin-bottom: 0.5rem;
+}
+.prose-meticulous ul li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.7em;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--forest-light);
+}
+.prose-meticulous strong {
+  color: var(--cream);
+  font-weight: 600;
+}
+.prose-meticulous table {
+  width: 100%;
+  margin: 1.5rem 0;
+  border-collapse: collapse;
+  font-size: 0.9375rem;
+}
+.prose-meticulous th {
+  text-align: left;
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+  color: var(--cream);
+  font-weight: 600;
+  font-size: 0.8125rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+.prose-meticulous td {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+}
+.prose-meticulous a {
+  color: var(--forest-light);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  transition: color 0.2s;
+}
+.prose-meticulous a:hover {
+  color: var(--cream);
+}
+
 /* ========== SCROLLBAR ========== */
 ::-webkit-scrollbar { width: 4px; }
 ::-webkit-scrollbar-track { background: var(--soil); }
