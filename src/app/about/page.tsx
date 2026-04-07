@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import { AboutPage } from "./about-page";
 
 export const metadata: Metadata = {
-  title: "About | Meticulous Mowing & Property Management",
-  description: "Since 2009, Meticulous has been Vermont's all-season property experts. Learn our story, values, and commitment to quality.",
+  title: "About | Meticulous LLC — Vermont Property Care Since 2009",
+  description: "Owner-led, professionally credentialed, and GPS-tracked. Learn why Vermont property owners trust Meticulous LLC for complete year-round property care across Rutland County.",
 };
 
 export default function About() {

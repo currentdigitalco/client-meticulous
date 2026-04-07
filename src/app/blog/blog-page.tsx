@@ -16,7 +16,7 @@ const posts = [
     category: "Lawn Care",
     date: "March 2026",
     readTime: "4 min read",
-    image: "/images/bg-lawn.jpeg",
+    image: "/images/blog-aerate-lawn.jpeg",
     featured: true,
   },
   {
@@ -26,7 +26,7 @@ const posts = [
     category: "Hardscape",
     date: "February 2026",
     readTime: "6 min read",
-    image: "/images/bg-hardscape.jpeg",
+    image: "/images/blog-bluestone-pavers.jpeg",
     featured: false,
   },
   {
@@ -36,7 +36,7 @@ const posts = [
     category: "Fencing",
     date: "January 2026",
     readTime: "5 min read",
-    image: "/images/bg-fencing.jpeg",
+    image: "/images/blog-cedar-fence.jpeg",
     featured: false,
   },
   {
@@ -46,7 +46,7 @@ const posts = [
     category: "Snow Removal",
     date: "October 2025",
     readTime: "7 min read",
-    image: "/images/bg-snow.jpeg",
+    image: "/images/blog-winter-prep.jpeg",
     featured: false,
   },
   {
@@ -56,7 +56,7 @@ const posts = [
     category: "Flooring",
     date: "September 2025",
     readTime: "5 min read",
-    image: "/images/bg-flooring.jpeg",
+    image: "/images/blog-lvp-flooring.jpeg",
     featured: false,
   },
   {
@@ -66,7 +66,7 @@ const posts = [
     category: "Fencing",
     date: "August 2025",
     readTime: "4 min read",
-    image: "/images/detail-fencing.jpeg",
+    image: "/images/blog-frost-line.jpeg",
     featured: false,
   },
 ];

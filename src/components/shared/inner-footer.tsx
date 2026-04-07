@@ -37,7 +37,7 @@ export function InnerFooter() {
               {[
                 { href: "/about", label: "About" },
                 { href: "/services", label: "Services" },
-                { href: "/why-choose-us", label: "Why Choose Us" },
+                { href: "/blog", label: "Blog" },
                 { href: "/portfolio", label: "Portfolio" },
                 { href: "/contact", label: "Contact" },
               ].map((link) => (
