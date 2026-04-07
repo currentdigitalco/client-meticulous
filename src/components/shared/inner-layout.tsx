@@ -1,11 +1,19 @@
 "use client";
 
 import { useEffect } from "react";
+import { usePathname } from "next/navigation";
 import Lenis from "lenis";
 import { InnerNav } from "./inner-nav";
 import { InnerFooter } from "./inner-footer";
 
 export function InnerLayout({ children }: { children: React.ReactNode }) {
+  const pathname = usePathname();
+
+  // Scroll to top on route change
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [pathname]);
+
   // Lenis smooth scroll for inner pages
   useEffect(() => {
     const prefersReducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
