@@ -3,7 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Phone } from "lucide-react";
+import { Phone, CreditCard } from "lucide-react";
 
 const links = [
   { href: "/", label: "Home" },
@@ -24,8 +24,8 @@ export function InnerNav() {
         <div className="mx-auto max-w-7xl px-6 md:px-8 py-4">
           <div className="flex items-center justify-between">
             {/* Logo */}
-            <Link href="/" className="font-display text-xl tracking-tight text-cream">
-              Meticulous
+            <Link href="/" className="flex items-center">
+              <img src="/images/logo-m.png" alt="Meticulous" className="h-9 w-auto" />
             </Link>
 
             {/* Desktop links */}
@@ -45,14 +45,25 @@ export function InnerNav() {
               ))}
             </div>
 
-            {/* Phone CTA */}
-            <a
-              href="tel:802-342-8293"
-              className="hidden md:flex items-center gap-2 rounded-full bg-forest/80 backdrop-blur-sm px-5 py-2.5 text-sm font-medium text-cream ring-1 ring-forest-light/30 transition-all duration-200 hover:bg-forest"
-            >
-              <Phone className="h-3.5 w-3.5" strokeWidth={2.5} />
-              802-342-8293
-            </a>
+            {/* CTAs */}
+            <div className="hidden md:flex items-center gap-4">
+              <a
+                href="https://www.yardbook.com/get_customer_invoice/92745-meticulous-mowing-and-property-management-llc"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-1.5 text-[13px] font-medium uppercase tracking-[0.12em] text-stone-dark/60 hover:text-cream transition-colors duration-200"
+              >
+                <CreditCard className="h-3.5 w-3.5" strokeWidth={2} />
+                Pay Invoice
+              </a>
+              <a
+                href="tel:802-342-8293"
+                className="flex items-center gap-2 rounded-full bg-forest/80 backdrop-blur-sm px-5 py-2.5 text-sm font-medium text-cream ring-1 ring-forest-light/30 transition-all duration-200 hover:bg-forest"
+              >
+                <Phone className="h-3.5 w-3.5" strokeWidth={2.5} />
+                802-342-8293
+              </a>
+            </div>
 
             {/* Mobile toggle */}
             <button
@@ -91,8 +102,18 @@ export function InnerNav() {
           ))}
         </div>
         <a
+          href="https://www.yardbook.com/get_customer_invoice/92745-meticulous-mowing-and-property-management-llc"
+          target="_blank"
+          rel="noopener noreferrer"
+          onClick={() => setMobileOpen(false)}
+          className="mt-8 flex items-center gap-2 text-sm text-cream/70 hover:text-cream transition-colors"
+        >
+          <CreditCard className="h-3.5 w-3.5" strokeWidth={2} />
+          Pay Invoice
+        </a>
+        <a
           href="tel:802-342-8293"
-          className="mt-10 flex items-center gap-2 text-sm text-copper-light"
+          className="mt-4 flex items-center gap-2 text-sm text-copper-light"
         >
           <Phone className="h-3.5 w-3.5" strokeWidth={2} />
           802-342-8293

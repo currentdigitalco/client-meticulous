@@ -141,6 +141,13 @@ export function AboutPage() {
         </div>
       </section>
 
+      {/* Logo divider */}
+      <section className="py-16 md:py-20">
+        <div className="fade-up flex justify-center">
+          <img src="/images/logo-full.png" alt="Meticulous LLC" className="h-32 md:h-40 w-auto opacity-80" />
+        </div>
+      </section>
+
       {/* Values */}
       <section className="py-24 md:py-32 bg-soil-light/30">
         <div className="mx-auto max-w-7xl px-6 md:px-8">

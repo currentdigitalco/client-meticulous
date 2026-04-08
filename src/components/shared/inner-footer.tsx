@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Phone, Mail, MapPin } from "lucide-react";
+import { Phone, Mail, MapPin, CreditCard } from "lucide-react";
 
 export function InnerFooter() {
   const year = new Date().getFullYear();
@@ -10,9 +10,7 @@ export function InnerFooter() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12">
           {/* Brand */}
           <div className="md:col-span-2">
-            <span className="font-display text-2xl text-cream tracking-tight">
-              Meticulous
-            </span>
+            <img src="/images/logo-full.png" alt="Meticulous LLC" className="h-20 w-auto" />
             <p className="mt-4 text-sm leading-relaxed text-stone-dark/50 max-w-sm">
               Complete property care, built around higher standards.
               Proudly serving Rutland County and surrounding Vermont communities since 2009.
@@ -45,6 +43,15 @@ export function InnerFooter() {
                   {link.label}
                 </Link>
               ))}
+              <a
+                href="https://www.yardbook.com/get_customer_invoice/92745-meticulous-mowing-and-property-management-llc"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-1.5 text-sm text-stone-dark/70 hover:text-cream transition-colors"
+              >
+                <CreditCard className="h-3.5 w-3.5" strokeWidth={2} />
+                Pay Invoice
+              </a>
             </div>
           </div>
 

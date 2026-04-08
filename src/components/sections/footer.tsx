@@ -1,4 +1,4 @@
-import { Phone, Mail } from "lucide-react";
+import { Phone, Mail, CreditCard } from "lucide-react";
 
 export function Footer() {
   const currentYear = new Date().getFullYear();
@@ -9,9 +9,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
           {/* Brand */}
           <div>
-            <span className="font-display text-2xl text-cream tracking-tight">
-              Meticulous
-            </span>
+            <img src="/images/logo-full.png" alt="Meticulous LLC" className="h-20 w-auto" />
             <p className="mt-3 text-sm text-stone-light/50 max-w-xs leading-relaxed">
               Meticulous isn&apos;t just our name — it&apos;s our standard.
               Vermont property care since 2009.
@@ -61,6 +59,15 @@ export function Footer() {
                   {link.label}
                 </a>
               ))}
+              <a
+                href="https://www.yardbook.com/get_customer_invoice/92745-meticulous-mowing-and-property-management-llc"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-1.5 text-sm text-stone-light/70 transition-colors hover:text-cream"
+              >
+                <CreditCard className="h-3.5 w-3.5" strokeWidth={2} />
+                Pay Invoice
+              </a>
             </div>
           </div>
         </div>

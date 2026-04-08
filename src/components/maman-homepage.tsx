@@ -46,6 +46,7 @@ const screens = [
     subtitle: "Meticulous isn't just our name. It's our standard.",
     body: "",
     image: "/images/hero-landing.jpeg",
+    video: "/images/hero-video.mp4",
     cta: "",
     ctaLabel: "",
     layout: "center" as const,
@@ -57,8 +58,9 @@ const screens = [
     subtitle: "What started in 2009 has grown into complete property care.",
     body: "As our clients' needs grew, so did our services. Today, Meticulous LLC provides a wide range of property solutions — from grounds maintenance and snow management to construction support and rental property services — designed to keep your investment protected, maintained, and looking its best year-round.",
     image: "/images/bg-story.jpeg",
-    cta: "/contact",
-    ctaLabel: "Get in touch",
+    video: "/images/story-video-loop.mp4",
+    cta: "/about",
+    ctaLabel: "Our story",
     layout: "left" as const,
   },
   {
@@ -68,7 +70,7 @@ const screens = [
     subtitle: "Routine maintenance and exterior enhancements that keep your property sharp.",
     body: "Professional grounds care — mowing, trimming, edging, seasonal cleanup — designed to keep your property consistently maintained. Plus landscaping upgrades, mulching, planting, and curb appeal improvements that create a polished, intentional presentation.",
     image: "/images/bg-lawn.jpeg",
-    cta: "/services",
+    cta: "/services/grounds-maintenance",
     ctaLabel: "View services",
     layout: "left" as const,
   },
@@ -79,7 +81,7 @@ const screens = [
     subtitle: "Custom outdoor features and structural improvements built with craftsmanship.",
     body: "Patios, walkways, retaining walls, and outdoor improvements built to enhance both the beauty and usability of your property. Plus exterior carpentry, repairs, remodeling support, and custom builds — completed with professionalism and care. As a registered residential contractor in Vermont, we build to code and beyond expectation.",
     image: "/images/bg-hardscape.jpeg",
-    cta: "/services",
+    cta: "/contact",
     ctaLabel: "Start your project",
     layout: "right" as const,
   },
@@ -90,7 +92,7 @@ const screens = [
     subtitle: "Dependable winter services when it matters most.",
     body: "Plowing, shoveling, salting, and winter response services designed to keep your property accessible, operational, and better protected during harsh Vermont conditions. We serve residential, rental, and commercial properties throughout Killington, Rutland, and surrounding areas with organized service systems you can count on.",
     image: "/images/bg-snow.jpeg",
-    cta: "/services",
+    cta: "/services/snow-ice-management",
     ctaLabel: "Learn more",
     layout: "left" as const,
   },
@@ -101,7 +103,7 @@ const screens = [
     subtitle: "Turnover-ready cleaning, maintenance coordination, and day-to-day care.",
     body: "Detailed housekeeping and turnover support to keep rental and guest properties refreshed and ready for arrival. Plus dependable property maintenance, readiness checks, and ongoing operational care. As a registered Property Management Firm, we help owners simplify ownership through reliable service and strong communication.",
     image: "/images/bg-rental.jpeg",
-    cta: "/services",
+    cta: "/contact",
     ctaLabel: "Get a quote",
     layout: "right" as const,
   },
@@ -355,7 +357,7 @@ export function MamanHomepage() {
     <>
       {/* LOADER */}
       <div className={`loader ${loaded ? "done" : ""}`}>
-        <div className="loader-logo">Meticulous</div>
+        <div className="loader-logo"><img src="/images/logo-full.png" alt="Meticulous" style={{ height: "80px", width: "auto" }} /></div>
         <div className="loader-progress">
           <div className="loader-bar">
             <div className="loader-bar-fill" style={{ width: `${progress}%` }} />
@@ -367,7 +369,7 @@ export function MamanHomepage() {
       <div className="grain" aria-hidden="true" />
 
       {/* NAV */}
-      <a href="/" className="nav-logo">Meticulous</a>
+      <a href="/" className="nav-logo"><img src="/images/logo-full.png" alt="Meticulous" style={{ height: "80px", width: "auto" }} /></a>
       <button
         className={`nav-toggle ${navOpen ? "open" : ""}`}
         onClick={() => setNavOpen(!navOpen)}
@@ -446,7 +448,7 @@ export function MamanHomepage() {
             >
               {/* Background */}
               <div className="screen-bg">
-                {isLanding ? (
+                {screen.video ? (
                   <video
                     autoPlay
                     muted
@@ -455,7 +457,7 @@ export function MamanHomepage() {
                     poster={screen.image}
                     className="absolute inset-0 w-full h-full object-cover"
                   >
-                    <source src="/images/hero-video.mp4" type="video/mp4" />
+                    <source src={screen.video} type="video/mp4" />
                   </video>
                 ) : (
                   <img src={screen.image} alt="" loading={i < 2 ? "eager" : "lazy"} />

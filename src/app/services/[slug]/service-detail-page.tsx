@@ -4,7 +4,7 @@ import { useEffect } from "react";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { InnerLayout } from "@/components/shared/inner-layout";
-import { ArrowRight, ArrowLeft, MapPin } from "lucide-react";
+import { ArrowRight, ArrowLeft, MapPin, Check } from "lucide-react";
 import type { ServiceDetail } from "./service-data";
 
 gsap.registerPlugin(ScrollTrigger);
@@ -133,8 +133,104 @@ export function ServiceDetailPage({
         </div>
       </section>
 
+      {/* Detailed Service Breakdown */}
+      <section className="py-24 md:py-32 bg-soil-light/20">
+        <div className="mx-auto max-w-5xl px-6 md:px-8">
+          <div className="fade-up text-center mb-16">
+            <p className="text-xs font-medium uppercase tracking-[0.3em] text-copper-light">
+              What&apos;s Included
+            </p>
+            <h2 className="mt-4 font-display text-2xl md:text-3xl tracking-tight">
+              A closer look at what we do.
+            </h2>
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-x-12 gap-y-10">
+            {service.featureDetails.map((fd, i) => (
+              <div key={i} className="fade-up">
+                <div className="flex items-start gap-4">
+                  <span className="mt-1 flex h-6 w-6 items-center justify-center rounded-full bg-forest-light/15 flex-shrink-0">
+                    <Check size={13} strokeWidth={2.5} className="text-forest-light" />
+                  </span>
+                  <div>
+                    <h3 className="text-base font-medium text-cream tracking-tight">
+                      {fd.title}
+                    </h3>
+                    <p className="mt-2 text-sm leading-relaxed text-stone-dark/55">
+                      {fd.description}
+                    </p>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* How We Work — Process */}
+      <section className="py-24 md:py-32">
+        <div className="mx-auto max-w-4xl px-6 md:px-8">
+          <div className="fade-up text-center mb-16">
+            <p className="text-xs font-medium uppercase tracking-[0.3em] text-copper-light">
+              How We Work
+            </p>
+            <h2 className="mt-4 font-display text-2xl md:text-3xl tracking-tight">
+              Simple process, reliable results.
+            </h2>
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+            {service.process.map((step, i) => (
+              <div
+                key={i}
+                className="fade-up group relative p-8 rounded-2xl bg-soil-light/15 ring-1 ring-white/5 transition-colors hover:ring-white/10"
+              >
+                <span className="block font-display text-3xl text-forest-light/30 mb-4 tracking-tight">
+                  {step.step}
+                </span>
+                <h3 className="text-lg font-medium text-cream tracking-tight">
+                  {step.title}
+                </h3>
+                <p className="mt-3 text-sm leading-relaxed text-stone-dark/55">
+                  {step.description}
+                </p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Why Meticulous */}
+      <section className="py-24 md:py-32 bg-soil-light/20">
+        <div className="mx-auto max-w-4xl px-6 md:px-8">
+          <div className="fade-up">
+            <div className="grid grid-cols-1 md:grid-cols-12 gap-12 items-start">
+              <div className="md:col-span-5">
+                <p className="text-xs font-medium uppercase tracking-[0.3em] text-copper-light">
+                  Why Meticulous
+                </p>
+                <h2 className="mt-4 font-display text-2xl md:text-3xl tracking-tight leading-tight">
+                  What sets us apart<br />
+                  <span className="text-stone italic">from the rest.</span>
+                </h2>
+              </div>
+              <div className="md:col-span-7">
+                <ul className="space-y-6">
+                  {service.differentiators.map((d, i) => (
+                    <li key={i} className="fade-up flex items-start gap-4">
+                      <span className="mt-1.5 h-2 w-2 rounded-full bg-forest-light flex-shrink-0" />
+                      <p className="text-[15px] leading-relaxed text-stone-dark/65">
+                        {d}
+                      </p>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Service Area */}
-      <section className="py-24 md:py-32 bg-soil-light/30">
+      <section className="py-24 md:py-32">
         <div className="mx-auto max-w-4xl px-6 md:px-8 text-center">
           <div className="fade-up">
             <p className="text-xs font-medium uppercase tracking-[0.3em] text-copper-light">
@@ -164,7 +260,7 @@ export function ServiceDetailPage({
 
       {/* Related Services */}
       {related.length > 0 && (
-        <section className="py-24 md:py-32">
+        <section className="py-24 md:py-32 bg-soil-light/20">
           <div className="mx-auto max-w-7xl px-6 md:px-8">
             <div className="fade-up text-center mb-12">
               <p className="text-xs font-medium uppercase tracking-[0.3em] text-copper-light">
