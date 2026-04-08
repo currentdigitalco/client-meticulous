@@ -398,6 +398,14 @@ export function MamanHomepage() {
             ))}
           </ul>
           <div className="nav-overlay-contact">
+            <a
+              href="https://www.yardbook.com/get_customer_invoice/92745-meticulous-mowing-and-property-management-llc"
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick={() => setNavOpen(false)}
+            >
+              Pay Invoice
+            </a>
             <a href="tel:802-342-8293"><Phone className="inline-block mr-2" size={14} strokeWidth={2} />802-342-8293</a>
           </div>
         </div>
