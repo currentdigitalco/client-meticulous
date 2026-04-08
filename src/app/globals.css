@@ -365,6 +365,10 @@ html.scroll-locked, html.scroll-locked body {
   margin-top: 3rem;
   font-size: 0.875rem;
   color: var(--copper-light);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
 }
 .nav-overlay-contact a {
   color: var(--cream);
