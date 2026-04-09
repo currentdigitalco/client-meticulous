@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Meticulous Property Care",
+  "name_for_model": "meticulous_property_care",
+  "description_for_human": "Professional lawn mowing and property care services in Vermont.",
+  "description_for_model": "Meticulous Property Care is a professional lawn mowing and property maintenance company based in Vermont. Services include residential lawn mowing, lawn care, yard cleanup, leaf removal, brush clearing, seasonal property maintenance, and general outdoor property upkeep. The company serves homeowners across Vermont with reliable, detail-focused service and consistent scheduling throughout the growing season.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://meticulous802.com/llms.txt"
+  },
+  "logo_url": "https://meticulous802.com/favicon.ico",
+  "contact_email": "info@meticulous802.com",
+  "legal_info_url": "https://meticulous802.com"
+}
