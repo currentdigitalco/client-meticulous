@@ -22,9 +22,13 @@ const satoshi = localFont({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://meticulous802.com"),
   title: "Meticulous LLC | Complete Property Care in Killington, Rutland & Vermont",
   description:
     "Complete property care built around higher standards. Grounds maintenance, snow & ice management, landscaping, construction, rental property support & more. Serving Rutland County since 2009. Call 802-342-8293.",
+  alternates: {
+    canonical: "/",
+  },
   keywords: [
     "Vermont property care",
     "grounds maintenance Vermont",
@@ -42,9 +46,16 @@ export const metadata: Metadata = {
       "Complete property care, built around higher standards. Serving Killington, Rutland & surrounding Vermont communities since 2009.",
     type: "website",
     locale: "en_US",
-    url: "https://www.meticulous802.com",
+    url: "https://meticulous802.com",
   },
   robots: { index: true, follow: true },
+  icons: {
+    icon: [
+      { url: "/images/logo-m.png", type: "image/png" },
+    ],
+    shortcut: "/images/logo-m.png",
+    apple: "/images/logo-m.png",
+  },
 };
 
 export default function RootLayout({
@@ -60,7 +71,7 @@ export default function RootLayout({
       "Complete property care built around higher standards. Grounds maintenance, landscaping, snow & ice management, hardscaping, carpentry, housekeeping, and rental property support.",
     telephone: "+1-802-342-8293",
     email: "getmeticulous@gmail.com",
-    url: "https://www.meticulous802.com",
+    url: "https://meticulous802.com",
     areaServed: {
       "@type": "State",
       name: "Vermont",
