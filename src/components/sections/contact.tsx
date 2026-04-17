@@ -19,9 +19,13 @@ const serviceOptions = [
   "Other",
 ];
 
+const WEB3FORMS_KEY = "e4344aa7-de69-40bf-9e49-e36c8bc8be5d";
+
 export function Contact() {
   const sectionRef = useRef<HTMLElement>(null);
   const [submitted, setSubmitted] = useState(false);
+  const [submitting, setSubmitting] = useState(false);
+  const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
     if (!sectionRef.current) return;
@@ -43,10 +47,32 @@ export function Contact() {
     return () => ctx.revert();
   }, []);
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
-    // TODO: Wire to form handler (Formspree, Netlify Forms, or custom API)
-    setSubmitted(true);
+    setError(null);
+    setSubmitting(true);
+
+    const formData = new FormData(e.currentTarget);
+    formData.append("access_key", WEB3FORMS_KEY);
+    formData.append("subject", "New lead from meticulous802.com homepage");
+    formData.append("from_name", "Meticulous Website");
+
+    try {
+      const res = await fetch("https://api.web3forms.com/submit", {
+        method: "POST",
+        body: formData,
+      });
+      const data = await res.json();
+      if (data.success) {
+        setSubmitted(true);
+      } else {
+        setError(data.message || "Something went wrong. Please call us instead.");
+      }
+    } catch {
+      setError("Network error. Please call us at 802-342-8293.");
+    } finally {
+      setSubmitting(false);
+    }
   };
 
   return (
@@ -204,12 +230,19 @@ export function Contact() {
                   />
                 </div>
 
+                {error && (
+                  <p className="text-sm text-red-400" role="alert">
+                    {error}
+                  </p>
+                )}
+
                 <button
                   type="submit"
-                  className="w-full rounded-xl bg-forest px-6 py-4 text-base font-medium text-cream transition-all duration-200 hover:bg-forest-light shadow-lg shadow-forest/20 flex items-center justify-center gap-2"
+                  disabled={submitting}
+                  className="w-full rounded-xl bg-forest px-6 py-4 text-base font-medium text-cream transition-all duration-200 hover:bg-forest-light disabled:opacity-60 disabled:cursor-not-allowed shadow-lg shadow-forest/20 flex items-center justify-center gap-2"
                 >
                   <Send className="h-4 w-4" strokeWidth={2} />
-                  Send Message
+                  {submitting ? "Sending..." : "Send Message"}
                 </button>
               </form>
             )}
