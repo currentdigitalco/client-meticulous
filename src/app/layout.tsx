@@ -3,6 +3,7 @@ import { Instrument_Serif } from "next/font/google";
 import localFont from "next/font/local";
 import "./globals.css";
 import { SmoothScroll } from "@/components/ui/smooth-scroll";
+import { Analytics } from "@vercel/analytics/next";
 
 const instrumentSerif = Instrument_Serif({
   variable: "--font-instrument-serif",
@@ -105,6 +106,7 @@ export default function RootLayout({
         <SmoothScroll />
         <div className="grain-overlay" aria-hidden="true" />
         {children}
+        <Analytics />
       </body>
     </html>
   );
