@@ -13,6 +13,110 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "spring-drainage-problems-vermont-snowmelt",
+    title: "Spring Drainage Problems After Vermont Snowmelt",
+    excerpt:
+      "Snowmelt season sends thousands of gallons across your property in weeks. Here is how to spot drainage failures early and fix them before they rot your foundation.",
+    category: "Property Maintenance",
+    date: "April 2026",
+    readTime: "6 min read",
+    image: "/images/blog-spring-drainage.jpeg",
+    featured: true,
+    metaDescription:
+      "How to identify and fix spring drainage problems after snowmelt in Vermont. Grading, French drains, swales, and foundation protection for Rutland County properties.",
+    content: `
+<p>Every April the same thing happens across Rutland County. Three months of packed snow turns into liquid in about two weeks. Gutters overflow, yards turn into swamps, and water finds every crack in every foundation it can reach. We got four calls in one week last spring from homeowners between Mendon and Chittenden who had standing water against their basement walls. All four properties looked fine in summer. Nobody noticed the drainage problems until 60 inches of snowpack melted at once.</p>
+
+<p>Vermont averages over 65 inches of snow per season. When that melts, it has to go somewhere. If your grading, gutters, or drainage infrastructure can not move that water away from your structures fast enough, it goes through them.</p>
+
+<h2>Why Does Snowmelt Cause More Damage Than Rain?</h2>
+
+<p>Volume and timing. A heavy rainstorm in July might drop an inch of water over a few hours. Your gutters handle it, the ground absorbs some, and the rest runs off. Spring snowmelt is different. You are dealing with months of accumulated precipitation releasing over days, not hours, and it hits when the ground is still partially frozen and can not absorb anything.</p>
+
+<p>In Rutland County, the frost typically does not leave the ground completely until mid to late April. That means snowmelt water sits on top of frozen or near-frozen soil instead of percolating down. It flows across the surface, pools in low spots, and collects against foundations. The ground is acting like a concrete slab.</p>
+
+<p>Add mud season into the equation. Vermont's famous mud season happens precisely because the top few inches of soil thaw while the layer underneath stays frozen. Water can not drain vertically, so it saturates the topsoil and turns everything to mush. Your yard, your driveway edges, your walkways. All of it.</p>
+
+<h2>What Are the Warning Signs of Poor Drainage?</h2>
+
+<p>Walk your property in mid-April when snowmelt is at its peak. That is when drainage failures reveal themselves. Here is what to look for:</p>
+
+<ul>
+<li><strong>Standing water within 6 feet of your foundation</strong> for more than 24 hours after snow stops melting</li>
+<li><strong>Water stains or efflorescence</strong> (white mineral deposits) on basement walls</li>
+<li><strong>Erosion channels</strong> carved into your yard, especially on slopes facing south or west where snow melts first</li>
+<li><strong>Saturated mulch beds</strong> against the house that stay soggy for days</li>
+<li><strong>Gutter overflow</strong> even when gutters appear clean, which usually means undersized downspouts or no extensions</li>
+<li><strong>Driveway washouts</strong> where gravel migrates off the surface and collects at the low end</li>
+<li><strong>Sump pump running constantly</strong> from March through May</li>
+</ul>
+
+<p>If you see two or more of these, your property has a drainage problem that is getting worse every year. Freeze-thaw cycles open up more pathways for water each season. What starts as a damp basement wall becomes a flooded basement in three or four years.</p>
+
+<h2>How Should the Grade Around Your Foundation Look?</h2>
+
+<p>The single most important drainage element is the slope of the ground around your house. The International Building Code requires a minimum of 6 inches of fall over the first 10 feet away from the foundation. In Vermont, we recommend more. Eight to ten inches over 10 feet gives you a margin of error that matters during heavy melt years.</p>
+
+<p>Here is how to check yours:</p>
+
+<ol>
+<li>Place a straight 10-foot board against the foundation wall, extending outward</li>
+<li>Level it with a bubble level</li>
+<li>Measure the gap between the far end of the board and the ground</li>
+<li>That gap should be at least 6 inches, ideally 8 to 10</li>
+<li>Check all four sides of the house</li>
+</ol>
+
+<p>Most properties we inspect in Rutland County fail this test on at least one side. The ground settles over time, especially after construction. Backfilled soil around a foundation compacts for years. What started as proper grade when the house was built may have reversed entirely after a decade of settling and freeze-thaw cycles.</p>
+
+<p>Regrading is one of the most cost-effective fixes. We bring in fill, compact it in layers, and slope it away from the foundation. Typical cost for regrading around a full foundation is $1,500 to $4,000 depending on access and how much material is needed. Compare that to a basement waterproofing job at $8,000 to $15,000 and the math speaks for itself.</p>
+
+<h2>What Drainage Solutions Work Best in Vermont Soil?</h2>
+
+<p>Rutland County soil varies, but most of the valley floor is heavy clay with rocky subsoil. Clay drains slowly. Rocky subsoil means you can not always dig deep. Solutions have to work within those constraints.</p>
+
+<table>
+<thead>
+<tr><th>Solution</th><th>Best For</th><th>Typical Cost</th></tr>
+</thead>
+<tbody>
+<tr><td>Regrading</td><td>Foundation perimeter, correcting settled soil</td><td>$1,500 - $4,000</td></tr>
+<tr><td>French drain</td><td>Intercepting subsurface water on slopes</td><td>$25 - $50 per linear foot</td></tr>
+<tr><td>Surface swale</td><td>Redirecting overland flow across large yards</td><td>$1,000 - $3,000</td></tr>
+<tr><td>Dry well</td><td>Collecting roof runoff in areas without storm drains</td><td>$1,500 - $3,000 each</td></tr>
+<tr><td>Downspout extensions</td><td>Moving roof water 6-10 feet from foundation</td><td>$150 - $400 total</td></tr>
+<tr><td>Curtain drain</td><td>Hillside properties with uphill water pressure</td><td>$30 - $65 per linear foot</td></tr>
+</tbody>
+</table>
+
+<p>For most residential properties in the Rutland valley, a combination of regrading plus downspout extensions solves 80% of foundation water problems. It is not glamorous work, but it is effective.</p>
+
+<p>For hillside properties, which we have plenty of around Killington, Mendon, and Shrewsbury, a curtain drain across the uphill side of the house is often necessary. These intercept groundwater flowing downhill before it reaches the foundation. We install them with perforated pipe in a gravel-filled trench, wrapped in filter fabric to keep clay from clogging the system. Done right, they last 20 to 30 years.</p>
+
+<h2>When Should You Address Drainage Issues?</h2>
+
+<p>Late April through June is the best window. The ground has thawed enough to dig, you can still see where water collects (the evidence is fresh), and you have the full summer for disturbed areas to stabilize before the next freeze.</p>
+
+<p>Waiting until fall means you are working from memory. That puddle against the foundation? You will not remember exactly where it was or how big it got. The erosion channel across the back yard? It dries up and grows over by August. Tackle drainage work while the problems are still visible.</p>
+
+<p>We schedule drainage and grading work starting in early May once the soil firms up enough to work with equipment. Trying to grade or trench in true mud season just makes a mess. The soil needs to be workable but not soupy.</p>
+
+<h2>What About Properties That Sit Empty During Mud Season?</h2>
+
+<p>This is a big one for Rutland County. A significant number of properties here are second homes. Ski season ends, the owners head back to Connecticut or New York, and the house sits empty through the entire snowmelt period. Nobody is there to notice the sump pump failed. Nobody sees the water pooling against the foundation. Nobody catches the gutter that blew off in a March ice storm.</p>
+
+<p>For our <a href="/services/rental-support">rental and second-home property management</a> clients, spring inspection is built into the service. We walk every managed property in mid-April specifically to check for drainage issues, foundation water, gutter damage, and freeze-thaw damage to walkways and driveways. Catching a problem in April costs a fraction of discovering it in July when the damage has been compounding for months.</p>
+
+<p>If you manage your own second home, schedule a visit during the third or fourth week of April. Bring rubber boots. Walk the entire perimeter. Check the basement. Look at every downspout. It is the single most valuable property inspection you can do all year.</p>
+
+<h2>What Should You Do Right Now?</h2>
+
+<p>If you are reading this in April, go outside and look. Today. Check the grade around your foundation. Follow your downspouts and see where the water ends up. Look for standing water, erosion, and saturated soil. If something looks wrong, it is wrong, and it is only getting worse.</p>
+
+<p>We handle <a href="/services/property-maintenance">property maintenance</a> and <a href="/services/grounds-maintenance">grounds maintenance</a> across Rutland County, and drainage correction is one of the most common spring projects we take on. If you are seeing water where it should not be, give us a call at <a href="tel:8023428293">802-342-8293</a>. We will walk the property with you, show you where the failures are, and give you a straight recommendation on what it takes to fix them.</p>
+`,
+  },
+  {
     slug: "when-to-aerate-your-lawn-vermont",
     title: "When to Aerate Your Lawn in Vermont",
     excerpt:
@@ -21,7 +125,7 @@ export const blogPosts: BlogPost[] = [
     date: "March 2026",
     readTime: "4 min read",
     image: "/images/blog-aerate-lawn.jpeg",
-    featured: true,
+    featured: false,
     metaDescription:
       "Learn the best time to aerate your lawn in Vermont. Rutland County soil types, fall timing windows, and why spring aeration causes more harm than good.",
     content: `
