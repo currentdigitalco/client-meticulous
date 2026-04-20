@@ -13,6 +13,103 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "mud-season-property-cleanup-vermont",
+    title: "Mud Season Property Cleanup: What Every Vermont Homeowner Needs to Know",
+    excerpt:
+      "Mud season hits Rutland County hard. Your yard, driveway, and walkways take a beating between March and May. Here is what to address first and what can wait.",
+    category: "Property Maintenance",
+    date: "April 2026",
+    readTime: "7 min read",
+    image: "/images/blog-mud-season-cleanup.jpeg",
+    featured: false,
+    metaDescription:
+      "How to clean up your Vermont property after mud season. Driveway repair, lawn recovery, drainage fixes, and walkway restoration for Rutland County homeowners.",
+    content: `
+<p>There is a reason Vermonters call it the fifth season. Mud season in Rutland County is not a week-long inconvenience. It is six to eight weeks of saturated ground, rutted driveways, exposed gravel, dead grass, and debris that accumulated under three feet of snow since November. By mid-April, your property looks like it went through something. Because it did.</p>
+
+<p>The temptation is to fix everything at once. Reseed the lawn, repave the driveway, plant new beds. That instinct wastes money. The ground is still moving. Frost is not fully out until late April or early May in most of Rutland County, and soil moisture levels stay elevated well into June in a wet year. Doing things in the wrong order means doing them twice.</p>
+
+<h2>What Should You Clean Up First After Mud Season?</h2>
+
+<p>Start with drainage and debris. Everything else depends on water flowing away from your structures, not toward them.</p>
+
+<ol>
+<li><strong>Clear gutters and downspouts.</strong> Winter ice, pine needles, and granules from roof shingles clog gutters every year. If water is not moving through the downspouts and away from the foundation, every rain event is pushing moisture against your basement walls. This is the single highest-priority task.</li>
+<li><strong>Check downspout extensions.</strong> Extensions get knocked off by plows, ice slides, and foot traffic. Make sure every downspout directs water at least 6 feet from the foundation. In areas with heavy clay soil like Mendon and Chittenden, 10 feet is better.</li>
+<li><strong>Walk the property for debris.</strong> Branches, trash, animal damage, and anything the snow hid for five months. Remove it before mowing season starts so you are not running over surprises.</li>
+<li><strong>Inspect the foundation perimeter.</strong> Look for soil that has settled or eroded away from the house. If the ground slopes toward your foundation anywhere, you have a grading problem that needs correction before anything else happens on the property.</li>
+</ol>
+
+<p>We start every spring season on our managed properties in Killington, Rutland, and Woodstock with this exact sequence. It takes half a day on most residential lots and prevents thousands of dollars in water damage that would otherwise compound through spring and summer.</p>
+
+<h2>When Is It Safe to Start Working on the Lawn?</h2>
+
+<p>Not as early as you think. The biggest lawn care mistake we see in Vermont is homeowners raking, aerating, and overseeding in early April when the ground is still saturated. Walking on waterlogged turf compacts the soil. Raking tears up root systems that are barely starting to grow. Seed washes away in the next rain because the soil cannot absorb it.</p>
+
+<p>The test is simple: step on the lawn. If your footprint stays compressed and water pools in it, the ground is too wet to work. Wait.</p>
+
+<p>In a typical Rutland County spring, the lawn is ready for work between late April and mid-May, depending on elevation and sun exposure. Properties in the valley around Rutland and Proctor dry out earlier. Hillside properties near Killington and Pittsfield can stay wet into late May in a snowy year.</p>
+
+<p>Once the ground passes the footprint test:</p>
+<ul>
+<li><strong>Rake lightly</strong> to remove thatch and matted grass. Use a spring tine rake, not a hard garden rake.</li>
+<li><strong>Overseed bare patches</strong> with a mix rated for Vermont (USDA zones 4-5). We use a blend of Kentucky bluegrass and fine fescue that handles both sun and partial shade.</li>
+<li><strong>Hold off on fertilizing</strong> until soil temperature hits 55 degrees consistently. Fertilizing cold soil wastes product and can burn emerging grass.</li>
+<li><strong>First mow at 3.5 inches</strong> or higher. Cutting short in spring stresses grass that is already recovering from winter dormancy.</li>
+</ul>
+
+<h2>How Do You Fix a Rutted Driveway After Mud Season?</h2>
+
+<p>Gravel driveways in Vermont take a beating every mud season. The freeze-thaw cycle pushes stones to the surface and leaves soft spots underneath. Plow blades scrape the top layer and push it to the edges. By April, most unpaved driveways in Rutland County have ruts, washouts, and bare patches where clay is showing through.</p>
+
+<p>The fix depends on severity:</p>
+
+<table>
+<thead>
+<tr><th>Condition</th><th>Fix</th><th>Typical Cost</th></tr>
+</thead>
+<tbody>
+<tr><td>Minor ruts (under 2 inches deep)</td><td>Grade and compact existing material</td><td>$200 - $500</td></tr>
+<tr><td>Moderate ruts with base exposure</td><td>Add 2-3 inches of new gravel, grade, compact</td><td>$500 - $1,500</td></tr>
+<tr><td>Severe washout or base failure</td><td>Excavate, re-base with process gravel, top with 3/4 crushed</td><td>$1,500 - $4,000+</td></tr>
+</tbody>
+</table>
+
+<p>Timing matters. Wait until the driveway is firm enough that a loaded truck will not sink. Grading a driveway that is still soft just moves mud around. We typically start driveway work in early to mid-May in the Rutland area, later for shaded or north-facing driveways that hold moisture longer.</p>
+
+<p>One detail that saves money long-term: install a crown. A properly graded gravel driveway is slightly higher in the center so water sheets off to both sides instead of pooling in wheel tracks. Most driveways we repair in Rutland County are flat or even concave, which is why they rut out every single spring.</p>
+
+<h2>What Damage Should You Look for on Hardscaping?</h2>
+
+<p>Walkways, patios, retaining walls, and stone steps all shift during Vermont winters. Frost heave lifts unevenly, ice expands in joints, and plow contact chips edges. Walk every hardscape surface on your property and look for:</p>
+
+<ul>
+<li><strong>Lifted pavers or flagstone</strong> that are now uneven or rocking</li>
+<li><strong>Cracked mortar joints</strong> on stone steps and walls</li>
+<li><strong>Retaining wall lean</strong> that was not there in fall</li>
+<li><strong>Efflorescence</strong> (white salt deposits) on concrete or stone surfaces</li>
+<li><strong>Joint sand washout</strong> between pavers, which allows further shifting</li>
+</ul>
+
+<p>Minor heave on a paver walkway is a one-hour fix if caught early. Lift the affected pavers, re-level the base, re-set, and re-sand the joints. If you ignore it, the uneven surface catches water, accelerates the problem, and by next spring you are re-doing the entire section. We covered frost heave protection in detail in our <a href="/blog/hardscape-frost-heave">hardscape frost heave guide</a>.</p>
+
+<h2>What Can Wait Until Summer?</h2>
+
+<p>Not everything needs to happen in spring. Some projects are better left for drier, warmer months:</p>
+
+<ul>
+<li><strong>New plantings and garden beds</strong> wait until after last frost (typically late May in Rutland County).</li>
+<li><strong>Hardscape installation</strong> is best from June through September when the ground is stable and dry.</li>
+<li><strong>Exterior painting and staining</strong> needs consistent temperatures above 50 degrees and low humidity.</li>
+<li><strong>Major grading projects</strong> are better in summer when soil moisture is lowest and compaction is most effective.</li>
+</ul>
+
+<p>The spring window is for repair and prevention. Summer is for improvement and installation. Trying to do both at once, in mud season, is how budgets double and timelines slip.</p>
+
+<p>If your property in Rutland County took a hard winter and you are not sure where to start, we can walk it with you and prioritize what needs attention now versus what can wait. We have been managing Vermont properties through mud season since 2009. <a href="/contact">Reach out</a> and we will put together a plan that makes sense for your property and your budget.</p>
+`,
+  },
+  {
     slug: "spring-drainage-problems-vermont-snowmelt",
     title: "Spring Drainage Problems After Vermont Snowmelt",
     excerpt:
@@ -609,103 +706,6 @@ export const blogPosts: BlogPost[] = [
 <p>We fix a lot of other people's fences. The most common cause of failure, by far, is shallow posts. Digging to 52 inches instead of 36 inches adds maybe 15 minutes per hole and costs almost nothing extra in materials. But it's the difference between a fence that stands straight for 20 years and one that's falling apart in three.</p>
 
 <p>If your fence is showing signs of heave, or you're planning a new fence and want it done right the first time, give us a call. We've been setting posts in Rutland County soil since 2009, and we know where the rocks are.</p>
-`,
-  },
-  {
-    slug: "mud-season-property-cleanup-vermont",
-    title: "Mud Season Property Cleanup: What Every Vermont Homeowner Needs to Know",
-    excerpt:
-      "Mud season hits Rutland County hard. Your yard, driveway, and walkways take a beating between March and May. Here is what to address first and what can wait.",
-    category: "Property Maintenance",
-    date: "April 2026",
-    readTime: "7 min read",
-    image: "/images/blog-mud-season-cleanup.jpeg",
-    featured: false,
-    metaDescription:
-      "How to clean up your Vermont property after mud season. Driveway repair, lawn recovery, drainage fixes, and walkway restoration for Rutland County homeowners.",
-    content: `
-<p>There is a reason Vermonters call it the fifth season. Mud season in Rutland County is not a week-long inconvenience. It is six to eight weeks of saturated ground, rutted driveways, exposed gravel, dead grass, and debris that accumulated under three feet of snow since November. By mid-April, your property looks like it went through something. Because it did.</p>
-
-<p>The temptation is to fix everything at once. Reseed the lawn, repave the driveway, plant new beds. That instinct wastes money. The ground is still moving. Frost is not fully out until late April or early May in most of Rutland County, and soil moisture levels stay elevated well into June in a wet year. Doing things in the wrong order means doing them twice.</p>
-
-<h2>What Should You Clean Up First After Mud Season?</h2>
-
-<p>Start with drainage and debris. Everything else depends on water flowing away from your structures, not toward them.</p>
-
-<ol>
-<li><strong>Clear gutters and downspouts.</strong> Winter ice, pine needles, and granules from roof shingles clog gutters every year. If water is not moving through the downspouts and away from the foundation, every rain event is pushing moisture against your basement walls. This is the single highest-priority task.</li>
-<li><strong>Check downspout extensions.</strong> Extensions get knocked off by plows, ice slides, and foot traffic. Make sure every downspout directs water at least 6 feet from the foundation. In areas with heavy clay soil like Mendon and Chittenden, 10 feet is better.</li>
-<li><strong>Walk the property for debris.</strong> Branches, trash, animal damage, and anything the snow hid for five months. Remove it before mowing season starts so you are not running over surprises.</li>
-<li><strong>Inspect the foundation perimeter.</strong> Look for soil that has settled or eroded away from the house. If the ground slopes toward your foundation anywhere, you have a grading problem that needs correction before anything else happens on the property.</li>
-</ol>
-
-<p>We start every spring season on our managed properties in Killington, Rutland, and Woodstock with this exact sequence. It takes half a day on most residential lots and prevents thousands of dollars in water damage that would otherwise compound through spring and summer.</p>
-
-<h2>When Is It Safe to Start Working on the Lawn?</h2>
-
-<p>Not as early as you think. The biggest lawn care mistake we see in Vermont is homeowners raking, aerating, and overseeding in early April when the ground is still saturated. Walking on waterlogged turf compacts the soil. Raking tears up root systems that are barely starting to grow. Seed washes away in the next rain because the soil cannot absorb it.</p>
-
-<p>The test is simple: step on the lawn. If your footprint stays compressed and water pools in it, the ground is too wet to work. Wait.</p>
-
-<p>In a typical Rutland County spring, the lawn is ready for work between late April and mid-May, depending on elevation and sun exposure. Properties in the valley around Rutland and Proctor dry out earlier. Hillside properties near Killington and Pittsfield can stay wet into late May in a snowy year.</p>
-
-<p>Once the ground passes the footprint test:</p>
-<ul>
-<li><strong>Rake lightly</strong> to remove thatch and matted grass. Use a spring tine rake, not a hard garden rake.</li>
-<li><strong>Overseed bare patches</strong> with a mix rated for Vermont (USDA zones 4-5). We use a blend of Kentucky bluegrass and fine fescue that handles both sun and partial shade.</li>
-<li><strong>Hold off on fertilizing</strong> until soil temperature hits 55 degrees consistently. Fertilizing cold soil wastes product and can burn emerging grass.</li>
-<li><strong>First mow at 3.5 inches</strong> or higher. Cutting short in spring stresses grass that is already recovering from winter dormancy.</li>
-</ul>
-
-<h2>How Do You Fix a Rutted Driveway After Mud Season?</h2>
-
-<p>Gravel driveways in Vermont take a beating every mud season. The freeze-thaw cycle pushes stones to the surface and leaves soft spots underneath. Plow blades scrape the top layer and push it to the edges. By April, most unpaved driveways in Rutland County have ruts, washouts, and bare patches where clay is showing through.</p>
-
-<p>The fix depends on severity:</p>
-
-<table>
-<thead>
-<tr><th>Condition</th><th>Fix</th><th>Typical Cost</th></tr>
-</thead>
-<tbody>
-<tr><td>Minor ruts (under 2 inches deep)</td><td>Grade and compact existing material</td><td>$200 - $500</td></tr>
-<tr><td>Moderate ruts with base exposure</td><td>Add 2-3 inches of new gravel, grade, compact</td><td>$500 - $1,500</td></tr>
-<tr><td>Severe washout or base failure</td><td>Excavate, re-base with process gravel, top with 3/4 crushed</td><td>$1,500 - $4,000+</td></tr>
-</tbody>
-</table>
-
-<p>Timing matters. Wait until the driveway is firm enough that a loaded truck will not sink. Grading a driveway that is still soft just moves mud around. We typically start driveway work in early to mid-May in the Rutland area, later for shaded or north-facing driveways that hold moisture longer.</p>
-
-<p>One detail that saves money long-term: install a crown. A properly graded gravel driveway is slightly higher in the center so water sheets off to both sides instead of pooling in wheel tracks. Most driveways we repair in Rutland County are flat or even concave, which is why they rut out every single spring.</p>
-
-<h2>What Damage Should You Look for on Hardscaping?</h2>
-
-<p>Walkways, patios, retaining walls, and stone steps all shift during Vermont winters. Frost heave lifts unevenly, ice expands in joints, and plow contact chips edges. Walk every hardscape surface on your property and look for:</p>
-
-<ul>
-<li><strong>Lifted pavers or flagstone</strong> that are now uneven or rocking</li>
-<li><strong>Cracked mortar joints</strong> on stone steps and walls</li>
-<li><strong>Retaining wall lean</strong> that was not there in fall</li>
-<li><strong>Efflorescence</strong> (white salt deposits) on concrete or stone surfaces</li>
-<li><strong>Joint sand washout</strong> between pavers, which allows further shifting</li>
-</ul>
-
-<p>Minor heave on a paver walkway is a one-hour fix if caught early. Lift the affected pavers, re-level the base, re-set, and re-sand the joints. If you ignore it, the uneven surface catches water, accelerates the problem, and by next spring you are re-doing the entire section. We covered frost heave protection in detail in our <a href="/blog/hardscape-frost-heave">hardscape frost heave guide</a>.</p>
-
-<h2>What Can Wait Until Summer?</h2>
-
-<p>Not everything needs to happen in spring. Some projects are better left for drier, warmer months:</p>
-
-<ul>
-<li><strong>New plantings and garden beds</strong> wait until after last frost (typically late May in Rutland County).</li>
-<li><strong>Hardscape installation</strong> is best from June through September when the ground is stable and dry.</li>
-<li><strong>Exterior painting and staining</strong> needs consistent temperatures above 50 degrees and low humidity.</li>
-<li><strong>Major grading projects</strong> are better in summer when soil moisture is lowest and compaction is most effective.</li>
-</ul>
-
-<p>The spring window is for repair and prevention. Summer is for improvement and installation. Trying to do both at once, in mud season, is how budgets double and timelines slip.</p>
-
-<p>If your property in Rutland County took a hard winter and you are not sure where to start, we can walk it with you and prioritize what needs attention now versus what can wait. We have been managing Vermont properties through mud season since 2009. <a href="/contact">Reach out</a> and we will put together a plan that makes sense for your property and your budget.</p>
 `,
   },
 ];
