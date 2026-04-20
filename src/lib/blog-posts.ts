@@ -21,7 +21,7 @@ export const blogPosts: BlogPost[] = [
     date: "April 2026",
     readTime: "7 min read",
     image: "/images/blog-mud-season-cleanup.jpeg",
-    featured: false,
+    featured: true,
     metaDescription:
       "How to clean up your Vermont property after mud season. Driveway repair, lawn recovery, drainage fixes, and walkway restoration for Rutland County homeowners.",
     content: `
@@ -118,7 +118,7 @@ export const blogPosts: BlogPost[] = [
     date: "April 2026",
     readTime: "6 min read",
     image: "/images/blog-spring-drainage.jpeg",
-    featured: true,
+    featured: false,
     metaDescription:
       "How to identify and fix spring drainage problems after snowmelt in Vermont. Grading, French drains, swales, and foundation protection for Rutland County properties.",
     content: `
