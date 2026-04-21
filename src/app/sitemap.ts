@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
 import { blogPosts } from "@/lib/blog-posts";
 import { serviceDetails } from "./services/[slug]/service-data";
+import { serviceAreas } from "@/lib/service-areas";
 
 const BASE_URL = "https://meticulous802.com";
 
@@ -23,6 +24,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }));
 
+  const areaRoutes: MetadataRoute.Sitemap = serviceAreas.map((a) => ({
+    url: `${BASE_URL}/service-areas/${a.slug}`,
+    lastModified: new Date(a.lastUpdated),
+    changeFrequency: "monthly",
+    priority: 0.6,
+  }));
+
   const blogRoutes: MetadataRoute.Sitemap = blogPosts.map((p) => ({
     url: `${BASE_URL}/blog/${p.slug}`,
     lastModified: now,
@@ -30,5 +38,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }));
 
-  return [...staticRoutes, ...serviceRoutes, ...blogRoutes];
+  return [...staticRoutes, ...serviceRoutes, ...areaRoutes, ...blogRoutes];
 }
