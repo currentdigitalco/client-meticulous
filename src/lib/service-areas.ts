@@ -31,7 +31,7 @@ export const serviceAreas: ServiceArea[] = [
       "Meticulous LLC handles the full stack for Killington owners: plow contracts that actually show up at 4 AM before a powder day, hospitality-grade turnovers between bookings, and year-round grounds work for the off-season.",
       "Most of our Killington clients are remote owners. We operate as their eyes and hands on the ground, so the property is always guest-ready and the driveway is always cleared.",
     ],
-    localContext: "Killington has Vermont's largest ski resort, which drives the local rental market. Properties here see heavy winter traffic, extreme snow loads (routinely 200+ inches per season), and short turnover windows between guests. Off-season maintenance happens fast — mud season is short, and summer brings weddings, mountain biking, and a full calendar of events.",
+    localContext: "Killington has Vermont's largest ski resort, which drives the local rental market. Properties here see heavy winter traffic, extreme snow loads (routinely 200+ inches per season), and short turnover windows between guests. Mud season is the transition point: snow recedes, soft ground turns driveways and access paths to soup, and smart owners use the window to address anything the winter uncovered before summer bookings begin.",
     priorityServices: ["snow-ice-management", "housekeeping", "rental-support", "grounds-maintenance"],
     landmarks: ["Killington Resort", "Pico Mountain", "Killington Peak Lodge", "Route 4 corridor", "Killington Road"],
     faqs: [
@@ -48,7 +48,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. We service the full Killington Road corridor, the access roads leading to the mountain, and outlying neighborhoods toward Pico, Mendon, and the Route 4 corridor.",
       },
     ],
-    lastUpdated: "2026-04-21",
+    lastUpdated: "2026-04-23",
   },
   {
     slug: "rutland",
@@ -248,7 +248,7 @@ export const serviceAreas: ServiceArea[] = [
       "Properties in Proctor tend to be closer-knit than the rural towns further east, which changes what property care looks like — tighter lots, shared boundaries, and historic homes that benefit from careful craftsmanship rather than heavy-equipment solutions.",
       "We handle the full scope for Proctor homeowners and property managers, from grounds maintenance and snow plowing to hardscape repairs and carpentry on older homes.",
     ],
-    localContext: "Proctor was built around the Vermont marble industry and still shows that character in its stone buildings and compact village layout. The town has a dense residential core, the Otter Creek running through the center, and Proctor Falls as a local landmark. Properties here are often older with original stonework and architectural details that need a specific kind of care.",
+    localContext: "Proctor was built around the Vermont marble industry and still shows that character in its stone buildings and compact village layout. The town has a dense residential core, the Otter Creek running through the center, and Proctor Falls as a local landmark. Properties here are often older with original stonework and architectural details that need a specific kind of care. Mud season accelerates on Proctor's compact lots, where melt water from neighboring grades can concentrate quickly and erode walkways and lawn edges if the drainage isn't managed early.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "carpentry", "property-maintenance", "hardscaping"],
     landmarks: ["Proctor Falls", "Otter Creek", "Vermont Marble Museum", "Main Street Proctor"],
     faqs: [
@@ -265,7 +265,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "We handle stonework as part of hardscape installation and repair. For specialty historic preservation work, we collaborate with local stone masons when the job calls for it.",
       },
     ],
-    lastUpdated: "2026-04-21",
+    lastUpdated: "2026-04-23",
   },
   {
     slug: "west-rutland",
@@ -341,7 +341,7 @@ export const serviceAreas: ServiceArea[] = [
       "We service both sides of that equation. Residential and commercial property care in the village, plus seasonal opening and closing, grounds maintenance, and property oversight for lakefront homes that sit empty during the off-season.",
       "Lakefront properties have their own rhythm — spring opening, dock management, seasonal cleanups, and fall winterization. We handle the transitions so owners aren't scrambling the first warm weekend.",
     ],
-    localContext: "Castleton is home to Castleton University, Lake Bomoseen (Vermont's largest lake entirely within the state), and a mix of village residential, rural properties, and lakefront homes. The town has a strong seasonal pattern driven by the university calendar and lake season. Many properties are second homes or short-term rentals, especially around Bomoseen.",
+    localContext: "Castleton is home to Castleton University, Lake Bomoseen (Vermont's largest lake entirely within the state), and a mix of village residential, rural properties, and lakefront homes. The town has a strong seasonal pattern driven by the university calendar and lake season. Many properties are second homes or short-term rentals, especially around Bomoseen. Spring brings the first real maintenance window for lakefront owners: dock inspection, shoreline debris cleanup, and grounds work while the ground is still firm enough to support equipment without tearing up the lawn.",
     priorityServices: ["grounds-maintenance", "property-maintenance", "snow-ice-management", "housekeeping", "rental-support"],
     landmarks: ["Lake Bomoseen", "Castleton University", "Bomoseen State Park", "Hubbardton Battlefield", "Route 4A"],
     faqs: [
@@ -358,7 +358,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. We handle cleaning, linen changes, and readiness checks between bookings, synced to your rental calendar with photo confirmation.",
       },
     ],
-    lastUpdated: "2026-04-21",
+    lastUpdated: "2026-04-23",
   },
   {
     slug: "wallingford",
@@ -372,7 +372,7 @@ export const serviceAreas: ServiceArea[] = [
       "We service Wallingford homeowners and rural property owners with grounds care, winter service, and carpentry projects. The town's spread-out geography means routing matters — we build efficient schedules so clients aren't paying for dead travel time.",
       "Most of our Wallingford clients are year-round residents who want a local company that shows up reliably, rather than a regional service bouncing between jobs.",
     ],
-    localContext: "Wallingford has a compact village center along Route 7 and rural properties stretching into the hills to the east and west. The town is known for its connection to Elfin Lake and the Green Mountain National Forest. Properties range from village lots to large rural parcels, with the mix of year-round residents, retirees, and second-home owners typical of southern Rutland County.",
+    localContext: "Wallingford has a compact village center along Route 7 and rural properties stretching into the hills to the east and west. The town is known for its connection to Elfin Lake and the Green Mountain National Forest. Properties range from village lots to large rural parcels, with the mix of year-round residents, retirees, and second-home owners typical of southern Rutland County. Mud season hits Wallingford's back-road properties hard — high water tables and clay-heavy soil mean driveways and access paths take longer to firm up than in the village, and early spring cleanups need to be timed carefully to avoid compacting wet ground.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "carpentry", "property-maintenance"],
     landmarks: ["Route 7", "Elfin Lake", "Green Mountain National Forest", "Wallingford Village"],
     faqs: [
@@ -389,7 +389,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Full-season contracts covering grounds maintenance and snow service are our most common arrangement — predictable cost, predictable service, no scheduling headaches.",
       },
     ],
-    lastUpdated: "2026-04-21",
+    lastUpdated: "2026-04-23",
   },
   {
     slug: "pittsford",
@@ -465,7 +465,7 @@ export const serviceAreas: ServiceArea[] = [
       "Properties here sit at elevation, which means bigger snow loads, longer winters, and road access that can get tricky in bad weather — exactly the conditions that separate serious property care companies from the ones that cut corners.",
       "We handle Shrewsbury properties with equipment and crews sized for the terrain, full-season contracts, and the kind of local knowledge you need when your driveway is half a mile long and snows 150 inches a year.",
     ],
-    localContext: "Shrewsbury is a rural town with properties on hillsides, along the edges of Green Mountain National Forest, and across a wide geography with multiple village settlements (Shrewsbury Center, Cuttingsville, Northam). Snow accumulation is among the heaviest in Rutland County, and elevation changes significantly across the town. Many properties are second homes or long-driveway rural homesites.",
+    localContext: "Shrewsbury is a rural town with properties on hillsides, along the edges of Green Mountain National Forest, and across a wide geography with multiple village settlements (Shrewsbury Center, Cuttingsville, Northam). Snow accumulation is among the heaviest in Rutland County, and elevation changes significantly across the town. Many properties are second homes or long-driveway rural homesites. At elevation, mud season starts later and runs longer than in the valley — April and May are prime time for spring cleanups, driveway grading, and catching up on work the snow buried all winter.",
     priorityServices: ["snow-ice-management", "grounds-maintenance", "property-maintenance", "rental-support"],
     landmarks: ["Cuttingsville", "Shrewsbury Center", "Green Mountain National Forest", "Shrewsbury Peak"],
     faqs: [
@@ -482,7 +482,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Property check-ins with photo documentation are a common service for our Shrewsbury clients, especially during winter when weather events can create issues that need quick response.",
       },
     ],
-    lastUpdated: "2026-04-21",
+    lastUpdated: "2026-04-23",
   },
   {
     slug: "tinmouth",
@@ -527,7 +527,7 @@ export const serviceAreas: ServiceArea[] = [
       "We service Florence as part of our Route 7 corridor coverage, with grounds care, winter contracts, and property support that gets scheduled efficiently alongside our Pittsford and Brandon routes.",
       "Florence properties benefit from our routing — we're already in the area, which keeps pricing fair and response times tight.",
     ],
-    localContext: "Florence is a village within the town of Pittsford, situated along Route 7 near Otter Creek. Properties here are a mix of residential homes, small farms, and rural parcels. The community's proximity to larger towns (Pittsford center, Brandon, Rutland) makes it a common commuter area, with many year-round residents.",
+    localContext: "Florence is a village within the town of Pittsford, situated along Route 7 near Otter Creek. Properties here are a mix of residential homes, small farms, and rural parcels. The community's proximity to larger towns (Pittsford center, Brandon, Rutland) makes it a common commuter area, with many year-round residents. Mud season along the Route 7 corridor brings shoulder-season traffic and soft ground that makes early lawn and driveway work tricky — owners who schedule spring cleanups for mid-to-late May get better results than those who rush it in April.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "property-maintenance", "carpentry"],
     landmarks: ["Otter Creek", "Route 7", "Florence Station Road"],
     faqs: [
@@ -544,7 +544,38 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Grounds care on rural parcels — including mowing, seasonal cleanups, and woodland-edge maintenance — is a core service for our Florence clients.",
       },
     ],
-    lastUpdated: "2026-04-21",
+    lastUpdated: "2026-04-23",
+  },
+  {
+    slug: "fair-haven",
+    name: "Fair Haven",
+    region: "Rutland County, Vermont",
+    seoTitle: "Property Care & Grounds Maintenance in Fair Haven, VT | Meticulous LLC",
+    seoDescription: "Property care in Fair Haven, VT. Grounds maintenance, snow plowing, carpentry, and full-scope property support for homes and businesses along Route 4A. Call 802-342-8293.",
+    heroImage: "/images/bg-lawn.jpeg",
+    intro: [
+      "Fair Haven sits on the western edge of Rutland County along Route 4A, with a compact village center, slate-industry history, and a mix of residential and small commercial properties.",
+      "We service Fair Haven homeowners and business owners with grounds maintenance, winter service, and property care that gets routed efficiently alongside our West Rutland and Castleton coverage.",
+      "Most of our Fair Haven clients are year-round residents who want a local crew they can count on season after season, not a rotating cast of subcontractors from outside the county.",
+    ],
+    localContext: "Fair Haven has a distinct identity anchored in Vermont's historic slate industry, with older homes, a walkable village, and properties that sit on a mix of village lots and rural parcels. The town is on the Vermont border with New York, giving it a slightly different weather pattern than the eastern Rutland County towns. Mud season here runs from late March through May, with flat terrain that can hold water longer than the hillier towns further east.",
+    priorityServices: ["grounds-maintenance", "snow-ice-management", "property-maintenance", "carpentry"],
+    landmarks: ["Route 4A", "Fair Haven Village Green", "Fair Haven Town Hall", "Castleton River", "Wells Village nearby"],
+    faqs: [
+      {
+        question: "Do you service Fair Haven as part of your West Rutland and Castleton routes?",
+        answer: "Yes. Fair Haven is on our western Rutland County routing, serviced alongside West Rutland and Castleton. You're not paying a travel premium for distance — we're already in the area.",
+      },
+      {
+        question: "Can you handle spring and fall cleanups for Fair Haven properties?",
+        answer: "Yes. Seasonal cleanups are a core service. Spring cleanup clears winter debris, addresses mud-season damage, and prepares beds and lawns for the growing season. Fall cleanup handles leaf removal, garden cutback, and grounds prep before freeze.",
+      },
+      {
+        question: "Do you plow commercial properties in Fair Haven village?",
+        answer: "Yes. We handle commercial plowing for storefronts, parking areas, and business properties throughout Fair Haven village, with early-morning priority service so entries are clear before the business day starts.",
+      },
+    ],
+    lastUpdated: "2026-04-23",
   },
 ];
 
