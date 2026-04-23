@@ -4,6 +4,7 @@ import { ContactPage } from "./contact-page";
 export const metadata: Metadata = {
   title: "Contact | Meticulous Mowing & Property Management",
   description: "Get in touch with Vermont's all-season property experts. Free consultations, transparent pricing.",
+  alternates: { canonical: "/contact" },
 };
 
 export default function Contact() {
