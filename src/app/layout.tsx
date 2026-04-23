@@ -50,13 +50,6 @@ export const metadata: Metadata = {
     url: "https://meticulous802.com",
   },
   robots: { index: true, follow: true },
-  icons: {
-    icon: [
-      { url: "/images/logo-m.png", type: "image/png" },
-    ],
-    shortcut: "/images/logo-m.png",
-    apple: "/images/logo-m.png",
-  },
 };
 
 export default function RootLayout({
