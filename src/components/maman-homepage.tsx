@@ -47,8 +47,8 @@ const screens = [
     body: "",
     image: "/images/hero-landing.jpeg",
     video: "/images/hero-video.mp4",
-    cta: "",
-    ctaLabel: "",
+    cta: "/contact",
+    ctaLabel: "Contact us",
     layout: "center" as const,
   },
   {
