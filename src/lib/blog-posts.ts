@@ -21,7 +21,7 @@ export const blogPosts: BlogPost[] = [
     date: "April 2026",
     readTime: "7 min read",
     image: "/images/blog-mud-season-cleanup.jpeg",
-    featured: true,
+    featured: false,
     metaDescription:
       "How to clean up your Vermont property after mud season. Driveway repair, lawn recovery, drainage fixes, and walkway restoration for Rutland County homeowners.",
     content: `
@@ -707,6 +707,124 @@ export const blogPosts: BlogPost[] = [
 
 <p>If your fence is showing signs of heave, or you're planning a new fence and want it done right the first time, give us a call. We've been setting posts in Rutland County soil since 2009, and we know where the rocks are.</p>
 `,
+  },
+  {
+    slug: "driveway-damage-after-vermont-mud-season",
+    title: "Driveway Damage After Vermont Mud Season: How to Spot It and What to Fix First",
+    excerpt:
+      "By late April every gravel and asphalt driveway in Rutland County looks rough. Some of it is cosmetic. Some of it is the start of a $4,000 problem. Here is how to tell the difference.",
+    category: "Property Maintenance",
+    date: "April 2026",
+    readTime: "8 min read",
+    image: "/images/blog-driveway-damage-after-vermont-mud-season.jpeg",
+    featured: true,
+    metaDescription:
+      "How to inspect a Vermont driveway after mud season. Spot frost heave, base failure, washouts, and asphalt cracking before it gets expensive. Rutland County guide.",
+    content: `
+<p>Late April in Rutland County is when every driveway in the region tells you exactly how it survived the winter. Frost has dropped four to six feet down through the base, snowmelt has saturated everything underneath, and the freeze-thaw cycles since March have been relentless. By the last week of April most homeowners walk out, look at their driveway, and ask the same question: is this normal spring damage, or is something seriously wrong?</p>
+
+<p>The honest answer is that some of it is cosmetic and self-corrects. Some of it is the early stage of a base failure that turns into a $4,000 repair if it gets ignored through summer. Knowing the difference is the difference between a $300 grading bill and a full driveway rebuild next year. We have inspected hundreds of driveways across Rutland, Killington, Mendon, Pittsfield, Chittenden, Proctor, West Rutland, and Brandon, and the failure patterns are consistent enough to give you a real checklist.</p>
+
+<h2>Why Vermont Driveways Take So Much Damage in Mud Season</h2>
+
+<p>Three things are happening in the ground from March through early May that no driveway is fully designed to resist:</p>
+
+<ol>
+<li><strong>Frost is still moving.</strong> The frost line drops to 48 to 60 inches in most of Rutland County. As it thaws from the top down, the upper layers saturate while the lower layers stay frozen. Water cannot drain through frozen ground, so it pools inside your base material and softens it.</li>
+<li><strong>Base material loses bearing capacity.</strong> A compacted gravel base that supports a 6,000 pound truck in February will rut under a 3,000 pound car in early April. Saturated gravel has roughly half the load capacity of dry, frozen, or fully thawed gravel.</li>
+<li><strong>Plow and salt damage compound.</strong> Every plow pass through the winter shaved a little off the surface. Every salting cycle accelerated freeze-thaw fracturing. By April you are looking at the cumulative result of six months of abuse all at once.</li>
+</ol>
+
+<p>This is why driveways look catastrophically worse in late April than they did in late March. Nothing is breaking in late April. Things broke in February and early March, and the thaw is finally exposing it.</p>
+
+<h2>What Should You Inspect on a Gravel Driveway?</h2>
+
+<p>Walk the driveway end to end. You are looking for five things, in order of severity:</p>
+
+<ol>
+<li><strong>Soft spots that flex underfoot.</strong> Stand in any wheel rut or low spot and bounce on it. If the ground gives noticeably, the base under that section has failed. This is the most serious finding. It will not self-heal. A vehicle parked there will sink, and a loaded truck will sink badly.</li>
+<li><strong>Visible base material exposed.</strong> Patches where the surface gravel has worn through and you can see the larger process gravel or, worse, native soil underneath. This means the surface course has been ground out by plows and traffic. It needs new material before next winter or the underlying base starts losing fines.</li>
+<li><strong>Standing water that is not draining.</strong> After a rain, pools that stay for more than 24 hours indicate the crown is gone or there is a low spot collecting water. Standing water saturates the base from above and accelerates the next failure.</li>
+<li><strong>Ruts deeper than two inches.</strong> Anything under two inches grades out. Anything over two inches usually means the base has compressed unevenly and grading alone will not correct it. The fix needs new material added on top of compacted base.</li>
+<li><strong>Edge erosion.</strong> Where the driveway meets the lawn, look for places where gravel has migrated outward and the edge has dropped. This is plow damage plus snowmelt washing material off the sides. Fixable, but if it goes another season, the driveway becomes noticeably narrower and starts losing structural integrity at the shoulders.</li>
+</ol>
+
+<p>Take pictures of every problem area. Send them to whoever is doing the work. We can usually quote a fix from photos and a few measurements without a site visit, which saves a few weeks during the spring rush.</p>
+
+<h2>When Is It Safe to Regrade a Gravel Driveway?</h2>
+
+<p>This is the timing question that costs people money. The temptation when the driveway looks bad in mid-April is to call someone immediately. The problem is that grading saturated gravel just moves mud around. The grader bites in, mixes wet base material with the surface course, and the whole thing sets up like cement after the next dry stretch with the ruts and low spots locked in.</p>
+
+<p>The test we use: drive a half-ton truck slowly across the worst section. If the tires leave clear ruts behind them, the driveway is too wet to grade. If the surface deflects under the tires but recovers, it is firming up. If the surface stays solid, it is ready.</p>
+
+<p>In a typical Rutland County year, this happens between the first and third week of May depending on elevation, sun exposure, and how saturated the season has been. Driveways in Rutland and Proctor in the valley dry first. Hillside driveways in Mendon and around Killington can stay too soft into late May after a heavy snow year. We covered the broader sequence in our <a href="/blog/mud-season-property-cleanup-vermont">mud season property cleanup guide</a>, but the driveway specifically is one of the last items.</p>
+
+<h2>What Asphalt Driveway Damage Should You Worry About?</h2>
+
+<p>Asphalt has a different failure pattern than gravel. The damage you see in late April falls into four buckets:</p>
+
+<table>
+<thead>
+<tr><th>Damage Type</th><th>Severity</th><th>Typical Fix</th><th>Cost Range</th></tr>
+</thead>
+<tbody>
+<tr><td>Hairline surface cracks</td><td>Cosmetic</td><td>Crack seal in summer</td><td>$200 - $500</td></tr>
+<tr><td>Wider cracks (1/4 inch+)</td><td>Moderate</td><td>Hot rubber crack fill</td><td>$400 - $900</td></tr>
+<tr><td>Alligator cracking (interconnected pattern)</td><td>Serious</td><td>Patch and overlay or rebuild</td><td>$1,200 - $5,000+</td></tr>
+<tr><td>Heaved or sunken sections</td><td>Severe</td><td>Cut out, rebuild base, repave</td><td>$2,500 - $8,000+</td></tr>
+</tbody>
+</table>
+
+<p>Hairline surface cracks are normal. Every Vermont asphalt driveway has them by year three. Sealing them in late summer prevents water infiltration and stops them from widening.</p>
+
+<p>Alligator cracking is the one that catches people off guard. It looks like a contained area of pavement is just textured. It is actually base failure showing through the surface. The asphalt is flexing because the gravel base under it has lost integrity. Sealing alligator cracking does nothing. The base has to be rebuilt or the area has to be cut out and repaved.</p>
+
+<p>Heave is the most expensive failure mode. A section of driveway that is now visibly higher than it was last fall has frost heaved because water got under it and froze. The fix requires excavating below the frost line, replacing the base with properly compacted material, and repaving. We see this on driveways where the original base was undersized or where surface drainage was directing water against the asphalt edges.</p>
+
+<h2>What About Plow Damage at the Edges?</h2>
+
+<p>Every driveway in Rutland County has plow damage by April. The plow blade misses the actual driveway surface and clips the edge, peeling lawn, dragging gravel into the grass, or chewing the asphalt lip. This is universal and almost entirely preventable next winter with reflective driveway markers set 6 to 12 inches off the actual edge.</p>
+
+<p>The fix in spring is straightforward:</p>
+
+<ul>
+<li><strong>For gravel:</strong> rake material back from the lawn into the driveway, fill any low spots along the edge, and recompact</li>
+<li><strong>For asphalt:</strong> cold-patch any chipped lip, then plan for a hot patch in summer if the chip is more than an inch deep</li>
+<li><strong>For lawn damage:</strong> rake out the displaced gravel, level the soil, and overseed with a Vermont-rated turf mix once the ground is workable</li>
+</ul>
+
+<p>None of this is urgent in late April. It can wait until the ground is dry enough to work. The trap is letting the lawn re-establish over displaced gravel, which then becomes a permanent low ridge along the driveway that catches water every storm.</p>
+
+<h2>How Do You Know If You Need a Full Rebuild?</h2>
+
+<p>Most driveways do not need a rebuild even when they look catastrophic. The rebuild conversation comes up when you see a combination of these signs:</p>
+
+<ul>
+<li>Multiple soft spots across different sections of the driveway</li>
+<li>Standing water that has been pooling for two or more seasons</li>
+<li>Crown completely gone, with the driveway sloping toward the house or staying flat</li>
+<li>Asphalt with alligator cracking covering more than 25% of the surface</li>
+<li>Repeated grading bills every spring with the same problems returning</li>
+</ul>
+
+<p>For gravel, a full rebuild typically runs $4,000 to $12,000 for a residential driveway depending on length, access, and how deep the existing base failure goes. For asphalt, a full rebuild including base correction runs $8,000 to $25,000. Both numbers feel large until you compare them to the $1,500 a year homeowners often spend grading and patching driveways that are structurally past their service life.</p>
+
+<h2>What You Should Do This Week</h2>
+
+<p>Even if you are not ready to do the work yet, do the inspection now while the damage is visible. The list:</p>
+
+<ol>
+<li>Walk the driveway end to end and take photos of every problem area</li>
+<li>Note any soft spots and mark them with a flag or stick so you can find them when the ground dries</li>
+<li>Check that downspouts and surface drainage are not directing water onto the driveway</li>
+<li>Clear gutters above any sections that drain onto the driveway</li>
+<li>Plan the work for May or June when conditions allow proper grading and base correction</li>
+</ol>
+
+<p>Spring is the only window of the year where every weakness in your driveway is visible at once. Once it dries out and gets compacted by summer traffic, problems hide until next April when they come back worse. Documenting now means you can plan and budget instead of reacting to whatever fails first.</p>
+
+<p>If you have questions about a specific driveway issue or want a walkthrough of what your property needs this season, we manage and maintain driveways across Rutland County year-round. Send photos, we will tell you what is urgent, what can wait, and what should be planned for fall before next winter starts the cycle again.</p>
+\`,
   },
 ];
 
