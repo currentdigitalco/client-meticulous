@@ -824,7 +824,7 @@ export const blogPosts: BlogPost[] = [
 <p>Spring is the only window of the year where every weakness in your driveway is visible at once. Once it dries out and gets compacted by summer traffic, problems hide until next April when they come back worse. Documenting now means you can plan and budget instead of reacting to whatever fails first.</p>
 
 <p>If you have questions about a specific driveway issue or want a walkthrough of what your property needs this season, we manage and maintain driveways across Rutland County year-round. Send photos, we will tell you what is urgent, what can wait, and what should be planned for fall before next winter starts the cycle again.</p>
-\`,
+`,
   },
 ];
 
