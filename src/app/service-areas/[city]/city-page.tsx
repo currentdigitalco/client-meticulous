@@ -4,6 +4,7 @@ import { useEffect } from "react";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { InnerLayout } from "@/components/shared/inner-layout";
+import { LocalMapEmbed } from "@/components/shared/local-map-embed";
 import { ArrowRight, ArrowLeft, MapPin, Check } from "lucide-react";
 import type { ServiceArea } from "@/lib/service-areas";
 import type { ServiceDetail } from "@/app/services/[slug]/service-data";
@@ -362,6 +363,8 @@ export function CityPage({
           </div>
         </div>
       </section>
+
+      <LocalMapEmbed city={area.name} state="VT" />
     </InnerLayout>
   );
 }
