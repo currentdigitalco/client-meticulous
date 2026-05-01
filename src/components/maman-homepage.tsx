@@ -165,9 +165,10 @@ function getBgParallaxVars(type: string) {
 export function MamanHomepage() {
   const [currentScreen, setCurrentScreen] = useState(0);
   const [isTransitioning, setIsTransitioning] = useState(false);
-  const [loaded, setLoaded] = useState(false);
+  // perf: skip synthetic loader so first paint shows hero immediately (LCP win)
+  const [loaded, setLoaded] = useState(true);
   const [navOpen, setNavOpen] = useState(false);
-  const [progress, setProgress] = useState(0);
+  const [progress] = useState(100);
 
   const screenRefs = useRef<(HTMLDivElement | null)[]>([]);
   const autoTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
@@ -179,20 +180,8 @@ export function MamanHomepage() {
     return () => { document.documentElement.classList.remove("scroll-locked"); };
   }, []);
 
-  // Loading
-  useEffect(() => {
-    let p = 0;
-    const interval = setInterval(() => {
-      p += Math.random() * 15 + 5;
-      if (p >= 100) {
-        p = 100;
-        clearInterval(interval);
-        setTimeout(() => setLoaded(true), 400);
-      }
-      setProgress(Math.min(100, Math.round(p)));
-    }, 150);
-    return () => clearInterval(interval);
-  }, []);
+  // setLoaded reference kept so React doesn't error on unused setter — no-op now.
+  void setLoaded;
 
   /* ---- Animate content elements into a screen ---- */
   const animateContentIn = useCallback((el: HTMLElement, screenIndex: number, delay: number) => {
