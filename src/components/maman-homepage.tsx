@@ -462,13 +462,20 @@ export function MamanHomepage() {
                     muted
                     loop
                     playsInline
+                    preload={i === 0 ? "metadata" : "none"}
                     poster={screen.image}
                     className="absolute inset-0 w-full h-full object-cover"
                   >
-                    <source src={screen.video} type="video/mp4" />
+                    {/* mobile gets the poster only; desktop pulls the video */}
+                    <source src={screen.video} media="(min-width: 768px)" type="video/mp4" />
                   </video>
                 ) : (
-                  <img src={screen.image} alt="" loading={i < 2 ? "eager" : "lazy"} />
+                  <img
+                    src={screen.image}
+                    alt=""
+                    loading={i < 2 ? "eager" : "lazy"}
+                    fetchPriority={i === 0 ? "high" : "auto"}
+                  />
                 )}
               </div>
 
