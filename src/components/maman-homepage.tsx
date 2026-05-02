@@ -460,8 +460,9 @@ export function MamanHomepage() {
                     poster={screen.image}
                     className="absolute inset-0 w-full h-full object-cover"
                   >
-                    {/* mobile gets the poster only; desktop pulls the video */}
-                    <source src={screen.video} media="(min-width: 768px)" type="video/mp4" />
+                    {/* Mobile gets the lighter -mobile.mp4 variant; desktop pulls full */}
+                    <source src={screen.video.replace(/\.mp4$/, "-mobile.mp4")} media="(max-width: 767px)" type="video/mp4" />
+                    <source src={screen.video} type="video/mp4" />
                   </video>
                 ) : (
                   <img
