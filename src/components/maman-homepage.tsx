@@ -184,9 +184,10 @@ export function MamanHomepage() {
   void setLoaded;
 
   /* ---- Animate content elements into a screen ----
-     First screen (screenIndex 0) skips the opacity gate so LCP fires
-     immediately instead of waiting for JS. Transitions to other screens
-     keep the opacity reveal so the swap reads as intentional. */
+     The very first paint of screen 0 skips the opacity gate so LCP fires
+     immediately. Re-entries (scroll back to screen 0) and all other screens
+     use the full opacity reveal. */
+  const initialPaintRef = useRef(true);
   const animateContentIn = useCallback((el: HTMLElement, screenIndex: number, delay: number) => {
     const trans = transitions[screenIndex];
     const lines = el.querySelectorAll(".screen-line");
@@ -194,9 +195,10 @@ export function MamanHomepage() {
     const accentBar = el.querySelector(".accent-bar");
 
     const tl = gsap.timeline({ delay });
-    const isFirst = screenIndex === 0;
+    const skipOpacityGate = screenIndex === 0 && initialPaintRef.current;
+    initialPaintRef.current = false;
 
-    if (!isFirst && contentEls.length) gsap.set(contentEls, { opacity: 0 });
+    if (!skipOpacityGate && contentEls.length) gsap.set(contentEls, { opacity: 0 });
     if (accentBar) gsap.set(accentBar, { scaleX: 0 });
     if (lines.length) gsap.set(lines, { scaleY: 0 });
 
@@ -212,8 +214,7 @@ export function MamanHomepage() {
     if (contentEls.length) {
       const fromX = trans.contentFrom === "left" ? -30 : trans.contentFrom === "right" ? 30 : 0;
       const fromY = trans.contentFrom === "bottom" ? 25 : 0;
-      if (isFirst) {
-        // Y/X-only entrance — text starts visible, only motion animates in
+      if (skipOpacityGate) {
         tl.from(contentEls, { x: fromX, y: fromY, duration: 0.5, stagger: 0.06, ease: "power2.out" }, 0.05);
       } else {
         tl.fromTo(
