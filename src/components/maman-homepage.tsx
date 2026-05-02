@@ -183,7 +183,10 @@ export function MamanHomepage() {
   // setLoaded reference kept so React doesn't error on unused setter — no-op now.
   void setLoaded;
 
-  /* ---- Animate content elements into a screen ---- */
+  /* ---- Animate content elements into a screen ----
+     First screen (screenIndex 0) skips the opacity gate so LCP fires
+     immediately instead of waiting for JS. Transitions to other screens
+     keep the opacity reveal so the swap reads as intentional. */
   const animateContentIn = useCallback((el: HTMLElement, screenIndex: number, delay: number) => {
     const trans = transitions[screenIndex];
     const lines = el.querySelectorAll(".screen-line");
@@ -191,33 +194,35 @@ export function MamanHomepage() {
     const accentBar = el.querySelector(".accent-bar");
 
     const tl = gsap.timeline({ delay });
+    const isFirst = screenIndex === 0;
 
-    // Pre-set content invisible so there's no flash
-    if (contentEls.length) gsap.set(contentEls, { opacity: 0 });
+    if (!isFirst && contentEls.length) gsap.set(contentEls, { opacity: 0 });
     if (accentBar) gsap.set(accentBar, { scaleX: 0 });
     if (lines.length) gsap.set(lines, { scaleY: 0 });
 
-    // Lines draw in
     if (lines.length) {
       const fromOrigin = screenIndex % 2 === 0 ? "top" : "bottom";
       tl.to(lines, { scaleY: 1, transformOrigin: fromOrigin, duration: 0.8, stagger: 0.1, ease: "power2.inOut" }, 0);
     }
 
-    // Accent bar
     if (accentBar) {
       tl.to(accentBar, { scaleX: 1, transformOrigin: "left", duration: 0.5, ease: "power3.out" }, 0);
     }
 
-    // Content staggers in — starts immediately, tight stagger
     if (contentEls.length) {
       const fromX = trans.contentFrom === "left" ? -30 : trans.contentFrom === "right" ? 30 : 0;
       const fromY = trans.contentFrom === "bottom" ? 25 : 0;
-      tl.fromTo(
-        contentEls,
-        { opacity: 0, x: fromX, y: fromY },
-        { opacity: 1, x: 0, y: 0, duration: 0.5, stagger: 0.06, ease: "power2.out" },
-        0.05
-      );
+      if (isFirst) {
+        // Y/X-only entrance — text starts visible, only motion animates in
+        tl.from(contentEls, { x: fromX, y: fromY, duration: 0.5, stagger: 0.06, ease: "power2.out" }, 0.05);
+      } else {
+        tl.fromTo(
+          contentEls,
+          { opacity: 0, x: fromX, y: fromY },
+          { opacity: 1, x: 0, y: 0, duration: 0.5, stagger: 0.06, ease: "power2.out" },
+          0.05
+        );
+      }
     }
   }, []);
 
