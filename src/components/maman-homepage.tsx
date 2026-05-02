@@ -165,10 +165,12 @@ function getBgParallaxVars(type: string) {
 export function MamanHomepage() {
   const [currentScreen, setCurrentScreen] = useState(0);
   const [isTransitioning, setIsTransitioning] = useState(false);
-  // perf: skip synthetic loader so first paint shows hero immediately (LCP win)
-  const [loaded, setLoaded] = useState(true);
+  // Decorative loader: starts visible on top, fades out fast. Hero content
+  // renders BEHIND it from first paint so LCP fires immediately (~300ms),
+  // not gated on the loader animation finishing.
+  const [loaded, setLoaded] = useState(false);
   const [navOpen, setNavOpen] = useState(false);
-  const [progress] = useState(100);
+  const [progress, setProgress] = useState(0);
 
   const screenRefs = useRef<(HTMLDivElement | null)[]>([]);
   const autoTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
@@ -180,8 +182,22 @@ export function MamanHomepage() {
     return () => { document.documentElement.classList.remove("scroll-locked"); };
   }, []);
 
-  // setLoaded reference kept so React doesn't error on unused setter — no-op now.
-  void setLoaded;
+  // Loader: short, decorative. ~1.2s total — fast enough not to feel slow,
+  // long enough to register as intentional. LCP not affected because hero
+  // is rendered behind, not gated.
+  useEffect(() => {
+    let p = 0;
+    const interval = setInterval(() => {
+      p += 12 + Math.random() * 14;
+      if (p >= 100) {
+        p = 100;
+        clearInterval(interval);
+        setTimeout(() => setLoaded(true), 200);
+      }
+      setProgress(Math.min(100, Math.round(p)));
+    }, 90);
+    return () => clearInterval(interval);
+  }, []);
 
   /* ---- Animate content elements into a screen ----
      The very first paint of screen 0 skips the opacity gate so LCP fires
