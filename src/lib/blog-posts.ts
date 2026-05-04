@@ -717,7 +717,7 @@ export const blogPosts: BlogPost[] = [
     date: "April 2026",
     readTime: "8 min read",
     image: "/images/blog-driveway-damage-after-vermont-mud-season.jpeg",
-    featured: true,
+    featured: false,
     metaDescription:
       "How to inspect a Vermont driveway after mud season. Spot frost heave, base failure, washouts, and asphalt cracking before it gets expensive. Rutland County guide.",
     content: `
@@ -824,6 +824,130 @@ export const blogPosts: BlogPost[] = [
 <p>Spring is the only window of the year where every weakness in your driveway is visible at once. Once it dries out and gets compacted by summer traffic, problems hide until next April when they come back worse. Documenting now means you can plan and budget instead of reacting to whatever fails first.</p>
 
 <p>If you have questions about a specific driveway issue or want a walkthrough of what your property needs this season, we manage and maintain driveways across Rutland County year-round. Send photos, we will tell you what is urgent, what can wait, and what should be planned for fall before next winter starts the cycle again.</p>
+`,
+  },
+  {
+    slug: "opening-vermont-second-home-spring-checklist",
+    title: "Opening Your Vermont Second Home in May: A Property Checklist for Out-of-State Owners",
+    excerpt:
+      "Mud season is ending and second-home owners are heading back up to Killington, Woodstock, and the rest of Rutland County. Here is the exact open-up checklist we run on the homes we manage so the place is ready for the season instead of revealing a $6,000 problem.",
+    category: "Property Maintenance",
+    date: "May 2026",
+    readTime: "9 min read",
+    image: "/images/blog-opening-vermont-second-home-spring-checklist.jpeg",
+    featured: true,
+    metaDescription:
+      "The complete spring open-up checklist for Vermont second homes. Water systems, roof and exterior, septic, grounds, and pest signs in Rutland County, Killington, Woodstock, and Ludlow.",
+    content: `
+<p>The first weekend in May is when most Rutland County second-home owners arrive back at the property after the winter. They drive up from Boston, New York, Connecticut, or New Jersey, pull into the driveway, and within twenty minutes they have either found something they expected, something they did not, or both. The properties that get a real open-up routine handle the season fine. The ones that get unlocked, occupied, and trusted to "feel out the issues" almost always have at least one problem that has been quietly compounding since November.</p>
+
+<p>We open and close second homes across Rutland County every year. Killington, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, West Rutland, Brandon, Castleton, and Rutland itself. The mechanical systems and the structures are similar across the county, and the failure patterns are predictable. Here is the exact checklist we run when we are first onsite at a property in May.</p>
+
+<h2>Why Does Spring Opening Matter So Much in Vermont?</h2>
+
+<p>Three things compound through a Vermont winter that are not visible until you look for them:</p>
+
+<ul>
+<li><strong>Water and freeze damage.</strong> A small line leak in November becomes thirty gallons of water by April. A drip you would have spotted in twenty minutes if the house was occupied has had five months to soak into framing, drywall, and subfloor.</li>
+<li><strong>Wildlife intrusion.</strong> Mice, red squirrels, bats, and chipmunks find every gap in a closed-up Vermont property. By April you do not just have a pest issue, you have established nesting, droppings throughout the insulation, and chewed wiring or plumbing depending on the species.</li>
+<li><strong>Snow and ice load damage.</strong> Roof, gutters, fascia, deck rails, propane covers, satellite dishes. None of it always looks broken from the driveway. A close walk-around finds the issues before a summer rainstorm reveals them.</li>
+</ul>
+
+<p>The point of the open-up routine is to surface all of this in the first 24 hours, not the first hot weekend in July when guests are arriving and a contractor is two weeks out.</p>
+
+<h2>What Should You Do Before You Even Unlock the House?</h2>
+
+<p>The exterior tells you what to expect inside. Walk the property before you go to the door.</p>
+
+<ol>
+<li><strong>Stand back 50 feet and look at the roof.</strong> Snow load damage shows up as sagging ridge lines, lifted ridge cap, missing or curled shingles, and gutters pulled away from fascia. In Killington, Mendon, and Chittenden where snow load is heaviest, ice damming damage along the eaves is the most common roof issue we find.</li>
+<li><strong>Walk the foundation perimeter.</strong> Look for pooled water, settled grading toward the foundation, and any visible cracks that opened during freeze-thaw. Any water sitting against the foundation in May is a basement moisture problem in July.</li>
+<li><strong>Check the propane tank, well cap, septic clean-out, and any exterior mechanical equipment.</strong> Animals love the warm air around well caps. Squirrels chew condenser line insulation. The covers come off, the wiring gets exposed, and you do not find out until you turn the system on.</li>
+<li><strong>Inspect the driveway.</strong> Mud season ruts, washouts, and plow damage are easier to fix in May than in July when the ground is bone dry. We covered the driveway side in detail in our <a href="/blog/driveway-damage-after-vermont-mud-season">mud season driveway damage guide</a>.</li>
+<li><strong>Walk every deck, porch, and railing.</strong> Hands on every railing, knee on every step. Frost heave shifts deck posts. Ice and snow weight tweaks rail connections. We have found unsafe rails on three of the last ten spring open-ups we did in the Killington area. Do not let guests on a deck you have not pressure tested.</li>
+</ol>
+
+<h2>How Do You Open the Water System Without Causing a Flood?</h2>
+
+<p>This is the single biggest source of spring damage in Vermont second homes. A frozen split that did not show up over the winter releases the second the water comes back on. By the time the homeowner gets to the basement, the water has been running for an hour.</p>
+
+<p>The right sequence:</p>
+
+<ol>
+<li><strong>Close every fixture in the house.</strong> Every faucet, every shower, every hose bib, every toilet supply valve. Walk room by room. Do not skip the laundry sink or the basement utility sink.</li>
+<li><strong>Open the main shutoff slowly, one quarter turn at a time.</strong> Listen. If you hear water running anywhere in the house, shut it back off and find the leak before opening fully.</li>
+<li><strong>Pressurize for fifteen minutes with everything still closed.</strong> Walk the house with the lights on. Look at every ceiling, every visible pipe in the basement, every exterior wall on the lowest level. Damage from a winter freeze split shows up immediately under pressure.</li>
+<li><strong>Open the lowest interior fixture first to bleed the lines.</strong> Cold side first, then hot side. Run until clear water comes through. Then move up through the house, fixture by fixture.</li>
+<li><strong>Restart the water heater per the manufacturer's instructions.</strong> Do not power up an electric water heater on an empty tank. Do not light a propane or gas heater until you have confirmed water is in the tank.</li>
+<li><strong>Check the well pump pressure and the expansion tank if you are on a private well.</strong> Most properties west of Route 100 in Rutland County are on private wells. Pressure tanks lose air over the winter and the pump short-cycles itself to failure if you do not address it now.</li>
+</ol>
+
+<p>If you find a leak, shut down immediately and call. Do not try to "see how bad it is" by leaving water on. We have seen a quarter-inch split flood a finished basement in twenty minutes.</p>
+
+<h2>What Should You Look For Inside the House?</h2>
+
+<p>Walk the house top down with all the lights on and the windows closed.</p>
+
+<ul>
+<li><strong>Smell first.</strong> Musty smell means moisture. Animal smell means something got in. Chemical smell means a refrigerant leak or a propane issue. Trust your nose. Two of the worst spring open-ups we have ever done started with the homeowner saying "the basement just smells weird."</li>
+<li><strong>Check every ceiling under a bathroom.</strong> Water stains around plumbing penetrations are the early warning of a winter leak that is now drying.</li>
+<li><strong>Look behind every appliance.</strong> Mice and red squirrels nest behind dishwashers, ovens, and fridges. Pull each forward enough to see the wall behind. Take photos.</li>
+<li><strong>Inspect attic and crawlspace.</strong> Both are where pest entry happens first and where insulation degradation hides longest. Look for soiled or compressed insulation, droppings, and any visible daylight at soffits or ridge.</li>
+<li><strong>Test every smoke and CO detector.</strong> Replace any battery that is more than a year old. Carbon monoxide is the most common cause of serious incidents in second homes that have sat empty all winter then have a propane appliance fired up for the first time.</li>
+<li><strong>Run every appliance for at least one full cycle while you are watching it.</strong> Dishwasher on heat, washer with hot water, dryer with the lint trap clear. Catch a failed pump or a chewed line now, not at 11pm with guests in the house.</li>
+</ul>
+
+<h2>What About the Septic, the Generator, and the Outdoor Systems?</h2>
+
+<p>Three things that are easy to forget but expensive to ignore.</p>
+
+<p><strong>Septic.</strong> Vermont septic systems take a beating from spring saturation. If your last pump was more than three years ago, schedule it for May or early June while contractors have availability. Look at the leach field area for soft spots, lush green grass that does not match the rest of the lawn, or any odor. Either of those is an early sign of failure that is cheaper to address now than after a backup.</p>
+
+<p><strong>Generator.</strong> Whole-house generators on properties without year-round occupants need a real spring service. Oil change, filter, battery test, exercise cycle observation. The generator that ran fine in October may not start in May. We have lost count of how many "the power is out and the generator did not kick on" calls we get during summer thunderstorms because the unit was not serviced in the spring.</p>
+
+<p><strong>Outdoor irrigation, outdoor showers, and exterior plumbing.</strong> Hose bibs are the most common winter freeze-split point on Vermont second homes because frost-free silcocks fail more often than people realize. Open the hose bib with the line shut off. Listen for hissing. Open the line. Listen and look at the wall on the inside of the house. A failed silcock leaks into the wall cavity and you will not see it until the drywall stains.</p>
+
+<h2>What Should the Grounds Look Like in Early May?</h2>
+
+<p>Mud season does not actually end until early to mid-May in Rutland County. The lawn is recovering, the trees are dropping branch debris from winter, and any mulch beds are usually in poor shape from animals digging or snowplow scatter.</p>
+
+<p>The right priority order:</p>
+
+<ol>
+<li><strong>Clean up storm debris.</strong> Branches, leaves, animal damage, anything the snow hid. Get it cleared so you can walk and mow safely.</li>
+<li><strong>Hold off on aeration, overseeding, and fertilizing until the ground passes the footprint test.</strong> If you step on the lawn and the footprint stays compressed for more than a few seconds, the ground is too wet. We covered this in our <a href="/blog/spring-drainage-problems-vermont-snowmelt">spring drainage</a> and <a href="/blog/when-to-aerate-your-lawn-vermont">lawn aeration timing</a> posts and the timing is rarely earlier than late May for Rutland County properties.</li>
+<li><strong>Walk every hardscape surface.</strong> Walkways, patios, retaining walls. Frost heave lifts unevenly. A loose flagstone in May is a one-hour fix. Ignored, it becomes a tripping hazard and the joints wash out by July.</li>
+<li><strong>Open the outdoor furniture and the deck only after pressure-washing.</strong> Mildew, mouse droppings, and pollen all need to come off before you set up. A simple soft-wash with the right detergent in the first week saves hours of cleanup over the season.</li>
+<li><strong>Do a black fly and tick walkthrough.</strong> Black fly season hits Rutland County the second or third week of May. Tick numbers in southern Rutland County have been climbing every year. Plan for it. Treat the perimeter of the lawn and clear leaf litter from any walkway used by guests.</li>
+</ol>
+
+<h2>What Should You Do If You Find Something Serious?</h2>
+
+<p>Photograph it. Note the date. Call your property manager or contractor before you touch anything.</p>
+
+<p>The honest reason: insurance claims for water damage, animal damage, and frozen-pipe damage have time-sensitive reporting requirements with most carriers. The faster the claim is documented and reported, the cleaner the conversation. We have helped owners file claims that recovered $10,000 to $40,000 because everything was documented within 48 hours of arrival. We have also seen owners eat the entire repair because they tried to clean it up first and the carrier denied the claim for inadequate documentation.</p>
+
+<p>If you are not sure whether something is serious, the answer is almost always: photograph it, do not touch it, get a second opinion. The cost of an extra inspection visit is small. The cost of a missed claim or a worsened repair is not.</p>
+
+<h2>What to Do This Week If You Are Heading Up to the Property</h2>
+
+<p>Block out a full day, not an evening. The right sequence:</p>
+
+<ol>
+<li>Bring a flashlight, a basic toolkit, and a phone with charged camera.</li>
+<li>Run the exterior walk-around before you unlock the house.</li>
+<li>Open the water system slowly with everything closed. Pressurize. Check for leaks before you bleed the lines.</li>
+<li>Walk the house top to bottom with the lights on and your nose engaged.</li>
+<li>Run every appliance for one full cycle while you are watching.</li>
+<li>Test every smoke and CO detector.</li>
+<li>Walk every deck and railing.</li>
+<li>Photograph every issue you find. Make a list. Triage by severity.</li>
+<li>Call anyone you need to call within the first 24 hours, before the small problems compound.</li>
+</ol>
+
+<p>Most of the second-home owners we work with in Killington, Woodstock, Ludlow, and the towns across Rutland County either run this themselves on the first weekend up, or they have us run it the week before they arrive. Either way, the goal is the same: walk into a property that is ready for the season, not one that reveals a $6,000 problem on day three.</p>
+
+<p>If you would rather not run the open-up yourself this year, we manage residential properties throughout Rutland County year-round. We can do the spring open-up before you arrive, hand you a written report and photos, and have any urgent repairs already scoped and quoted by the time you get to the house. Send a note describing the property and what kind of coverage you want. We will tell you what we would do, what it would cost, and whether seasonal management or a one-time visit is the right call for your situation.</p>
 `,
   },
 ];
