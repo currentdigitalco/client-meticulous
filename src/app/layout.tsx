@@ -109,6 +109,45 @@ export default function RootLayout({
         </Script>
       </head>
       <body>
+        <Script
+          id="schema-organization"
+          type="application/ld+json"
+          strategy="beforeInteractive"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Organization",
+              "@id": "https://meticulous802.com/#organization",
+              name: "Meticulous LLC",
+              url: "https://meticulous802.com",
+              foundingDate: "2009",
+              contactPoint: {
+                "@type": "ContactPoint",
+                telephone: "+1-802-342-8293",
+                email: "getmeticulous@gmail.com",
+                contactType: "customer service",
+                areaServed: "US-VT",
+                availableLanguage: "English",
+              },
+            }),
+          }}
+        />
+        <Script
+          id="schema-website"
+          type="application/ld+json"
+          strategy="beforeInteractive"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              "@id": "https://meticulous802.com/#website",
+              url: "https://meticulous802.com",
+              name: "Meticulous LLC",
+              publisher: { "@id": "https://meticulous802.com/#organization" },
+              inLanguage: "en-US",
+            }),
+          }}
+        />
         <SmoothScroll />
         <div className="grain-overlay" aria-hidden="true" />
         {children}
