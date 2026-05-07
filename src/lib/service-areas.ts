@@ -31,7 +31,7 @@ export const serviceAreas: ServiceArea[] = [
       "Meticulous LLC handles the full stack for Killington owners: plow contracts that actually show up at 4 AM before a powder day, hospitality-grade turnovers between bookings, and year-round grounds work for the off-season.",
       "Most of our Killington clients are remote owners. We operate as their eyes and hands on the ground, so the property is always guest-ready and the driveway is always cleared.",
     ],
-    localContext: "Killington has Vermont's largest ski resort, which drives the local rental market. Properties here see heavy winter traffic, extreme snow loads (routinely 200+ inches per season), and short turnover windows between guests. Mud season is the transition point: snow recedes, soft ground turns driveways and access paths to soup, and smart owners use the window to address anything the winter uncovered before summer bookings begin.",
+    localContext: "Killington has Vermont's largest ski resort, which drives the local rental market. Properties here see heavy winter traffic, extreme snow loads (routinely 200+ inches per season), and short turnover windows between guests. Mud season is the transition point: by early May the snow is off most driveways but the ground beneath is still soft and saturated. Smart owners use this narrow window to resurface gravel, address frost heave, and clear winter debris from beds and drains before the summer booking calendar fills in June.",
     priorityServices: ["snow-ice-management", "housekeeping", "rental-support", "grounds-maintenance"],
     landmarks: ["Killington Resort", "Pico Mountain", "Killington Peak Lodge", "Route 4 corridor", "Killington Road"],
     faqs: [
@@ -48,7 +48,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. We service the full Killington Road corridor, the access roads leading to the mountain, and outlying neighborhoods toward Pico, Mendon, and the Route 4 corridor.",
       },
     ],
-    lastUpdated: "2026-04-23",
+    lastUpdated: "2026-05-07",
   },
   {
     slug: "rutland",
@@ -248,7 +248,7 @@ export const serviceAreas: ServiceArea[] = [
       "Properties in Proctor tend to be closer-knit than the rural towns further east, which changes what property care looks like — tighter lots, shared boundaries, and historic homes that benefit from careful craftsmanship rather than heavy-equipment solutions.",
       "We handle the full scope for Proctor homeowners and property managers, from grounds maintenance and snow plowing to hardscape repairs and carpentry on older homes.",
     ],
-    localContext: "Proctor was built around the Vermont marble industry and still shows that character in its stone buildings and compact village layout. The town has a dense residential core, the Otter Creek running through the center, and Proctor Falls as a local landmark. Properties here are often older with original stonework and architectural details that need a specific kind of care. Mud season accelerates on Proctor's compact lots, where melt water from neighboring grades can concentrate quickly and erode walkways and lawn edges if the drainage isn't managed early.",
+    localContext: "Proctor was built around the Vermont marble industry and still shows that character in its stone buildings and compact village layout. The town has a dense residential core, the Otter Creek running through the center, and Proctor Falls as a local landmark. Properties here are often older with original stonework and architectural details that need a specific kind of care. By early May the melt water is clearing, but walkways and stone borders on compact lots often show frost heave that went unnoticed under snow cover. This is the prime window to reset edging stones, address drainage concentrations, and start spring bed cleanup before the growing season takes over.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "carpentry", "property-maintenance", "hardscaping"],
     landmarks: ["Proctor Falls", "Otter Creek", "Vermont Marble Museum", "Main Street Proctor"],
     faqs: [
@@ -265,7 +265,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "We handle stonework as part of hardscape installation and repair. For specialty historic preservation work, we collaborate with local stone masons when the job calls for it.",
       },
     ],
-    lastUpdated: "2026-04-23",
+    lastUpdated: "2026-05-07",
   },
   {
     slug: "west-rutland",
@@ -279,7 +279,7 @@ export const serviceAreas: ServiceArea[] = [
       "Property care here tends to be practical and no-nonsense — owners want reliable service, fair pricing, and crews that show up when they're supposed to.",
       "That's how we run. West Rutland is a core part of our service area and we handle the full scope: grounds, plowing, repairs, and property support for homes and businesses throughout town.",
     ],
-    localContext: "West Rutland has a strong working identity, with agricultural land, small industrial areas, and historic residential neighborhoods. Route 4A runs through the town connecting it to the main Rutland area. The town's Grange Hall, marble quarries, and Clarendon Gorge make it a distinct community from Rutland proper despite the proximity.",
+    localContext: "West Rutland has a strong working identity, with agricultural land, small industrial areas, and historic residential neighborhoods. Route 4A runs through the town connecting it to the main Rutland area. The town's Grange Hall, marble quarries, and Clarendon Gorge make it a distinct community from Rutland proper despite the proximity. Early May is the practical start of the grounds season here: the frost is out, the ground is firm enough for equipment, and residential owners are booking spring cleanups after a winter that was harder on lawns and edging than it looked.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "property-maintenance", "carpentry"],
     landmarks: ["Route 4A", "Clarendon Gorge", "West Rutland Town Hall", "West Rutland Marble Quarry"],
     faqs: [
@@ -296,7 +296,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Because we're local and route efficiently, we're usually at or below the rates of out-of-county services while delivering faster response and better accountability.",
       },
     ],
-    lastUpdated: "2026-04-21",
+    lastUpdated: "2026-05-07",
   },
   {
     slug: "brandon",
@@ -310,7 +310,7 @@ export const serviceAreas: ServiceArea[] = [
       "We work with Brandon homeowners, business owners, and second-home owners on everything from seasonal grounds maintenance to full hardscape builds and carpentry projects.",
       "Brandon is close enough to Rutland that we service it regularly, and distinctive enough that we approach each property based on its character rather than running a template.",
     ],
-    localContext: "Brandon sits along Route 7 with a historic downtown, the Neshobe River running through it, and residential neighborhoods that span from the village center out to rural properties on the surrounding roads. The town has a thriving arts scene, with Brandon Artists Guild and the annual Brandon Arts Festival drawing regional attention to the community.",
+    localContext: "Brandon sits along Route 7 with a historic downtown, the Neshobe River running through it, and residential neighborhoods that span from the village center out to rural properties on the surrounding roads. The town has a thriving arts scene, with Brandon Artists Guild and the annual Brandon Arts Festival drawing regional attention to the community. May is when Brandon's curb appeal becomes a priority for homeowners and downtown property owners alike: gardens are going in, beds need edging and mulch, and the spring cleanup backlog from mud season is clearing. It's the busiest scheduling window of our year on the Route 7 corridor.",
     priorityServices: ["landscaping", "grounds-maintenance", "hardscaping", "carpentry", "property-maintenance"],
     landmarks: ["Downtown Brandon", "Neshobe River", "Brandon Artists Guild", "Route 7", "Brandon Falls"],
     faqs: [
@@ -327,7 +327,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Our core service area is Rutland County plus Woodstock and Ludlow. Properties north of Brandon toward Middlebury we handle case-by-case based on scope and schedule.",
       },
     ],
-    lastUpdated: "2026-04-21",
+    lastUpdated: "2026-05-07",
   },
   {
     slug: "castleton",
@@ -341,7 +341,7 @@ export const serviceAreas: ServiceArea[] = [
       "We service both sides of that equation. Residential and commercial property care in the village, plus seasonal opening and closing, grounds maintenance, and property oversight for lakefront homes that sit empty during the off-season.",
       "Lakefront properties have their own rhythm — spring opening, dock management, seasonal cleanups, and fall winterization. We handle the transitions so owners aren't scrambling the first warm weekend.",
     ],
-    localContext: "Castleton is home to Castleton University, Lake Bomoseen (Vermont's largest lake entirely within the state), and a mix of village residential, rural properties, and lakefront homes. The town has a strong seasonal pattern driven by the university calendar and lake season. Many properties are second homes or short-term rentals, especially around Bomoseen. Spring brings the first real maintenance window for lakefront owners: dock inspection, shoreline debris cleanup, and grounds work while the ground is still firm enough to support equipment without tearing up the lawn.",
+    localContext: "Castleton is home to Castleton University, Lake Bomoseen (Vermont's largest lake entirely within the state), and a mix of village residential, rural properties, and lakefront homes. The town has a strong seasonal pattern driven by the university calendar and lake season. Many properties are second homes or short-term rentals, especially around Bomoseen. Early May is the prime maintenance window for lakefront owners: the ice is fully off the lake, docks are going back in, shoreline debris from snowmelt needs clearing, and the ground is firm enough to support equipment. Owners who schedule now beat the summer rush and have the property ready before Memorial Day weekend traffic.",
     priorityServices: ["grounds-maintenance", "property-maintenance", "snow-ice-management", "housekeeping", "rental-support"],
     landmarks: ["Lake Bomoseen", "Castleton University", "Bomoseen State Park", "Hubbardton Battlefield", "Route 4A"],
     faqs: [
@@ -358,7 +358,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. We handle cleaning, linen changes, and readiness checks between bookings, synced to your rental calendar with photo confirmation.",
       },
     ],
-    lastUpdated: "2026-04-23",
+    lastUpdated: "2026-05-07",
   },
   {
     slug: "wallingford",
@@ -607,6 +607,68 @@ export const serviceAreas: ServiceArea[] = [
       },
     ],
     lastUpdated: "2026-04-30",
+  },
+  {
+    slug: "poultney",
+    name: "Poultney",
+    region: "Rutland County, Vermont",
+    seoTitle: "Property Care in Poultney, VT | Meticulous LLC",
+    seoDescription: "Grounds maintenance, snow plowing, and full-scope property care in Poultney, VT. Serving homeowners, rental operators, and rural properties along Route 30. Call 802-342-8293.",
+    heroImage: "/images/bg-lawn.jpeg",
+    intro: [
+      "Poultney is a western Rutland County college town with a downtown anchored by Green Mountain College's legacy and a strong year-round residential community along Route 30.",
+      "We service Poultney homeowners, property managers, and rural property owners with grounds care, snow contracts, and property support that routes efficiently along the Route 30 corridor.",
+      "Most of our Poultney clients are year-round residents who want a dependable local crew, not a regional service that drives two counties to get here.",
+    ],
+    localContext: "Poultney sits in the Poultney River valley on the Vermont-New York border, with a compact village center and rural properties stretching across the surrounding hills. The town has a slate-industry history and a distinct community identity. Mud season in western Rutland County clears early compared to the eastern mountain towns, but the Poultney River corridor can hold moisture well into May. Early spring is the right time for driveway assessment, drainage work, and ground-level cleanup before the growing season accelerates on the valley floor.",
+    priorityServices: ["grounds-maintenance", "snow-ice-management", "property-maintenance", "carpentry"],
+    landmarks: ["Poultney River", "Route 30", "Green Mountain College", "Poultney Village Green", "East Poultney Village"],
+    faqs: [
+      {
+        question: "Do you service Poultney as part of your western Rutland County routes?",
+        answer: "Yes. Poultney is within our regular western Rutland County coverage. We route through the Route 30 corridor efficiently, so you're not paying a travel premium for our distance.",
+      },
+      {
+        question: "Can you handle grounds maintenance for Poultney's older village homes?",
+        answer: "Yes. Older homes are common in Poultney village and we handle exterior carpentry, trim repairs, and grounds care with attention to the original character of the property.",
+      },
+      {
+        question: "Do you offer snow contracts for Poultney residential properties?",
+        answer: "Yes. Seasonal plow contracts with automatic dispatch are available for Poultney homeowners. You set the trigger depth, we handle the rest.",
+      },
+    ],
+    lastUpdated: "2026-05-07",
+  },
+  {
+    slug: "danby",
+    name: "Danby",
+    region: "Rutland County, Vermont",
+    seoTitle: "Property Care in Danby, VT | Meticulous LLC",
+    seoDescription: "Property care and grounds maintenance in Danby, VT. Year-round service for homes, rural properties, and second homes in southern Rutland County. Call 802-342-8293.",
+    heroImage: "/images/bg-property-maintenance.jpeg",
+    intro: [
+      "Danby is a quiet rural town in southern Rutland County known for its marble quarrying history, Green Mountain National Forest access, and a strong community of year-round and second-home owners.",
+      "Properties here tend to be on larger parcels with mature tree cover and rural road access. We handle grounds maintenance, snow contracts, and property care sized for that terrain.",
+      "Our southern Rutland County routing puts us in the Danby area regularly, so clients get consistent service without the out-of-area surcharges that come with distance.",
+    ],
+    localContext: "Danby sits along Route 7 south of Wallingford with access roads leading into the Green Mountain National Forest. The town has marble quarry history, a small village center, and a mix of year-round residents and second-home owners drawn by the rural quiet and hiking access. Properties are typically larger rural parcels with gravel driveways and significant tree canopy. Mud season in southern Rutland County runs through mid-May at elevation: soft shoulders and saturated road shoulders near forest edge make early equipment work tricky, and we schedule spring cleanups to match actual ground conditions rather than a fixed date.",
+    priorityServices: ["grounds-maintenance", "snow-ice-management", "property-maintenance", "carpentry"],
+    landmarks: ["Route 7", "Green Mountain National Forest", "Danby-Pawlet Road", "Otter Creek", "Dorset Mountain nearby"],
+    faqs: [
+      {
+        question: "Do you service Danby properties along Route 7 and back roads?",
+        answer: "Yes. Danby is on our southern Route 7 corridor route. We service properties in the village and on the surrounding back roads without the travel premium you'd pay a service coming from outside the county.",
+      },
+      {
+        question: "Can you handle long driveways and larger rural parcels in Danby?",
+        answer: "Yes. Large parcels and long gravel driveways are standard in Danby. We scope and price based on the actual site and use equipment sized for the terrain.",
+      },
+      {
+        question: "Do you do spring property assessments for Danby second homes?",
+        answer: "Yes. Spring assessments cover driveway condition, frost heave, drainage, and winter damage on structures. We document everything with photos and flag any issues before you arrive for the season.",
+      },
+    ],
+    lastUpdated: "2026-05-07",
   },
 ];
 
