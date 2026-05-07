@@ -21,7 +21,7 @@ export const blogPosts: BlogPost[] = [
     date: "May 2026",
     readTime: "9 min read",
     image: "/images/blog-choose-lawn-care.jpeg",
-    featured: false,
+    featured: true,
     metaDescription:
       "How to choose the right lawn care service in Vermont. What a full-service package should include, mowing frequency, DIY vs hire, and the questions to ask before signing a contract.",
     content: `
@@ -955,7 +955,7 @@ export const blogPosts: BlogPost[] = [
     date: "May 2026",
     readTime: "9 min read",
     image: "/images/blog-opening-vermont-second-home-spring-checklist.jpeg",
-    featured: true,
+    featured: false,
     metaDescription:
       "The complete spring open-up checklist for Vermont second homes. Water systems, roof and exterior, septic, grounds, and pest signs in Rutland County, Killington, Woodstock, and Ludlow.",
     content: `
