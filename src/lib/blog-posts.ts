@@ -13,6 +13,126 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "how-to-choose-lawn-care-service-vermont",
+    title: "How to Choose a Lawn Care Service in Vermont (And Avoid the Wrong One)",
+    excerpt:
+      "Most lawn care companies in Rutland County are interchangeable on paper. The differences show up in May when one shows up on schedule and one doesn't. Here is how to vet them before you sign.",
+    category: "Lawn Care",
+    date: "May 2026",
+    readTime: "9 min read",
+    image: "/images/blog-choose-lawn-care.jpeg",
+    featured: false,
+    metaDescription:
+      "How to choose the right lawn care service in Vermont. What a full-service package should include, mowing frequency, DIY vs hire, and the questions to ask before signing a contract.",
+    content: `
+<p>The decision to hire a lawn care company in Rutland County is rarely about whether you can mow your own yard. Most homeowners can. It is about whether you want to spend May through October on a mower, whether you have the time to keep a schedule through Vermont's compressed growing season, and whether the property you own deserves better treatment than what a teenager with a push mower will give it. Once you have decided to hire, the next problem is sorting out the dozen companies in the area, all of whom claim to do the same thing for similar money. They do not.</p>
+
+<p>This is the conversation we wish every property owner had before signing a season-long contract. It applies whether you hire <a href="/services/grounds-maintenance">Meticulous</a> or somebody else. The point is to know what you are buying.</p>
+
+<h2>How to Choose the Right Lawn Care Service for Your Vermont Property</h2>
+
+<p>Start with the property, not the company. A 1.5-acre lot in Mendon with mature trees, garden beds, and a hillside section needs a different operation than a flat half-acre in Rutland city limits. The right service for one is the wrong service for the other. Before you call anyone, write down what you actually need:</p>
+
+<ul>
+<li><strong>How big is the maintained area?</strong> Mowed lawn only, or mowed lawn plus garden beds, plus woodland edge cleanup, plus driveway edges?</li>
+<li><strong>Frequency expectation.</strong> Weekly? Bi-weekly? On-call? Full-season contract from first thaw to final leaf drop?</li>
+<li><strong>Add-ons that matter.</strong> Spring cleanup, fall cleanup, mulch installation, hedge trimming, gutter cleaning, snow removal in the same contract?</li>
+<li><strong>Communication style.</strong> Do you want a crew that shows up and leaves silently, or do you want photo documentation and a check-in if something looks off?</li>
+<li><strong>Owner status.</strong> If you are a second-home owner in Killington, Pittsfield, or Woodstock, you need a company that operates without you on site. Most local mowers are set up for that. Some are not.</li>
+</ul>
+
+<p>Once you know the scope, you can compare quotes that are actually for the same work. The biggest mistake we see is owners getting three quotes that sound similar, picking the cheapest, then discovering on day one that "lawn care" meant "mowing only" for the cheap quote and "full grounds maintenance" for the higher one.</p>
+
+<h2>What Should a Full-Service Lawn Care Package Include?</h2>
+
+<p>"Full-service" is a marketing word. The actual scope varies by company. A real full-service contract for a Rutland County residential property should specify:</p>
+
+<table>
+<thead>
+<tr><th>Service</th><th>Included in real full-service</th><th>Notes</th></tr>
+</thead>
+<tbody>
+<tr><td>Mowing</td><td>Weekly through peak season, bi-weekly in shoulder months</td><td>Cutting height adjusted seasonally (3.5" spring, 4" summer)</td></tr>
+<tr><td>String trimming</td><td>Every visit around buildings, trees, fence lines, beds</td><td>Without trimming, mowing alone leaves 6" rough strips at every edge</td></tr>
+<tr><td>Edging</td><td>Bi-weekly along walkways, driveways, and bed lines</td><td>Defines the lawn — without it the property looks unkempt by July</td></tr>
+<tr><td>Blowing</td><td>Every visit — clippings off hardscape, walkways, decks</td><td>Skipping this is how clippings stain concrete and clog gutters</td></tr>
+<tr><td>Spring cleanup</td><td>One-time in April or May</td><td>Debris removal, dethatching, bed prep, mulch refresh</td></tr>
+<tr><td>Fall cleanup</td><td>One or two visits in October-November</td><td>Leaf removal, final mow, bed cleanup, equipment shutdown</td></tr>
+<tr><td>Bed maintenance</td><td>Weekly weeding and edging through summer</td><td>Most "lawn care only" packages skip this — beds become weed forests by August</td></tr>
+<tr><td>Mulch</td><td>Annual install, typically May</td><td>Black or brown hemlock, calculated by cubic yard</td></tr>
+<tr><td>Hedge and shrub trimming</td><td>Twice per season minimum</td><td>Once in early summer, once after summer flush</td></tr>
+</tbody>
+</table>
+
+<p>If a quote does not list every line above, ask what is excluded. The honest answer should be specific. "Just mowing" is honest. "Everything you need" is not — that's how the August surprise invoice happens.</p>
+
+<p>For owners with hardscaping, gardens, or extensive plantings, full-service should also cover seasonal maintenance on those features. Pavers need re-sanding. Garden beds need split and divide every few years. Hedge lines need shape correction. A real full-service company carries these into the contract; a mow-and-go operation will tell you to call someone else for the bed work.</p>
+
+<h2>How Often Should Your Lawn Be Mowed in Vermont?</h2>
+
+<p>The growing season in Rutland County runs roughly mid-May to mid-October. Inside that window, frequency depends on the calendar and the weather:</p>
+
+<ul>
+<li><strong>Mid-May through mid-June (peak growth):</strong> Weekly. Vermont lawns put on the most growth in this window. Skipping a week in late May means cutting off more than 1/3 of the leaf blade on the next mow, which stresses the grass.</li>
+<li><strong>Mid-June through August (steady growth):</strong> Weekly in normal conditions. Bi-weekly only acceptable in a drought year when growth slows. We adjust the schedule for managed properties based on actual growth, not calendar.</li>
+<li><strong>September (recovery):</strong> Weekly. The fall flush is real and surprises owners who think the season is winding down.</li>
+<li><strong>October (final cuts):</strong> Bi-weekly tapering to monthly. Last cut should be at 2.5" to discourage snow mold over winter.</li>
+</ul>
+
+<p>The one-third rule applies year-round: never cut more than 1/3 of the leaf blade in a single mow. Cutting too short stresses the lawn, encourages weeds, and creates the brown stripes most homeowners blame on the company. If you went on vacation and the grass got long, the right move is two mows a few days apart at successively lower heights — not one drastic cut. A real lawn service knows this and will sometimes refuse to scalp a recovering lawn.</p>
+
+<p>Mowing height matters as much as frequency. We mow at 3.5 inches in spring, 4 inches through the heat of summer to shade soil and conserve moisture, and back to 3 inches in October. Companies that mow short and short and short — a single height all season — produce yellow, weak lawns by August. Easy to spot, hard to fix mid-season.</p>
+
+<h2>DIY vs. Hiring a Service: When Each Makes Sense</h2>
+
+<p>Honest math. Owning a residential mower, a string trimmer, and a leaf blower will run you $1,500 to $4,000 over their useful life, plus gas, oil, blade sharpening, repair parts, and storage space. A weekly hired service for a typical half-acre Rutland County lawn runs roughly $45 to $90 per visit, or about $1,200 to $2,400 for the full season — bare mowing only, before any add-ons.</p>
+
+<p><strong>DIY makes sense when:</strong></p>
+
+<ul>
+<li>Your property is under half an acre and basically flat</li>
+<li>You enjoy the work or want the exercise</li>
+<li>Your time is genuinely free on weekends</li>
+<li>You're physically capable of running power equipment in summer heat for 2-3 hours weekly</li>
+</ul>
+
+<p><strong>Hiring makes sense when:</strong></p>
+
+<ul>
+<li>The property is over an acre or has slopes, ponds, or complex features</li>
+<li>You have a second home you visit on weekends and don't want to mow during your own vacation time</li>
+<li>You travel for work and can't keep a reliable mowing schedule</li>
+<li>You value the time more than the savings — most owners we work with figured out that 2-3 hours of weekend time was worth more than $60 a week</li>
+<li>You want consistent, professional results — properly edged, blown clean, and looking maintained, not just cut</li>
+</ul>
+
+<p>The middle path some owners take: hire a full-service company for the bigger seasonal jobs (spring cleanup, mulch, fall leaves) and DIY the weekly mowing. It works if the homeowner stays disciplined about frequency. It falls apart the first time work travel or weather cancels two weeks in a row and the lawn goes feral.</p>
+
+<h2>What Questions Should You Ask Before Hiring a Lawn Care Company?</h2>
+
+<p>Bring these to the first meeting. Watch how the answers come.</p>
+
+<ol>
+<li><strong>Are you registered as a residential contractor in Vermont?</strong> Vermont requires registration through the Office of Professional Regulation for any residential work over a certain dollar threshold. A legitimate company will give you their registration number on request. Meticulous is registered as both a residential contractor and a Property Management Firm.</li>
+<li><strong>Can you email me your liability insurance certificate before the first visit?</strong> Mowing season means string trimmers throwing debris, mowers throwing rocks, and equipment around your house, your cars, and your windows. A $1 million liability minimum is the standard. If they can't produce a current certificate that names you as a certificate holder, walk.</li>
+<li><strong>What's the schedule, and what happens if it rains?</strong> A real answer: "We come every Tuesday between 8 and 4. If it's raining, we come Wednesday. If it's still raining Wednesday, we come Thursday. We don't skip weeks." A vague answer means they will skip weeks when it's convenient for them, and the lawn will look like it.</li>
+<li><strong>Who is on my property?</strong> Same crew every visit, or rotating crews? A consistent crew learns the property and the owner's preferences. Rotating crews damage the same plants twice and don't notice when something changes.</li>
+<li><strong>How do you handle property damage?</strong> Mower hits a sprinkler head. String trimmer scars a tree. Tire ruts in soft spring ground. The right answer is "We document it, tell you, and either fix it or pay to have it fixed." The wrong answer is silence — you find the damage yourself in July and try to figure out who to bill.</li>
+<li><strong>Do you sub the work out?</strong> Some bigger companies sell contracts and sub the actual mowing to whoever they can find. The crew that shows up is not the company on the contract. Ask directly. If subs are involved, ask whether they carry their own insurance.</li>
+<li><strong>What is the contract length and cancellation policy?</strong> Season-long contracts are standard. Mid-season cancellation should be possible without penalty if the company is not performing. If a contract locks you in for the season with no out, the company expects you to want out at some point. Read why.</li>
+<li><strong>Do you do off-season work, and do current clients get priority?</strong> Snow plowing, fall cleanup, and mulch all get crowded in their respective windows. Companies that do year-round work usually prioritize existing clients on their off-season schedule. If you want one vendor for everything, this matters.</li>
+</ol>
+
+<p>The questions are the test, but watching how they're answered is the real signal. A company that has been doing this in Rutland County for fifteen years will answer all eight without checking notes, and a few of the answers will surprise you with specifics — local plant pressure, how Killington's elevation affects mowing schedule, why early-season grading on Mendon clay matters more than in valley properties.</p>
+
+<h2>The shorter version</h2>
+
+<p>Define the property scope before you call anyone. Compare quotes line by line, not totals. Make sure full-service actually means full-service. Match mowing frequency to Vermont's growing season, not a calendar. Ask the eight questions and listen to how the answers come.</p>
+
+<p>If you have a property in Rutland County and want a single vendor who handles grounds maintenance from first thaw to final leaf drop — and snow management when the season turns — we can walk the property, scope it honestly, and quote it line by line. We have been doing this in Vermont since 2009. Our spring schedule fills by late March most years; the sooner you know what you want, the better the slot. <a href="/contact">Reach out</a> and we will set up a property walk.</p>
+`,
+  },
+  {
     slug: "mud-season-property-cleanup-vermont",
     title: "Mud Season Property Cleanup: What Every Vermont Homeowner Needs to Know",
     excerpt:
