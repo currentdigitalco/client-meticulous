@@ -91,6 +91,13 @@ export default function RootLayout({
       className={`${instrumentSerif.variable} ${satoshi.variable} antialiased`}
     >
       <head>
+        {/* Preload LCP image (hero poster) so the first paint isn't blocked on the network */}
+        <link
+          rel="preload"
+          as="image"
+          href="/images/hero-landing.jpeg"
+          fetchPriority="high"
+        />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
