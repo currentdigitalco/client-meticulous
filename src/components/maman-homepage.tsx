@@ -465,7 +465,9 @@ export function MamanHomepage() {
               ref={(el) => { screenRefs.current[i] = el; }}
               className={`screen ${i === currentScreen ? "active" : ""}`}
             >
-              {/* Background */}
+              {/* Background — videos stay mounted exactly as designed.
+                  Static-image screens (no video) only attach src when within 1 of current
+                  to keep initial mobile network from being saturated by 7 backgrounds at once. */}
               <div className="screen-bg">
                 {screen.video ? (
                   <video
@@ -481,14 +483,16 @@ export function MamanHomepage() {
                     <source src={screen.video.replace(/\.mp4$/, "-mobile.mp4")} media="(max-width: 767px)" type="video/mp4" />
                     <source src={screen.video} type="video/mp4" />
                   </video>
-                ) : (
+                ) : Math.abs(i - currentScreen) <= 1 ? (
                   <img
                     src={screen.image}
                     alt=""
-                    loading={i < 2 ? "eager" : "lazy"}
+                    loading={i === 0 ? "eager" : "lazy"}
                     fetchPriority={i === 0 ? "high" : "auto"}
+                    decoding="async"
+                    className="absolute inset-0 w-full h-full object-cover"
                   />
-                )}
+                ) : null}
               </div>
 
               {/* Gradient overlay — varies by layout */}
