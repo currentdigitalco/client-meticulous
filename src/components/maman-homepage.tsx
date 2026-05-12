@@ -368,7 +368,7 @@ export function MamanHomepage() {
     <>
       {/* LOADER */}
       <div className={`loader ${loaded ? "done" : ""}`}>
-        <div className="loader-logo"><img src="/images/logo-full.png" alt="Meticulous" style={{ height: "80px", width: "auto" }} /></div>
+        <div className="loader-logo"><img src="/images/logo-full.png" alt="Meticulous" width="320" height="80" fetchPriority="high" decoding="async" style={{ height: "80px", width: "auto" }} /></div>
         <div className="loader-progress">
           <div className="loader-bar">
             <div className="loader-bar-fill" style={{ width: `${progress}%` }} />
