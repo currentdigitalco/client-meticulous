@@ -5,6 +5,11 @@ import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { InnerLayout } from "@/components/shared/inner-layout";
 import { LocalMapEmbed } from "@/components/shared/local-map-embed";
+import { QuoteForm } from "@/components/shared/quote-form";
+import { SocialProofStrip } from "@/components/shared/social-proof-strip";
+import { RecentWorkBlock } from "@/components/shared/recent-work-block";
+import { SeasonalCTA } from "@/components/shared/seasonal-cta";
+import { getExtras } from "@/lib/service-areas-extras";
 import { ArrowRight, ArrowLeft, MapPin, Check } from "lucide-react";
 import type { ServiceArea } from "@/lib/service-areas";
 import type { ServiceDetail } from "@/app/services/[slug]/service-data";
@@ -26,7 +31,14 @@ export function CityPage({
   const otherServices = allServices.filter(
     (s) => !area.priorityServices.includes(s.slug)
   );
-  const nearbyAreas = allAreas.filter((a) => a.slug !== area.slug).slice(0, 4);
+  const extras = getExtras(area.slug);
+  const nearestSlugs = extras?.nearestTowns ?? [];
+  const nearbyAreas = nearestSlugs.length > 0
+    ? (nearestSlugs
+        .map((slug) => allAreas.find((a) => a.slug === slug))
+        .filter((a): a is ServiceArea => Boolean(a)) as ServiceArea[])
+    : allAreas.filter((a) => a.slug !== area.slug).slice(0, 4);
+  const primaryService = priorityServiceEntries[0]?.slug;
 
   const pageJsonLd = {
     "@context": "https://schema.org",
@@ -150,6 +162,16 @@ export function CityPage({
                     {p}
                   </p>
                 ))}
+                {extras?.seasonalHook && (
+                  <p className="mt-6 text-[15px] leading-relaxed text-cream/85 italic">
+                    {extras.seasonalHook}
+                  </p>
+                )}
+                {extras?.localProofPoint && (
+                  <p className="mt-3 text-sm leading-relaxed text-forest-light/90">
+                    {extras.localProofPoint}
+                  </p>
+                )}
               </div>
             </div>
 
@@ -271,6 +293,23 @@ export function CityPage({
         </div>
       </section>
 
+      {/* Seasonal CTA banner */}
+      <section className="pt-4 pb-12">
+        <div className="mx-auto max-w-4xl px-6 md:px-8 fade-up">
+          <SeasonalCTA city={area.name} service={priorityServiceEntries[0]?.title ?? "Property care"} />
+        </div>
+      </section>
+
+      {/* Recent work */}
+      <RecentWorkBlock citySlug={area.slug} cityName={area.name} />
+
+      {/* Social proof */}
+      <section className="pb-4">
+        <div className="mx-auto max-w-5xl px-6 md:px-8 fade-up">
+          <SocialProofStrip region={area.region} />
+        </div>
+      </section>
+
       {/* FAQ */}
       <section className="py-24 md:py-32 bg-soil-light/20">
         <div className="mx-auto max-w-4xl px-6 md:px-8">
@@ -328,38 +367,29 @@ export function CityPage({
         </section>
       )}
 
-      {/* CTA */}
-      <section className="py-24 md:py-32 bg-soil-light/20">
-        <div className="mx-auto max-w-3xl px-6 md:px-8 text-center">
-          <div className="fade-up">
+      {/* Embedded form */}
+      <section id="get-quote" className="py-24 md:py-32 bg-soil-light/20">
+        <div className="mx-auto max-w-3xl px-6 md:px-8">
+          <div className="fade-up text-center">
             <p className="text-xs font-medium uppercase tracking-[0.3em] text-copper-light">
               Get Started
             </p>
             <h2 className="mt-4 font-display text-3xl md:text-4xl tracking-tight leading-tight">
-              Ready to talk about your <br />
-              <span className="text-stone italic">
-                {area.name} property?
-              </span>
+              Tell us about your <br />
+              <span className="text-stone italic">{area.name} property.</span>
             </h2>
-            <p className="mt-5 text-[15px] leading-relaxed text-stone-dark/60 max-w-xl mx-auto">
-              Call 802-342-8293 or request a quote online. We&apos;ll walk the
-              property, understand what you&apos;re looking for, and give you a
-              clear plan.
+            <p className="mt-5 text-[15px] leading-relaxed text-stone-dark/60 max-w-xl mx-auto mb-10">
+              Free walkthrough, clear quote, no obligation. Reply within one
+              business day — or call 802-342-8293 right now.
             </p>
-            <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
-              <a
-                href="/contact"
-                className="inline-flex items-center gap-2 rounded-full bg-forest-light px-7 py-3 text-sm font-medium text-soil hover:bg-cream transition-colors"
-              >
-                Request a quote <ArrowRight size={14} strokeWidth={2} />
-              </a>
-              <a
-                href="tel:8023428293"
-                className="inline-flex items-center gap-2 text-sm font-medium text-cream/80 hover:text-cream transition-colors"
-              >
-                Call 802-342-8293
-              </a>
-            </div>
+          </div>
+          <div className="fade-up rounded-2xl bg-soil-light/30 ring-1 ring-white/5 p-7 md:p-10">
+            <QuoteForm
+              defaultCity={area.slug}
+              defaultService={primaryService}
+              subjectLine={`New lead — ${area.name}, VT (city page)`}
+              compact
+            />
           </div>
         </div>
       </section>

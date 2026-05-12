@@ -1,168 +1,95 @@
 "use client";
 
-import { useEffect, useState } from "react";
-import { gsap } from "gsap";
+import { Mail, Phone, MapPin } from "lucide-react";
 import { InnerLayout } from "@/components/shared/inner-layout";
-import { Send, Phone, Mail, MapPin } from "lucide-react";
-
-const WEB3FORMS_KEY = "e4344aa7-de69-40bf-9e49-e36c8bc8be5d";
+import { QuoteForm } from "@/components/shared/quote-form";
 
 export function ContactPage() {
-  const [submitted, setSubmitted] = useState(false);
-  const [submitting, setSubmitting] = useState(false);
-  const [error, setError] = useState<string | null>(null);
-
-  useEffect(() => {
-    gsap.fromTo(".contact-title", { opacity: 0, y: 40 }, { opacity: 1, y: 0, duration: 0.9, ease: "power3.out", delay: 0.3 });
-    gsap.fromTo(".contact-form", { opacity: 0, y: 30 }, { opacity: 1, y: 0, duration: 0.7, ease: "power2.out", delay: 0.5 });
-    gsap.fromTo(".contact-info", { opacity: 0, y: 30 }, { opacity: 1, y: 0, duration: 0.7, ease: "power2.out", delay: 0.6 });
-  }, []);
-
-  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
-    e.preventDefault();
-    setError(null);
-    setSubmitting(true);
-
-    const formData = new FormData(e.currentTarget);
-    formData.append("access_key", WEB3FORMS_KEY);
-    formData.append("subject", "New contact form submission — meticulous802.com");
-    formData.append("from_name", "Meticulous Website");
-
-    try {
-      const res = await fetch("https://api.web3forms.com/submit", {
-        method: "POST",
-        body: formData,
-      });
-      const data = await res.json();
-      if (data.success) {
-        setSubmitted(true);
-      } else {
-        setError(data.message || "Something went wrong. Please call us instead.");
-      }
-    } catch {
-      setError("Network error. Please call us at 802-342-8293.");
-    } finally {
-      setSubmitting(false);
-    }
-  };
-
   return (
     <InnerLayout>
-      <section className="pt-32 pb-24 md:pt-40 md:pb-32">
-        <div className="mx-auto max-w-3xl px-6 md:px-8">
-          {/* Header */}
-          <div className="contact-title text-center mb-16">
-            <p className="text-xs font-medium uppercase tracking-[0.3em] text-copper-light">
-              Contact
-            </p>
-            <h1 className="mt-4 font-display text-4xl md:text-5xl lg:text-6xl tracking-tight leading-[0.95]">
-              Let&apos;s talk about<br />
-              <span className="text-stone italic">your property.</span>
-            </h1>
-            <p className="mt-4 text-stone-dark/50 text-base">
-              Reliable service starts with a conversation.
-            </p>
-          </div>
+      <section className="pt-32 md:pt-40 pb-12 px-6 md:px-8 mx-auto max-w-7xl">
+        <p className="text-xs font-medium uppercase tracking-[0.3em] text-copper-light mb-4">
+          Contact
+        </p>
+        <h1 className="font-display text-4xl md:text-5xl lg:text-6xl tracking-tight leading-[0.95] max-w-3xl">
+          Tell us about the property.
+        </h1>
+        <p className="mt-6 text-[15px] leading-relaxed text-stone-dark/65 max-w-2xl">
+          Free walkthrough. Clear quote. No cookie-cutter packages. We reply
+          within one business day — usually faster.
+        </p>
+      </section>
 
-          {/* Form */}
-          {submitted ? (
-            <div className="contact-form flex flex-col items-center justify-center py-20 rounded-2xl bg-forest/10 ring-1 ring-forest/20">
-              <div className="flex h-16 w-16 items-center justify-center rounded-full bg-forest">
-                <Send className="h-6 w-6 text-cream" />
-              </div>
-              <h2 className="mt-6 font-display text-2xl text-cream">Message sent.</h2>
-              <p className="mt-2 text-stone-dark/60">We&apos;ll be in touch within 24 hours.</p>
+      <section className="pb-24 md:pb-32 px-6 md:px-8 mx-auto max-w-7xl">
+        <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-16">
+          <div className="lg:col-span-7">
+            <div className="rounded-2xl bg-soil-light/15 ring-1 ring-white/5 p-7 md:p-10">
+              <QuoteForm subjectLine="New lead — /contact page" />
             </div>
-          ) : (
-            <form onSubmit={handleSubmit} className="contact-form space-y-6">
+          </div>
+          <div className="lg:col-span-5">
+            <div className="sticky top-32 space-y-8">
               <div>
-                <label htmlFor="name" className="block text-sm font-medium text-stone-dark/80 mb-2">
-                  Name
-                </label>
-                <input
-                  type="text"
-                  id="name"
-                  name="name"
-                  required
-                  autoComplete="name"
-                  className="w-full rounded-xl border-0 bg-white/5 px-5 py-4 text-cream ring-1 ring-white/10 placeholder:text-stone-dark/30 focus:outline-none focus:ring-2 focus:ring-forest transition-all duration-200"
-                  placeholder="Your name"
-                />
+                <h3 className="text-xs font-medium uppercase tracking-[0.2em] text-copper-light mb-5">
+                  Direct
+                </h3>
+                <ul className="space-y-4">
+                  <li className="flex items-start gap-3">
+                    <Phone
+                      size={16}
+                      strokeWidth={2}
+                      className="text-forest-light flex-shrink-0 mt-0.5"
+                    />
+                    <div>
+                      <a
+                        href="tel:+18023428293"
+                        className="text-base text-cream hover:text-forest-light transition-colors"
+                      >
+                        802-342-8293
+                      </a>
+                      <p className="text-xs text-stone-dark/50 mt-0.5">
+                        Storm response 24/7
+                      </p>
+                    </div>
+                  </li>
+                  <li className="flex items-start gap-3">
+                    <Mail
+                      size={16}
+                      strokeWidth={2}
+                      className="text-forest-light flex-shrink-0 mt-0.5"
+                    />
+                    <a
+                      href="mailto:getmeticulous@gmail.com"
+                      className="text-base text-cream hover:text-forest-light transition-colors"
+                    >
+                      getmeticulous@gmail.com
+                    </a>
+                  </li>
+                  <li className="flex items-start gap-3">
+                    <MapPin
+                      size={16}
+                      strokeWidth={2}
+                      className="text-forest-light flex-shrink-0 mt-0.5"
+                    />
+                    <div>
+                      <p className="text-base text-cream">Rutland, Vermont</p>
+                      <p className="text-xs text-stone-dark/50 mt-0.5">
+                        Serving Rutland County + Woodstock + Ludlow
+                      </p>
+                    </div>
+                  </li>
+                </ul>
               </div>
 
-              <div>
-                <label htmlFor="email" className="block text-sm font-medium text-stone-dark/80 mb-2">
-                  Email
-                </label>
-                <input
-                  type="email"
-                  id="email"
-                  name="email"
-                  required
-                  autoComplete="email"
-                  className="w-full rounded-xl border-0 bg-white/5 px-5 py-4 text-cream ring-1 ring-white/10 placeholder:text-stone-dark/30 focus:outline-none focus:ring-2 focus:ring-forest transition-all duration-200"
-                  placeholder="you@email.com"
-                />
-              </div>
-
-              <div>
-                <label htmlFor="message" className="block text-sm font-medium text-stone-dark/80 mb-2">
-                  What are you looking for?
-                </label>
-                <textarea
-                  id="message"
-                  name="message"
-                  required
-                  rows={5}
-                  className="w-full rounded-xl border-0 bg-white/5 px-5 py-4 text-cream ring-1 ring-white/10 placeholder:text-stone-dark/30 focus:outline-none focus:ring-2 focus:ring-forest transition-all duration-200 resize-none"
-                  placeholder="Tell us about your property — grounds maintenance, snow management, construction, rental support, or something else..."
-                />
-              </div>
-
-              {error && (
-                <p className="text-sm text-red-400" role="alert">
-                  {error}
-                </p>
-              )}
-
-              <button
-                type="submit"
-                disabled={submitting}
-                className="w-full rounded-xl bg-forest px-6 py-4 text-base font-medium text-cream transition-all duration-200 hover:bg-forest-light disabled:opacity-60 disabled:cursor-not-allowed flex items-center justify-center gap-2"
-              >
-                <Send className="h-4 w-4" strokeWidth={2} />
-                {submitting ? "Sending..." : "Send Message"}
-              </button>
-            </form>
-          )}
-
-          {/* Contact info below form */}
-          <div className="contact-info mt-16 grid grid-cols-1 sm:grid-cols-3 gap-8 border-t border-white/5 pt-12">
-            <a href="tel:802-342-8293" className="flex items-center gap-3 text-stone-dark/60 hover:text-cream transition-colors">
-              <div className="flex h-10 w-10 items-center justify-center rounded-full bg-white/5 ring-1 ring-white/10">
-                <Phone className="h-4 w-4" strokeWidth={2} />
-              </div>
-              <div>
-                <p className="text-xs text-stone-dark/40 uppercase tracking-wider">Phone</p>
-                <p className="text-sm font-medium text-cream">802-342-8293</p>
-              </div>
-            </a>
-            <a href="mailto:getmeticulous@gmail.com" className="flex items-center gap-3 text-stone-dark/60 hover:text-cream transition-colors">
-              <div className="flex h-10 w-10 items-center justify-center rounded-full bg-white/5 ring-1 ring-white/10">
-                <Mail className="h-4 w-4" strokeWidth={2} />
-              </div>
-              <div>
-                <p className="text-xs text-stone-dark/40 uppercase tracking-wider">Email</p>
-                <p className="text-sm font-medium text-cream">getmeticulous@gmail.com</p>
-              </div>
-            </a>
-            <div className="flex items-center gap-3 text-stone-dark/60">
-              <div className="flex h-10 w-10 items-center justify-center rounded-full bg-white/5 ring-1 ring-white/10">
-                <MapPin className="h-4 w-4" strokeWidth={2} />
-              </div>
-              <div>
-                <p className="text-xs text-stone-dark/40 uppercase tracking-wider">Area</p>
-                <p className="text-sm font-medium text-cream">Serving Vermont</p>
+              <div className="border-t border-white/5 pt-8">
+                <h3 className="text-xs font-medium uppercase tracking-[0.2em] text-copper-light mb-4">
+                  Credentials
+                </h3>
+                <ul className="space-y-2 text-sm text-stone-dark/70">
+                  <li>Vermont-registered residential contractor</li>
+                  <li>Registered Property Management Firm</li>
+                  <li>Fully licensed and insured</li>
+                </ul>
               </div>
             </div>
           </div>
