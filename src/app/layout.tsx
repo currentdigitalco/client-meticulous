@@ -188,6 +188,73 @@ export default function RootLayout({
       "https://www.google.com/maps?q=meticulous+llc+rutland+vt",
     ],
   };
+  const howToJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "@id": `${BASE}/#howto-spring-opening`,
+    name: "How to Open a Vermont Second Home After Mud Season",
+    description:
+      "Step-by-step process Meticulous follows to ready Rutland County and Killington-area properties for the spring/summer season after the snow melts.",
+    inLanguage: "en-US",
+    totalTime: "PT4H",
+    estimatedCost: {
+      "@type": "MonetaryAmount",
+      currency: "USD",
+      value: "350",
+    },
+    supply: [
+      { "@type": "HowToSupply", name: "Gutter cleaning kit" },
+      { "@type": "HowToSupply", name: "Pressure washer" },
+      { "@type": "HowToSupply", name: "Replacement weather stripping" },
+    ],
+    tool: [
+      { "@type": "HowToTool", name: "Commercial-grade leaf blower" },
+      { "@type": "HowToTool", name: "Extension ladder" },
+      { "@type": "HowToTool", name: "Wet/dry shop vacuum" },
+    ],
+    step: [
+      {
+        "@type": "HowToStep",
+        position: 1,
+        name: "Exterior walk-around inspection",
+        text:
+          "Walk the full perimeter checking for ice-dam damage, lifted shingles, displaced gutter sections, foundation cracks, and winter-killed shrubs. Photograph any damage and flag for repair before turf work begins.",
+        url: `${BASE}/services/property-care`,
+      },
+      {
+        "@type": "HowToStep",
+        position: 2,
+        name: "Gutter and downspout clearance",
+        text:
+          "Remove winter debris from gutters and downspouts, flush with water, and confirm drainage flows away from the foundation. Reseat any gutter brackets loosened by ice load.",
+        url: `${BASE}/services/property-care`,
+      },
+      {
+        "@type": "HowToStep",
+        position: 3,
+        name: "Lawn dethatch and first cut",
+        text:
+          "Dethatch winter matting, edge beds, and complete the season's first cut at 3.5 inches to encourage root recovery without stressing dormant grass. Bag clippings on the first pass only.",
+        url: `${BASE}/services/lawn-care`,
+      },
+      {
+        "@type": "HowToStep",
+        position: 4,
+        name: "Hardscape and outdoor furniture reset",
+        text:
+          "Pressure-wash bluestone, patios, and walkways. Reposition outdoor furniture from winter storage, inspect for rot or rust, and confirm umbrella bases and grill connections are sound.",
+        url: `${BASE}/services/hardscaping`,
+      },
+      {
+        "@type": "HowToStep",
+        position: 5,
+        name: "Interior turnover and systems check",
+        text:
+          "Run every faucet and flush every toilet to clear stagnant lines. Test HVAC switchover to AC, swap furnace filters, confirm smoke and CO detectors, and stage linens and welcome supplies for owner or guest arrival.",
+        url: `${BASE}/services/property-care`,
+      },
+    ],
+  };
   const speakableJsonLd = {
     "@context": "https://schema.org",
     "@type": "WebPage",
@@ -215,6 +282,10 @@ export default function RootLayout({
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(howToJsonLd) }}
         />
         <script
           type="application/ld+json"

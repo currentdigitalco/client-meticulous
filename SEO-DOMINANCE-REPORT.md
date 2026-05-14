@@ -1,9 +1,9 @@
 # SEO/AEO/GEO/pSEO Dominance Report — client-meticulous
 
-**Score:** 100 / 120 (83%) — B — strong, minor gaps
-**Site path:** `sites/client-meticulous`
+**Score:** 105 / 120 (88%) — B — strong, minor gaps
+**Site path:** `sites\client-meticulous`
 **Pages (estimate):** 19
-**Schema types detected:** AdministrativeArea, Answer, BreadcrumbList, City, ContactPoint, FAQPage, GeoCoordinates, HomeAndConstructionBusiness, ListItem, LocalBusiness, Offer, OfferCatalog, OpeningHoursSpecification, Organization, Person, PostalAddress, Question, Rating, Review, Service, SpeakableSpecification, State, WebPage, WebSite
+**Schema types detected:** AdministrativeArea, Answer, BreadcrumbList, City, ContactPoint, FAQPage, GeoCoordinates, HomeAndConstructionBusiness, HowTo, HowToStep, HowToSupply, HowToTool, ListItem, LocalBusiness, MonetaryAmount, Offer, OfferCatalog, OpeningHoursSpecification, Organization, Person, PostalAddress, Question, Rating, Review, Service, SpeakableSpecification, State, WebPage, WebSite
 **LocalBusiness fields detected:** address, areaServed, founder, geo, hasOfferCatalog, knowsAbout, openingHoursSpecification, paymentAccepted, review, sameAs
 **llms.txt:** present (144 lines)
 **llms-full.txt:** present
@@ -18,8 +18,7 @@
 - **✓ [PASS] schema-organization** — Organization present.
 - **✓ [PASS] schema-website** — WebSite present.
 - **✓ [PASS] schema-faqpage** — FAQPage present.
-- **▲ [FLAG] schema-howto** — Missing HowTo — Process schema for ranking on procedural queries.
-  - **Fix:** Add a HowTo JSON-LD block.
+- **✓ [PASS] schema-howto** — HowTo present.
 - **✓ [PASS] schema-speakablespecification** — SpeakableSpecification present.
 - **✓ [PASS] schema-review** — Review present.
 - **✓ [PASS] field-areaServed** — areaServed present in business schema.
