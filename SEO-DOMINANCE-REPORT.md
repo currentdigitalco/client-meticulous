@@ -1,11 +1,11 @@
 # SEO/AEO/GEO/pSEO Dominance Report — client-meticulous
 
 **Score:** 100 / 120 (83%) — B — strong, minor gaps
-**Site path:** `sites\client-meticulous`
+**Site path:** `sites/client-meticulous`
 **Pages (estimate):** 19
 **Schema types detected:** AdministrativeArea, Answer, BreadcrumbList, City, ContactPoint, FAQPage, GeoCoordinates, HomeAndConstructionBusiness, ListItem, LocalBusiness, Offer, OfferCatalog, OpeningHoursSpecification, Organization, Person, PostalAddress, Question, Rating, Review, Service, SpeakableSpecification, State, WebPage, WebSite
 **LocalBusiness fields detected:** address, areaServed, founder, geo, hasOfferCatalog, knowsAbout, openingHoursSpecification, paymentAccepted, review, sameAs
-**llms.txt:** present (141 lines)
+**llms.txt:** present (144 lines)
 **llms-full.txt:** present
 **robots:** present
 **sitemap:** present
@@ -35,7 +35,7 @@
 
 ### AEO
 
-- **✓ [PASS] llms-txt-depth** — llms.txt is 141 lines (≥100).
+- **✓ [PASS] llms-txt-depth** — llms.txt is 144 lines (≥100).
 - **✓ [PASS] llms-full-txt** — llms-full.txt present (deeper AI crawler doc).
 - **✓ [PASS] speakable** — Speakable schema present — voice-search ready.
 
