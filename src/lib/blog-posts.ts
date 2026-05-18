@@ -13,6 +13,164 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "lawn-reseeding-snowplow-damage-vermont-may",
+    title: "Lawn Reseeding and Snowplow Damage Repair on Vermont Properties: The Mid-May Window",
+    excerpt:
+      "Every May we walk Rutland County properties where the lawn along the driveway looks like a war zone, peeled up by the plow blade and burned by salt. Here is how we reseed, repair plow scars, and get a Killington or Woodstock lawn presentable before Memorial Day guests arrive.",
+    category: "Lawn Care",
+    date: "May 2026",
+    readTime: "8 min read",
+    image: "/images/blog-lawn-reseeding-snowplow-damage-vermont-may.jpeg",
+    featured: true,
+    metaDescription:
+      "How to repair snowplow damage, reseed bare patches, and recover salt-burned turf on Vermont properties in May. Real seed mixes, soil temperature, slit-seeding, and the Memorial Day timeline for Rutland County second-home owners.",
+    content: `
+<p>The phone calls start the second week of May. The frost is out of the ground in Rutland County, the snowpack has finally melted from the shaded north sides of the buildings, and second-home owners in Killington, Pittsfield, Mendon, Woodstock, Chittenden, and Ludlow are walking their properties for the first time since November. Most of what they see is fine. The lawn that runs along the driveway is not. Long brown gouges from the plow blade. Salt-burned edges where the deicer ran off. Bare strips where the snowbank sat against the turf all winter and smothered it. The lawn looks like it has been to war.</p>
+
+<p>The repair window is narrow. Vermont soil temperatures hit the 50-degree range that grass seed actually germinates at sometime between May 5 and May 20 in Rutland County, give or take a week for elevation. Push the planting too early and the seed sits in cold wet soil and rots. Push it too late and the seedlings hit the dry heat of July before their roots are deep enough, and the new lawn burns out. The honest planting window is roughly the second and third week of May for most Rutland County elevations. Memorial Day weekend is the deadline if the lawn has to look presentable for guests, and even that is tight on a heavily damaged lawn.</p>
+
+<p>This is the post we wish every Vermont second-home owner read in early May. The information applies whether you hire <a href="/services/grounds-maintenance">Meticulous</a> or another property manager. The point is to know what the lawn actually needs, when the work has to happen, and what the realistic timeline looks like for a presentable result.</p>
+
+<h2>What Snowplow Damage Actually Looks Like on a Vermont Lawn</h2>
+
+<p>The damage we see on Rutland County properties in May falls into four distinct patterns. The repair for each one is different.</p>
+
+<p><strong>Plow-blade gouges.</strong> The plow operator misjudged the edge of the driveway, dropped the blade onto the turf, and dragged it. The result is a long strip where the topsoil and the turf are peeled back, sometimes piled against the lawn shoulder like a poorly cut sod roll. The gouge is six inches to two feet wide and runs the length of the driveway. The grass underneath is dead. The soil structure is destroyed where the blade scraped.</p>
+
+<p><strong>Snowbank smothering.</strong> The plow piled snow against the lawn in the same spot all winter. By April the snowbank had melted to a 4-foot pile. By May it is gone, but the grass underneath is yellow-brown, matted, and oxygen-starved. It may recover with raking and care, or it may need full reseed. The diagnosis takes about a week of dry weather to tell.</p>
+
+<p><strong>Salt burn.</strong> The deicer running off the driveway, the propane truck delivery, and the road salt thrown by the plow all stack up along the lawn edge. By May the turf along the first 18 inches of the lawn is browned, sometimes a crusty white residue on the soil surface. Salt-burned turf rarely recovers on its own. The salt has to be flushed out of the soil and the turf usually has to be reseeded.</p>
+
+<p><strong>Vole and rodent runs.</strong> The least obvious damage. Voles tunneled under the snowpack all winter, eating grass crowns and root tissue. By May the turf shows winding surface trails of dead grass two to three inches wide. The damage looks shocking but most of it grows back through with overseeding and rolling.</p>
+
+<p>The first job in May is to walk the lawn with a notebook and figure out which categories of damage you have and how many square feet of each. The repair plan and the budget come from that count.</p>
+
+<h2>Soil Temperature: Why You Cannot Reseed in April</h2>
+
+<p>The single most-misunderstood thing about reseeding Vermont lawns is soil temperature. Air temperature does not matter. Soil temperature does. Cool-season grass seed (Kentucky bluegrass, perennial ryegrass, fine fescue, tall fescue, the components of every Vermont lawn mix) needs soil temperatures consistently at 50 degrees Fahrenheit to germinate. Above 55 degrees is even better. Below 45 degrees the seed sits dormant or rots.</p>
+
+<p>The 50-degree threshold in Rutland County:</p>
+
+<ul>
+<li><strong>Low elevation, full sun (Rutland city, Castleton, Brandon, West Rutland):</strong> typically hit May 5 to May 12.</li>
+<li><strong>Mid elevation, mixed sun (Mendon, Chittenden, Proctor, Pittsford):</strong> typically hit May 10 to May 18.</li>
+<li><strong>High elevation, partial shade (Killington, Pittsfield, Plymouth, Stockbridge):</strong> typically hit May 15 to May 25.</li>
+<li><strong>High elevation, north-facing or heavy shade:</strong> sometimes not until June 1.</li>
+</ul>
+
+<p>The honest move is buying a $15 soil thermometer and checking the actual lawn before scattering any seed. Stick the probe four inches into the topsoil at 9 AM. If the reading is below 50 degrees, wait a week. If it is 50 to 55, prep the lawn but hold the seed. If it is 55 or above, plant immediately. We carry soil thermometers on the truck and check every property before we make the call.</p>
+
+<h2>Repair Process by Damage Type</h2>
+
+<h3>Plow Gouges and Blade Damage</h3>
+
+<p>The procedure for repairing a plow gouge on a Vermont lawn:</p>
+
+<ol>
+<li><strong>Pull back any displaced sod.</strong> If the plow peeled up a strip of turf that is still partly intact, pull it back and check whether the root mass is alive. If yes, replace it as a sod patch and water in. If no, discard.</li>
+<li><strong>Remove damaged soil and any rocks brought up by the blade.</strong> The gouge usually has compacted subsoil exposed and a pile of mixed gravel and topsoil thrown to one side.</li>
+<li><strong>Backfill with screened topsoil.</strong> A 50/50 mix of screened loam and compost. Bring the grade back up to match the surrounding lawn, sloped gently away from the driveway.</li>
+<li><strong>Rake to a fine tilth.</strong> The seedbed has to be smooth and fine. Lumps of soil leave dead spots.</li>
+<li><strong>Apply starter fertilizer.</strong> A balanced starter (something like 18-24-12) at the bag rate. Phosphorus is the key nutrient for root establishment and is permitted under Vermont fertilizer law for new lawn installation.</li>
+<li><strong>Spread seed at the right rate.</strong> Sun mix at 6 to 8 pounds per 1,000 square feet for new seeding, 3 to 4 pounds per 1,000 square feet for overseeding. Half rate in two passes at 90-degree angles gives even coverage.</li>
+<li><strong>Light raking to incorporate.</strong> Seed needs soil contact but should not be buried more than 1/8 to 1/4 inch deep.</li>
+<li><strong>Roll the seedbed.</strong> A water-filled lawn roller presses the seed into firm contact with the soil. This step doubles germination rates.</li>
+<li><strong>Mulch with weed-free straw or salt-marsh hay.</strong> One to two bales per 1,000 square feet, just enough to break the soil up visually. The mulch holds moisture and shades the seed during germination.</li>
+<li><strong>Water gently, daily.</strong> Light watering twice a day for the first 10 days. The top half-inch of soil should never dry out. Heavy watering washes seed into low spots.</li>
+</ol>
+
+<h3>Snowbank Smother Damage</h3>
+
+<p>The diagnosis takes a week. Rake the matted grass vigorously to fluff it up and expose the soil. Water it. Wait seven days. If the crowns green up and new blades push through, the lawn is recovering and only needs an overseeding pass to fill in thin spots. If the crowns stay yellow and dead, the lawn has to be reseeded as if it were a plow gouge. The same eight-step process above, scaled to the smother footprint.</p>
+
+<h3>Salt Burn</h3>
+
+<p>Salt-damaged soil needs to be flushed before any seed goes in. Saltwater in the root zone kills grass faster than freezing. The flush:</p>
+
+<ol>
+<li><strong>Apply gypsum.</strong> Pelletized calcium sulfate at 40 to 50 pounds per 1,000 square feet. Gypsum displaces sodium ions from the soil and lets them flush out with water.</li>
+<li><strong>Water deeply for three to five days.</strong> An inch a day of water moving salt down past the root zone. Heavy rain in May does this work for you. Dry stretches require irrigation.</li>
+<li><strong>Test the soil if the damage is severe.</strong> A basic soil test through UVM Extension (cost is about $15 per sample) tells you whether the sodium has actually moved out of the root zone.</li>
+<li><strong>Then reseed.</strong> Same process as plow gouge repair.</li>
+</ol>
+
+<p>Salt damage in shore-area homes (lake-adjacent in Castleton or Brandon) is usually less severe than highway-edge driveways. The worst salt cases we see are the long driveways off Route 7 and Route 4 where the highway plow throws salt directly onto the lawn shoulder.</p>
+
+<h3>Vole Damage</h3>
+
+<p>Voles look terrifying and usually fix themselves. Rake the surface trails firmly to break up the dead grass and expose soil. Overseed at 3 to 4 pounds per 1,000 square feet across the affected area. Roll. Water lightly. Most vole damage on a healthy Vermont lawn is gone by the third mowing.</p>
+
+<h2>The Seed Mix Question: What to Actually Plant in Rutland County</h2>
+
+<p>The grass seed aisle at every Vermont garden center has 30 different bags. Most of them are wrong for Rutland County properties. The mixes that actually work:</p>
+
+<ul>
+<li><strong>Sun mix:</strong> 40% Kentucky bluegrass, 30% perennial ryegrass, 30% fine fescue. Good for driveway edges, open lawns, and most second-home yards.</li>
+<li><strong>Shade mix:</strong> 60% fine fescue (chewings, hard, creeping red), 20% perennial ryegrass, 20% rough bluegrass. Use under sugar maples and on north-facing slopes.</li>
+<li><strong>Mountain mix or "Vermont" branded mix:</strong> Higher percentage of fine fescue and lower bluegrass. Works at higher elevations where the bluegrass struggles. Worth the extra cost for Killington, Mendon, and Pittsfield properties above 1,500 feet.</li>
+<li><strong>Rough turf mix or "contractor's mix":</strong> Cheap, mostly annual ryegrass. Germinates fast, dies in year two. Avoid except for short-term cosmetic patches.</li>
+</ul>
+
+<p>We carry sun mix and shade mix on the truck during May and June so we are not relying on what the garden center has in stock. A good Vermont sun mix runs $80 to $130 for a 25-pound bag (covers 5,000 square feet new seed or 10,000 square feet overseed). Cheaper bags exist; they are cheap for a reason.</p>
+
+<h2>Slit-Seeding Versus Broadcast Seeding</h2>
+
+<p>For driveway-edge damage on most Rutland County lawns, hand-broadcast seeding works fine. For larger reseeding jobs (more than 500 square feet of damage), a slit-seeder is the better tool. A slit-seeder cuts shallow grooves in the soil and drops seed directly into the grooves, guaranteeing seed-to-soil contact and improving germination by 20 to 30 percent over broadcast seeding.</p>
+
+<p>We rent slit-seeders for any job over 1,000 square feet of repair. The rental is $90 to $130 per day in Rutland County, and the time saved plus the higher germination rate pays for it on anything beyond a single driveway gouge. On smaller jobs the broadcast-rake-roll process is fast enough that the slit-seeder is overkill.</p>
+
+<h2>Soil Aeration: When to Run It Before Reseeding</h2>
+
+<p>Core aeration in fall is the better window for Vermont lawns. Spring aeration is acceptable if the lawn is compacted, but only if the soil is dry enough that the cores come up cleanly and the aerator does not rut the lawn. The decision rule we use: if you can drive a screwdriver into the lawn by hand, the soil is too wet to aerate. Wait. We covered the full aeration question, including the right timing window for second-home owners, in our <a href="/blog/when-to-aerate-your-lawn-vermont">Vermont lawn aeration guide</a>.</p>
+
+<p>If aeration and overseeding are part of the same May visit, the order is: aerate first, then drop a topdressing of compost over the cores, then broadcast seed, then roll. The cores fill with seed and topdressing and give the new grass an ideal pocket to establish from.</p>
+
+<h2>The Realistic Memorial Day Timeline</h2>
+
+<p>Most Vermont second-home owners ask whether the lawn will look presentable by Memorial Day weekend. The honest math:</p>
+
+<ul>
+<li><strong>Seed planted by May 12:</strong> Germination by May 22, first mowing by June 1. Lawn looks thin but present by Memorial Day weekend. Acceptable for guests.</li>
+<li><strong>Seed planted by May 19:</strong> Germination by May 30. Lawn looks like bare patches with green fuzz on Memorial Day. Not presentable.</li>
+<li><strong>Seed planted after May 25:</strong> Will not be a lawn by Memorial Day. Cover with sod if presentation matters, or accept the look and let it grow in for July guests.</li>
+</ul>
+
+<p>Sod is the workaround when the timeline is tight. Vermont-grown sod runs $0.85 to $1.20 per square foot installed in Rutland County, plus delivery. For 100 to 500 square feet of high-visibility damage along a front driveway or front walk, sod is a credible Memorial Day fix. For larger areas, the cost is prohibitive and seeding is the right call even if the lawn looks thin for the first holiday weekend.</p>
+
+<h2>Watering: The Step That Decides the Whole Job</h2>
+
+<p>Reseeding fails more often from inadequate watering than from any other cause. The seed has to stay moist through germination. Once germinated, the new grass has to stay moist through the first three weeks while roots establish. The watering schedule:</p>
+
+<ul>
+<li><strong>Days 1 to 14:</strong> Light watering twice daily, morning and late afternoon. Top half-inch of soil never dries out. Roughly 5 to 10 minutes per zone on a residential system.</li>
+<li><strong>Days 15 to 28:</strong> Once daily, slightly deeper. Top 2 inches of soil stay moist. Roughly 10 to 15 minutes per zone.</li>
+<li><strong>Days 29 to 60:</strong> Three times per week, deeper still. Top 4 inches of soil moisture. Roughly 20 minutes per zone.</li>
+<li><strong>Day 60 onward:</strong> Normal watering schedule, deep and infrequent.</li>
+</ul>
+
+<p>For second-home owners who are not on the property every day, this is the operational killer. The seed needs daily attention for two weeks straight in mid-May. A property manager visiting twice a week is not enough. Either the lawn needs an irrigation system on a timer, a property manager doing daily checks during the establishment window, or a planting date timed to a rainy week. We coordinate the planting with the forecast whenever the homeowner is out of state, and we time the work to a wet stretch so the rain does most of the watering for us. May in Vermont averages about 3 to 4 inches of rain, which is more than enough if it falls consistently.</p>
+
+<h2>Preventing the Damage Next Winter</h2>
+
+<p>The same damage shows up every May on properties that do not address the cause. The standard preventions:</p>
+
+<ul>
+<li><strong>Driveway markers along every plow edge.</strong> Fiberglass rods every 6 to 8 feet on both sides of the driveway. Cost is $40 to $80 for a residential driveway. Reduces plow gouges by 80 percent.</li>
+<li><strong>Plow contract that specifies edge protection.</strong> The contract language should require the operator to keep the blade at least 6 inches off the turf edge. Confirm the operator knows the property before the first storm. We covered the full winterization checklist in our <a href="/blog/preparing-property-for-winter">preparing your Vermont property for winter</a> post.</li>
+<li><strong>Salt alternative deicers along driveway edges.</strong> Calcium magnesium acetate (CMA) or sand instead of rock salt within 6 feet of the lawn. More expensive per bag, vastly cheaper than reseeding the edge every May.</li>
+<li><strong>Snowbank location planning.</strong> Tell the plow operator where to push the snow before the first storm of the season. Pushing the bank onto a gravel apron or a hardscape pad keeps it off the lawn.</li>
+</ul>
+
+<h2>How Meticulous Handles May Lawn Repair</h2>
+
+<p>We walk the property the second week of May with a soil thermometer and a clipboard. Damage gets categorized and measured. The estimate covers materials (seed, soil, fertilizer, gypsum, mulch) and labor with a delivery date tied to the soil-temperature window. Most properties run between $400 and $1,800 for full May repair, depending on the linear footage of plow damage and whether sod is needed for any high-visibility patches.</p>
+
+<p>We carry sun mix, shade mix, mountain mix, starter fertilizer, gypsum, screened loam, and salt-marsh hay on the truck through May and June. Slit-seeder rental gets scheduled for the larger jobs. The watering is coordinated with the forecast or with the on-property irrigation system. Memorial Day deadline is honored when the math supports it; when it does not, we say so on the estimate.</p>
+
+<p>If you own a property in Killington, Pittsfield, Mendon, Chittenden, Rutland, Brandon, Castleton, West Rutland, Proctor, Woodstock, Ludlow, or anywhere else in Rutland County and the lawn looks rough from this past winter, <a href="/contact">reach out</a>. We will walk the property and give you a real number and a real timeline.</p>
+`,
+  },
+  {
     slug: "frost-heave-repair-walkways-patios-vermont",
     title: "Frost Heave Repair on Vermont Walkways and Patios: What to Fix Before Memorial Day",
     excerpt:
@@ -21,7 +179,7 @@ export const blogPosts: BlogPost[] = [
     date: "May 2026",
     readTime: "8 min read",
     image: "/images/blog-frost-heave-walkways-patios.jpeg",
-    featured: true,
+    featured: false,
     metaDescription:
       "How to assess and repair frost-heaved bluestone, pavers, and concrete walkways and patios on Vermont properties. Diagnosis, full reset vs. lift-and-reset, and pricing realities for Rutland County hardscape repair.",
     content: `
