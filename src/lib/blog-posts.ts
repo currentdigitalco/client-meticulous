@@ -13,6 +13,84 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "tick-mosquito-control-vermont-properties",
+    title: "Ticks, Black Flies, and Mosquitoes on Vermont Properties: Your Late-Spring Pest Plan",
+    excerpt:
+      "Late May is when the bugs take over a Rutland County property. Black flies are at their worst, the first mosquito hatch is out of the standing water, and tick season is in full swing right when guests start arriving. Here is what actually keeps a Killington or Woodstock property usable through the summer, and what is a waste of money.",
+    category: "Property Maintenance",
+    date: "May 2026",
+    readTime: "9 min read",
+    image: "/images/blog-tick-mosquito-control-vermont-properties.jpeg",
+    featured: true,
+    metaDescription:
+      "A late-spring pest control plan for Vermont properties: tick management and Lyme prevention, black fly timing, and mosquito source reduction for Rutland County second-home owners in Killington, Woodstock, Mendon, and Chittenden.",
+    content: `
+<p>There is a two-week stretch in late May when a Vermont property goes from snow-recovery mode to bug season with no warning. The frost is finally out, the lawn is greening up, the second-home owners are arriving for the season, and the woods come alive with the three pests that define a Rutland County summer: black flies at their absolute worst, the first mosquito hatch rising off every pool of standing water, and ticks questing in the tall grass along every tree line. It is the exact moment a property looks its best and becomes least usable. We get the calls every year from owners in Killington, Pittsfield, Mendon, Woodstock, Chittenden, and Ludlow who came up for Memorial Day weekend and could not sit on their own deck.</p>
+
+<p>Vermont pest pressure is not a landscaping afterthought. It is a real factor in whether a property is enjoyable from late May through August, and in the case of ticks it is a genuine health issue. Rutland County sits in one of the higher Lyme disease incidence regions in the country, and the blacklegged tick that carries it is active any time the ground is above freezing. This is the post we wish every Vermont second-home owner read in early May, because most of the effective work is timing-dependent and the window is now. The information applies whether you hire <a href="/services/property-maintenance">Meticulous</a> or handle it yourself. The point is to spend on what works and skip what does not.</p>
+
+<h2>Black Flies: The Worst Two Weeks of the Vermont Year</h2>
+
+<p>If you have never spent late May in the Green Mountains, the black fly situation is hard to believe. Black flies breed in clean, fast-moving water, which Vermont has in abundance: every stream, brook, and runoff channel coming off the mountains. They emerge in a concentrated burst that, in most of Rutland County, runs roughly from Mother's Day through mid-to-late June, peaking in the last two weeks of May. They do not come indoors, they do not breed in your yard, and there is nothing you can spray on the property that meaningfully controls them, because they are coming from the moving water across the whole landscape.</p>
+
+<p>What actually helps with black flies:</p>
+
+<ul>
+<li><strong>Timing your outdoor work and events.</strong> Black flies are daytime feeders and they are worst on warm, still, humid afternoons. Early morning and the hour around dusk are noticeably better. If you are scheduling an outdoor gathering in late May or early June, this matters more than any product.</li>
+<li><strong>Personal protection over property treatment.</strong> DEET and picaridin repellents work. Light-colored clothing, long sleeves, and a brimmed hat help. There is no honest yard spray that stops black flies, and any company that promises to "treat" your property for them is selling you something that does not work.</li>
+<li><strong>Patience.</strong> The brutal truth is that black fly season ends on its own by late June. The misery is real but short. We tell owners not to spend money fighting black flies and instead to focus that budget on ticks and mosquitoes, which respond to control and last all summer.</li>
+</ul>
+
+<h2>Ticks: The One That Actually Matters for Your Health</h2>
+
+<p>Black flies are miserable. Ticks are dangerous. The blacklegged tick, also called the deer tick, is established throughout Rutland County and carries Lyme disease along with anaplasmosis and babesiosis. Ticks are active any time the temperature is above freezing, which means the Vermont tick season effectively runs from the first thaw in spring through the first hard freeze in late fall. The nymph stage, active from late May through July, is the most dangerous because the nymphs are the size of a poppy seed and are responsible for the majority of Lyme transmission. Late spring is peak risk.</p>
+
+<p>Ticks do not live in the open lawn. They live in the transition zones: the tall grass and leaf litter where the mowed lawn meets the woods, the stone walls, the perennial beds, and the shaded edges. Knowing that is the whole strategy, because it means you can dramatically cut tick exposure by managing the edges rather than dousing the whole property.</p>
+
+<p>What works on ticks, in order of value:</p>
+
+<ul>
+<li><strong>Create a dry barrier between lawn and woods.</strong> A three-foot-wide strip of wood-chip mulch or gravel between the mowed lawn and the tree line is one of the most studied and most effective tick controls there is. Ticks will not cross a wide, dry, sunny barrier. This single piece of landscaping does more than any spray.</li>
+<li><strong>Keep the edges short and the leaf litter cleared.</strong> Mow the lawn edges tight, clear leaf litter out of the transition zones, and prune back brush so sunlight hits the ground. Ticks dry out and die in sun and low humidity. A clean, sunny property edge is hostile to them.</li>
+<li><strong>Move the kids' play area and seating away from the edge.</strong> Put the swing set, the fire pit, and the Adirondack chairs in the open, sunny center of the lawn, not tucked against the woods. It is free and it works.</li>
+<li><strong>Targeted perimeter treatment.</strong> A perimeter application of a pesticide along the woods edge and transition zones, timed for the late-May nymph emergence and again in mid-summer, significantly reduces the tick population in the zone where people actually walk. This is where a professional treatment earns its cost, applied to the edges, not blanketed across the whole lawn.</li>
+<li><strong>Tick checks, every time.</strong> No property treatment is 100 percent. A tick has to be attached for roughly 24 to 36 hours to transmit Lyme, so a daily check, especially on kids and dogs after they have been near the edges, is the last and most important line of defense.</li>
+</ul>
+
+<p>For out-of-state owners who are only up on weekends, the barrier and the edge management matter most because they work passively while you are not there. We build tick-barrier strips and keep the transition zones managed as part of <a href="/services/grounds-maintenance">grounds maintenance</a> on the properties we manage, precisely because it is the highest-value pest work on a Vermont property.</p>
+
+<h2>Mosquitoes: Kill the Water, Not the Air</h2>
+
+<p>The first mosquito hatch in Rutland County comes off standing water in mid-to-late May and the population builds through the warm, humid weeks of summer. Unlike black flies, mosquitoes breed locally, often within a few hundred feet of where they bite, which means source reduction on your own property genuinely works. Every mosquito starts as larvae in standing water, so eliminating standing water eliminates the next generation.</p>
+
+<p>The standing water that breeds mosquitoes on a Vermont property:</p>
+
+<ul>
+<li><strong>Clogged gutters holding water.</strong> The number-one overlooked breeding site. A gutter full of last fall's leaves holds water all summer and produces mosquitoes by the thousand. This ties directly into the snowmelt and drainage cleanup we cover in our <a href="/blog/spring-drainage-problems-vermont-snowmelt">spring drainage guide</a>.</li>
+<li><strong>Anything that holds rainwater.</strong> Tarps over the woodpile or the boat, buckets, wheelbarrows, kids' toys, plant saucers, the folds of a deck umbrella, an unused birdbath. Mosquitoes need shockingly little water. A bottle cap's worth will do.</li>
+<li><strong>Low spots in the lawn and clogged drainage.</strong> Areas that pond after rain and do not drain within a couple of days. Regrading or improving drainage in those spots removes the breeding ground.</li>
+<li><strong>Ornamental ponds and rain barrels.</strong> Not a reason to remove them, but they need either circulation, a mosquito-control product like a Bti dunk that is safe for fish and wildlife, or screening.</li>
+</ul>
+
+<p>Walk the property after a rain in late May and dump, drain, or screen every container that is holding water. Do that one pass and you cut your summer mosquito population more than any fogging service will. For properties that want it, a targeted larvicide treatment of the unavoidable standing water and a perimeter application to shaded resting areas can knock the adult population down for events, but the foundation is always source reduction first.</p>
+
+<h2>What This Looks Like on a Managed Vermont Property</h2>
+
+<p>The plan we run on the Rutland County properties we manage is built around timing and the edges, because that is where the results are:</p>
+
+<ul>
+<li><strong>Early-to-mid May:</strong> walk the property as part of the spring opening, identify and clear standing water, clean the gutters, and flag the tick transition zones. This pairs with the broader checklist in our <a href="/blog/opening-vermont-second-home-spring-checklist">spring opening guide for out-of-state owners</a>.</li>
+<li><strong>Late May:</strong> establish or refresh the wood-chip tick barrier along the woods edge, tighten up edge mowing, and time the first targeted tick perimeter treatment to the nymph emergence.</li>
+<li><strong>Through summer:</strong> keep edges short and leaf litter cleared, repeat the targeted perimeter treatment mid-summer, and stay on top of standing water after every heavy rain.</li>
+<li><strong>All season:</strong> personal protection and daily tick checks, because no property is ever fully tick-free in Vermont.</li>
+</ul>
+
+<p>The honest summary: do not spend money fighting black flies, they are gone by late June on their own. Spend it on ticks, because that is the one with a health cost, and the work is cheap and effective: a barrier strip, clean edges, and a targeted perimeter treatment. Knock out mosquito breeding by dumping standing water before you ever consider fogging. That order, ticks first, mosquitoes by source reduction, black flies waited out, is where the money actually goes to work on a Vermont property.</p>
+
+<p>Meticulous manages grounds and property maintenance for second-home owners and local businesses across Rutland County, including Killington, Rutland, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, and Brandon. If you want the tick barriers built, the edges kept hostile to ticks, and the standing water gone before the season hits, <a href="/contact">get in touch</a> and we will build the pest plan into your maintenance schedule.</p>
+`,
+  },
+  {
     slug: "lawn-reseeding-snowplow-damage-vermont-may",
     title: "Lawn Reseeding and Snowplow Damage Repair on Vermont Properties: The Mid-May Window",
     excerpt:
@@ -21,7 +99,7 @@ export const blogPosts: BlogPost[] = [
     date: "May 2026",
     readTime: "8 min read",
     image: "/images/blog-lawn-reseeding-snowplow-damage-vermont-may.jpeg",
-    featured: true,
+    featured: false,
     metaDescription:
       "How to repair snowplow damage, reseed bare patches, and recover salt-burned turf on Vermont properties in May. Real seed mixes, soil temperature, slit-seeding, and the Memorial Day timeline for Rutland County second-home owners.",
     content: `
