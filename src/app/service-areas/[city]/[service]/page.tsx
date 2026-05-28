@@ -10,6 +10,9 @@ import {
   getServiceExtras,
   getTownType,
 } from "@/app/services/[slug]/service-data-extras";
+import { getServiceCityCopy } from "@/lib/service-city-copy.generated";
+import { existsSync } from "node:fs";
+import { join } from "node:path";
 import { InnerLayout } from "@/components/shared/inner-layout";
 import { QuoteForm } from "@/components/shared/quote-form";
 import { SeasonalCTA } from "@/components/shared/seasonal-cta";
@@ -306,8 +309,15 @@ export default async function ServiceCityPage({
   const serviceIndex = serviceDetails.findIndex((s) => s.slug === service);
   const variant = (cityIndex * serviceDetails.length + serviceIndex) % 3;
 
-  const introParagraphs = getIntroParagraphs(area, svc, variant);
+  const bakedParagraphs = getServiceCityCopy(area.slug, svc.slug);
+  const introParagraphs = bakedParagraphs ?? getIntroParagraphs(area, svc, variant);
   const faqs = getServiceFAQs(area, svc);
+
+  // Atmospheric per-town image — rendered as a band only when present.
+  const townImageSrc = `/images/towns/${area.slug}.webp`;
+  const hasTownImage = existsSync(
+    join(globalThis.process.cwd(), "public", "images", "towns", `${area.slug}.webp`),
+  );
   const schema = buildSchema(area, svc, faqs);
 
   const otherServices = serviceDetails.filter((s) => s.slug !== svc.slug);
@@ -400,6 +410,24 @@ export default async function ServiceCityPage({
           ))}
         </div>
       </section>
+
+      {/* Atmospheric local band — sets the town tone, not a literal landmark */}
+      {hasTownImage && (
+        <div className="relative mt-2 h-44 w-full overflow-hidden md:h-56 lg:h-64">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src={townImageSrc}
+            alt={`${svc.title} in ${area.name}, ${area.region} — Meticulous LLC`}
+            className="h-full w-full object-cover"
+          />
+          <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/15 to-transparent" />
+          <div className="absolute bottom-0 left-0 mx-auto w-full max-w-7xl px-6 pb-4 md:px-8">
+            <p className="text-[10px] font-medium uppercase tracking-[0.3em] text-cream/90 md:text-xs">
+              {area.name} &middot; {area.region}
+            </p>
+          </div>
+        </div>
+      )}
 
       {/* Intro + sidebar */}
       <section className="py-16 md:py-24 bg-soil-light/20">
