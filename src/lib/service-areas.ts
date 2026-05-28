@@ -248,7 +248,7 @@ export const serviceAreas: ServiceArea[] = [
       "Properties in Proctor tend to be closer-knit than the rural towns further east, which changes what property care looks like — tighter lots, shared boundaries, and historic homes that benefit from careful craftsmanship rather than heavy-equipment solutions.",
       "We handle the full scope for Proctor homeowners and property managers, from grounds maintenance and snow plowing to hardscape repairs and carpentry on older homes.",
     ],
-    localContext: "Proctor was built around the Vermont marble industry and still shows that character in its stone buildings and compact village layout. The town has a dense residential core, the Otter Creek running through the center, and Proctor Falls as a local landmark. Properties here are often older with original stonework and architectural details that need a specific kind of care. Mud season accelerates on Proctor's compact lots, where melt water from neighboring grades can concentrate quickly and erode walkways and lawn edges if the drainage isn't managed early.",
+    localContext: "Proctor was built around the Vermont marble industry and still shows that character in its stone buildings and compact village layout. The town has a dense residential core, the Otter Creek running through the center, and Proctor Falls as a local landmark. Properties here are often older with original stonework and architectural details that need a specific kind of care. Late May in Proctor means the spring stack is wrapping: bed edging and mulch refresh on the historic village homes, first cuts running on a tight weekly cadence, and pointing repairs on stone walls and walkways where freeze-thaw shifted courses over the winter.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "carpentry", "property-maintenance", "hardscaping"],
     landmarks: ["Proctor Falls", "Otter Creek", "Vermont Marble Museum", "Main Street Proctor"],
     faqs: [
@@ -265,7 +265,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "We handle stonework as part of hardscape installation and repair. For specialty historic preservation work, we collaborate with local stone masons when the job calls for it.",
       },
     ],
-    lastUpdated: "2026-04-23",
+    lastUpdated: "2026-05-28",
   },
   {
     slug: "west-rutland",
@@ -372,7 +372,7 @@ export const serviceAreas: ServiceArea[] = [
       "We service Wallingford homeowners and rural property owners with grounds care, winter service, and carpentry projects. The town's spread-out geography means routing matters — we build efficient schedules so clients aren't paying for dead travel time.",
       "Most of our Wallingford clients are year-round residents who want a local company that shows up reliably, rather than a regional service bouncing between jobs.",
     ],
-    localContext: "Wallingford has a compact village center along Route 7 and rural properties stretching into the hills to the east and west. The town is known for its connection to Elfin Lake and the Green Mountain National Forest. Properties range from village lots to large rural parcels, with the mix of year-round residents, retirees, and second-home owners typical of southern Rutland County. Mud season hits Wallingford's back-road properties hard — high water tables and clay-heavy soil mean driveways and access paths take longer to firm up than in the village, and early spring cleanups need to be timed carefully to avoid compacting wet ground.",
+    localContext: "Wallingford has a compact village center along Route 7 and rural properties stretching into the hills to the east and west. The town is known for its connection to Elfin Lake and the Green Mountain National Forest. Properties range from village lots to large rural parcels, with the mix of year-round residents, retirees, and second-home owners typical of southern Rutland County. By late May the back-road properties have finally firmed up enough for full equipment access. The window is open for driveway grading on gravel access roads, first full mow on the rural parcels, and the deferred winter-damage repairs on porch steps, lawn edges, and stone walls that needed dry ground to fix properly.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "carpentry", "property-maintenance"],
     landmarks: ["Route 7", "Elfin Lake", "Green Mountain National Forest", "Wallingford Village"],
     faqs: [
@@ -389,7 +389,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Full-season contracts covering grounds maintenance and snow service are our most common arrangement — predictable cost, predictable service, no scheduling headaches.",
       },
     ],
-    lastUpdated: "2026-04-23",
+    lastUpdated: "2026-05-28",
   },
   {
     slug: "pittsford",
@@ -434,7 +434,7 @@ export const serviceAreas: ServiceArea[] = [
       "The town has a strong year-round residential base and is a natural service area for us — close to our equipment yard and easy to route.",
       "We handle the full scope: grounds, plowing, carpentry, property support, and hardscape work for Clarendon homeowners and rural property owners.",
     ],
-    localContext: "Clarendon has a mix of village-style neighborhoods in the south, rural properties stretching toward the Green Mountains, and the Clarendon Gorge as a notable natural feature. The Appalachian Trail crosses the town, and the proximity to Rutland makes it a common commuter community. Properties range from village lots to rural parcels with significant acreage.",
+    localContext: "Clarendon has a mix of village-style neighborhoods in the south, rural properties stretching toward the Green Mountains, and the Clarendon Gorge as a notable natural feature. The Appalachian Trail crosses the town, and the proximity to Rutland makes it a common commuter community. Properties range from village lots to rural parcels with significant acreage. Late May is the cutoff for getting Clarendon properties presentation-ready before Memorial Day: spring cleanup, mulch refresh, sidewalk and driveway apron repair where freeze-thaw shifted things, irrigation commissioning on the village lots, and the first weekly mow on a 3.5-inch cutting height.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "property-maintenance", "hardscaping", "carpentry"],
     landmarks: ["Clarendon Gorge", "Appalachian Trail", "Route 7B", "Clarendon River"],
     faqs: [
@@ -451,7 +451,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Patios, walkways, and retaining walls in Clarendon are common projects. We build with proper base prep and materials suited to Vermont's freeze-thaw cycles.",
       },
     ],
-    lastUpdated: "2026-04-21",
+    lastUpdated: "2026-05-28",
   },
   {
     slug: "shrewsbury",
@@ -465,7 +465,7 @@ export const serviceAreas: ServiceArea[] = [
       "Properties here sit at elevation, which means bigger snow loads, longer winters, and road access that can get tricky in bad weather — exactly the conditions that separate serious property care companies from the ones that cut corners.",
       "We handle Shrewsbury properties with equipment and crews sized for the terrain, full-season contracts, and the kind of local knowledge you need when your driveway is half a mile long and snows 150 inches a year.",
     ],
-    localContext: "Shrewsbury is a rural town with properties on hillsides, along the edges of Green Mountain National Forest, and across a wide geography with multiple village settlements (Shrewsbury Center, Cuttingsville, Northam). Snow accumulation is among the heaviest in Rutland County, and elevation changes significantly across the town. Many properties are second homes or long-driveway rural homesites. At elevation, mud season starts later and runs longer than in the valley — April and May are prime time for spring cleanups, driveway grading, and catching up on work the snow buried all winter.",
+    localContext: "Shrewsbury is a rural town with properties on hillsides, along the edges of Green Mountain National Forest, and across a wide geography with multiple village settlements (Shrewsbury Center, Cuttingsville, Northam). Snow accumulation is among the heaviest in Rutland County, and elevation changes significantly across the town. Many properties are second homes or long-driveway rural homesites. At elevation, mud season starts later and runs longer than in the valley. By late May Shrewsbury Center is finally dry enough for full equipment access, and we're working the deferred spring stack: long-driveway grading where frost left ruts, plow-edge turf repair on hillside lawns, and the first real mow once the higher-elevation lots firm up enough not to scar.",
     priorityServices: ["snow-ice-management", "grounds-maintenance", "property-maintenance", "rental-support"],
     landmarks: ["Cuttingsville", "Shrewsbury Center", "Green Mountain National Forest", "Shrewsbury Peak"],
     faqs: [
@@ -482,7 +482,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Property check-ins with photo documentation are a common service for our Shrewsbury clients, especially during winter when weather events can create issues that need quick response.",
       },
     ],
-    lastUpdated: "2026-04-23",
+    lastUpdated: "2026-05-28",
   },
   {
     slug: "tinmouth",
@@ -496,7 +496,7 @@ export const serviceAreas: ServiceArea[] = [
       "Property care in Tinmouth tends to be relationship-driven — neighbors know each other, and owners want service providers who'll treat the property and the community with the same respect.",
       "We work with Tinmouth homeowners and rural property owners on grounds care, snow contracts, carpentry, and property support. We route through the town on a regular schedule so clients get consistent service despite the rural geography.",
     ],
-    localContext: "Tinmouth is a rural town with working farms, historic homes, and a strong community identity. The town has protected significant acreage through conservation efforts, and many properties sit on larger parcels with mature landscaping and woodland borders. Tinmouth Pond and the Tinmouth Contra Dance Hall are notable features.",
+    localContext: "Tinmouth is a rural town with working farms, historic homes, and a strong community identity. The town has protected significant acreage through conservation efforts, and many properties sit on larger parcels with mature landscaping and woodland borders. Tinmouth Pond and the Tinmouth Contra Dance Hall are notable features. Late May is the window for Tinmouth's larger parcels to firm up enough for mowing the back acreage and finishing winter-damage repairs on outbuildings, fencing, and woodland-edge access paths before the summer growing season takes over.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "property-maintenance", "carpentry"],
     landmarks: ["Tinmouth Pond", "Tinmouth Contra Dance Hall", "Tinmouth Channel Wildlife Management Area"],
     faqs: [
@@ -513,7 +513,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Historic and older homes are common in Tinmouth. We handle exterior repairs, trim work, and structural carpentry with the care those properties deserve.",
       },
     ],
-    lastUpdated: "2026-04-21",
+    lastUpdated: "2026-05-28",
   },
   {
     slug: "florence",
@@ -527,7 +527,7 @@ export const serviceAreas: ServiceArea[] = [
       "We service Florence as part of our Route 7 corridor coverage, with grounds care, winter contracts, and property support that gets scheduled efficiently alongside our Pittsford and Brandon routes.",
       "Florence properties benefit from our routing — we're already in the area, which keeps pricing fair and response times tight.",
     ],
-    localContext: "Florence is a village within the town of Pittsford, situated along Route 7 near Otter Creek. Properties here are a mix of residential homes, small farms, and rural parcels. The community's proximity to larger towns (Pittsford center, Brandon, Rutland) makes it a common commuter area, with many year-round residents. Mud season along the Route 7 corridor brings shoulder-season traffic and soft ground that makes early lawn and driveway work tricky — owners who schedule spring cleanups for mid-to-late May get better results than those who rush it in April.",
+    localContext: "Florence is a village within the town of Pittsford, situated along Route 7 near Otter Creek. Properties here are a mix of residential homes, small farms, and rural parcels. The community's proximity to larger towns (Pittsford center, Brandon, Rutland) makes it a common commuter area, with many year-round residents. By late May the Route 7 corridor is dry enough for the heavy spring stack: weekly commercial mowing for the small business lots, mulch refresh on residential beds, and the final pre-summer carpentry repairs on porch boards and exterior trim that owners pushed off through mud season.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "property-maintenance", "carpentry"],
     landmarks: ["Otter Creek", "Route 7", "Florence Station Road"],
     faqs: [
@@ -544,7 +544,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Grounds care on rural parcels — including mowing, seasonal cleanups, and woodland-edge maintenance — is a core service for our Florence clients.",
       },
     ],
-    lastUpdated: "2026-04-23",
+    lastUpdated: "2026-05-28",
   },
   {
     slug: "fair-haven",
@@ -558,7 +558,7 @@ export const serviceAreas: ServiceArea[] = [
       "We service Fair Haven homeowners and business owners with grounds maintenance, winter service, and property care that gets routed efficiently alongside our West Rutland and Castleton coverage.",
       "Most of our Fair Haven clients are year-round residents who want a local crew they can count on season after season, not a rotating cast of subcontractors from outside the county.",
     ],
-    localContext: "Fair Haven has a distinct identity anchored in Vermont's historic slate industry, with older homes, a walkable village, and properties that sit on a mix of village lots and rural parcels. The town is on the Vermont border with New York, giving it a slightly different weather pattern than the eastern Rutland County towns. Mud season here runs from late March through May, with flat terrain that can hold water longer than the hillier towns further east.",
+    localContext: "Fair Haven has a distinct identity anchored in Vermont's historic slate industry, with older homes, a walkable village, and properties that sit on a mix of village lots and rural parcels. The town is on the Vermont border with New York, giving it a slightly different weather pattern than the eastern Rutland County towns. Mud season here runs from late March through May, with flat terrain that can hold water longer than the hillier towns further east. By the last week of May the village lots are dry enough for full presentation work ahead of the summer season: bed edging and mulch on the historic homes, plow-deposit cleanup along the Route 4A curb lines, and commercial walkway pressure-washing for the village storefronts.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "property-maintenance", "carpentry"],
     landmarks: ["Route 4A", "Fair Haven Village Green", "Fair Haven Town Hall", "Castleton River", "Wells Village nearby"],
     faqs: [
@@ -575,7 +575,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. We handle commercial plowing for storefronts, parking areas, and business properties throughout Fair Haven village, with early-morning priority service so entries are clear before the business day starts.",
       },
     ],
-    lastUpdated: "2026-04-23",
+    lastUpdated: "2026-05-28",
   },
   {
     slug: "mount-holly",

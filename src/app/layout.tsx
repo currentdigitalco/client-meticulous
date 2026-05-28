@@ -144,6 +144,14 @@ export default function RootLayout({
         },
       })),
     },
+    aggregateRating: {
+      "@type": "AggregateRating",
+      ratingValue: "5.0",
+      bestRating: "5",
+      worstRating: "1",
+      reviewCount: realReviews.length,
+      ratingCount: realReviews.length,
+    },
     review: realReviews.map((r) => ({
       "@type": "Review",
       author: { "@type": "Person", name: r.author, address: r.location },
