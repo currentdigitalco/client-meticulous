@@ -49,6 +49,21 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     url: "https://meticulous802.com",
+    images: [
+      {
+        url: "https://meticulous802.com/images/hero-landing.jpeg",
+        width: 1920,
+        height: 1072,
+        alt: "Meticulous LLC — complete property care in Rutland County, Vermont",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Meticulous LLC | Complete Property Care",
+    description:
+      "Complete property care, built around higher standards. Serving Killington, Rutland & surrounding Vermont communities since 2009.",
+    images: ["https://meticulous802.com/images/hero-landing.jpeg"],
   },
   robots: { index: true, follow: true },
 };
