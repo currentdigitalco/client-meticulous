@@ -382,8 +382,16 @@ export default async function ServiceCityPage({
         <h1 className="font-display text-4xl md:text-5xl lg:text-6xl tracking-tight leading-[0.95] max-w-4xl">
           {svc.title} in {area.name}, Vermont
         </h1>
-        <p className="mt-6 text-[15px] leading-relaxed text-stone-dark/65 max-w-2xl">
-          {extras?.seasonalHook ?? svc.subtitle}. Serving {area.name} and surrounding {area.region} towns.
+        <p
+          data-speakable
+          className="mt-6 text-[15px] leading-relaxed text-stone-dark/65 max-w-2xl"
+        >
+          Meticulous LLC provides {svc.title.toLowerCase()} in {area.name},
+          Vermont — a licensed, insured Vermont property-care and management
+          company offering free on-site estimates. Call (802) 342-8293.
+        </p>
+        <p className="mt-3 text-[15px] leading-relaxed text-stone-dark/55 max-w-2xl">
+          {extras?.seasonalHook ?? svc.subtitle}.
         </p>
         <div className="mt-5 flex flex-wrap items-center gap-x-5 gap-y-2 text-xs font-medium uppercase tracking-[0.18em] text-stone-dark/60">
           <span>Licensed VT contractor</span>
