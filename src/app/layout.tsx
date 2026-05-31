@@ -122,7 +122,10 @@ export default function RootLayout({
       name: city,
       containedInPlace: {
         "@type": "AdministrativeArea",
-        name: "Rutland County, Vermont",
+        // Woodstock & Ludlow are in Windsor County, not Rutland.
+        name: ["Woodstock", "Ludlow"].includes(city)
+          ? "Windsor County, Vermont"
+          : "Rutland County, Vermont",
       },
     })),
     serviceArea: {

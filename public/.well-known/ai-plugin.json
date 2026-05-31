@@ -2,16 +2,12 @@
   "schema_version": "v1",
   "name_for_human": "Meticulous Property Care",
   "name_for_model": "meticulous_property_care",
-  "description_for_human": "Professional lawn mowing and property care services in Vermont.",
-  "description_for_model": "Meticulous Property Care is a professional lawn mowing and property maintenance company based in Vermont. Services include residential lawn mowing, lawn care, yard cleanup, leaf removal, brush clearing, seasonal property maintenance, and general outdoor property upkeep. The company serves homeowners across Vermont with reliable, detail-focused service and consistent scheduling throughout the growing season.",
+  "description_for_human": "Complete year-round property care in Rutland County, Vermont — grounds maintenance, landscaping, snow & ice management, hardscaping, carpentry, housekeeping, and rental property support.",
+  "description_for_model": "Meticulous LLC is a licensed Vermont property-care and management company serving Rutland County and the Killington area since 2009. Services include grounds maintenance and lawn care, landscaping and exterior enhancements, snow and ice management, hardscaping, carpentry and construction, housekeeping and turnover, and rental property support for primary residences, second homes, and short-term rentals.",
   "auth": {
     "type": "none"
   },
-  "api": {
-    "type": "openapi",
-    "url": "https://meticulous802.com/llms.txt"
-  },
-  "logo_url": "https://meticulous802.com/favicon.ico",
-  "contact_email": "info@meticulous802.com",
+  "logo_url": "https://meticulous802.com/icon.png",
+  "contact_email": "getmeticulous@gmail.com",
   "legal_info_url": "https://meticulous802.com"
 }
