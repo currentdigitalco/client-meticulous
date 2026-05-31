@@ -548,12 +548,21 @@ export function MamanHomepage() {
                     <div className="screen-baseline">{screen.baseline}</div>
                   )}
 
-                  {/* Title */}
-                  <h1 className="screen-title" style={isLanding ? { fontSize: "clamp(3rem, 8vw, 7rem)" } : undefined}>
-                    {screen.title.split("\n").map((line, j) => (
-                      <span key={j}>{line}{j < screen.title.split("\n").length - 1 && <br />}</span>
-                    ))}
-                  </h1>
+                  {/* Title — only the landing screen is an <h1>; the other six
+                      panels render <h2> so the homepage ships a single h1. */}
+                  {isLanding ? (
+                    <h1 className="screen-title" style={{ fontSize: "clamp(3rem, 8vw, 7rem)" }}>
+                      {screen.title.split("\n").map((line, j) => (
+                        <span key={j}>{line}{j < screen.title.split("\n").length - 1 && <br />}</span>
+                      ))}
+                    </h1>
+                  ) : (
+                    <h2 className="screen-title">
+                      {screen.title.split("\n").map((line, j) => (
+                        <span key={j}>{line}{j < screen.title.split("\n").length - 1 && <br />}</span>
+                      ))}
+                    </h2>
+                  )}
 
                   {/* Subtitle */}
                   {screen.subtitle && (
