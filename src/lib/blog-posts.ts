@@ -13,6 +13,95 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "summer-grounds-maintenance-schedule-vermont",
+    title: "The Summer Grounds Maintenance Schedule for a Vermont Second Home",
+    excerpt:
+      "Vermont's growing season is roughly fourteen weeks long, and a Rutland County property that looks effortless on Labor Day is the result of a real schedule, not a weekly mow. Here is the week-by-week maintenance calendar we run on the second homes we manage in Killington, Woodstock, Ludlow, and Pittsfield, and where most properties go wrong.",
+    category: "Property Maintenance",
+    date: "June 2026",
+    readTime: "10 min read",
+    image: "/images/blog-summer-grounds-maintenance-schedule-vermont.jpeg",
+    featured: true,
+    metaDescription:
+      "A week-by-week summer grounds maintenance schedule for Vermont second-home owners: mowing height, fertilization timing, hardscape work, pest pressure, and the calendar we run on Rutland County properties in Killington, Woodstock, Ludlow, Pittsfield, Chittenden, and Mendon.",
+    content: `
+<p>Vermont's real growing season runs roughly from the second week of June through the first frost in mid-September. That is fourteen weeks. Everything that has to happen on a Rutland County property to keep it looking the way the owner pictures it on Labor Day has to fit into that window, and most of it is timing-dependent. A property that looks effortless on the cover of a magazine is the result of a calendar that has been run since the snow came off, not a weekly mow and a wave. We get the calls every August from out-of-state owners who got here for their three-week stay and the lawn is patchy, the perennial beds are lost in weeds, the gutters are still holding pine straw from May, and the deck has not been cleaned since fall. None of that is the property's fault. The schedule was not run.</p>
+
+<p>This is the summer grounds maintenance schedule we run on the second homes we manage in Killington, Pittsfield, Mendon, Woodstock, Ludlow, Chittenden, Proctor, Brandon, and Castleton. It is the schedule that keeps a property looking lived-in and cared-for the entire summer, including the weeks the owner is not in Vermont. If you are managing the property yourself, this is the calendar to run. If you are paying someone to manage it, this is the calendar to ask them about. Anybody quoting "weekly mow plus spring and fall cleanup" without the work in between is not running a real program.</p>
+
+<h2>Why Vermont's Growing Season Is Different From Anywhere Else</h2>
+
+<p>Three things make grounds maintenance in Rutland County different from a property an hour south in Massachusetts or down in Connecticut.</p>
+
+<ul>
+<li><strong>The season is short and intense.</strong> Fourteen weeks of growth, peak humidity in July, and a hard frost that ends everything overnight. There is no margin to skip a fertilization window or miss a pest treatment by two weeks.</li>
+<li><strong>The temperature swings are wide.</strong> A 90-degree afternoon in July can drop into the 50s overnight. Cool-season grasses (which is what every lawn in Rutland County is) handle that swing well, but the maintenance has to be set up for it.</li>
+<li><strong>Recovery time after winter is the work nobody plans for.</strong> Frost heave on walkways, plow damage on lawn edges, salt scorch along driveways, and bent-down perennials from snow load all need attention before regular maintenance starts. We covered the structural pieces in our <a href="/blog/frost-heave-repair-walkways-patios-vermont">frost heave repair guide</a> and the lawn side in our <a href="/blog/lawn-reseeding-snowplow-damage-vermont-may">snowplow damage reseeding guide</a>. The summer schedule below assumes that work is done.</li>
+</ul>
+
+<p>The properties that look the best on Labor Day are the ones whose maintenance was set up against the calendar, not against the weather of the moment.</p>
+
+<h2>Early-to-Mid June: Set the Lawn Up for the Whole Summer</h2>
+
+<p>The first half of June is when the lawn is establishing its summer growth pattern. The decisions made now hold for the next three months.</p>
+
+<ul>
+<li><strong>Raise the mowing height to 3.5 to 4 inches.</strong> Cool-season grass cut tall holds soil moisture, shades out weed germination, and develops deeper roots that survive a July dry stretch. The "golf course" short cut is the single most common mistake on Vermont properties. A tall mow is what gives the lawn its texture and density. The other rule: never remove more than one-third of the blade in a single mow. Cut tall and cut often.</li>
+<li><strong>Sharp blade, mulch the clippings.</strong> A sharp mower blade cuts cleanly. A dull blade tears, and the brown leaf tip a week later is what makes a lawn look tired. Sharpen at the start of the season and again mid-summer. Mulching clippings back into the lawn returns nitrogen and reduces the fertilizer requirement noticeably.</li>
+<li><strong>First fertilizer application.</strong> A balanced slow-release fertilizer in early June carries the lawn through to mid-summer. We do not push high-nitrogen products at the shore of a Vermont summer because flush growth in a humid July is what invites fungal disease.</li>
+<li><strong>Edge the beds and the walkways.</strong> A clean edge between lawn and bed is what defines a maintained property visually. Fresh edges in early June read clean all season; edges that are not cut until July look reactive.</li>
+<li><strong>Mulch refresh on the beds, but only 2 to 3 inches.</strong> Mulched beds hold moisture and suppress weeds. Mulch piled against the base of trees and shrubs (the "mulch volcano") rots the bark and starves the root flare. Pull mulch back away from trunks and keep the depth honest.</li>
+</ul>
+
+<h2>Mid-June Through July: The Pressure Months</h2>
+
+<p>Mid-June through the end of July is when a Vermont property is under the most pressure. Humidity is up, growth is at peak, ticks and mosquitoes are pushing, and any weakness in the schedule shows immediately. This is the stretch that separates managed properties from un-managed ones.</p>
+
+<ul>
+<li><strong>Weekly mow, on a fixed day.</strong> Cool-season grass in a Vermont June grows fast. Skipping a week and "double mowing" the next week shocks the lawn and leaves windrows of clippings. The fix is a fixed mow day and showing up regardless of weather.</li>
+<li><strong>Watering, but only if you have to.</strong> Established lawns in Rutland County do not usually need supplemental irrigation through a normal June. If the property goes more than ten days without rain, water deeply (an inch in one go, early morning) once a week. Daily light watering trains shallow roots and invites disease. Most properties water too much and too often.</li>
+<li><strong>Bed weeding, every two weeks.</strong> Perennial beds, foundation beds, and any planted area need a real pass with a hand tool every two weeks. A bed that is weeded weekly looks pristine; a bed that is weeded monthly looks abandoned by week three. The schedule matters more than the time spent per pass.</li>
+<li><strong>Hardscape and deck pressure-wash, once.</strong> Patios, walkways, decks, and stone walls accumulate spring pollen and the green film of early-season algae by late June. A single pressure-wash pass in late June makes the entire property read clean for the rest of the summer. Done once, properly, it does not need to be repeated until fall.</li>
+<li><strong>Tick perimeter retreatment.</strong> If a spring tick treatment was applied, mid-summer is the second window. The strategy is laid out in our <a href="/blog/tick-mosquito-control-vermont-properties">tick, black fly, and mosquito plan</a>, and the mid-summer retreatment is what holds the perimeter through August.</li>
+<li><strong>Deadhead perennials, stake what is falling.</strong> Peonies, daylilies, coneflower, and Shasta daisy all benefit from deadheading. Tall perennials that flopped in a thunderstorm need staking before the bed reads messy. This is fifteen minutes of work per pass and it transforms how the bed looks.</li>
+</ul>
+
+<h2>August: Hold the Property Through the Heat</h2>
+
+<p>August is the month most properties drift. The owners are around, the weather is hot, and the temptation is to do less because the lawn is growing more slowly. The mistake is letting it look that way.</p>
+
+<ul>
+<li><strong>Keep mowing tall, even when growth slows.</strong> Tall grass shades the soil and conserves moisture through the hottest stretch. Cutting low in August is the fastest way to brown out a lawn.</li>
+<li><strong>Monitor for grub damage.</strong> The first sign of a grub infestation is patches of lawn that pull up easily because the roots have been eaten. If you see them, a targeted curative treatment in August stops the damage and gives the lawn time to recover before fall.</li>
+<li><strong>Stay on top of fungal disease.</strong> The classic Vermont summer disease is dollar spot or brown patch in a humid stretch. A property that is mowed tall, watered deeply and infrequently, and not over-fertilized usually shrugs it off. A property doing the opposite gets hit hard.</li>
+<li><strong>Hardscape and structure walk-through.</strong> Mid-August is the window to catch issues before fall: any patio paver that has shifted, any walkway that has settled, any retaining wall stone that has worked loose. Fixing them in August is calm work. Fixing them in November is racing the frost.</li>
+<li><strong>Late-summer fertilizer pass.</strong> A second fertilizer application in mid-to-late August sets the lawn up for the September recovery and the fall root growth that determines next year's spring green-up. Skip this and the lawn comes out of dormancy in May looking tired.</li>
+</ul>
+
+<h2>Early September: The Pivot Toward Fall</h2>
+
+<p>The first two weeks of September are still summer-pace work, but with the fall pivot already on the calendar. Vermont's first frost can land any time after September 20 in the higher elevations of Killington, Pittsfield, or Chittenden, so the work shifts.</p>
+
+<ul>
+<li><strong>Aeration window opens.</strong> Late August through mid-September is the right window to aerate cool-season lawns. We covered the why and when in our <a href="/blog/when-to-aerate-your-lawn-vermont">Vermont aeration guide</a>. Aeration plus overseed in this window is the single highest-return lawn investment of the year.</li>
+<li><strong>Plan the winterization scope.</strong> By early September, the winter prep list should be drafted. Gutters, irrigation blowout, perennial cutbacks, leaf strategy, snow stake placement. Do not wait until the leaves are down to figure it out.</li>
+<li><strong>Lower the mowing height by half an inch in the last cuts.</strong> The final two or three mows of the season can come down to about three inches. Going into winter too tall invites snow mold. Going in too short invites desiccation.</li>
+</ul>
+
+<h2>How This Schedule Works on a Property You Are Not At</h2>
+
+<p>The reason a written schedule matters more on a Vermont second home than on a primary residence is that the property is managing itself most of the time. The owner is in New York or Boston, the property is in Killington, and the work either happens because somebody put it on the calendar or it does not happen at all. The pattern we see when owners try to handle this themselves with a local crew is that the weekly mow gets done and everything in between gets dropped. The lawn keeps a haircut but the beds disappear into weeds, the hardscape never gets washed, the perennials never get deadheaded, and the property visibly slips through July and August even though the mow is happening every week.</p>
+
+<p>The fix is to put the work on the calendar in writing, not in vibes. A real grounds program for a Vermont second home should have specific weeks for the early-June fertilizer pass, the late-June pressure wash, the mid-summer tick retreatment, the early-September aeration, and bi-weekly bed weeding on a fixed day. If you are paying someone to manage the property and they cannot tell you which week of which month each of those happens, the calendar is not running.</p>
+
+<h2>How Meticulous Runs a Vermont Summer Property</h2>
+
+<p>Every second home we manage in Rutland County runs on this schedule. Weekly mow at a tall cut, on a fixed day. Two fertilizer applications, timed to the season, not to the marketing calendar. Bi-weekly bed weeding, mulch refresh in early June, hardscape pressure wash in late June, perimeter tick treatments in late May and mid-July, deadheading and staking through the summer, aeration and overseed in the early-September window. The owner gets a property that looks the same in August whether they are in Vermont or in Manhattan, because the schedule does not depend on whether they are watching it.</p>
+
+<p>If you own a second home or run a property in Killington, Rutland, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, West Rutland, Brandon, or Castleton and you want the summer schedule run the way it is supposed to be run, <a href="/contact">get in touch</a>. We will walk the property, lay out the calendar in writing, and have it on the books before the next mow.</p>
+`,
+  },
+  {
     slug: "tick-mosquito-control-vermont-properties",
     title: "Ticks, Black Flies, and Mosquitoes on Vermont Properties: Your Late-Spring Pest Plan",
     excerpt:
@@ -21,7 +110,7 @@ export const blogPosts: BlogPost[] = [
     date: "May 2026",
     readTime: "9 min read",
     image: "/images/blog-tick-mosquito-control-vermont-properties.jpeg",
-    featured: true,
+    featured: false,
     metaDescription:
       "A late-spring pest control plan for Vermont properties: tick management and Lyme prevention, black fly timing, and mosquito source reduction for Rutland County second-home owners in Killington, Woodstock, Mendon, and Chittenden.",
     content: `
