@@ -3,9 +3,9 @@
 **Score:** 105 / 120 (88%) — B — strong, minor gaps
 **Site path:** `sites/client-meticulous`
 **Pages (estimate):** 19
-**Schema types detected:** AdministrativeArea, Answer, BreadcrumbList, City, ContactPoint, FAQPage, GeoCoordinates, HomeAndConstructionBusiness, HowTo, HowToStep, HowToSupply, HowToTool, ListItem, LocalBusiness, MonetaryAmount, Offer, OfferCatalog, OpeningHoursSpecification, Organization, Person, PostalAddress, Question, Rating, Review, Service, SpeakableSpecification, State, WebPage, WebSite
+**Schema types detected:** AdministrativeArea, AggregateRating, Answer, BreadcrumbList, City, ContactPoint, FAQPage, GeoCoordinates, HomeAndConstructionBusiness, HowTo, HowToStep, HowToSupply, HowToTool, ListItem, LocalBusiness, MonetaryAmount, Offer, OfferCatalog, OpeningHoursSpecification, Organization, Person, PostalAddress, Question, Rating, Review, Service, SpeakableSpecification, State, WebPage, WebSite
 **LocalBusiness fields detected:** address, areaServed, founder, geo, hasOfferCatalog, knowsAbout, openingHoursSpecification, paymentAccepted, review, sameAs
-**llms.txt:** present (147 lines)
+**llms.txt:** present (150 lines)
 **llms-full.txt:** present
 **robots:** present
 **sitemap:** present
@@ -34,9 +34,10 @@
 
 ### AEO
 
-- **✓ [PASS] llms-txt-depth** — llms.txt is 147 lines (≥100).
+- **✓ [PASS] llms-txt** — llms.txt present (150 lines).
 - **✓ [PASS] llms-full-txt** — llms-full.txt present (deeper AI crawler doc).
 - **✓ [PASS] speakable** — Speakable schema present — voice-search ready.
+- **✓ [PASS] ai-crawlers** — No key AI crawler blocked in robots (GPTBot / OAI-SearchBot / PerplexityBot / ClaudeBot / Google-Extended / Bingbot permitted).
 
 ### Technical SEO
 
