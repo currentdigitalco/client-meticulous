@@ -13,6 +13,133 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "stone-wall-building-repair-rutland-county-vermont",
+    title: "Stone Wall Building and Repair at a Rutland County Vermont Property: What It Actually Costs, How Long It Takes, and Why Most Walls Fail Within Five Years",
+    excerpt:
+      "Stone walls are the most photographed feature on a Vermont property and the most consistently misbuilt. Most new dry-stack walls in Rutland County fail within five winters because the base, the batter, and the cap were all wrong. Here is what a real stone wall costs in Killington and Woodstock, the timeline to build one, and the failures we tear out every June.",
+    category: "Hardscape",
+    date: "June 2026",
+    readTime: "9 min read",
+    image: "/images/blog-stone-wall-building-repair-rutland-county-vermont.jpeg",
+    featured: true,
+    metaDescription:
+      "Stone wall building and repair on a Rutland County, Vermont property: dry-stack vs mortared cost, foundation depth below the frost line, batter, drainage, capstones, timeline, and what causes most new walls to fail by year five. Killington, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon.",
+    content: `
+<p>The drive into Killington, Woodstock, Ludlow, or Brandon passes more dry-stack stone walls than just about any other piece of New England. A few of them are two hundred years old and still holding. Most of them are less than thirty years old and are already leaning, sagging, or bellying out. The two-hundred-year-old wall was built by a farmer who had to put his field stones somewhere and understood what frost does to anything sitting above grade in Vermont. The thirty-year-old wall was built by a landscape crew that priced the job in square feet and treated the wall as a decoration, not a structure. The difference is in the base, the batter, the drainage, and the cap. Get those four right and a stone wall in Rutland County outlives the owner. Get any one of them wrong and the wall is failing by year five.</p>
+
+<p>We get the calls every June. The owner is back at the second home for the summer, walks the property, and the wall that the previous contractor put in three or four winters ago is bellying out across one of the long runs, the capstones are dislodged from one of the corners, and a 12-foot section is starting to come down. Or the wall is fine but the owner wants to add a 40-foot run to extend the front bed line and has a quote in hand from a crew that talks about square footage and looks fast but does not mention frost depth. Either way, the conversation is the same. Here is what a stone wall actually costs at a Rutland County property, what it takes to build one that will hold, and the failures we see on the walls that get built without the structural work below grade.</p>
+
+<h2>The Five Forces Working Against a Vermont Stone Wall</h2>
+
+<p>A stone wall in Rutland County is not the same job as a stone wall in Connecticut or eastern Pennsylvania. The four-season climate at 1,000 to 2,000 feet of elevation, with hard freezes from late November through March, is the structural problem that drives every spec decision.</p>
+
+<ul>
+<li><strong>Frost depth.</strong> The frost line in Rutland County runs 48 inches deep in a cold winter. Anything seated above 48 inches that is also rigid will lift in freeze-thaw. Mortared walls in particular are unforgiving here.</li>
+<li><strong>Snow load and plow contact.</strong> Walls along driveways and walkways take snow load and occasional plow strikes every winter. A wall that is not set with a deep base shifts under repeated impact.</li>
+<li><strong>Surface water.</strong> Vermont gets enough rain and snowmelt that any wall in a low spot is sitting in saturated soil for half the year. Saturated soil expands when it freezes, and an unrelieved wall fails.</li>
+<li><strong>Slope creep.</strong> Walls built into a slope, retaining walls in particular, take constant lateral pressure from the soil behind them. Without proper batter and drainage, the wall walks downhill an inch at a time, and one summer you walk out and a 30-foot run is bellied.</li>
+<li><strong>Critter pressure.</strong> Chipmunks, voles, and woodchucks burrow under and through dry-stack walls. Most homeowners do not realize how much of a wall's failure is animal-driven until they pull a section apart.</li>
+</ul>
+
+<p>Build a wall that accounts for all five and it lasts a hundred years. Skip the base or skip the drainage and the wall starts moving the second winter.</p>
+
+<h2>Dry-Stack vs Mortared: The First Decision</h2>
+
+<p>Two wall types come up on every Rutland County property: dry-stack and mortared. Both have their place. Most homeowners get talked into the wrong one.</p>
+
+<h3>Dry-stack stone wall</h3>
+
+<p>The traditional Vermont wall. Stones set without mortar, with a deep gravel base, a tapered batter from the base up to the cap, and a single layer of capstones flat across the top. Properly built, a dry-stack wall flexes with freeze-thaw without cracking, drains naturally, and lasts a century. The look is honest. The skill is in the rock selection, the shimming, and the patience to fit each stone tight against its neighbors. We use dry-stack on garden bed edges, low retaining walls under 36 inches, property line walls, and decorative runs around outbuildings.</p>
+
+<h3>Mortared stone wall</h3>
+
+<p>Stones bonded with mortar over a poured concrete footing that extends below the frost line. The look is more architectural, the lines are tighter, and the wall can carry more load. The trade-off is that any settlement, any frost movement, any drainage failure shows up as a crack in the mortar. Mortared walls in Vermont need a real footing, a real drainage system, and a real builder who understands that a 12-inch footing in zone 5b will not hold. We use mortared walls on entry walls, gateposts, fireplace and chimney surrounds, foundation-tied walls on the house itself, and high retaining walls over 36 inches where structural load is the issue.</p>
+
+<h3>Which one does the property need?</h3>
+
+<p>Most of the dry-stack walls failing in Killington and Woodstock should have been mortared retaining walls. Most of the mortared decorative walls failing in Ludlow and Pittsfield should have been dry-stack. The honest answer depends on the height, the load, the drainage condition, and the aesthetic the owner wants. We walk the site, look at the slope, look at the water, look at the existing hardscape, and recommend the build that fits. A serious wall mason in Rutland County will not give a square foot price over the phone without seeing the site.</p>
+
+<h2>What a Real Stone Wall Costs in Rutland County</h2>
+
+<p>Budget honestly. Stone wall pricing varies more than almost any other landscape line item, because stone wall labor varies more than almost any other landscape work. Two crews with the same materials can produce wildly different walls. Here is the range we see across Rutland County, in 2026 dollars.</p>
+
+<ul>
+<li><strong>Dry-stack wall, 24-36 inches tall.</strong> $85 to $140 per face foot. A 30-foot run, 30 inches tall, runs roughly $7,500 to $13,000 built right. The low end of that range is suspect. The high end of that range is a wall that will outlive the house.</li>
+<li><strong>Dry-stack wall, 36-48 inches tall, retaining.</strong> $130 to $200 per face foot. The structural complexity steps up sharply over 36 inches. Drainage behind the wall, deadmen tie-backs every 6 to 8 feet, and a wider base course are all required.</li>
+<li><strong>Mortared decorative wall, 24-36 inches.</strong> $150 to $250 per face foot. The footing below the frost line and the rebar reinforcement push the cost above dry-stack despite the smaller stone selection.</li>
+<li><strong>Mortared retaining wall, 36-72 inches.</strong> $200 to $400 per face foot. Engineering is required for any wall over 48 inches in most Vermont towns. The footing, the rebar schedule, and the drainage behind the wall are the structural decisions that drive the cost.</li>
+<li><strong>Entry walls with gateposts and lighting.</strong> $8,000 to $25,000 depending on scale and finish. The posts and the gate hardware add cost beyond the wall itself.</li>
+</ul>
+
+<p>If a contractor quotes a wall below the low end of these ranges, the question to ask is what is being skipped. Almost always it is the base depth or the drainage. Both are invisible after the wall is built, which is why they are the first things to cut on a low bid.</p>
+
+<h2>What "Build It Right" Actually Means</h2>
+
+<p>Here is what we spec on a dry-stack wall over 24 inches tall on a Rutland County property.</p>
+
+<ul>
+<li><strong>Excavate to firm subgrade,</strong> minimum 12 inches below grade for a 24-inch wall and minimum 18 inches below grade for a 36-inch wall. The soil under the base course has to be undisturbed mineral soil, not topsoil. We dig until we hit it.</li>
+<li><strong>3/4 inch crushed stone base,</strong> compacted in lifts to a final thickness of 6 to 9 inches, level across the run and pitched to drain to daylight at the lowest point. The base is the foundation. Cheap fast jobs skip the base or substitute pea stone, which does not compact and lets the wall sink unevenly.</li>
+<li><strong>Geotextile fabric</strong> between the base stone and the subgrade, wrapping behind the wall up to the cap. Fabric stops fine soil from migrating into the gravel base, which is what causes most dry-stack walls to settle unevenly over a decade.</li>
+<li><strong>Base course of large stones,</strong> minimum 18 inches deep and 24 inches wide on a 36-inch wall. The largest stones in the entire selection go in the base. We turn each stone so the long axis runs into the wall, not parallel to the face.</li>
+<li><strong>Batter of 1 inch back per 12 inches of rise,</strong> consistent across the run. Walls that rise straight up vertically fall outward. Walls that batter back into the slope hold.</li>
+<li><strong>Tie stones every 4 to 6 feet,</strong> running the full depth of the wall and bonding the front and back faces together. Walls built without tie stones split front-and-back during freeze-thaw.</li>
+<li><strong>Drainage chase</strong> behind any retaining wall, with 4-inch perforated pipe at the base wrapped in filter fabric, daylighted at the low end. Without it, hydraulic pressure builds behind the wall every winter and pushes the face out.</li>
+<li><strong>Capstones flat, level, and overhanging the wall face by 1 to 2 inches.</strong> The cap is the wall's umbrella. A wall without a real cap takes water into the joints and frost-fails from the top.</li>
+</ul>
+
+<p>Mortared walls add a poured concrete footing extending 8 inches below the frost line (so 56 inches deep in most of Rutland County), rebar grid in the footing tied vertical and horizontal, frost-rated mortar mix, weep holes in retaining sections to let water out, and a sealant on the cap stones to keep water from soaking into the mortar joints. The footing is the single biggest difference in cost and quality between a mortared wall that lasts and one that cracks the second winter.</p>
+
+<h2>How Long a Stone Wall Actually Takes to Build</h2>
+
+<p>Stone work is slow. Anyone telling a homeowner that a 50-foot dry-stack wall is a two-day job is either bidding a stack of rocks or planning to cut corners. Here is the honest timeline.</p>
+
+<ul>
+<li><strong>30-foot dry-stack wall, 30 inches tall:</strong> 4 to 6 working days for a two-person crew, including excavation, base, build, and cap.</li>
+<li><strong>50-foot dry-stack retaining wall, 48 inches tall:</strong> 10 to 14 working days for a two-person crew.</li>
+<li><strong>20-foot mortared entry wall with two gateposts:</strong> 7 to 10 working days, including the footing pour and the cure time.</li>
+<li><strong>100-foot dry-stack property line wall, 30 inches tall:</strong> 4 to 6 weeks for a two-person crew, including a stone delivery midway through.</li>
+</ul>
+
+<p>The build window in Rutland County for stone work runs from May once the ground has thawed through late October before the first hard freeze. Late spring and early summer is the best window, because the ground is workable, the weather is consistent, and the wall has the full summer to settle before the first freeze. We try to be done with all wall builds by Labor Day.</p>
+
+<h2>The Failures We Tear Out Every June</h2>
+
+<p>Most of the stone wall calls we get every June are not new builds. They are tear-outs and rebuilds of walls that were put in three to seven years ago and are failing. The failures are predictable.</p>
+
+<ul>
+<li><strong>Sinking base course.</strong> The wall was built on topsoil, on undisturbed grass, or on a 2-inch gravel pad that did not compact. The first winter, the freeze-thaw cycle pumped the soil under the base and the wall settled unevenly. By year three, the cap is sagging in the middle of every run.</li>
+<li><strong>Bellying retaining wall.</strong> Drainage was never installed behind the wall. Water saturated the backfill, froze, and pushed the wall face outward an inch or two each winter. By year five, a 30-foot run is bowed and pulling apart at the corners.</li>
+<li><strong>Dislodged capstones.</strong> The caps were set loose, without enough overhang, or were small individual rocks instead of broad capstones. Plow spray, snow load, or a curious deer knocked them off in the first winter.</li>
+<li><strong>Vertical face, no batter.</strong> A wall that rises straight up at 90 degrees from the base is in tension against gravity from day one. Add freeze-thaw and the wall falls outward over a decade.</li>
+<li><strong>Cracked mortared wall.</strong> The footing was 12 to 18 inches deep, well above frost line. The first winter lifted the wall in irregular patterns and the mortar cracked at every joint. By year three, the cracks are open enough that water gets in, and the wall starts to break apart.</li>
+</ul>
+
+<p>None of these failures are repairable in place. The wall has to be pulled back to the base, the base has to be rebuilt to spec, drainage has to be installed, and the stones have to be reset properly. The labor on a tear-out and rebuild is roughly 130% of the labor on a new build, because the original stone has to be cleaned, sorted, and re-fit. The pricing premium on doing the wall right the first time is small. The pricing premium on rebuilding a failed wall is large.</p>
+
+<h2>What to Ask a Contractor Before You Sign</h2>
+
+<p>If a stone wall is on the project list for the summer at a Rutland County property, the conversation to have with the contractor before signing covers four questions.</p>
+
+<ul>
+<li><strong>How deep is the base excavation, and what is the base material?</strong> Answer should be "minimum 12 inches below grade, 3/4 inch crushed stone compacted in 3-inch lifts." If the answer is vague or the base is described as pea stone or sand, walk away.</li>
+<li><strong>What is the drainage plan behind a retaining section?</strong> Answer should mention perforated pipe at the base, filter fabric, daylighted to the low end. If there is no drainage plan, the wall will fail.</li>
+<li><strong>What is the batter, and what are the tie stones?</strong> Answer should describe a consistent batter of about 1 inch back per 12 inches of rise, and tie stones every 4 to 6 feet running the full wall depth. If the contractor does not know what a tie stone is, this is not a wall mason.</li>
+<li><strong>What is the cap, and how is it set?</strong> Answer should describe broad flat capstones with a 1 to 2 inch overhang, set heavy, possibly with a small dab of mortar or polyurethane adhesive on a dry-stack wall to lock them against snow and animal disturbance.</li>
+</ul>
+
+<p>A contractor who answers all four with specifics is the right contractor. A contractor who waves any of them off is going to build a wall that fails inside five years.</p>
+
+<h2>Working with Us</h2>
+
+<p>We build and repair stone walls across Rutland County: Killington, Pittsfield, Mendon, Chittenden, Woodstock, Ludlow, Proctor, West Rutland, Brandon, and Castleton. Every wall project starts with a walk of the site, a real conversation about height, length, drainage condition, soil type, and how the wall will be used. The written quote names the wall type, the base spec, the drainage plan, the batter, the cap, and the timeline. We do not quote stone work over the phone.</p>
+
+<p>If your existing wall is starting to fail, lean, belly, sink, or crack, we walk it and tell you honestly whether it is repairable in place, partially rebuildable, or needs a full tear-out and rebuild. Sometimes a 6-foot bellied section can be reset without touching the rest of the run. Sometimes the whole wall has to come down. Either way, you leave the walk-through with a real number and a real plan, not a sales pitch.</p>
+
+<p>If a stone wall is on the list for this summer at your Vermont second home, the time to book it is now. Stone work fills up by mid-June for the summer schedule, and a serious wall build needs two to four weeks of fabrication and install time depending on length and complexity. For related hardscape context, see our guide to <a href="/blog/bluestone-vs-concrete-pavers">bluestone vs concrete pavers</a> for patios and our <a href="/blog/frost-line-depth-vermont-fencing">frost line depth guide</a> for any vertical structure that has to hold against Vermont winter.</p>
+`,
+  },
+  {
     slug: "summer-grounds-maintenance-schedule-vermont",
     title: "The Summer Grounds Maintenance Schedule for a Vermont Second Home",
     excerpt:
@@ -21,7 +148,7 @@ export const blogPosts: BlogPost[] = [
     date: "June 2026",
     readTime: "10 min read",
     image: "/images/blog-summer-grounds-maintenance-schedule-vermont.jpeg",
-    featured: true,
+    featured: false,
     metaDescription:
       "A week-by-week summer grounds maintenance schedule for Vermont second-home owners: mowing height, fertilization timing, hardscape work, pest pressure, and the calendar we run on Rutland County properties in Killington, Woodstock, Ludlow, Pittsfield, Chittenden, and Mendon.",
     content: `
