@@ -155,7 +155,7 @@ export const serviceAreas: ServiceArea[] = [
       "We service Pittsfield homeowners, second-home owners, and rental operators with plow contracts, grounds care, and property oversight — especially important for the remote owners who can't easily check on their place in person.",
       "Our coverage of the Route 100 corridor from Killington north means Pittsfield properties aren't an afterthought — we're already running routes through the area.",
     ],
-    localContext: "Pittsfield sits in a narrow valley along the Tweed River with a small village center and homes spread along Route 100 and the surrounding back roads. The town is known for long driveways, high snow accumulation, and a mix of year-round residents, second-home owners, and rental properties catering to the Killington market. With Memorial Day a week out, Pittsfield's mud-season window finally closed: long gravel driveways are getting their first proper grading of the year, lawn edges torn up by winter plow runs are being re-cut, and we're rolling weekly mow routes for the rental properties that want to look booked-ready by the holiday weekend.",
+    localContext: "Pittsfield sits in a narrow valley along the Tweed River with a small village center and homes spread along Route 100 and the surrounding back roads. The town is known for long driveways, high snow accumulation, and a mix of year-round residents, second-home owners, and rental properties catering to the Killington market. By mid-June Pittsfield is locked into summer cadence: long gravel driveways are getting their summer-traffic regrade, weekly mow routes are rolling on a 4-inch cutting height once the valley heats up, and we are running pre-thunderstorm limb assessments on the Route 100 properties before the first wave of pop-up summer storms hits the Tweed River corridor.",
     priorityServices: ["snow-ice-management", "grounds-maintenance", "property-maintenance", "rental-support"],
     landmarks: ["Route 100", "Tweed River", "Pittsfield Village", "Amee Farm", "Route 100 north corridor"],
     faqs: [
@@ -172,7 +172,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Our regular service area covers the Route 100 corridor from Killington through Pittsfield and up to Stockbridge. Properties beyond that we handle case by case.",
       },
     ],
-    lastUpdated: "2026-05-21",
+    lastUpdated: "2026-06-11",
   },
   {
     slug: "chittenden",
@@ -186,7 +186,7 @@ export const serviceAreas: ServiceArea[] = [
       "We handle the full range of property care services in Chittenden — grounds maintenance, snow management, landscaping, and hardscape work — with crews that know how to operate on the narrower rural roads and longer site drives.",
       "Most Chittenden properties need a partner who understands the rhythm of the town: spread-out properties, long winters, and owners who value reliability over flash.",
     ],
-    localContext: "Chittenden is home to the Chittenden Reservoir and Lefferts Pond, plus a mix of small working farms, rural homesites, and second-home properties tucked into the Green Mountain foothills. The town is largely forested with winding back roads and a small village center. Properties tend to be large, with mature landscaping and significant snow exposure. Late May is when Chittenden's forested grade finally firms up enough for full equipment access. We're rolling the first real mow on the larger parcels this week, clearing winter blowdown along the reservoir-side property lines, and getting hardscape crews scheduled for the summer build season before the calendar fills.",
+    localContext: "Chittenden is home to the Chittenden Reservoir and Lefferts Pond, plus a mix of small working farms, rural homesites, and second-home properties tucked into the Green Mountain foothills. The town is largely forested with winding back roads and a small village center. Properties tend to be large, with mature landscaping and significant snow exposure. June at Chittenden is build-season at the reservoir: hardscape crews are pouring patio bases and rebuilding stone retaining walls on the larger reservoir-front parcels, weekly mowing is steady on the forested lots that have finally dried out, and we are running anchor checks on the dock systems before peak boating traffic kicks in around the July 4 weekend.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "landscaping", "property-maintenance"],
     landmarks: ["Chittenden Reservoir", "Lefferts Pond", "Green Mountain National Forest", "Chittenden Dam"],
     faqs: [
@@ -203,7 +203,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Spring opening and fall closing are common services for our Chittenden clients. We can also handle winterization, frost-prep, and pre-arrival readiness checks.",
       },
     ],
-    lastUpdated: "2026-05-21",
+    lastUpdated: "2026-06-11",
   },
   {
     slug: "mendon",
@@ -217,7 +217,7 @@ export const serviceAreas: ServiceArea[] = [
       "Because we route through Mendon constantly on our way between Rutland and the mountain, our Mendon clients get consistent service without the travel-time premium that distant services charge.",
       "We handle grounds maintenance, snow contracts, carpentry, and property support for Mendon homeowners — whether you live here year-round or use the place as a ski retreat.",
     ],
-    localContext: "Mendon straddles Route 4 between Rutland and Killington, with properties along the corridor, up toward Mendon Mountain, and in the rural outlying areas. The town has a mix of working families, retirees, and second-home owners. Winter snow loads are substantial: Mendon sits at elevation and catches storms that roll east from Killington Peak. By late May we're past the cleanup phase along the Route 4 corridor: lawns are on a weekly cut, frost-heaved driveway aprons have been re-cut or regraded, and we're shifting Mendon clients to summer-mode scheduling. Owners who want hardscape work this season are getting onto the build calendar now before the June rush.",
+    localContext: "Mendon straddles Route 4 between Rutland and Killington, with properties along the corridor, up toward Mendon Mountain, and in the rural outlying areas. The town has a mix of working families, retirees, and second-home owners. Winter snow loads are substantial: Mendon sits at elevation and catches storms that roll east from Killington Peak. By mid-June Mendon is locked into summer rotation: Route 4 corridor lawns are on weekly cuts at 4 inches with crisp edging along the road frontage, hardscape crews are mid-build on the deck and patio jobs we calendared back in April, and we are running pre-storm tree-limb assessments on the elevation properties before the first round of summer pop-up storms hits the corridor.",
     priorityServices: ["snow-ice-management", "grounds-maintenance", "property-maintenance", "carpentry"],
     landmarks: ["Route 4", "Mendon Mountain", "Turn of River Lodge", "Long Trail access"],
     faqs: [
@@ -234,7 +234,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. As a registered Vermont residential contractor, we handle deck rebuilds, rot repair, siding, trim, and structural work throughout Mendon.",
       },
     ],
-    lastUpdated: "2026-05-21",
+    lastUpdated: "2026-06-11",
   },
   {
     slug: "proctor",
@@ -279,7 +279,7 @@ export const serviceAreas: ServiceArea[] = [
       "Property care here tends to be practical and no-nonsense — owners want reliable service, fair pricing, and crews that show up when they're supposed to.",
       "That's how we run. West Rutland is a core part of our service area and we handle the full scope: grounds, plowing, repairs, and property support for homes and businesses throughout town.",
     ],
-    localContext: "West Rutland has a strong working identity, with agricultural land, small industrial areas, and historic residential neighborhoods. Route 4A runs through the town connecting it to the main Rutland area. The town's Grange Hall, marble quarries, and Clarendon Gorge make it a distinct community from Rutland proper despite the proximity. Late May along Route 4A is the busy stretch for us: weekly commercial mow routes are running through the small business lots, frost-damaged sidewalk and curb edges are getting patched ahead of summer foot traffic, and we're booking summer hardscape and carpentry work that's been sitting on owners' lists since fall.",
+    localContext: "West Rutland has a strong working identity, with agricultural land, small industrial areas, and historic residential neighborhoods. Route 4A runs through the town connecting it to the main Rutland area. The town's Grange Hall, marble quarries, and Clarendon Gorge make it a distinct community from Rutland proper despite the proximity. Mid-June along Route 4A is steady commercial cadence: weekly mow routes on the small-business lots running before opening hours, bi-weekly bed weeding on the historic residential blocks, and hardscape repair crews mid-build on the sidewalk and curb patches that were scoped during spring assessment. We are also rotating crews onto the agricultural property lines for first-pass hayfield-edge clearing.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "property-maintenance", "carpentry"],
     landmarks: ["Route 4A", "Clarendon Gorge", "West Rutland Town Hall", "West Rutland Marble Quarry"],
     faqs: [
@@ -296,7 +296,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Because we're local and route efficiently, we're usually at or below the rates of out-of-county services while delivering faster response and better accountability.",
       },
     ],
-    lastUpdated: "2026-05-21",
+    lastUpdated: "2026-06-11",
   },
   {
     slug: "brandon",
@@ -403,7 +403,7 @@ export const serviceAreas: ServiceArea[] = [
       "Property care here tends to emphasize practical over flashy — owners want reliable service, durable work, and fair pricing.",
       "We handle the full scope for Pittsford homeowners, farm operators, and rural property owners — grounds, winter service, property oversight, and carpentry projects as they come up.",
     ],
-    localContext: "Pittsford has a small village center along Route 7 with rural land stretching to both sides of the corridor. The town is agricultural with working farms, historic homes, and the Vermont Police Academy as a major local institution. Properties range from small village lots to multi-acre rural parcels, and snow loads are typical of central Rutland County. Late May along Route 7 puts our Pittsford crews on a steady mowing cadence, finishing spring cleanup on the larger agricultural parcels and scoping summer carpentry on the older village homes. Driveway grading season is wrapping up before the gravel work crews shift fully to hardscape installs in June.",
+    localContext: "Pittsford has a small village center along Route 7 with rural land stretching to both sides of the corridor. The town is agricultural with working farms, historic homes, and the Vermont Police Academy as a major local institution. Properties range from small village lots to multi-acre rural parcels, and snow loads are typical of central Rutland County. Mid-June along Route 7 has the Pittsford schedule fully booked: weekly mowing on every village lot, bi-weekly bed weeding and edging on the historic homes, first-pass field-edge clearing on the agricultural parcels, and our carpentry crews mid-build on the deck and exterior trim repairs that came off the spring assessment list.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "property-maintenance", "carpentry"],
     landmarks: ["Route 7", "Vermont Police Academy", "Pittsford Village", "Hubbardton River"],
     faqs: [
@@ -420,7 +420,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Seasonal plow contracts with fixed pricing are standard for our Pittsford clients. You lock in the rate and priority, and we handle the dispatch automatically when conditions trigger.",
       },
     ],
-    lastUpdated: "2026-05-21",
+    lastUpdated: "2026-06-11",
   },
   {
     slug: "clarendon",
@@ -589,7 +589,7 @@ export const serviceAreas: ServiceArea[] = [
       "We service Mount Holly homeowners and second-home owners with the same care we bring to our Ludlow and Killington clients: snow contracts, grounds care, rental turnovers, and property oversight for remote owners who need reliable eyes on the ground.",
       "Because we route through Ludlow and the Okemo area regularly, adding Mount Holly properties doesn't stretch our response times. You get consistent service from crews who know the terrain.",
     ],
-    localContext: "Mount Holly is a small rural town in southeastern Rutland County, situated along Route 103 south of Ludlow. The town has a mix of year-round residents, second-home owners, and properties that serve the Okemo Mountain rental market. Elevation here is significant: snow loads are heavy and mud season runs later than in the valley. The Tarbellville area and surrounding hills have properties with long driveways and dense tree cover that demand reliable equipment and crew scheduling. With Memorial Day a week out, Mount Holly properties are at the peak of spring readiness work: long driveways being graded after the late-season ground thaw, blowdown clearance off the wooded property lines, and the first mowing pass on the rental properties prepping for summer bookings.",
+    localContext: "Mount Holly is a small rural town in southeastern Rutland County, situated along Route 103 south of Ludlow. The town has a mix of year-round residents, second-home owners, and properties that serve the Okemo Mountain rental market. Elevation here is significant: snow loads are heavy and mud season runs later than in the valley. The Tarbellville area and surrounding hills have properties with long driveways and dense tree cover that demand reliable equipment and crew scheduling. Mid-June Mount Holly is in summer-rental cadence: weekly mowing rotations on the rental properties along Route 103 and Lake Ninevah, grounds presentation pre-turnover on the Okemo-corridor second homes, and pre-thunderstorm tree-limb assessments on the densely wooded Tarbellville parcels where elevation amplifies wind exposure.",
     priorityServices: ["snow-ice-management", "grounds-maintenance", "property-maintenance", "rental-support"],
     landmarks: ["Route 103", "Tarbellville", "Green Mountain National Forest", "Lake Ninevah"],
     faqs: [
@@ -606,7 +606,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Spring cleanup — driveway condition assessment, frost heave repair, grounds debris clearance, and season-opening property checks — is a core service for our Mount Holly clients.",
       },
     ],
-    lastUpdated: "2026-05-21",
+    lastUpdated: "2026-06-11",
   },
 ];
 
