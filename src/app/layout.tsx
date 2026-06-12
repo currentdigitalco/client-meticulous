@@ -25,9 +25,9 @@ const satoshi = localFont({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://meticulous802.com"),
-  title: "Meticulous LLC | Complete Property Care in Killington, Rutland & Vermont",
+  title: "Lawn Care & Landscaping in Rutland County, VT | Meticulous LLC",
   description:
-    "Complete property care built around higher standards. Grounds maintenance, snow & ice management, landscaping, construction, rental property support & more. Serving Rutland County since 2009. Call 802-342-8293.",
+    "Lawn care, landscaping, grounds maintenance & snow management across Rutland County, Vermont — Killington to Rutland. Higher standards since 2009. Call 802-342-8293 for a fast quote.",
   alternates: {
     canonical: "/",
   },
