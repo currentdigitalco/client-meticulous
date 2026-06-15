@@ -24,7 +24,7 @@ export const blogPosts: BlogPost[] = [
     featured: true,
     metaDescription:
       "Lawn irrigation for a Rutland County, Vermont property: correct summer watering schedule for a short humid growing season, zone tuning, smart controllers, frost-line considerations, and the fall blow-out that prevents split pipes. Killington, Rutland, Woodstock, Ludlow, Mendon, Chittenden, Pittsfield.",
-    content: \`
+    content: `
 <p>An irrigation system is one of the few things on a Vermont property that can waste your money in two directions at once. Run it wrong in July and you are paying to overwater a lawn that did not need it, feeding fungus in our humidity and shortening the life of the turf. Forget to winterize it correctly in October and the water left sitting in the lines freezes, expands, and splits the pipes, the valves, and the backflow preventer, turning a $200 blow-out you skipped into a $2,000 spring repair. We see both ends of this every season on Rutland County properties, and they almost always trace back to the same thing: a system designed and scheduled by someone who treats Vermont like anywhere else.</p>
 
 <p>Lawn irrigation at 1,000 to 2,000 feet of elevation in Rutland County is a different job than irrigation in New Jersey or Virginia. The growing season is short. The summer is humid. The nights cool off hard even in July. And the winter will destroy anything left holding water above the frost line. Here is how an irrigation system should actually run on a Killington, Rutland, Woodstock, Ludlow, or Mendon property, and the mistakes that cost owners water all summer and pipes every fall.</p>
@@ -78,7 +78,7 @@ export const blogPosts: BlogPost[] = [
 <p>On the properties we manage across Killington, Rutland, Woodstock, Ludlow, Mendon, Chittenden, and Pittsfield, irrigation is run as a season, not a setting. We tune the schedule for the actual Vermont summer, set each zone for its real sun and slope conditions, install or program weather-based controllers so the system responds to our variable weather, and we handle the fall blow-out as part of the winter shutdown so nothing is left holding water when the ground freezes. For seasonal and second-home owners, that means the lawn is watered correctly while you are not here to manage it, and the system is intact when you come back in the spring.</p>
 
 <p>If your irrigation system is overwatering, running on the wrong schedule, leaving brown patches the heads never reach, or you are not sure it was ever blown out properly before winter, send a note describing the property and what you have got. We will tell you what the system needs, whether it is a tuning or a repair, and how irrigation fits into managing the property through the Vermont seasons.</p>
-\`,
+`,
   },
   {
     slug: "stone-wall-building-repair-rutland-county-vermont",
