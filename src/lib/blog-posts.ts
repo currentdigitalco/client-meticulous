@@ -24,7 +24,7 @@ export const blogPosts: BlogPost[] = [
     featured: true,
     metaDescription:
       "Lawn mowing height for a Rutland County, Vermont summer: why three inches is the floor for Vermont cool-season turf, why scalping causes the brown August lawn, the one-third rule, sharp-blade rule, and the right mowing schedule for Killington, Rutland, Woodstock, Ludlow, Mendon, Chittenden, and Pittsfield properties.",
-    content: \`
+    content: `
 <p>Almost every brown, thinning, weed-filled Rutland County lawn we get called to look at in August has the same cause, and it is not what most owners think. It is not drought. It is not fungus. It is not a missed fertilizer. It is the mower setting. The blade was dropped too low at the first mow in June, the lawn was scalped weekly through July, and by the time the heat and humidity of August hit, the turf had no leaf surface left to feed itself, no root depth to draw from, and no shade on the soil to keep it cool. The result is the burnt, patchy lawn that gets blamed on the weather and is almost always the mower.</p>
 
 <p>This is the single highest-leverage correction on a Vermont property, and it costs nothing. Raising the mower deck two notches in June is the difference between a lawn that holds its color through a Rutland County summer and one that has to be rescued every September. Here is why height matters as much as it does in our climate, what the right cut actually is for the cool-season grasses that grow at 1,000 to 2,000 feet of elevation, and the mowing schedule that holds a lawn green from mud season through the first frost.</p>
@@ -91,7 +91,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>On every property we manage across Killington, Rutland, Woodstock, Ludlow, Mendon, Chittenden, Pittsfield, Proctor, West Rutland, Brandon, and Castleton, the mowing deck stays between 3 and 4 inches from mid-June through August. The blade comes off the mower for a sharpen at least twice a season. The cut frequency follows the actual growth, not a fixed Saturday slot. The clippings stay on the lawn unless the cut is unusually heavy. Mowing happens in the morning or evening through the hot weeks. None of it costs more to do. It costs less, because the lawns recover instead of needing the patch-and-overseed work that the scalped lawns need every September.</p>
 
-<p>If your lawn browns out every August no matter what you put on it, the mower setting is the first thing to check. Send a note describing the property, the current mowing height if you know it, and the schedule the crew is on, and we will tell you whether the cut is the cause and what the right routine looks like for the elevation and exposure of the lawn.</p>\`,
+<p>If your lawn browns out every August no matter what you put on it, the mower setting is the first thing to check. Send a note describing the property, the current mowing height if you know it, and the schedule the crew is on, and we will tell you whether the cut is the cause and what the right routine looks like for the elevation and exposure of the lawn.</p>`,
   },
   {
     slug: "lawn-irrigation-rutland-county-vermont",
