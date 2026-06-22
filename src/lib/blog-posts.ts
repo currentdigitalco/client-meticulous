@@ -13,6 +13,87 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "lawn-mowing-height-rutland-county-vermont-summer",
+    title: "Lawn Mowing Height for a Rutland County, Vermont Summer: Why Cutting Too Short Is the Single Biggest Cause of Brown Turf in August",
+    excerpt:
+      "Almost every brown, thin, weed-filled Rutland County lawn we get called to in August has the same root cause, and it is not drought, fungus, or fertilizer. It is mowing height. The blade was set too low in June, the lawn was scalped weekly through July, and by mid-August the turf is fried because the roots never had a chance. Here is what mowing height should actually be on a Vermont property at 1,000 to 2,000 feet of elevation, why three inches is the floor, and the mowing schedule that keeps the lawn green through a Rutland County summer instead of fighting it back to life every September.",
+    category: "Lawn Care",
+    date: "June 2026",
+    readTime: "8 min read",
+    image: "/images/blog-lawn-mowing-height-rutland-county-vermont-summer.jpeg",
+    featured: true,
+    metaDescription:
+      "Lawn mowing height for a Rutland County, Vermont summer: why three inches is the floor for Vermont cool-season turf, why scalping causes the brown August lawn, the one-third rule, sharp-blade rule, and the right mowing schedule for Killington, Rutland, Woodstock, Ludlow, Mendon, Chittenden, and Pittsfield properties.",
+    content: \`
+<p>Almost every brown, thinning, weed-filled Rutland County lawn we get called to look at in August has the same cause, and it is not what most owners think. It is not drought. It is not fungus. It is not a missed fertilizer. It is the mower setting. The blade was dropped too low at the first mow in June, the lawn was scalped weekly through July, and by the time the heat and humidity of August hit, the turf had no leaf surface left to feed itself, no root depth to draw from, and no shade on the soil to keep it cool. The result is the burnt, patchy lawn that gets blamed on the weather and is almost always the mower.</p>
+
+<p>This is the single highest-leverage correction on a Vermont property, and it costs nothing. Raising the mower deck two notches in June is the difference between a lawn that holds its color through a Rutland County summer and one that has to be rescued every September. Here is why height matters as much as it does in our climate, what the right cut actually is for the cool-season grasses that grow at 1,000 to 2,000 feet of elevation, and the mowing schedule that holds a lawn green from mud season through the first frost.</p>
+
+<h2>Why Mowing Height Matters More in Vermont Than Most Places</h2>
+
+<p>Vermont lawns are almost entirely cool-season grasses — Kentucky bluegrass, fine fescues, perennial ryegrass, and the tall fescues that have moved north into our soils over the last decade. These grasses do not grow on the same schedule or with the same heat tolerance as the warm-season turf you see across the south. They thrive in spring and fall, slow down in midsummer, and survive the hottest weeks of the year on root reserves, not active growth.</p>
+
+<p>Mowing height controls how those reserves are built and held. The taller the grass, the deeper the roots, the more shade on the soil, the cooler the crown of the plant, and the more leaf surface available to photosynthesize and feed the system. Cut a cool-season lawn short and every one of those buffers disappears at the worst time.</p>
+
+<ul>
+<li><strong>Short turf has short roots.</strong> The root system of a grass plant mirrors the leaf height roughly inch for inch. A lawn cut to 1.5 inches has roots about that deep, which is not enough to reach moisture in a Vermont July when the topsoil dries out between rains. A lawn cut to 3.5 inches has roots in the 3 to 4 inch range and a much wider tolerance for a dry week.</li>
+<li><strong>Short turf cooks the soil.</strong> Bare-looking, scalped turf lets full sun hit the soil surface. The soil heats up, the crowns of the grass plants stress, the surface moisture evaporates faster, and the lawn browns from the top of the soil down. Taller turf shades its own soil and holds 5 to 10 degrees of moderation underneath the canopy on a hot day.</li>
+<li><strong>Short turf cannot photosynthesize.</strong> Grass feeds itself through the green blade above the crown. Cut too much of the blade off and the plant has nothing left to convert sun and CO2 into the sugars it needs to grow, defend itself, and recover. The lawn enters every week of summer behind.</li>
+<li><strong>Short turf lets weeds in.</strong> A dense, tall canopy shades out crabgrass and the broadleaf weed seeds that are sitting in the top half-inch of every Vermont lawn. A scalped lawn opens the canopy, the soil warms, the weed seeds germinate, and the lawn that was supposed to be turf becomes turf-and-crabgrass by August.</li>
+</ul>
+
+<p>Every one of those mechanisms compounds in a Rutland County summer. The lawns we manage that hold their color through July and August are not the ones with the most fertilizer or the most water. They are the ones cut tall on a routine the whole summer.</p>
+
+<h2>The Right Cutting Height for a Vermont Lawn</h2>
+
+<p>For the cool-season grasses on a Rutland County property, the right summer mowing height is <strong>3 to 4 inches</strong>. Three inches is the floor through the heat of midsummer. Four inches is better through the hottest weeks of July and August. Below three inches, the lawn is being asked to survive on a leaf canopy that is too short to feed roots that are too shallow, and the math does not work in a Vermont climate.</p>
+
+<p>The cut height changes by season:</p>
+
+<ul>
+<li><strong>Spring (May into early June):</strong> 2.5 to 3 inches. The grass is actively growing, the soil is still cool and moist, and a slightly lower cut helps remove the long, soft growth from mud season without stressing the plant.</li>
+<li><strong>Early summer through August (mid-June through August):</strong> 3 to 4 inches. Raise the deck for the heat. This is the period where the wrong cut height does the most damage on a Vermont lawn, and the right cut height does the most for it.</li>
+<li><strong>Fall (September into October):</strong> back to 2.5 to 3 inches as the temperatures drop and the lawn returns to active growth, finishing the last cut of the season slightly shorter to reduce snow mold pressure under winter snow cover.</li>
+</ul>
+
+<p>The mower deck position has to be measured, not guessed. Most homeowner mowers have a deck adjustment with notches that are not labeled in inches. Set the mower on a flat, hard surface and measure from the bottom of the blade to the ground to know what the cut height actually is. The default on most pushed mowers out of the box is too low for Vermont turf.</p>
+
+<h2>The One-Third Rule (And Why It Sets the Schedule)</h2>
+
+<p>The single most important mowing principle for a Vermont lawn is the one-third rule: <strong>never remove more than one third of the grass blade in a single cut.</strong> This is the rule that protects the plant from the shock of a hard cut, and it is the rule that determines how often the lawn needs to be mowed, not the other way around.</p>
+
+<p>If the target height is 3.5 inches, the lawn gets cut when it has grown to about 5 inches — taking it back down to 3.5 removes one third. Letting it grow to 6 or 7 inches and then dropping it to 3 removes more than half the blade in one pass, which scalps the lawn, exposes the soil, and stresses the plant the same way a cut too low does.</p>
+
+<p>The practical consequence: in the peak of a Vermont spring growth flush, the lawn may need a cut every five days to follow the rule. In the slowdown of midsummer, every ten to fourteen days is often enough. The schedule should follow the growth rate, not the calendar. A lawn that needs a cut gets a cut. A lawn that has not grown much does not get cut just because it is Saturday.</p>
+
+<h2>The Other Mowing Mistakes That Show Up in August</h2>
+
+<p>Cut height is the biggest one, but it is not the only one. A few other mowing mistakes show up in the same brown August lawn.</p>
+
+<ul>
+<li><strong>Dull blades.</strong> A dull mower blade tears the grass instead of cutting it cleanly. Torn blades brown at the tips, lose moisture faster, and create open wounds that disease moves into. Sharpen the blade at least twice a season — once in June and once in late July — and the cut will be cleaner and the lawn will hold color longer.</li>
+<li><strong>Mowing in the heat of the day.</strong> Mowing a stressed lawn at 2pm in 90-degree heat puts compounding stress on the plant. The cut, the foot traffic, the wheel pressure, and the exposure all stack on a lawn that is already trying to survive the day. Mow in the morning or the evening through the hot weeks.</li>
+<li><strong>Bagging the clippings every time.</strong> Bagging removes the small amount of nitrogen the clippings would return to the soil, and over a season that is a meaningful fertilizer loss. Mulching the clippings back into the lawn on a routine basis feeds the soil for free and is fine for the lawn as long as the cut is frequent enough that the clippings are short and break down quickly.</li>
+<li><strong>Mowing wet grass.</strong> Cutting wet grass tears the blade, clumps the clippings, and compacts the soil under the mower wheels. After a heavy Vermont thunderstorm, let the lawn dry before the next cut. The cut quality is visibly worse on wet turf, and the lawn shows it for a week.</li>
+</ul>
+
+<h2>Why This Is a Bigger Problem on Second-Home Properties</h2>
+
+<p>The mowing-height problem is doubly common on second-home properties where the owner is not on site to set the mower and the landscape contractor cuts on a fast schedule with the deck dropped low to stretch the time between visits. A short cut every other week looks neat on the day the crew leaves and looks burnt by the end of week two, especially on the sun-exposed parts of the lawn that are not getting any reprieve.</p>
+
+<p>The fix on a managed property is to specify the cut height and the schedule in writing, not leave it to whatever the crew defaults to. The right spec for a Rutland County summer is a 3 to 4 inch cut, mowed on a frequency that follows the growth rate, with the blade sharpened at least twice in the season. We run every property we manage that way, and the lawns hold their color through August because of it.</p>
+
+<h2>How This Fits Into the Rest of the Summer Schedule</h2>
+
+<p>Mowing height is one piece of a Vermont summer grounds program, and it pairs with the rest of the work. The watering schedule has to match — a tall lawn with deep roots needs the deep-and-infrequent watering pattern we covered in our guide to <a href="/blog/lawn-irrigation-rutland-county-vermont">lawn irrigation in Rutland County</a>, not a daily sprinkle. The seasonal cadence ties into the full <a href="/blog/summer-grounds-maintenance-schedule-vermont">summer grounds maintenance schedule</a>. And the August pressure on the lawn from pests pairs with our notes on <a href="/blog/tick-mosquito-control-vermont-properties">tick and mosquito control on Vermont properties</a>. The mowing height is the cheapest piece of all of it, and it has the biggest impact on what the lawn looks like at the end of August.</p>
+
+<h2>What We Do on Rutland County Properties</h2>
+
+<p>On every property we manage across Killington, Rutland, Woodstock, Ludlow, Mendon, Chittenden, Pittsfield, Proctor, West Rutland, Brandon, and Castleton, the mowing deck stays between 3 and 4 inches from mid-June through August. The blade comes off the mower for a sharpen at least twice a season. The cut frequency follows the actual growth, not a fixed Saturday slot. The clippings stay on the lawn unless the cut is unusually heavy. Mowing happens in the morning or evening through the hot weeks. None of it costs more to do. It costs less, because the lawns recover instead of needing the patch-and-overseed work that the scalped lawns need every September.</p>
+
+<p>If your lawn browns out every August no matter what you put on it, the mower setting is the first thing to check. Send a note describing the property, the current mowing height if you know it, and the schedule the crew is on, and we will tell you whether the cut is the cause and what the right routine looks like for the elevation and exposure of the lawn.</p>\`,
+  },
+  {
     slug: "lawn-irrigation-rutland-county-vermont",
     title: "Lawn Irrigation in Rutland County, Vermont: Why a System Built for the Wrong Season Wastes Water All Summer and Splits Your Pipes by October",
     excerpt:
@@ -21,7 +102,7 @@ export const blogPosts: BlogPost[] = [
     date: "June 2026",
     readTime: "8 min read",
     image: "/images/blog-lawn-irrigation-rutland-county-vermont.jpeg",
-    featured: true,
+    featured: false,
     metaDescription:
       "Lawn irrigation for a Rutland County, Vermont property: correct summer watering schedule for a short humid growing season, zone tuning, smart controllers, frost-line considerations, and the fall blow-out that prevents split pipes. Killington, Rutland, Woodstock, Ludlow, Mendon, Chittenden, Pittsfield.",
     content: `
