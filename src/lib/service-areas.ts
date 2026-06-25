@@ -31,7 +31,7 @@ export const serviceAreas: ServiceArea[] = [
       "Meticulous LLC handles the full stack for Killington owners: plow contracts that actually show up at 4 AM before a powder day, hospitality-grade turnovers between bookings, and year-round grounds work for the off-season.",
       "Most of our Killington clients are remote owners. We operate as their eyes and hands on the ground, so the property is always guest-ready and the driveway is always cleared.",
     ],
-    localContext: "Killington has Vermont's largest ski resort, which drives the local rental market. Properties here see heavy winter traffic, extreme snow loads (routinely 200+ inches per season), and short turnover windows between guests. Early June is when Killington shifts fully into summer cadence: weekly mow routes are locked at a 4-inch height to shade the soil through the warm stretch, beds are getting their first round of summer weeding, and we're staging hardscape crews for retaining wall and driveway grading work that owners want done before mountain-bike season picks up the Killington Road traffic.",
+    localContext: "Killington has Vermont's largest ski resort, which drives the local rental market. Properties here see heavy winter traffic, extreme snow loads (routinely 200+ inches per season), and short turnover windows between guests. Late June is full pre-July-4 sprint at Killington: weekly mowing locked at 4 inches with bagging on the high-traffic Killington Road properties hosting holiday-weekend guests, mid-cycle bed weeding and mulch top-off so beds read clean by Thursday turnover, hardscape crews finishing retaining wall and patio work ahead of the mountain-bike season weekend wave, and irrigation dialed to predawn-only as the first real dry stretch of the season works through the access road elevations.",
     priorityServices: ["snow-ice-management", "housekeeping", "rental-support", "grounds-maintenance"],
     landmarks: ["Killington Resort", "Pico Mountain", "Killington Peak Lodge", "Route 4 corridor", "Killington Road"],
     faqs: [
@@ -48,7 +48,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. We service the full Killington Road corridor, the access roads leading to the mountain, and outlying neighborhoods toward Pico, Mendon, and the Route 4 corridor.",
       },
     ],
-    lastUpdated: "2026-06-04",
+    lastUpdated: "2026-06-25",
   },
   {
     slug: "rutland",
@@ -62,7 +62,7 @@ export const serviceAreas: ServiceArea[] = [
       "City properties here need different care than the ski-town rentals up the mountain. We handle commercial plowing for storefronts and office parks, grounds maintenance for multi-family properties, and full-scope carpentry and hardscaping for single-family homeowners.",
       "Because we're local, we're not a sub-contractor bouncing between regions. Our crews know Rutland block by block and respond faster than the out-of-county companies trying to service from afar.",
     ],
-    localContext: "Rutland is Vermont's third-largest city with a dense mix of commercial properties, multi-family housing, and residential neighborhoods. Winter brings heavy snow off the Green Mountains, and mud season arrives hard in April as snowmelt saturates the clay-heavy soils on compact urban lots. The city's historic downtown has specific landscaping and sidewalk maintenance requirements that commercial property owners have to meet. Early June in Rutland is locked weekly cadence: downtown commercial lots are on a strict mow-edge-blow rotation before business hours, multi-family bed weeding runs on a bi-weekly loop, irrigation systems are under pressure and getting head-by-head adjusted as plantings leaf out, and we're sequencing summer hardscape repairs on the historic walkways flagged during spring assessment.",
+    localContext: "Rutland is Vermont's third-largest city with a dense mix of commercial properties, multi-family housing, and residential neighborhoods. Winter brings heavy snow off the Green Mountains, and mud season arrives hard in April as snowmelt saturates the clay-heavy soils on compact urban lots. The city's historic downtown has specific landscaping and sidewalk maintenance requirements that commercial property owners have to meet. Late June puts Rutland on its tightest commercial mowing rotation of the year: Route 7 storefronts get pre-July-4 hard-edging passes, downtown sidewalk planters need bi-weekly weeding before Friday Night Live crowds, and the medical-center campus is on a 7-day cut with bagging where high-traffic turf would otherwise build thatch through the summer heat. Irrigation reviews are running zone-by-zone as the first real dry stretch of the season tests clay-heavy urban lots.",
     priorityServices: ["snow-ice-management", "grounds-maintenance", "property-maintenance", "hardscaping", "carpentry"],
     landmarks: ["Downtown Rutland", "Main Street", "Rutland Regional Medical Center", "Route 7 corridor", "Giorgetti Park"],
     faqs: [
@@ -79,7 +79,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Meticulous LLC is a registered residential contractor and registered Property Management Firm in Vermont, properly licensed and insured for the full scope of services we offer.",
       },
     ],
-    lastUpdated: "2026-06-04",
+    lastUpdated: "2026-06-25",
   },
   {
     slug: "woodstock",
@@ -93,7 +93,7 @@ export const serviceAreas: ServiceArea[] = [
       "We work with Woodstock homeowners, estate managers, and innkeepers who want their property presented at a level that matches the village itself — manicured beds, clean hardscape, and grounds that look intentional from the road.",
       "Most of our Woodstock clients are either year-round residents with high expectations or second-home owners who need a trusted local to keep things looking right while they're away.",
     ],
-    localContext: "Woodstock is one of the most visited towns in Vermont, with a protected historic character that extends to how properties are maintained. Stone walls, specimen trees, and curated gardens are common features that need specific expertise. June brings the heaviest week-to-week property scrutiny of the year: wedding bookings at the village inns and the first wave of summer visitors mean estates have to read intentional from the road every single Friday afternoon. We're running weekly mow-edge-blow rotations, mid-cycle mulch refresh where wind exposed soil, specimen-tree shaping post leaf-out, and lockstep beds-and-walls touch-up so nothing looks lived-in by the weekend.",
+    localContext: "Woodstock is one of the most visited towns in Vermont, with a protected historic character that extends to how properties are maintained. Stone walls, specimen trees, and curated gardens are common features that need specific expertise. Late June is peak wedding and inn-booking pressure: estates and Route 4 corridor properties have to read camera-ready every Friday by 2 PM. We're running weekly mow-edge-blow rotations at 4 inches, mid-cycle mulch refresh where wind and June thunderstorms exposed bed soil, specimen-tree summer shaping post leaf-out, fresh hardscape sweeping on stone walks before guest arrivals, and pre-July-4 walkthroughs on second homes with owners who fly in for the holiday week.",
     priorityServices: ["landscaping", "grounds-maintenance", "hardscaping", "property-maintenance"],
     landmarks: ["Woodstock Village Green", "Billings Farm", "Marsh-Billings-Rockefeller National Historical Park", "Route 4", "Ottauquechee River"],
     faqs: [
@@ -110,7 +110,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Woodstock is within our regular service radius. We schedule routes efficiently so clients aren't paying a premium for distance.",
       },
     ],
-    lastUpdated: "2026-06-04",
+    lastUpdated: "2026-06-25",
   },
   {
     slug: "ludlow",
@@ -124,7 +124,7 @@ export const serviceAreas: ServiceArea[] = [
       "We serve Ludlow homeowners and rental operators with the full stack: plow contracts, hospitality-grade turnovers, and grounds care that keeps the property presentable for the next booking.",
       "Because we already run routes through Killington and the Route 4 corridor, adding Ludlow properties to the schedule doesn't stretch us thin or hurt our response times.",
     ],
-    localContext: "Ludlow is built around Okemo Mountain Resort and the year-round Jackson Gore base area. Properties here range from village condos to slope-side second homes, and the rental market is active through both winter and shoulder seasons. June at Okemo is summer-booking season: bike park and hiking traffic ramp up around Jackson Gore, weekly rental turnovers are running through every weekend, and grounds are on a tight Friday-ready cadence. We're managing weekly mow-edge-blow, mid-rotation bed weed-and-mulch, and dialed-in turnover housekeeping windows synced to each owner's booking platform.",
+    localContext: "Ludlow is built around Okemo Mountain Resort and the year-round Jackson Gore base area. Properties here range from village condos to slope-side second homes, and the rental market is active through both winter and shoulder seasons. Late June puts Ludlow at booking-peak heading into the July 4 wave: weekly mowing and bed weeding run on a tight Friday turnover schedule so properties show clean for incoming guests, Jackson Gore condo HOA grounds get pre-holiday hardscape sweeps, and Echo Lake-facing properties are getting deck and dock attention before the holiday traffic. Owners who locked in summer hardscape builds in March are seeing crews break ground this week before the install calendar fills through August.",
     priorityServices: ["snow-ice-management", "housekeeping", "rental-support", "grounds-maintenance"],
     landmarks: ["Okemo Mountain Resort", "Jackson Gore", "Route 100", "Main Street Ludlow", "Echo Lake"],
     faqs: [
@@ -141,7 +141,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Summer is our prime hardscape season. We install patios, retaining walls, and walkways throughout the Ludlow area, engineered for Vermont's freeze-thaw cycles.",
       },
     ],
-    lastUpdated: "2026-06-04",
+    lastUpdated: "2026-06-25",
   },
   {
     slug: "pittsfield",
@@ -310,7 +310,7 @@ export const serviceAreas: ServiceArea[] = [
       "We work with Brandon homeowners, business owners, and second-home owners on everything from seasonal grounds maintenance to full hardscape builds and carpentry projects.",
       "Brandon is close enough to Rutland that we service it regularly, and distinctive enough that we approach each property based on its character rather than running a template.",
     ],
-    localContext: "Brandon sits along Route 7 with a historic downtown, the Neshobe River running through it, and residential neighborhoods that span from the village center out to rural properties on the surrounding roads. The town has a thriving arts scene, with Brandon Artists Guild and the annual Brandon Arts Festival drawing regional attention to the community. Early June is the run-up to the arts festival cycle: Route 7 properties are getting weekly mow rotations with crisp edging along walkways, mulched beds refreshed mid-month, and any leftover spring carpentry work (porch trim, painted shutters, deck rails) wrapping before the first festival weekend pulls regional traffic past every front yard in town.",
+    localContext: "Brandon sits along Route 7 with a historic downtown, the Neshobe River running through it, and residential neighborhoods that span from the village center out to rural properties on the surrounding roads. The town has a thriving arts scene, with Brandon Artists Guild and the annual Brandon Arts Festival drawing regional attention to the community. Late June puts Brandon at presentation peak: downtown is heading into the busiest arts-and-tourism stretch of the summer, so Route 7 properties are on a tight weekly mow at 4 inches with crisp hand-edged walkway lines, gallery storefronts get pre-July-4 hardscape sweeping and planter weeding, and the rural back-road properties are running 7-day cuts now that summer growth has accelerated. Crews are also dialing irrigation to predawn-only as the first real dry stretch tests Neshobe-corridor lawns.",
     priorityServices: ["landscaping", "grounds-maintenance", "hardscaping", "carpentry", "property-maintenance"],
     landmarks: ["Downtown Brandon", "Neshobe River", "Brandon Artists Guild", "Route 7", "Brandon Falls"],
     faqs: [
@@ -327,7 +327,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Our core service area is Rutland County plus Woodstock and Ludlow. Properties north of Brandon toward Middlebury we handle case-by-case based on scope and schedule.",
       },
     ],
-    lastUpdated: "2026-06-04",
+    lastUpdated: "2026-06-25",
   },
   {
     slug: "castleton",
@@ -341,7 +341,7 @@ export const serviceAreas: ServiceArea[] = [
       "We service both sides of that equation. Residential and commercial property care in the village, plus seasonal opening and closing, grounds maintenance, and property oversight for lakefront homes that sit empty during the off-season.",
       "Lakefront properties have their own rhythm — spring opening, dock management, seasonal cleanups, and fall winterization. We handle the transitions so owners aren't scrambling the first warm weekend.",
     ],
-    localContext: "Castleton is home to Castleton University, Lake Bomoseen (Vermont's largest lake entirely within the state), and a mix of village residential, rural properties, and lakefront homes. The town has a strong seasonal pattern driven by the university calendar and lake season. Many properties are second homes or short-term rentals, especially around Bomoseen. Early June is locked-in lake-season cadence: weekly turnovers are running on every Bomoseen rental, lakefront grounds are on a strict mow-and-shoreline-trim rotation, and we're staging dock-side hardscape touch-ups (stone walkways, stair treads, retaining stones disturbed by spring thaw) for the off-week windows between bookings.",
+    localContext: "Castleton is home to Castleton University, Lake Bomoseen (Vermont's largest lake entirely within the state), and a mix of village residential, rural properties, and lakefront homes. The town has a strong seasonal pattern driven by the university calendar and lake season. Many properties are second homes or short-term rentals, especially around Bomoseen. Late June puts Bomoseen at full rental-peak heading into the July 4 weekend: weekly Friday turnovers on every short-term rental, lakefront grounds on a strict mow-and-shoreline-trim rotation, dock-side hardscape touch-ups completed between bookings, and pre-holiday walkthroughs on second homes whose owners arrive for the holiday week. Lakeshore properties are also getting bi-weekly aquatic-vegetation sweep along the swim-area frontage as summer water temperatures climb.",
     priorityServices: ["grounds-maintenance", "property-maintenance", "snow-ice-management", "housekeeping", "rental-support"],
     landmarks: ["Lake Bomoseen", "Castleton University", "Bomoseen State Park", "Hubbardton Battlefield", "Route 4A"],
     faqs: [
@@ -358,7 +358,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. We handle cleaning, linen changes, and readiness checks between bookings, synced to your rental calendar with photo confirmation.",
       },
     ],
-    lastUpdated: "2026-06-04",
+    lastUpdated: "2026-06-25",
   },
   {
     slug: "wallingford",
