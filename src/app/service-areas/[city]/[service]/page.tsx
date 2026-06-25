@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { buildOpenGraph } from "@/lib/og";
 import { serviceAreas, getServiceAreaBySlug } from "@/lib/service-areas";
 import type { ServiceArea } from "@/lib/service-areas";
 import { getExtras, getPricingNote } from "@/lib/service-areas-extras";
@@ -56,12 +57,13 @@ export async function generateMetadata({
     alternates: {
       canonical: `https://meticulous802.com/service-areas/${area.slug}/${svc.slug}`,
     },
-    openGraph: {
+    openGraph: buildOpenGraph({
       title,
       description,
+      path: `/service-areas/${area.slug}/${svc.slug}`,
+      image: area.heroImage,
       type: "article",
-      url: `https://meticulous802.com/service-areas/${area.slug}/${svc.slug}`,
-    },
+    }),
   };
 }
 

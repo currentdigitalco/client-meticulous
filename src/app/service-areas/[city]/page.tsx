@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
+import { buildOpenGraph } from "@/lib/og";
 import { serviceAreas, getServiceAreaBySlug } from "@/lib/service-areas";
 import { serviceDetails } from "@/app/services/[slug]/service-data";
 import { CityPage } from "./city-page";
@@ -22,12 +23,13 @@ export async function generateMetadata({
     alternates: {
       canonical: `/service-areas/${area.slug}`,
     },
-    openGraph: {
+    openGraph: buildOpenGraph({
       title: area.seoTitle,
       description: area.seoDescription,
+      path: `/service-areas/${area.slug}`,
+      image: area.heroImage,
       type: "article",
-      url: `https://meticulous802.com/service-areas/${area.slug}`,
-    },
+    }),
   };
 }
 

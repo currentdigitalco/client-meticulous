@@ -943,7 +943,7 @@ export const blogPosts: BlogPost[] = [
 <li><strong>Joint sand washout</strong> between pavers, which allows further shifting</li>
 </ul>
 
-<p>Minor heave on a paver walkway is a one-hour fix if caught early. Lift the affected pavers, re-level the base, re-set, and re-sand the joints. If you ignore it, the uneven surface catches water, accelerates the problem, and by next spring you are re-doing the entire section. We covered frost heave protection in detail in our <a href="/blog/hardscape-frost-heave">hardscape frost heave guide</a>.</p>
+<p>Minor heave on a paver walkway is a one-hour fix if caught early. Lift the affected pavers, re-level the base, re-set, and re-sand the joints. If you ignore it, the uneven surface catches water, accelerates the problem, and by next spring you are re-doing the entire section. We covered frost heave protection in detail in our <a href="/blog/frost-heave-repair-walkways-patios-vermont">hardscape frost heave guide</a>.</p>
 
 <h2>What Can Wait Until Summer?</h2>
 

@@ -35,6 +35,7 @@ export function InnerFooter() {
               {[
                 { href: "/about", label: "About" },
                 { href: "/services", label: "Services" },
+                { href: "/service-areas", label: "Service Areas" },
                 { href: "/blog", label: "Blog" },
                 { href: "/portfolio", label: "Portfolio" },
                 { href: "/contact", label: "Contact" },

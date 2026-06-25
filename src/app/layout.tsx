@@ -245,7 +245,7 @@ export default function RootLayout({
         name: "Exterior walk-around inspection",
         text:
           "Walk the full perimeter checking for ice-dam damage, lifted shingles, displaced gutter sections, foundation cracks, and winter-killed shrubs. Photograph any damage and flag for repair before turf work begins.",
-        url: `${BASE}/services/property-care`,
+        url: `${BASE}/services/property-maintenance`,
       },
       {
         "@type": "HowToStep",
@@ -253,7 +253,7 @@ export default function RootLayout({
         name: "Gutter and downspout clearance",
         text:
           "Remove winter debris from gutters and downspouts, flush with water, and confirm drainage flows away from the foundation. Reseat any gutter brackets loosened by ice load.",
-        url: `${BASE}/services/property-care`,
+        url: `${BASE}/services/property-maintenance`,
       },
       {
         "@type": "HowToStep",
@@ -261,7 +261,7 @@ export default function RootLayout({
         name: "Lawn dethatch and first cut",
         text:
           "Dethatch winter matting, edge beds, and complete the season's first cut at 3.5 inches to encourage root recovery without stressing dormant grass. Bag clippings on the first pass only.",
-        url: `${BASE}/services/lawn-care`,
+        url: `${BASE}/services/grounds-maintenance`,
       },
       {
         "@type": "HowToStep",
@@ -277,7 +277,7 @@ export default function RootLayout({
         name: "Interior turnover and systems check",
         text:
           "Run every faucet and flush every toilet to clear stagnant lines. Test HVAC switchover to AC, swap furnace filters, confirm smoke and CO detectors, and stage linens and welcome supplies for owner or guest arrival.",
-        url: `${BASE}/services/property-care`,
+        url: `${BASE}/services/property-maintenance`,
       },
     ],
   };

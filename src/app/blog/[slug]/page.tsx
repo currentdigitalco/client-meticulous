@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
+import { buildOpenGraph } from "@/lib/og";
 import { blogPosts, getPostBySlug } from "@/lib/blog-posts";
 import { BlogPostPage } from "./blog-post-page";
 
@@ -22,12 +23,13 @@ export async function generateMetadata({
     title: `${post.title} | Meticulous LLC Blog`,
     description: post.metaDescription,
     alternates: { canonical: `/blog/${post.slug}` },
-    openGraph: {
+    openGraph: buildOpenGraph({
       title: post.title,
       description: post.metaDescription,
+      path: `/blog/${post.slug}`,
+      image: post.image,
       type: "article",
-      images: [{ url: post.image }],
-    },
+    }),
   };
 }
 
