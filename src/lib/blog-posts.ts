@@ -13,6 +13,95 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "lawn-care-cost-rutland-county-vermont",
+    title: "Lawn Care Cost in Rutland County, Vermont: 2026 Pricing for Mow-Only, Full-Season, and Property Management",
+    excerpt:
+      "Lawn care in Rutland County, Vermont runs roughly $60 to $110 per mowing visit in 2026 — Vermont is the most expensive state in the US for lawn care, and there are real reasons for it. Here is what a per-visit mow, a full-season contract, and a full property-management plan actually cost in Killington, Rutland, Woodstock, Ludlow, Mendon, Chittenden, Pittsfield, Brandon, and Castleton, and what the right number looks like for a second-home owner who needs the lawn handled remotely.",
+    category: "Pricing",
+    date: "June 2026",
+    readTime: "9 min read",
+    image: "/images/blog-lawn-care-cost-rutland-county-vermont.jpeg",
+    featured: true,
+    metaDescription:
+      "Lawn care cost in Rutland County, Vermont for 2026: per-visit mowing rates, full-season contracts, and second-home property management pricing for Killington, Rutland, Woodstock, Ludlow, Mendon, Chittenden, Pittsfield, Proctor, West Rutland, Brandon, and Castleton.",
+    content: `
+<p>Lawn care in Rutland County, Vermont runs roughly <strong>$60 to $110 per mowing visit</strong> in 2026 on a typical residential property, with full-season contracts landing between <strong>$1,400 and $3,200</strong> and full property-management plans for second-home owners running <strong>$280 to $850 per month</strong> depending on acreage and scope. Vermont is the single most expensive state in the country for lawn care per the 2025 LawnStarter national pricing data, with average mowing rates running close to $78 per visit — roughly 30 percent above the US median. The number is not arbitrary. Three things drive it: a growing season that runs only about 22 weeks at our elevation, residential lot sizes that average close to 29,000 square feet statewide (more than three times the national mean), and a small pool of seasonal labor that has to be paid enough to show up in June and stay through October.</p>
+
+<p>Here is the honest 2026 breakdown of what lawn care actually costs on a Rutland County property — what a per-visit mow runs, what a full-season contract should cover, what a real second-home property-management plan includes for the owner who is not on site to manage the crew, and the price differences between Killington, Rutland, Woodstock, Ludlow, Mendon, Chittenden, Pittsfield, Brandon, and Castleton.</p>
+
+<h2>What Does a Single Mow Actually Cost in Rutland County in 2026?</h2>
+
+<p>A single mowing visit on a typical Rutland County residential lawn runs <strong>$60 to $110 in 2026</strong>, with most properties between half an acre and an acre landing in the $70 to $95 range per visit. The state-average mow is around $78, the highest in the US, and Rutland County tracks close to that average with Killington and Woodstock running slightly above on the larger second-home properties.</p>
+
+<p>The per-visit rate covers a standard mow — cutting, line-trimming the edges, blowing the hard surfaces clean — on a property with no slope challenges, no extensive ornamental beds, and clear access for the mower. Properties with steep grades, heavy bed work, gated access, or longer driveways move toward the upper end of the range, and properties that have been let go between visits run higher because the long-cut takes twice as long.</p>
+
+<ul>
+<li><strong>Quarter-acre town lot in Rutland or Brandon:</strong> $55 to $75 per visit</li>
+<li><strong>Half- to three-quarter-acre residential lot in West Rutland, Proctor, or Mendon:</strong> $70 to $95 per visit</li>
+<li><strong>One- to two-acre Woodstock or Killington property with mixed beds:</strong> $90 to $145 per visit</li>
+<li><strong>Two-plus acre Ludlow, Pittsfield, or Chittenden second-home property:</strong> $130 to $225 per visit</li>
+</ul>
+
+<p>Note that Vermont's average residential lot is roughly 29,000 square feet — close to two-thirds of an acre — per the most recent state data. That is well above the national average and is the single biggest reason Vermont per-visit pricing runs above the national median.</p>
+
+<h2>Per-Visit vs. Full-Season Contract: Which Is Cheaper?</h2>
+
+<p>A full-season mowing contract is almost always 10 to 20 percent cheaper per visit than booking the same property mow-by-mow, because the property owner is paying for predictability and the contractor is locking in a route. Across a typical 22-week Rutland County growing season — from the last week of May to roughly the first week of October — a property that needs a weekly mow runs <strong>$1,400 to $3,200 for the full season</strong> on a contract. The same property booked mow-by-mow at the per-visit rate runs $1,650 to $3,850.</p>
+
+<p>The 22-week season is the part most owners moving up from a longer climate underestimate. In a normal year, the grass starts moving in mid-to-late May, hits peak growth in June and early July, slows in August during the heat, comes back in September with the cooler nights, and stops cleanly by Columbus Day. A "full season" in Vermont is a fraction of the season in Georgia or even Pennsylvania, and the cost structure of the trade reflects that — the truck, the equipment, the insurance, and the labor have to be paid for across a much shorter window.</p>
+
+<h2>What Should a Full-Season Contract Include?</h2>
+
+<p>A real Rutland County full-season lawn contract should include nine things. A contract that quotes a season number without naming the scope is a quote that is leaving room to charge extra for what most owners assume is included.</p>
+
+<ol>
+<li><strong>Weekly mowing</strong> at the correct cut height for cool-season turf (3 to 4 inches in summer per the schedule we covered in our <a href="/blog/lawn-mowing-height-rutland-county-vermont-summer">Rutland County mowing height guide</a>) for the 22-week active season.</li>
+<li><strong>Line-trimming and edge work</strong> around beds, hardscape, posts, and the foundation, every visit.</li>
+<li><strong>Blower clean-down</strong> of every hard surface — driveway, walks, patio, deck — every visit.</li>
+<li><strong>One spring clean-up</strong> at the start of the season: removing winter debris, dethatching where appropriate, and the first-cut height adjustment.</li>
+<li><strong>One fall clean-up</strong> at the end of the season: final cut at a shorter height to reduce snow-mold pressure, leaf collection, and bed clean-out.</li>
+<li><strong>Mower-blade sharpening at least twice in the season</strong>, because a dull blade tears the grass and shows up as a browning lawn in August.</li>
+<li><strong>One core aeration pass in fall</strong> on properties where the soil is compacted and the lawn would benefit (most established Rutland County lawns).</li>
+<li><strong>A scheduled walk-through</strong> at the start of the season to confirm scope, gate codes, irrigation contacts, and any specifics.</li>
+<li><strong>A defined cancellation and weather policy</strong> in writing — when a mow gets skipped for rain, when it gets rescheduled, and how the season total is reconciled.</li>
+</ol>
+
+<p>The lower end of the season range, the $1,400 contract, is realistic only on a small town lot with a clean, flat layout. A larger second-home property with mixed beds, slope, and longer driveways is genuinely in the $2,400 to $3,200 range for the full season on weekly service, and the contract should say what is in scope before any work starts.</p>
+
+<h2>What Does Full Property Management Cost for a Second Home?</h2>
+
+<p>Full property management for a second-home owner in Rutland County — the owner who is not on site to coordinate the lawn crew, the snow crew, the irrigation startup, and the seasonal walk-throughs — runs <strong>$280 to $850 per month on retainer</strong> in 2026, depending on acreage, the number of seasonal services bundled in, and whether the plan includes interior coverage between visits.</p>
+
+<p>The retainer is the math that makes second-home ownership in Killington, Woodstock, Ludlow, and the rest of the Rutland County ski and lake country actually work. Booking each service à la carte — a mow, then a separate call for a downed branch, then a separate call for a stuck irrigation valve, then a separate call for the snowplow blow-out — costs more, takes longer to coordinate, and leaves the owner with five different invoices and no single point of contact. A retainer is one call, one invoice, one crew that knows the property.</p>
+
+| Property type | Approx scope | 2026 retainer (Rutland County) |
+| --- | --- | --- |
+| Single-family second home, &lt; 1 acre, mow + basic upkeep | Weekly mow, beds, walk-through, photo updates | $280 – $420 / mo |
+| Single-family second home, 1–2 acres, mow + snow + irrigation | Weekly mow, snow plow + walk, irrigation start/blow-out, two seasonal clean-ups | $420 – $650 / mo |
+| Larger second home or short-term rental, 2+ acres, full grounds | Mow + snow + irrigation + bed maintenance + interior check + emergency response | $650 – $850 / mo |
+| High-touch ski home / weekly-rental property | Above + same-day turnaround on guest issues + landscape lighting + spring/fall property prep | $850 – $1,400+ / mo |
+
+<p>For the second-home owner, the test is not the dollar number on the retainer. It is whether the contract includes the things that actually fail on an unoccupied Vermont property — the blown irrigation head in August, the limb across the driveway in November, the snowplow that has to come at 4am after a 12-inch storm so the driveway is clear for a Saturday arrival. A retainer that does not include emergency response in writing is not actually a property-management contract.</p>
+
+<h2>Why Does Vermont Run Higher Than Other States?</h2>
+
+<p>Vermont lawn care runs above the US median for three reasons. First, the active growing season is short — about 22 weeks at Rutland County elevations of 800 to 1,800 feet — so the equipment, insurance, and crew cost have to be amortized across many fewer mowable weeks than they are in a southern state with a 40+ week season. Second, residential lot sizes are big — the state average is close to 29,000 square feet vs roughly 9,000 square feet nationally — so a "typical mow" is genuinely more square footage than the same word covers in a denser market. Third, the labor pool for seasonal trades in central Vermont is small enough that the wage to keep a reliable crew from May through October is higher than the national average for the same trade.</p>
+
+<p>The combination is real, not a markup. A vendor coming in 30 percent under the regional range is either an out-of-state quote that does not understand the season length, a first-year operator running below break-even, or a crew that will not be reachable when the snowplow needs to come at 4am in February.</p>
+
+<h2>What About Remote Billing and Photo Updates for Second-Home Owners?</h2>
+
+<p>A real second-home property-management contract bills via card or ACH on a monthly schedule, with itemized statements, and includes a photo update after each visit. The owner gets a record of what was done, when, and on which areas of the property. For a remote owner this is the only way to confirm work without driving up from Boston or New York to walk the grounds.</p>
+
+<p>Photo updates are not a premium service in 2026. They are a baseline expectation on a second-home retainer, and any vendor quoting a retainer without them is quoting an older service model. Same with remote billing — paper checks mailed to a Vermont address do not work for an absentee owner, and a vendor that requires them is one to skip.</p>
+
+<h2>How Meticulous Prices Rutland County Properties</h2>
+
+<p>We quote every Rutland County property after a walk-through, on a flat per-visit rate for mow-only customers and a flat monthly retainer for full-season and property-management customers. The number lands inside the ranges above for the property size and scope, and the contract names what is included — mowing height, cleanup cadence, irrigation start and blow-out dates, snow service trigger depth, walk-through frequency, photo update cadence, and the emergency response window — before any work starts. Second-home owners get a single point of contact, monthly billing on card or ACH, and a photo log of every visit emailed the same day.</p>
+
+<p>If you own property anywhere from Killington and Woodstock down through <a href="/service-areas/rutland">Rutland</a>, Mendon, Chittenden, Pittsfield, Ludlow, Brandon, West Rutland, Proctor, and <a href="/service-areas/castleton">Castleton</a> and want a real quote — not a phone-call estimate — call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send a note through the <a href="/contact">contact page</a>. For the broader summer schedule on a Vermont property, see our <a href="/blog/summer-grounds-maintenance-schedule-vermont">Rutland County summer grounds-maintenance schedule</a>, and for the single highest-leverage correction most properties need first, our <a href="/blog/lawn-mowing-height-rutland-county-vermont-summer">mowing height guide</a>. The right lawn-care number for a Vermont property is the one that names what is in scope. Anything else is a guess.</p>`,
+  },
+  {
     slug: "lawn-mowing-height-rutland-county-vermont-summer",
     title: "Lawn Mowing Height for a Rutland County, Vermont Summer: Why Cutting Too Short Is the Single Biggest Cause of Brown Turf in August",
     excerpt:
@@ -21,7 +110,7 @@ export const blogPosts: BlogPost[] = [
     date: "June 2026",
     readTime: "8 min read",
     image: "/images/blog-lawn-mowing-height-rutland-county-vermont-summer.jpeg",
-    featured: true,
+    featured: false,
     metaDescription:
       "Lawn mowing height for a Rutland County, Vermont summer: why three inches is the floor for Vermont cool-season turf, why scalping causes the brown August lawn, the one-third rule, sharp-blade rule, and the right mowing schedule for Killington, Rutland, Woodstock, Ludlow, Mendon, Chittenden, and Pittsfield properties.",
     content: `
@@ -374,7 +463,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Every second home we manage in Rutland County runs on this schedule. Weekly mow at a tall cut, on a fixed day. Two fertilizer applications, timed to the season, not to the marketing calendar. Bi-weekly bed weeding, mulch refresh in early June, hardscape pressure wash in late June, perimeter tick treatments in late May and mid-July, deadheading and staking through the summer, aeration and overseed in the early-September window. The owner gets a property that looks the same in August whether they are in Vermont or in Manhattan, because the schedule does not depend on whether they are watching it.</p>
 
-<p>If you own a second home or run a property in Killington, Rutland, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, West Rutland, Brandon, or Castleton and you want the summer schedule run the way it is supposed to be run, <a href="/contact">get in touch</a>. We will walk the property, lay out the calendar in writing, and have it on the books before the next mow.</p>
+<p>If you own a second home or run a property in Killington, Rutland, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, West Rutland, Brandon, or Castleton and you want the summer schedule run the way it is supposed to be run, <a href="/contact">get in touch</a>. We will walk the property, lay out the calendar in writing, and have it on the books before the next mow. For the dollar side of all of this — per-visit mowing rates, full-season contracts, and what a second-home property-management retainer actually runs in Rutland County — see our <a href="/blog/lawn-care-cost-rutland-county-vermont">2026 lawn care cost guide</a>.</p>
 `,
   },
   {

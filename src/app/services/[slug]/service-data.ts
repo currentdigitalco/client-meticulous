@@ -22,6 +22,8 @@ export interface ServiceDetail {
   process: ProcessStep[];
   differentiators: string[];
   relatedServices: string[];
+  lastUpdated?: string;
+  relatedBlogs?: { slug: string; title: string }[];
 }
 
 export const serviceDetails: ServiceDetail[] = [
@@ -84,6 +86,13 @@ export const serviceDetails: ServiceDetail[] = [
       "Full-season programs that eliminate the hassle of scheduling individual services",
     ],
     relatedServices: ["landscaping", "property-maintenance"],
+    lastUpdated: "2026-06-29",
+    relatedBlogs: [
+      {
+        slug: "lawn-care-cost-rutland-county-vermont",
+        title: "Lawn Care Cost in Rutland County, Vermont: 2026 Pricing",
+      },
+    ],
   },
   {
     slug: "landscaping",
@@ -204,6 +213,13 @@ export const serviceDetails: ServiceDetail[] = [
       "Preventative approach that protects your investment and catches issues early",
     ],
     relatedServices: ["grounds-maintenance", "rental-support"],
+    lastUpdated: "2026-06-29",
+    relatedBlogs: [
+      {
+        slug: "lawn-care-cost-rutland-county-vermont",
+        title: "Lawn Care Cost in Rutland County, Vermont: 2026 Pricing",
+      },
+    ],
   },
   {
     slug: "snow-ice-management",
@@ -504,6 +520,13 @@ export const serviceDetails: ServiceDetail[] = [
       "Full-spectrum support from grounds to guest prep means fewer vendors and simpler management",
     ],
     relatedServices: ["housekeeping", "property-maintenance"],
+    lastUpdated: "2026-06-29",
+    relatedBlogs: [
+      {
+        slug: "lawn-care-cost-rutland-county-vermont",
+        title: "Lawn Care Cost in Rutland County, Vermont: 2026 Pricing",
+      },
+    ],
   },
 ];
 
