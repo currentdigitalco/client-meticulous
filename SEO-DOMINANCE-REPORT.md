@@ -3,7 +3,7 @@
 **Score:** 105 / 120 (88%) — B — strong, minor gaps
 **Site path:** `sites/client-meticulous`
 **Pages (estimate):** 20
-**Schema types detected:** AdministrativeArea, AggregateRating, Answer, BreadcrumbList, City, ContactPoint, FAQPage, GeoCoordinates, HomeAndConstructionBusiness, HowTo, HowToStep, HowToSupply, HowToTool, ListItem, LocalBusiness, MonetaryAmount, Offer, OfferCatalog, OpeningHoursSpecification, Organization, Person, PostalAddress, Question, Rating, Review, Service, SpeakableSpecification, State, WebPage, WebSite
+**Schema types detected:** AdministrativeArea, AggregateRating, Answer, BreadcrumbList, City, CollectionPage, ContactPoint, FAQPage, GeoCoordinates, HomeAndConstructionBusiness, HowTo, HowToStep, HowToSupply, HowToTool, ItemList, ListItem, LocalBusiness, MonetaryAmount, Offer, OfferCatalog, OpeningHoursSpecification, Organization, Person, PostalAddress, Question, Rating, Review, Service, SpeakableSpecification, State, WebPage, WebSite
 **LocalBusiness fields detected:** address, areaServed, founder, geo, hasOfferCatalog, knowsAbout, openingHoursSpecification, paymentAccepted, review, sameAs
 **llms.txt:** present (165 lines)
 **llms-full.txt:** present
