@@ -48,7 +48,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. We service the full Killington Road corridor, the access roads leading to the mountain, and outlying neighborhoods toward Pico, Mendon, and the Route 4 corridor.",
       },
     ],
-    lastUpdated: "2026-06-25",
+    lastUpdated: "2026-07-06",
   },
   {
     slug: "rutland",
@@ -79,7 +79,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Meticulous LLC is a registered residential contractor and registered Property Management Firm in Vermont, properly licensed and insured for the full scope of services we offer.",
       },
     ],
-    lastUpdated: "2026-06-25",
+    lastUpdated: "2026-07-06",
   },
   {
     slug: "woodstock",
@@ -110,7 +110,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Woodstock is within our regular service radius. We schedule routes efficiently so clients aren't paying a premium for distance.",
       },
     ],
-    lastUpdated: "2026-06-25",
+    lastUpdated: "2026-07-06",
   },
   {
     slug: "ludlow",
@@ -141,7 +141,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Summer is our prime hardscape season. We install patios, retaining walls, and walkways throughout the Ludlow area, engineered for Vermont's freeze-thaw cycles.",
       },
     ],
-    lastUpdated: "2026-06-25",
+    lastUpdated: "2026-07-06",
   },
   {
     slug: "pittsfield",
@@ -234,7 +234,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. As a registered Vermont residential contractor, we handle deck rebuilds, rot repair, siding, trim, and structural work throughout Mendon.",
       },
     ],
-    lastUpdated: "2026-07-02",
+    lastUpdated: "2026-07-06",
   },
   {
     slug: "proctor",

@@ -13,6 +13,133 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "is-my-lawn-dead-or-dormant-vermont",
+    title: "Is Your Lawn Dead or Dormant? A Vermont Summer Guide (2026)",
+    excerpt:
+      "The straw-blond lawn on a Killington or Woodstock property in July is almost always dormant, not dead — and the fix is not more water. Here is the three-part field test to tell the difference in ninety seconds, why cool-season turf shuts down around Rutland County in mid-July, and the exact watering, mowing, and traffic rules that keep a dormant lawn recoverable instead of killing it while trying to save it.",
+    category: "Lawn Care",
+    date: "July 2026",
+    readTime: "9 min read",
+    image: "/images/blog-is-my-lawn-dead-or-dormant-vermont.jpeg",
+    featured: true,
+    metaDescription:
+      "Is your Vermont lawn dead or dormant? The 3-part field test and the ½–1 inch every 3–4 weeks water spec that holds a Rutland County lawn through July.",
+    content: `
+<p><em>Updated July 2026.</em></p>
+
+<p data-speakable="true"><strong>A straw-blond Rutland County lawn in July is almost always dormant, not dead.</strong> Cool-season turf shuts down when soil sits above 80&deg;F &mdash; usually the second week of July around Killington. To hold it without waking it up: a half to one inch of water every 3&#8211;4 weeks. Do not fertilize, mow, or walk it.</p>
+
+<h2>Is My Lawn Dead or Dormant? A Vermont Field Test</h2>
+
+<p>Almost always dormant. Residential lawns across Killington, Rutland, Woodstock, Ludlow, Mendon, Pittsfield, Chittenden, Proctor, West Rutland, Brandon, and Castleton run heavy on Kentucky bluegrass and fine fescue with some perennial ryegrass mixed in. Every one of those is a cool-season grass, and every one voluntarily shuts down top growth when soil temperature and moisture cross a threshold. The plant is protecting the crown. It is not dying.</p>
+
+<p>The three-part field test takes about ninety seconds and does not need any tools:</p>
+
+<ol>
+<li><strong>The tug test.</strong> Grab a handful of the brown grass and pull straight up. Dormant grass holds — the crown is still anchored and the roots are still working. Dead grass releases in a clump like pulling a rug up off a floor. If the handful comes out with soil clinging to it and no roots pulling back, that patch is dead.</li>
+<li><strong>The colour test.</strong> Push the brown blades aside and look at the base of the plant, right at the soil line. On a dormant lawn the crown is still greenish or cream-white and slightly firm. On a dead lawn the crown is grey, brittle, and snaps.</li>
+<li><strong>The foot-print rebound test.</strong> Walk across the driest patch. On a dormant lawn the tracks stay visible for about an hour and then rebound. On a truly dead patch they stay pressed flat forever, because there is no live tissue left to spring back.</li>
+</ol>
+
+<p>Run the tests on five or six patches — sunny front, shaded side, driveway strip, section under the tallest trees. Most Rutland County properties test dormant everywhere, with maybe a small dead patch along a south-facing driveway edge or where the plow piled salt-laden snow. Those spots reseed in fall. The rest is asleep and will come back on its own.</p>
+
+<h2>Why Do Vermont Lawns Go Dormant in July?</h2>
+
+<p>Cool-season grass biology, plus a specific Rutland County weather pattern that has repeated every summer we have been in business. Kentucky bluegrass, fine fescue, and perennial ryegrass all evolved in climates where the growing season peaks in cool, moist spring and fall weather. Their photosynthetic efficiency collapses when air temperatures sit above the mid-80s, and their root systems stop taking up water when the top four inches of soil sit above 80&deg;F. Around the 1,000 to 2,000 foot elevations of Rutland County, that soil-temperature threshold typically hits the second week of July and holds through most of August in a dry summer.</p>
+
+<p>Dormancy is the plant's built-in survival move. The blades brown, the crown pulls resources down, and the plant stops trying to grow through conditions it cannot metabolize. A cool-season lawn can hold dormancy for four to five weeks with no permanent damage. Past six weeks the crown starts to lose viability, and by eight weeks without water some percentage of the stand will not recover.</p>
+
+<p>The 2026 summer in Rutland County has been drier than average through the first week of July, with surface soil temperatures running in the low 80s on the sun-exposed lawns we service in Killington and Woodstock. That is the profile that triggers early dormancy. If the pattern holds, expect most cool-season lawns in the county to be fully brown by the last week of the month.</p>
+
+<h2>Should I Water a Dormant Lawn, and How Much?</h2>
+
+<p>Commit or do not. This is the single most common mistake we see on Rutland County properties in July: the owner panics at the brown lawn, waters it lightly for a week, stops when a thunderstorm rolls through, then starts and stops again a week later. Every one of those on-off cycles is worse for the plant than doing nothing at all, because each shot of water is trying to break dormancy without giving the plant enough to actually recover, and the repeated start-stop drains the crown reserves the plant needs to survive.</p>
+
+<p>There are two acceptable strategies. Pick one.</p>
+
+<ul>
+<li><strong>Hold the lawn dormant.</strong> The right approach for most second-home owners. Give the lawn a half to one inch of water every three to four weeks. That is enough to keep the crown alive without triggering a full green-up. Water in the early morning, all in one session, deep and slow. Skip if it rained more than a half inch in the last week.</li>
+<li><strong>Break dormancy and keep it broken.</strong> Only do this if you can commit for the rest of the summer. It takes one to one and a half inches of water per week, delivered in one or two deep morning sessions, from the day you start until the fall rains take over. Stopping partway through is worse than never starting, because you have used up the plant's dormancy reserves and then abandoned it.</li>
+</ul>
+
+<p>For an owner in New York or Boston who is not at the property to run a real irrigation program, holding dormant is the smart choice. The lawn will look brown for a few more weeks, then green up cleanly when the September rains come. The full watering rules for our climate are laid out in our <a href="/blog/lawn-irrigation-rutland-county-vermont">Rutland County lawn irrigation guide</a>, including why evening watering is the wrong call in a Vermont summer and what a proper zone-tuned program looks like.</p>
+
+<h2>What Should I NOT Do to a Stressed Vermont Lawn?</h2>
+
+<p>Four things, and every one of them shows up as a call to us in September when the lawn does not come back.</p>
+
+<ul>
+<li><strong>Do not fertilize.</strong> A dormant lawn cannot metabolize nitrogen. Applying a lawn fertilizer to browned-out turf in July does not feed the plant — it burns the crown, salts the surface soil, and puts a stressed lawn into permanent decline. Every fertilizer window in Vermont is on the cool side of the calendar. Late spring, early fall. Not midsummer.</li>
+<li><strong>Do not mow.</strong> Dormant turf does not need to be cut, and every mowing pass adds foot traffic, wheel compaction, and blade-tip trauma to a plant already surviving on reserves. Skip the mow until the lawn greens up again, or if you have to keep the property looking maintained for guests, raise the deck to four inches and cut only when there is measurable regrowth. Never scalp a stressed lawn — it is the fastest way to convert dormant grass into dead grass.</li>
+<li><strong>Do not walk on it heavily.</strong> Dormant crowns are fragile. Repeated foot traffic on the same lines — the dog's path, the path to the mailbox, the kids' short-cut across the front lawn — crushes the crowns and shows up as permanent trails when the rest of the lawn greens up. Reroute traffic to the driveway or the walks for the dry weeks.</li>
+<li><strong>Do not spray herbicide.</strong> Broadleaf herbicides and crabgrass pre-emergents assume actively growing turf. Applied to a stressed, dormant lawn, they do more damage to the desirable grass than to the weeds you are trying to kill. Weed control moves to September on a dormant summer lawn.</li>
+</ul>
+
+<p>The theme across all four: leave it alone. A cool-season lawn is genuinely built to survive a Vermont July without any help. Most of the damage that shows up in the fall is from the owner trying to fix a lawn that did not need fixing.</p>
+
+<h2>How Fast Will It Green Back Up When the Rain Returns?</h2>
+
+<p>Faster than most owners expect. A properly dormant Rutland County lawn that has been held with the ½&#8211;1 inch every 3&#8211;4 weeks program will start showing green tips within seven to ten days of the first real fall rains, and will be substantially back to full colour within two to three weeks. In a typical Vermont year, that timeline runs from mid-September to early October. The lawn comes back on its own if you did not damage it in July and August.</p>
+
+<p>The check for whether the recovery is happening is at the crown, not the blades. Push the brown grass aside a week after a decent rain and look at the base. New green shoots will emerge from the same crowns that were tested dormant back in July. That is the same plant coming back, not new growth. On the patches that tested dead in July, no new shoots will appear at all — those spots need to be reseeded in the fall aeration window, which we walk through in the <a href="/blog/when-to-aerate-your-lawn-vermont">Vermont aeration timing guide</a>.</p>
+
+<p>Below is the field-test comparison we run on every property call in July and August. Match the symptoms to the column, and the right response is usually obvious.</p>
+
+<table>
+<thead>
+<tr><th>Symptom</th><th>Dormant</th><th>Dead</th></tr>
+</thead>
+<tbody>
+<tr><td>Colour of blades</td><td>Straw-blond, uniform</td><td>Grey-brown, patchy, sometimes with matted look</td></tr>
+<tr><td>Tug test result</td><td>Holds firm, roots intact</td><td>Releases in a clump, no root resistance</td></tr>
+<tr><td>Crown colour at soil line</td><td>Cream to light green, firm</td><td>Grey, brittle, snaps</td></tr>
+<tr><td>Foot-print rebound</td><td>Rebounds within an hour</td><td>Stays pressed, no rebound</td></tr>
+<tr><td>Distribution</td><td>Whole lawn or big zones</td><td>Small patches, usually along edges, salt lines, or plow scars</td></tr>
+<tr><td>Recovery after rain</td><td>Green shoots from crowns in 7&#8211;10 days</td><td>No regrowth &#8212; needs reseed</td></tr>
+</tbody>
+</table>
+
+<h2>When Is Brown Actually Grubs or Fungus, Not Drought?</h2>
+
+<p>Not every brown lawn in a Vermont summer is dormancy. Two other patterns show up on Rutland County properties, and they both need a different response than the "leave it alone" rule above.</p>
+
+<p><strong>Grub damage</strong> reads as irregular patches that pull up in sheets when tugged, because the roots underneath have been chewed off by white grubs feeding in the top two inches of soil. The giveaway is the sheet-lift and the presence of skunks or crows tearing up the same patches at night to get to the grubs. If a dormant-tug test comes up with the sod releasing cleanly with no root resistance and you can see white C-shaped larvae in the exposed soil, that is a grub problem, not a drought problem. Curative grub treatment in mid-to-late August catches the population before they overwinter.</p>
+
+<p><strong>Fungal disease</strong> — dollar spot, brown patch, red thread — tends to show up in circular or ring-shaped patterns rather than the uniform browning of dormancy. The blade edges look scorched or lesioned rather than uniformly straw-coloured, and the pattern often follows humidity zones (low spots, shaded corners, the strip near the AC condenser drain). Fungus is worse on overwatered lawns and on lawns fertilized in early summer, which is one of the reasons the "do not fertilize in July" rule matters. The full summer schedule that avoids feeding fungal pressure is in our <a href="/blog/summer-grounds-maintenance-schedule-vermont">Vermont summer grounds maintenance schedule</a>, and the pest-pressure side is in the <a href="/blog/tick-mosquito-control-vermont-properties">tick, black fly, and mosquito plan</a> we run through late spring.</p>
+
+<h2>Vermont Dormant Lawn FAQs</h2>
+
+<h3>How long can a Vermont lawn stay dormant before it starts dying?</h3>
+<p>A cool-season lawn can hold dormancy for four to five weeks with no permanent damage as long as it gets some crown moisture. Between six and eight weeks the risk of stand loss rises. Past eight weeks with zero water, expect 20 to 40 percent of the lawn to need reseeding in the fall.</p>
+
+<h3>Will watering a dormant lawn wake it back up?</h3>
+<p>Only if you commit. Light, sporadic watering does not break dormancy — it stresses the plant. A full green-up requires one to one and a half inches per week, consistently, from the day you start until the fall rains take over. If you cannot commit to that, do not start.</p>
+
+<h3>What is the water spec for holding a dormant Vermont lawn without waking it?</h3>
+<p>A half to one inch every three to four weeks, delivered in a single deep morning session, skipped if the last week already produced more than a half inch of rain. That keeps the crowns hydrated without pushing the plant into a growth cycle it cannot sustain.</p>
+
+<h3>My second-home lawn in Killington browned out and I am not up for three weeks — what should the caretaker do?</h3>
+<p>Nothing beyond the hold-dormant water spec above, and only if a real dry stretch is on the forecast. No mowing, no fertilizer, no herbicide. A weekly photo-update log so the owner can see the pattern is the correct level of engagement. Anything more usually makes it worse.</p>
+
+<h3>Is it worth aerating and overseeding a dormant lawn to speed recovery?</h3>
+<p>Not in July. Aeration and overseed windows in Vermont are late August through mid-September, when soil temperatures drop back into the 60s and the fall growth cycle begins. Aerating a dormant July lawn wastes both the machine time and the seed.</p>
+
+<h3>Does mowing height matter more when the lawn is stressed?</h3>
+<p>Yes. If you must mow a heat-stressed Rutland County lawn, the deck goes to four inches and the blade has to be sharp. Cutting shorter than three inches in July is the fastest way to convert dormant grass into dead grass. Full mowing spec is in our <a href="/blog/lawn-mowing-height-rutland-county-vermont-summer">Vermont summer mowing height guide</a>.</p>
+
+<h3>Does the dormant-vs-dead answer change at higher elevation properties?</h3>
+<p>The threshold shifts by a week or two. Higher-elevation properties in Killington, Mendon, Chittenden, and Shrewsbury go into dormancy later than valley properties in Rutland or Proctor, and they usually come out of it earlier when the nights start cooling in late August. The tests and the rules are the same. The calendar shifts about ten to fourteen days.</p>
+
+<h3>Should I be worried about a specific brown patch along the driveway?</h3>
+<p>Usually plow salt and de-icer damage from the winter, and usually dead rather than dormant. Those strips are the ones that need reseeding in the fall, not saving in July. Full driveway-edge damage assessment is in our <a href="/blog/lawn-reseeding-snowplow-damage-vermont-may">snowplow damage reseeding guide</a>.</p>
+
+<h2>Get a Mid-Summer Property Walk</h2>
+
+<p>If your Rutland County property browned out this July and you are not sure whether it is dormant, dead, grub-driven, or fungal, we walk the lawn, run the field tests, and tell you which of the four you are dealing with — usually within about half an hour on site. We manage properties across Killington, Rutland, Woodstock, Ludlow, Mendon, Pittsfield, Chittenden, Proctor, West Rutland, Brandon, and Castleton on the schedule laid out in our <a href="/blog/summer-grounds-maintenance-schedule-vermont">Vermont summer grounds maintenance schedule</a>, and second-home owners get the mid-summer walk as part of the retainer.</p>
+
+<p>Call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send a note through the <a href="/contact">contact page</a> with the property address and a photo of the brown patch. We will tell you whether it needs anything now or whether the smart move is to hold dormant and wait for the September rains. The right answer for a stressed Vermont lawn in July is usually less work, not more. That is the answer we would rather give you before you spend money doing the wrong thing.</p>`,
+  },
+  {
     slug: "lawn-care-cost-rutland-county-vermont",
     title: "Lawn Care Cost in Rutland County, Vermont: 2026 Pricing for Mow-Only, Full-Season, and Property Management",
     excerpt:
@@ -21,7 +148,7 @@ export const blogPosts: BlogPost[] = [
     date: "June 2026",
     readTime: "9 min read",
     image: "/images/blog-lawn-care-cost-rutland-county-vermont.jpeg",
-    featured: true,
+    featured: false,
     metaDescription:
       "Lawn care cost in Rutland County, Vermont for 2026: per-visit mowing rates, full-season contracts, and second-home property management pricing for Killington, Rutland, Woodstock, Ludlow, Mendon, Chittenden, Pittsfield, Proctor, West Rutland, Brandon, and Castleton.",
     content: `
@@ -180,7 +307,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>On every property we manage across Killington, Rutland, Woodstock, Ludlow, Mendon, Chittenden, Pittsfield, Proctor, West Rutland, Brandon, and Castleton, the mowing deck stays between 3 and 4 inches from mid-June through August. The blade comes off the mower for a sharpen at least twice a season. The cut frequency follows the actual growth, not a fixed Saturday slot. The clippings stay on the lawn unless the cut is unusually heavy. Mowing happens in the morning or evening through the hot weeks. None of it costs more to do. It costs less, because the lawns recover instead of needing the patch-and-overseed work that the scalped lawns need every September.</p>
 
-<p>If your lawn browns out every August no matter what you put on it, the mower setting is the first thing to check. Send a note describing the property, the current mowing height if you know it, and the schedule the crew is on, and we will tell you whether the cut is the cause and what the right routine looks like for the elevation and exposure of the lawn.</p>`,
+<p>If your lawn browns out every August no matter what you put on it, the mower setting is the first thing to check. Send a note describing the property, the current mowing height if you know it, and the schedule the crew is on, and we will tell you whether the cut is the cause and what the right routine looks like for the elevation and exposure of the lawn. If it is already brown right now, run the <a href="/blog/is-my-lawn-dead-or-dormant-vermont">dead-or-dormant field test</a> before you touch the mower &mdash; scalping a dormant lawn is what turns it dead.</p>`,
   },
   {
     slug: "lawn-irrigation-rutland-county-vermont",
@@ -247,7 +374,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>On the properties we manage across Killington, Rutland, Woodstock, Ludlow, Mendon, Chittenden, and Pittsfield, irrigation is run as a season, not a setting. We tune the schedule for the actual Vermont summer, set each zone for its real sun and slope conditions, install or program weather-based controllers so the system responds to our variable weather, and we handle the fall blow-out as part of the winter shutdown so nothing is left holding water when the ground freezes. For seasonal and second-home owners, that means the lawn is watered correctly while you are not here to manage it, and the system is intact when you come back in the spring.</p>
 
-<p>If your irrigation system is overwatering, running on the wrong schedule, leaving brown patches the heads never reach, or you are not sure it was ever blown out properly before winter, send a note describing the property and what you have got. We will tell you what the system needs, whether it is a tuning or a repair, and how irrigation fits into managing the property through the Vermont seasons.</p>
+<p>If your irrigation system is overwatering, running on the wrong schedule, leaving brown patches the heads never reach, or you are not sure it was ever blown out properly before winter, send a note describing the property and what you have got. We will tell you what the system needs, whether it is a tuning or a repair, and how irrigation fits into managing the property through the Vermont seasons. And if the whole lawn is already brown right now, do not turn the system up &mdash; run the <a href="/blog/is-my-lawn-dead-or-dormant-vermont">dead-or-dormant field test</a> first. Half-hearted watering on a dormant Rutland County lawn does more damage than doing nothing.</p>
 `,
   },
   {
@@ -436,7 +563,7 @@ export const blogPosts: BlogPost[] = [
 <p>August is the month most properties drift. The owners are around, the weather is hot, and the temptation is to do less because the lawn is growing more slowly. The mistake is letting it look that way.</p>
 
 <ul>
-<li><strong>Keep mowing tall, even when growth slows.</strong> Tall grass shades the soil and conserves moisture through the hottest stretch. Cutting low in August is the fastest way to brown out a lawn.</li>
+<li><strong>Keep mowing tall, even when growth slows.</strong> Tall grass shades the soil and conserves moisture through the hottest stretch. Cutting low in August is the fastest way to brown out a lawn. If the lawn is already brown, do not scalp it &mdash; run the <a href="/blog/is-my-lawn-dead-or-dormant-vermont">dead-or-dormant field test</a> first and treat accordingly.</li>
 <li><strong>Monitor for grub damage.</strong> The first sign of a grub infestation is patches of lawn that pull up easily because the roots have been eaten. If you see them, a targeted curative treatment in August stops the damage and gives the lawn time to recover before fall.</li>
 <li><strong>Stay on top of fungal disease.</strong> The classic Vermont summer disease is dollar spot or brown patch in a humid stretch. A property that is mowed tall, watered deeply and infrequently, and not over-fertilized usually shrugs it off. A property doing the opposite gets hit hard.</li>
 <li><strong>Hardscape and structure walk-through.</strong> Mid-August is the window to catch issues before fall: any patio paver that has shifted, any walkway that has settled, any retaining wall stone that has worked loose. Fixing them in August is calm work. Fixing them in November is racing the frost.</li>
