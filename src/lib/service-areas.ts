@@ -248,7 +248,7 @@ export const serviceAreas: ServiceArea[] = [
       "Properties in Proctor tend to be closer-knit than the rural towns further east, which changes what property care looks like — tighter lots, shared boundaries, and historic homes that benefit from careful craftsmanship rather than heavy-equipment solutions.",
       "We handle the full scope for Proctor homeowners and property managers, from grounds maintenance and snow plowing to hardscape repairs and carpentry on older homes.",
     ],
-    localContext: "Proctor was built around the Vermont marble industry and still shows that character in its stone buildings and compact village layout. The town has a dense residential core, the Otter Creek running through the center, and Proctor Falls as a local landmark. Properties here are often older with original stonework and architectural details that need a specific kind of care. Mid-June in Proctor is full summer cadence: weekly mow-edge-blow rotations on the compact village lots, bi-weekly bed weeding on the historic homes, and dedicated stone-wall pointing crews finishing the freeze-thaw repairs flagged during spring assessment before the July humidity slows mortar work.",
+    localContext: "Proctor was built around the Vermont marble industry and still shows that character in its stone buildings and compact village layout. The town has a dense residential core, the Otter Creek running through the center, and Proctor Falls as a local landmark. Properties here are often older with original stonework and architectural details that need a specific kind of care. Mid-July in Proctor is peak heat-wave discipline: weekly mow routes are running the deck at 4 inches to keep root crowns shaded and the tan patches on the compact village lots reading dormant instead of dead, bed watering is on early-morning cycles ahead of the afternoon Otter Creek humidity climb, and the stone-wall pointing work stays on hold until the July mortar-cure window closes and cooler August mornings return.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "carpentry", "property-maintenance", "hardscaping"],
     landmarks: ["Proctor Falls", "Otter Creek", "Vermont Marble Museum", "Main Street Proctor"],
     faqs: [
@@ -265,7 +265,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "We handle stonework as part of hardscape installation and repair. For specialty historic preservation work, we collaborate with local stone masons when the job calls for it.",
       },
     ],
-    lastUpdated: "2026-06-18",
+    lastUpdated: "2026-07-09",
   },
   {
     slug: "west-rutland",
@@ -372,7 +372,7 @@ export const serviceAreas: ServiceArea[] = [
       "We service Wallingford homeowners and rural property owners with grounds care, winter service, and carpentry projects. The town's spread-out geography means routing matters — we build efficient schedules so clients aren't paying for dead travel time.",
       "Most of our Wallingford clients are year-round residents who want a local company that shows up reliably, rather than a regional service bouncing between jobs.",
     ],
-    localContext: "Wallingford has a compact village center along Route 7 and rural properties stretching into the hills to the east and west. The town is known for its connection to Elfin Lake and the Green Mountain National Forest. Properties range from village lots to large rural parcels, with the mix of year-round residents, retirees, and second-home owners typical of southern Rutland County. Mid-June in Wallingford is steady summer cadence: weekly mow routes are locked on the village lots, bi-weekly back-road mowing on the larger rural parcels, and we are squeezing in deck rebuild and porch carpentry on weekday windows while the schedule still has room before the July storm season ramps tree-cleanup calls.",
+    localContext: "Wallingford has a compact village center along Route 7 and rural properties stretching into the hills to the east and west. The town is known for its connection to Elfin Lake and the Green Mountain National Forest. Properties range from village lots to large rural parcels, with the mix of year-round residents, retirees, and second-home owners typical of southern Rutland County. Mid-July in Wallingford is post-storm cadence: the crews are already through this week's July thunder-cell cleanup on the Elfin Lake road, mow decks are raised to 4 inches on the village lots to keep brown-tinged lawns dormant instead of dead, and the rural back-road parcels are on bi-weekly rotation with sharp-blade fresh cuts so the heat-stressed turf doesn't shred at the tip.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "carpentry", "property-maintenance"],
     landmarks: ["Route 7", "Elfin Lake", "Green Mountain National Forest", "Wallingford Village"],
     faqs: [
@@ -389,7 +389,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Full-season contracts covering grounds maintenance and snow service are our most common arrangement — predictable cost, predictable service, no scheduling headaches.",
       },
     ],
-    lastUpdated: "2026-06-18",
+    lastUpdated: "2026-07-09",
   },
   {
     slug: "pittsford",
@@ -496,7 +496,7 @@ export const serviceAreas: ServiceArea[] = [
       "Property care in Tinmouth tends to be relationship-driven — neighbors know each other, and owners want service providers who'll treat the property and the community with the same respect.",
       "We work with Tinmouth homeowners and rural property owners on grounds care, snow contracts, carpentry, and property support. We route through the town on a regular schedule so clients get consistent service despite the rural geography.",
     ],
-    localContext: "Tinmouth is a rural town with working farms, historic homes, and a strong community identity. The town has protected significant acreage through conservation efforts, and many properties sit on larger parcels with mature landscaping and woodland borders. Tinmouth Pond and the Tinmouth Contra Dance Hall are notable features. Mid-June in Tinmouth is bi-weekly large-parcel mowing across the back acreage, hayfield-edge trim work timed to first-cut farm operations, and exterior carpentry crews finishing barn-board and outbuilding repairs on weekday windows before the July hay schedule pulls equipment access tight on the working farms.",
+    localContext: "Tinmouth is a rural town with working farms, historic homes, and a strong community identity. The town has protected significant acreage through conservation efforts, and many properties sit on larger parcels with mature landscaping and woodland borders. Tinmouth Pond and the Tinmouth Contra Dance Hall are notable features. Mid-July in Tinmouth is between-cut window on the working farms: first hay is off, second cut is a few weeks out, so the crews are catching the parcel-edge trim and woodland-border cleanup while equipment access is easy across the back acreage, and mow decks stay at 4 inches through the heat stretch so the meadow-adjacent lawns hold color instead of frying at the crown.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "property-maintenance", "carpentry"],
     landmarks: ["Tinmouth Pond", "Tinmouth Contra Dance Hall", "Tinmouth Channel Wildlife Management Area"],
     faqs: [
@@ -513,7 +513,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Historic and older homes are common in Tinmouth. We handle exterior repairs, trim work, and structural carpentry with the care those properties deserve.",
       },
     ],
-    lastUpdated: "2026-06-18",
+    lastUpdated: "2026-07-09",
   },
   {
     slug: "florence",
@@ -527,7 +527,7 @@ export const serviceAreas: ServiceArea[] = [
       "We service Florence as part of our Route 7 corridor coverage, with grounds care, winter contracts, and property support that gets scheduled efficiently alongside our Pittsford and Brandon routes.",
       "Florence properties benefit from our routing — we're already in the area, which keeps pricing fair and response times tight.",
     ],
-    localContext: "Florence is a village within the town of Pittsford, situated along Route 7 near Otter Creek. Properties here are a mix of residential homes, small farms, and rural parcels. The community's proximity to larger towns (Pittsford center, Brandon, Rutland) makes it a common commuter area, with many year-round residents. Mid-June Florence is locked weekly commercial cadence: small-business lot mowing before opening hours, bi-weekly bed weeding and edging on the commuter homes, irrigation under pressure with weekly head-by-head checks, and Otter Creek-adjacent parcels getting pre-storm tree assessment before the first July thunderstorm cell rolls down the valley.",
+    localContext: "Florence is a village within the town of Pittsford, situated along Route 7 near Otter Creek. Properties here are a mix of residential homes, small farms, and rural parcels. The community's proximity to larger towns (Pittsford center, Brandon, Rutland) makes it a common commuter area, with many year-round residents. Mid-July in Florence is heat-stress management on the Route 7 corridor: weekly mow routes are running the deck at 4 inches with fresh-sharpened blades so the tan-tinged commuter lawns hold their crowns instead of tearing at the tip, irrigation controllers are shifted to pre-dawn cycles to beat evaporation, and the Otter Creek-adjacent parcels are on post-storm limb sweeps after the mid-week thunder cell that rolled down the valley.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "property-maintenance", "carpentry"],
     landmarks: ["Otter Creek", "Route 7", "Florence Station Road"],
     faqs: [
@@ -543,8 +543,12 @@ export const serviceAreas: ServiceArea[] = [
         question: "Do you do grounds care for rural Florence properties?",
         answer: "Yes. Grounds care on rural parcels — including mowing, seasonal cleanups, and woodland-edge maintenance — is a core service for our Florence clients.",
       },
+      {
+        question: "Should I keep mowing during a Vermont summer drought?",
+        answer: "Yes, but higher and less often. Raising the deck to three-and-a-half or four inches shades the soil, holds moisture, and keeps the roots cool, so the lawn survives the heat instead of frying. Cutting short in a drought is the fastest way to lose it. We raise mowing height across our Florence route automatically through the hottest stretch.",
+      },
     ],
-    lastUpdated: "2026-06-18",
+    lastUpdated: "2026-07-09",
   },
   {
     slug: "fair-haven",
@@ -558,7 +562,7 @@ export const serviceAreas: ServiceArea[] = [
       "We service Fair Haven homeowners and business owners with grounds maintenance, winter service, and property care that gets routed efficiently alongside our West Rutland and Castleton coverage.",
       "Most of our Fair Haven clients are year-round residents who want a local crew they can count on season after season, not a rotating cast of subcontractors from outside the county.",
     ],
-    localContext: "Fair Haven has a distinct identity anchored in Vermont's historic slate industry, with older homes, a walkable village, and properties that sit on a mix of village lots and rural parcels. The town is on the Vermont border with New York, giving it a slightly different weather pattern than the eastern Rutland County towns. Mid-June in Fair Haven is locked weekly commercial cadence: storefront mow-and-edge routes before opening hours along Route 4A, bi-weekly bed weeding on the historic village homes, slate-walkway pressure-washing slotted into off-week windows, and we are sequencing hardscape repairs on the Village Green-facing properties while the dry June ground still supports clean base prep.",
+    localContext: "Fair Haven has a distinct identity anchored in Vermont's historic slate industry, with older homes, a walkable village, and properties that sit on a mix of village lots and rural parcels. The town is on the Vermont border with New York, giving it a slightly different weather pattern than the eastern Rutland County towns. Mid-July in Fair Haven is heat-wave storefront cadence along Route 4A: pre-opening mow-and-edge routes are running the deck raised to 4 inches so the Village Green and business-front lawns hold color through the dry stretch, slate-walkway pressure-washing is slotted into early morning windows before the humidity climbs, and the hardscape base-prep on the Village Green properties is holding for a cooler weekday window when mortar cure works with us instead of against us.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "property-maintenance", "carpentry"],
     landmarks: ["Route 4A", "Fair Haven Village Green", "Fair Haven Town Hall", "Castleton River", "Wells Village nearby"],
     faqs: [
@@ -575,7 +579,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. We handle commercial plowing for storefronts, parking areas, and business properties throughout Fair Haven village, with early-morning priority service so entries are clear before the business day starts.",
       },
     ],
-    lastUpdated: "2026-06-18",
+    lastUpdated: "2026-07-09",
   },
   {
     slug: "mount-holly",
@@ -620,7 +624,7 @@ export const serviceAreas: ServiceArea[] = [
       "We service Poultney homeowners and rural property owners with grounds care, hardscaping, winter service, and the kind of carpentry work that older slate-region homes need season after season.",
       "Because we already run routes through Fair Haven and Castleton, adding Poultney properties slots cleanly into the schedule. You get a Rutland County crew that knows the slate-belt terrain and isn't pricing for a long-haul drive.",
     ],
-    localContext: "Poultney is the largest slate-belt town in Vermont, with a historic downtown along Main Street, the Castleton-Poultney satellite campus, and rural properties stretching out to East Poultney and the back-road network running into the surrounding hills. Stone outcrops, slate retaining walls, and steep driveways are common features that demand specific equipment and a careful hand. Mid-June in Poultney is full grounds-season cadence: weekly mow routes stacked tight on the village lots, slate-walkway and stone-wall touch-ups scheduled while crews are already in the area, and we are squeezing in hardscape installs on the rural properties before the July heat slows production.",
+    localContext: "Poultney is the largest slate-belt town in Vermont, with a historic downtown along Main Street, the Castleton-Poultney satellite campus, and rural properties stretching out to East Poultney and the back-road network running into the surrounding hills. Stone outcrops, slate retaining walls, and steep driveways are common features that demand specific equipment and a careful hand. Mid-July in Poultney is Lake St. Catherine turnover discipline: rental-property crews are running Thursday-morning finish cuts before weekend arrivals with the deck raised to 4 inches so the dry-stretch village lawns hold color, slate-walkway pressure-washing is stacked into early-morning windows, and the East Poultney back-road hardscape installs are on hold until the July heat backs off and the base-course cure works with the schedule instead of against it.",
     priorityServices: ["grounds-maintenance", "landscaping", "hardscaping", "carpentry", "snow-ice-management"],
     landmarks: ["Downtown Poultney", "Route 30", "East Poultney", "Lake St. Catherine", "Main Street Poultney"],
     faqs: [
@@ -636,8 +640,12 @@ export const serviceAreas: ServiceArea[] = [
         question: "Do you take on winter plow contracts in Poultney?",
         answer: "Yes. Seasonal plow contracts with automatic dispatch are standard for our Poultney clients. We size equipment for the longer rural driveways common in East Poultney and the surrounding hill roads.",
       },
+      {
+        question: "Is my brown lawn dead or just dormant from the summer heat?",
+        answer: "Usually dormant. When it gets hot and dry, Vermont cool-season grass goes tan and stops growing to protect its crown, then greens back up when the weather breaks. Tug a handful. If it holds firm and the crown at the base is still white and firm, it is alive and waiting. If it pulls out with no resistance, that patch is gone and needs reseeding. We can tell the difference on a walk-through before anyone rips up a living lawn.",
+      },
     ],
-    lastUpdated: "2026-06-18",
+    lastUpdated: "2026-07-09",
   },
 ];
 
