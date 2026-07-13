@@ -13,6 +13,125 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "japanese-knotweed-removal-vermont",
+    title: "How to Get Rid of Japanese Knotweed on a Vermont Property",
+    excerpt:
+      "Japanese knotweed is the one plant on a Rutland County property you cannot dig out, mow off, or wait out. It is on Vermont's Noxious Weed Quarantine, its rhizomes run 20 feet sideways and 10 feet down, and every broken fragment starts a new stand. Here is what actually kills it, why it takes multiple seasons, the disposal rules that are easy to break, and why bringing in a crew while the patch is still small is the cheapest way through it.",
+    category: "Property Maintenance",
+    date: "July 2026",
+    readTime: "9 min read",
+    image: "/images/blog-japanese-knotweed-removal-vermont.jpeg",
+    featured: true,
+    metaDescription:
+      "Japanese knotweed removal in Vermont is a multi-season job. Rhizomes run 20 ft out and it's on the state Noxious Weed Quarantine. Here's what kills it.",
+    content: `
+<p><em>Updated July 2026.</em></p>
+
+<p data-speakable="true"><strong>Japanese knotweed removal in Vermont is a multi-season job, not a weekend one.</strong> The rhizomes run up to 20 feet sideways and 10 feet deep, and every broken fragment re-sprouts, so digging spreads it. Expect three or more years of repeated cutting, or a cut-and-inject herbicide program, to actually kill an established stand.</p>
+
+<p>Of every invasive plant we deal with on Rutland County properties, Japanese knotweed is the one that beats homeowners the most consistently. It looks like something you could knock out with a mower and a Saturday. It is not. The plant lives underground, it is legally regulated in Vermont, and the two most common DIY responses (digging it out and dumping the debris) are exactly the two things that spread it.</p>
+
+<p>Here is how knotweed actually works on a Vermont property, why the usual approaches fail, the removal methods that hold up, the disposal rules that carry real consequences here, and the point at which a stand stops being a job for one person with a shovel.</p>
+
+<h2>Why Is Japanese Knotweed Such a Big Problem in Vermont?</h2>
+
+<p>Because Vermont regulates it as a quarantined noxious weed, and because our streambanks and roadsides are close to ideal habitat for it. Japanese knotweed (Reynoutria japonica, sometimes still listed as Fallopia japonica or Polygonum cuspidatum) is a Class B listing on Vermont's Noxious Weed Quarantine Rule. In plain terms, that makes it illegal to sell, distribute, move, or transport within or into the state. You cannot legally haul a truckload of knotweed-cut canes to a friend's back lot, and you cannot move soil you know is laced with its rhizomes to another property. That is not a landscaping guideline. It is a state quarantine.</p>
+
+<p>The reason the state bothers to regulate it is the damage it does when it establishes. Knotweed forms dense single-species thickets that shade out every native plant, and it is especially aggressive along the rivers and brooks that run through Rutland, Brandon, Pittsford, and the valleys below Killington. Along water, broken rhizome and stem pieces float downstream and start new colonies, which is how one property's knotweed becomes the whole neighborhood's knotweed. It also pushes into foundation cracks, septic lines, and pavement seams, so a stand left alone next to a house is a structural problem, not just an ugly one. We have walked Rutland County properties where a patch that started at a back fence line ten years ago is now under the deck.</p>
+
+<h2>Why Can't You Just Dig Japanese Knotweed Out?</h2>
+
+<p>Because the plant you see above ground is a fraction of the plant, and the part you cannot see regrows from pieces smaller than your thumbnail. Below a mature knotweed stand is a rhizome network that can extend roughly 20 feet outward from the visible canes and 7 to 10 feet straight down. When you dig into that network, you do not remove it. You chop it into pieces, and knotweed will regenerate a whole new plant from a rhizome fragment as small as a gram, or from a cut stem node left lying in moist soil.</p>
+
+<p>So digging does three bad things at once. It leaves most of the rhizome in the ground, it multiplies the growing points by cutting the rhizome into fragments, and it produces contaminated soil and plant debris that are now regulated material you cannot legally move off site. A homeowner who spends a weekend excavating a knotweed patch has usually made the stand bigger and created a disposal problem on top of it. This is the single most expensive mistake we get called in to clean up.</p>
+
+<h2>What Does Japanese Knotweed Removal in Vermont Actually Involve?</h2>
+
+<p>Two methods work in our climate, and both take years. The realistic choice for most Rutland County properties is a cut-and-inject herbicide program run over multiple seasons. The chemical-free alternative is repeated cutting across the entire growing season for several years running. Neither is a one-time service, and any company that promises a single-visit knotweed kill is selling something that does not exist.</p>
+
+<ul>
+<li><strong>Repeated cutting (chemical-free).</strong> Cut the entire stand to the ground every two to three weeks, from first shoots in May through the first frost, every year. The goal is to starve the rhizome by never letting a leaf feed it. Done religiously, this can exhaust a stand in five to eight years. Miss a stretch in July and the plant banks energy and resets your progress. This is the honest option for owners who will not use herbicide near water or gardens, and it demands real discipline.</li>
+<li><strong>Cut-and-inject or cut-and-treat herbicide.</strong> The faster route. Canes are cut, then a systemic herbicide is applied so the plant carries it down into the rhizome. The most effective application window is late summer into early fall (roughly August into September in Vermont), when the plant is pulling resources down for winter and drags the herbicide with it. This still takes two to four seasons of follow-up on the regrowth, because no single treatment reaches every rhizome. Near streams and wetlands it requires products and applicators rated for use around water, which in Vermont means following state pesticide rules to the letter.</li>
+</ul>
+
+<p>The pattern that fails is the one homeowners default to: spray the leaves once with whatever is in the garage, watch it brown, and assume it is dead. Knotweed comes back from the rhizome the following spring looking untouched. It is a rhizome problem, and only a method that reaches the rhizome, systemically or through years of starvation, gets rid of it.</p>
+
+<h2>How Do You Dispose of Japanese Knotweed Without Spreading It?</h2>
+
+<p>Carefully, and never through your compost, your yard-waste pile, or a load of fill headed to another property. Because Vermont quarantines knotweed and because it regrows from tiny fragments, disposal is where a lot of the accidental spread happens. The rules we follow on every job:</p>
+
+<ol>
+<li><strong>Never compost it and never chip it for mulch.</strong> A home compost pile does not get hot enough to kill rhizome and stem nodes. You are manufacturing viable knotweed cuttings and then spreading them across your beds.</li>
+<li><strong>Never move contaminated soil.</strong> Soil from within roughly 20 feet of a stand and 7 to 10 feet deep should be assumed to hold live rhizome. Moving it to another part of the property, or off site as fill, plants a new colony and violates the state quarantine.</li>
+<li><strong>Bag cut canes and let them dry out completely.</strong> Cut material goes into heavy-duty bags, sealed, and left in the sun to desiccate until it is unquestionably dead and brittle before it goes anywhere.</li>
+<li><strong>Keep it out of the water.</strong> On the streamside stands common in Rutland, Brandon, and Pittsford, a single stem dropped in the brook floats downstream and starts a new stand on someone else's bank. Cut material never gets left near flowing water.</li>
+<li><strong>Confirm the disposal route.</strong> Before hauling anything, know where quarantined material can legally go. This is exactly the kind of regulated debris where guessing creates liability.</li>
+</ol>
+
+<p>The theme is the same one that runs through the whole plant: every piece is a seed. Treat the debris like it is alive, because it is.</p>
+
+<h2>How Long Does It Take to Get Rid of Japanese Knotweed?</h2>
+
+<p>Plan on three to five years for a herbicide program and five to eight for cutting alone, with the stand shrinking each season rather than vanishing in one. The realistic timeline for an established Vermont stand looks like this.</p>
+
+<table>
+<thead>
+<tr><th>Season</th><th>What happens</th><th>What you should see</th></tr>
+</thead>
+<tbody>
+<tr><td>Year 1</td><td>Full-season cutting, or summer cutting plus a late-season herbicide treatment</td><td>Vigorous regrowth all year. This is normal. The rhizome is still full.</td></tr>
+<tr><td>Year 2</td><td>Repeat cutting or cut-and-treat on the regrowth</td><td>Thinner, shorter canes. Fewer growing points. Visible retreat at the edges.</td></tr>
+<tr><td>Year 3</td><td>Spot-treat the survivors, keep cutting the rest</td><td>Scattered weak shoots instead of a solid thicket.</td></tr>
+<tr><td>Years 4&#8211;5</td><td>Monitor and knock down any re-emergence fast</td><td>Occasional single shoots. The stand is functionally beaten.</td></tr>
+<tr><td>Ongoing</td><td>Annual walk-through for the first shoot that comes back</td><td>Clear ground, checked yearly so it never re-establishes.</td></tr>
+</tbody>
+</table>
+
+<p>The number that matters most is not year one, it is consistency across all of them. A knotweed program that is run hard for two years and then dropped hands the plant back everything it lost. On the second homes we manage in Killington, Woodstock, and Ludlow, the knotweed monitoring simply becomes a line on the seasonal calendar, which is the only way a multi-year job like this actually gets finished. That schedule discipline is the same reason a written <a href="/blog/summer-grounds-maintenance-schedule-vermont">summer grounds maintenance schedule</a> matters on an absentee property in the first place.</p>
+
+<h2>When Should You Bring In a Crew?</h2>
+
+<p>Early, while the patch is still small, because the cost and the timeline both scale with the size of the rhizome network. A knotweed stand the size of a car is a manageable, budgetable multi-season project. The same stand left for five more years can be the size of the back yard, tangled into the foundation and the septic field, and running along the streambank onto the neighbor's land. The plant only gets more expensive to remove, never less.</p>
+
+<p>The specific triggers to stop DIYing and call for a real assessment:</p>
+
+<ul>
+<li>The stand is within reach of a foundation, septic line, well, or paved surface.</li>
+<li>It is on or near a streambank, drainage ditch, or wet area, where spread and pesticide rules both come into play.</li>
+<li>You have already dug at it or mowed it and it came back thicker, which means the rhizome has been fragmented.</li>
+<li>You are selling the property, since visible knotweed near the house is a real diligence flag for buyers and inspectors.</li>
+<li>You own the property remotely and cannot run a two-week cutting cycle in person all summer.</li>
+</ul>
+
+<p>Knotweed control is genuinely a property-management line of work rather than a mow-and-go task, which is why we fold it into ongoing <a href="/services/property-maintenance">property maintenance</a> and <a href="/services/grounds-maintenance">grounds maintenance</a> rather than treating it as a one-off. It has to be tracked across seasons the same way we track the rest of a property, and it pairs with the invasive and brush work that comes up during a <a href="/blog/mud-season-property-cleanup-vermont">mud season property cleanup</a> when the canes are easiest to spot against bare ground.</p>
+
+<h2>Japanese Knotweed FAQs for Vermont Property Owners</h2>
+
+<h3>Is it illegal to have Japanese knotweed on my property in Vermont?</h3>
+<p>Having it is not illegal, but moving it is. Japanese knotweed is a Class B species on Vermont's Noxious Weed Quarantine Rule, which makes it illegal to sell, distribute, move, or transport the plant or its rhizomes within or into the state. You are not penalized for a stand growing on your land, but you can create liability by hauling cut material or contaminated soil somewhere else and spreading it.</p>
+
+<h3>Will cutting knotweed once or twice a summer get rid of it?</h3>
+<p>No. Occasional cutting keeps the canes shorter but does not starve the rhizome, and the plant re-banks its energy every time you leave it alone for a few weeks. To exhaust a stand by cutting, you have to cut the whole thing every two to three weeks across the entire growing season, every year, for several years. Anything less trims it without killing it.</p>
+
+<h3>Can I dig a small knotweed patch out before it gets big?</h3>
+<p>Digging is the approach most likely to backfire. A small patch above ground is already a wide rhizome network below ground, and digging chops that network into fragments that each regrow. If a patch is genuinely new and tiny, careful repeated cutting or a targeted herbicide treatment is far safer than excavation, which usually multiplies the growing points and creates regulated soil you cannot legally move.</p>
+
+<h3>Is knotweed near my foundation actually a structural risk?</h3>
+<p>It can be. Knotweed exploits existing cracks and gaps, pushing into foundation seams, pavement joints, drainage lines, and septic components. It does not drill through sound concrete, but it will find and widen any weakness, and a mature stand pressed against a house is worth taking seriously rather than watching for another few years.</p>
+
+<h3>What is the best time of year to treat knotweed in Vermont?</h3>
+<p>For herbicide, late summer into early fall, roughly August into September, when the plant is moving resources down into the rhizome for winter and carries the treatment with it. For cutting programs, the work runs the entire season from the first May shoots to the first hard frost. The fall herbicide window is the single most effective treatment moment of the year.</p>
+
+<h3>Can knotweed spread from my property to my neighbor's?</h3>
+<p>Yes, especially along water. Rhizome and cut-stem fragments travel in soil, in fill, on equipment, and downstream in a brook or drainage channel, and each one can start a new colony. This is why streamside stands in places like Brandon and Pittsford are treated as a shared problem, and why keeping cut material out of the water is a hard rule on every job.</p>
+
+<h2>Get a Knotweed Assessment Before It Spreads</h2>
+
+<p>If you have knotweed on a property anywhere from Killington and Woodstock down through Rutland, Brandon, Pittsford, Mendon, Chittenden, Pittsfield, Ludlow, Proctor, West Rutland, and Castleton, the smartest and cheapest move is to have it assessed while the stand is still small. We walk the property, map how far the stand actually reaches, tell you honestly whether it is a cutting job or a cut-and-treat job, and lay out the multi-season plan and cost in writing before anything starts.</p>
+
+<p>Call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send a note through the <a href="/contact">contact page</a> with the property address and a photo of the stand. We will tell you what you are dealing with, what it takes to actually kill it, and how to keep it from spreading in the meantime. Knotweed does not get cheaper to remove by waiting, and it does not go away on its own. The stands we beat are the ones somebody decided to start on this year instead of next.</p>`,
+  },
+  {
     slug: "is-my-lawn-dead-or-dormant-vermont",
     title: "Is Your Lawn Dead or Dormant? A Vermont Summer Guide (2026)",
     excerpt:
@@ -21,7 +140,7 @@ export const blogPosts: BlogPost[] = [
     date: "July 2026",
     readTime: "9 min read",
     image: "/images/blog-is-my-lawn-dead-or-dormant-vermont.jpeg",
-    featured: true,
+    featured: false,
     metaDescription:
       "Is your Vermont lawn dead or dormant? The 3-part field test and the ½–1 inch every 3–4 weeks water spec that holds a Rutland County lawn through July.",
     content: `
@@ -528,7 +647,7 @@ export const blogPosts: BlogPost[] = [
 <ul>
 <li><strong>The season is short and intense.</strong> Fourteen weeks of growth, peak humidity in July, and a hard frost that ends everything overnight. There is no margin to skip a fertilization window or miss a pest treatment by two weeks.</li>
 <li><strong>The temperature swings are wide.</strong> A 90-degree afternoon in July can drop into the 50s overnight. Cool-season grasses (which is what every lawn in Rutland County is) handle that swing well, but the maintenance has to be set up for it.</li>
-<li><strong>Recovery time after winter is the work nobody plans for.</strong> Frost heave on walkways, plow damage on lawn edges, salt scorch along driveways, and bent-down perennials from snow load all need attention before regular maintenance starts. We covered the structural pieces in our <a href="/blog/frost-heave-repair-walkways-patios-vermont">frost heave repair guide</a> and the lawn side in our <a href="/blog/lawn-reseeding-snowplow-damage-vermont-may">snowplow damage reseeding guide</a>. The summer schedule below assumes that work is done.</li>
+<li><strong>Recovery time after winter is the work nobody plans for.</strong> Frost heave on walkways, plow damage on lawn edges, salt scorch along driveways, and bent-down perennials from snow load all need attention before regular maintenance starts. We covered the structural pieces in our <a href="/blog/frost-heave-repair-walkways-patios-vermont">frost heave repair guide</a> and the lawn side in our <a href="/blog/lawn-reseeding-snowplow-damage-vermont-may">snowplow damage reseeding guide</a>. It is also the window to scout for invasives like <a href="/blog/japanese-knotweed-removal-vermont">Japanese knotweed</a>, which needs a multi-season plan started early. The summer schedule below assumes that work is done.</li>
 </ul>
 
 <p>The properties that look the best on Labor Day are the ones whose maintenance was set up against the calendar, not against the weather of the moment.</p>
@@ -1104,7 +1223,7 @@ export const blogPosts: BlogPost[] = [
 <ol>
 <li><strong>Clear gutters and downspouts.</strong> Winter ice, pine needles, and granules from roof shingles clog gutters every year. If water is not moving through the downspouts and away from the foundation, every rain event is pushing moisture against your basement walls. This is the single highest-priority task.</li>
 <li><strong>Check downspout extensions.</strong> Extensions get knocked off by plows, ice slides, and foot traffic. Make sure every downspout directs water at least 6 feet from the foundation. In areas with heavy clay soil like Mendon and Chittenden, 10 feet is better.</li>
-<li><strong>Walk the property for debris.</strong> Branches, trash, animal damage, and anything the snow hid for five months. Remove it before mowing season starts so you are not running over surprises.</li>
+<li><strong>Walk the property for debris.</strong> Branches, trash, animal damage, and anything the snow hid for five months. Remove it before mowing season starts so you are not running over surprises. Early spring is also the easiest time to spot the first red shoots of <a href="/blog/japanese-knotweed-removal-vermont">Japanese knotweed</a> against bare ground, and if you have it, it needs a multi-season removal plan rather than a mow.</li>
 <li><strong>Inspect the foundation perimeter.</strong> Look for soil that has settled or eroded away from the house. If the ground slopes toward your foundation anywhere, you have a grading problem that needs correction before anything else happens on the property.</li>
 </ol>
 
