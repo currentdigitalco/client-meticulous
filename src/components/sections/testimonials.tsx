@@ -6,34 +6,35 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 
 gsap.registerPlugin(ScrollTrigger);
 
+// Real Google reviews, verbatim, from the live GBP (location 16794034017415809612),
+// verified 2026-07-15. `project` describes work the reviewer names in their own
+// quote — it is a label, not a claim. The GBP API does not expose reviewer town,
+// so there is no location line here; do not add one back from inference.
+// Keep in sync with realReviews in src/app/layout.tsx (schema).
 const testimonials = [
   {
     quote:
-      "They transformed our backyard from a bare lawn into a complete outdoor living space. The bluestone patio is stunning. Every neighbor has asked for their number.",
-    name: "Sarah M.",
-    location: "Shelburne, VT",
-    project: "Patio & Landscaping",
+      "We would happily recommend Meticulous Mowing and Property Management to anyone considering landscaping or masonry services. The crew was very professional, hardworking and personable. We are thrilled with our new walkway.",
+    name: "Jack Mangan",
+    project: "Walkway & Masonry",
   },
   {
     quote:
-      "15 years using Meticulous for everything — lawn care, snow removal, now flooring. One call handles it all. That kind of reliability is rare.",
-    name: "Dave & Linda K.",
-    location: "Burlington, VT",
+      "Meticulous really lives up to their name! Everything about the project we hired them to do was done meticulously. Not only does the fence look great, it was done in record time! From the layout, install and clean up they took pride in what they were doing.",
+    name: "Isabelle Hardina",
+    project: "Fence Installation",
+  },
+  {
+    quote:
+      "WOW, Dan and his team are amazing! They go above and beyond for their customers… Meticulous is my one stop shop for all lawn maintenance, plowing, home improvement and property management.",
+    name: "Kellie Esty",
     project: "Full Property Care",
   },
   {
     quote:
-      "Woke up after that February nor'easter and our entire driveway and walkway were already cleared. These guys don't wait for a phone call.",
-    name: "Tom R.",
-    location: "Middlebury, VT",
-    project: "Snow Removal",
-  },
-  {
-    quote:
-      "The cedar privacy fence they built is absolutely beautiful. Set the posts deep, finished clean, and it was done two days ahead of schedule.",
-    name: "Jennifer P.",
-    location: "Williston, VT",
-    project: "Fence Installation",
+      "Amazing landscaping service. We use them for our spring, weekly summer and fall cleanup. They go above and beyond to provide not only reliable, but stellar service. Highly recommended!",
+    name: "Ashley DiMeola",
+    project: "Seasonal Grounds Maintenance",
   },
 ];
 
@@ -96,9 +97,7 @@ export function Testimonials() {
             </p>
             <footer className="mt-8">
               <p className="text-base font-medium text-forest">{current.name}</p>
-              <p className="mt-1 text-sm text-copper">
-                {current.location} — {current.project}
-              </p>
+              <p className="mt-1 text-sm text-copper">{current.project}</p>
             </footer>
           </blockquote>
         </div>

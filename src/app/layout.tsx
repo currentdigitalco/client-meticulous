@@ -90,12 +90,25 @@ export default function RootLayout({
     { name: "Housekeeping & Turnover Services", slug: "housekeeping", desc: "Hospitality-grade housekeeping and short-term rental turnovers for Killington-area and statewide vacation properties." },
     { name: "Rental Property Support & Management", slug: "rental-support", desc: "Full rental property support: turnovers, inspections, maintenance, snow, and grounds — one accountable team for absentee owners." },
   ];
+  // Verbatim excerpts of real Google reviews, pulled from the live GBP
+  // (location 16794034017415809612) and verified 2026-07-15. Every name here is
+  // a real reviewer; every quote is that reviewer's own words, contiguous or
+  // elided with "…". Reviewer town is NOT published by the GBP API — do not add
+  // a location field back, and never write one from inference.
+  // Re-verify: python .claude/skills/seo-engine/scripts/gbp_audit.py \
+  //              --location-id 16794034017415809612 --json
   const realReviews = [
-    { author: "Sarah M.", location: "Shelburne, VT", body: "They transformed our backyard from a bare lawn into a complete outdoor living space. The bluestone patio is stunning. Every neighbor has asked for their number." },
-    { author: "Dave & Linda K.", location: "Burlington, VT", body: "15 years using Meticulous for everything — lawn care, snow removal, now flooring. One call handles it all. That kind of reliability is rare." },
-    { author: "Tom R.", location: "Middlebury, VT", body: "Woke up after that February nor'easter and our entire driveway and walkway were already cleared. These guys don't wait for a phone call." },
-    { author: "Jennifer P.", location: "Williston, VT", body: "The cedar privacy fence they built is absolutely beautiful. Set the posts deep, finished clean, and it was done two days ahead of schedule." },
+    { author: "Jack Mangan", body: "We would happily recommend Meticulous Mowing and Property Management to anyone considering landscaping or masonry services. The crew was very professional, hardworking and personable. We are thrilled with our new walkway." },
+    { author: "Isabelle Hardina", body: "Meticulous really lives up to their name! Everything about the project we hired them to do was done meticulously. Not only does the fence look great, it was done in record time! From the layout, install and clean up they took pride in what they were doing." },
+    { author: "Kellie Esty", body: "WOW, Dan and his team are amazing! They go above and beyond for their customers… Meticulous is my one stop shop for all lawn maintenance, plowing, home improvement and property management." },
+    { author: "Ashley DiMeola", body: "Amazing landscaping service. We use them for our spring, weekly summer and fall cleanup. They go above and beyond to provide not only reliable, but stellar service. Highly recommended!" },
   ];
+
+  // aggregateRating describes the FULL Google review corpus, not the excerpts
+  // above — it must match the public profile exactly (it is checkable in one
+  // click). Verified live 2026-07-15: 31 reviews @ 4.8. Counts drift; re-check
+  // on the weekly SEO pass.
+  const gbpReviews = { rating: "4.8", count: "31", verifiedOn: "2026-07-15" };
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "HomeAndConstructionBusiness",
@@ -164,15 +177,15 @@ export default function RootLayout({
     },
     aggregateRating: {
       "@type": "AggregateRating",
-      ratingValue: "5.0",
+      ratingValue: gbpReviews.rating,
       bestRating: "5",
       worstRating: "1",
-      reviewCount: realReviews.length,
-      ratingCount: realReviews.length,
+      reviewCount: gbpReviews.count,
+      ratingCount: gbpReviews.count,
     },
     review: realReviews.map((r) => ({
       "@type": "Review",
-      author: { "@type": "Person", name: r.author, address: r.location },
+      author: { "@type": "Person", name: r.author },
       reviewRating: {
         "@type": "Rating",
         ratingValue: "5",
