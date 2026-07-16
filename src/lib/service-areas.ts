@@ -186,7 +186,7 @@ export const serviceAreas: ServiceArea[] = [
       "We handle the full range of property care services in Chittenden — grounds maintenance, snow management, landscaping, and hardscape work — with crews that know how to operate on the narrower rural roads and longer site drives.",
       "Most Chittenden properties need a partner who understands the rhythm of the town: spread-out properties, long winters, and owners who value reliability over flash.",
     ],
-    localContext: "Chittenden is home to the Chittenden Reservoir and Lefferts Pond, plus a mix of small working farms, rural homesites, and second-home properties tucked into the Green Mountain foothills. The town is largely forested with winding back roads and a small village center. Properties tend to be large, with mature landscaping and significant snow exposure. Early July at Chittenden is peak-lake week: dock and swim-ladder anchor checks are wrapped, reservoir-front grounds crews are on Thursday-morning mow-and-shoreline-trim so lawns read clean for holiday-weekend arrivals, and the hardscape teams that were pouring patio bases in June have shifted to punch-list work as owners open the property. Post-storm limb sweeps on the forested lots after the mid-week thunder cells kept the woodland-edge routes busy.",
+    localContext: "Chittenden is home to the Chittenden Reservoir and Lefferts Pond, plus a mix of small working farms, rural homesites, and second-home properties tucked into the Green Mountain foothills. The town is largely forested with winding back roads and a small village center. Properties tend to be large, with mature landscaping and significant snow exposure. Mid-July at Chittenden is post-holiday reset week: reservoir-front lots getting the deep-cleanup pass on lakeside grounds and beach frontage after the extended weekend guest rotation, forested rural lots on a running post-storm limb sweep as the July convective pattern rolls through, and small working farms opening their second-cut hay window so the parcel-edge trim work along field margins is finally accessible with equipment. Woodland-edge tick-check reminders are going out with the weekly grounds visits.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "landscaping", "property-maintenance"],
     landmarks: ["Chittenden Reservoir", "Lefferts Pond", "Green Mountain National Forest", "Chittenden Dam"],
     faqs: [
@@ -203,7 +203,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Spring opening and fall closing are common services for our Chittenden clients. We can also handle winterization, frost-prep, and pre-arrival readiness checks.",
       },
     ],
-    lastUpdated: "2026-07-02",
+    lastUpdated: "2026-07-16",
   },
   {
     slug: "mendon",
@@ -310,7 +310,7 @@ export const serviceAreas: ServiceArea[] = [
       "We work with Brandon homeowners, business owners, and second-home owners on everything from seasonal grounds maintenance to full hardscape builds and carpentry projects.",
       "Brandon is close enough to Rutland that we service it regularly, and distinctive enough that we approach each property based on its character rather than running a template.",
     ],
-    localContext: "Brandon sits along Route 7 with a historic downtown, the Neshobe River running through it, and residential neighborhoods that span from the village center out to rural properties on the surrounding roads. The town has a thriving arts scene, with Brandon Artists Guild and the annual Brandon Arts Festival drawing regional attention to the community. Late June puts Brandon at presentation peak: downtown is heading into the busiest arts-and-tourism stretch of the summer, so Route 7 properties are on a tight weekly mow at 4 inches with crisp hand-edged walkway lines, gallery storefronts get pre-July-4 hardscape sweeping and planter weeding, and the rural back-road properties are running 7-day cuts now that summer growth has accelerated. Crews are also dialing irrigation to predawn-only as the first real dry stretch tests Neshobe-corridor lawns.",
+    localContext: "Brandon sits along Route 7 with a historic downtown, the Neshobe River running through it, and residential neighborhoods that span from the village center out to rural properties on the surrounding roads. The town has a thriving arts scene, with Brandon Artists Guild and the annual Brandon Arts Festival drawing regional attention to the community. Mid-July has Brandon in sustained tourist-season mode: gallery storefronts on the weekly mow-and-hand-edge Wednesday rotation ahead of the weekend visitor wave, downtown planter beds getting a mid-summer bed refresh with deadheading of the June-blooming perennials, and rural back-road properties on the compressed 5-to-6-day cut because heat-plus-humidity is pushing turf growth. Historic-home gutter checks are moving up the schedule this month so any summer downpour clogs get cleared before the late-July rain pattern arrives.",
     priorityServices: ["landscaping", "grounds-maintenance", "hardscaping", "carpentry", "property-maintenance"],
     landmarks: ["Downtown Brandon", "Neshobe River", "Brandon Artists Guild", "Route 7", "Brandon Falls"],
     faqs: [
@@ -327,7 +327,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Our core service area is Rutland County plus Woodstock and Ludlow. Properties north of Brandon toward Middlebury we handle case-by-case based on scope and schedule.",
       },
     ],
-    lastUpdated: "2026-06-25",
+    lastUpdated: "2026-07-16",
   },
   {
     slug: "castleton",
@@ -341,7 +341,7 @@ export const serviceAreas: ServiceArea[] = [
       "We service both sides of that equation. Residential and commercial property care in the village, plus seasonal opening and closing, grounds maintenance, and property oversight for lakefront homes that sit empty during the off-season.",
       "Lakefront properties have their own rhythm — spring opening, dock management, seasonal cleanups, and fall winterization. We handle the transitions so owners aren't scrambling the first warm weekend.",
     ],
-    localContext: "Castleton is home to Castleton University, Lake Bomoseen (Vermont's largest lake entirely within the state), and a mix of village residential, rural properties, and lakefront homes. The town has a strong seasonal pattern driven by the university calendar and lake season. Many properties are second homes or short-term rentals, especially around Bomoseen. Late June puts Bomoseen at full rental-peak heading into the July 4 weekend: weekly Friday turnovers on every short-term rental, lakefront grounds on a strict mow-and-shoreline-trim rotation, dock-side hardscape touch-ups completed between bookings, and pre-holiday walkthroughs on second homes whose owners arrive for the holiday week. Lakeshore properties are also getting bi-weekly aquatic-vegetation sweep along the swim-area frontage as summer water temperatures climb.",
+    localContext: "Castleton is home to Castleton University, Lake Bomoseen (Vermont's largest lake entirely within the state), and a mix of village residential, rural properties, and lakefront homes. The town has a strong seasonal pattern driven by the university calendar and lake season. Many properties are second homes or short-term rentals, especially around Bomoseen. Mid-July has Bomoseen running at the tightest turnover cadence of the summer: back-to-back Friday-and-Sunday changeovers on nearly every short-term rental, lakefront grounds on a Wednesday mow-and-shoreline-trim so the properties present clean for weekend arrivals, and swim-area frontage getting a weekly aquatic-vegetation sweep now that the reservoir has warmed into peak growth. Dock hardware tightening and cleat re-checks are the mid-summer punch-list on the second homes with owners in residence.",
     priorityServices: ["grounds-maintenance", "property-maintenance", "snow-ice-management", "housekeeping", "rental-support"],
     landmarks: ["Lake Bomoseen", "Castleton University", "Bomoseen State Park", "Hubbardton Battlefield", "Route 4A"],
     faqs: [
@@ -358,7 +358,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. We handle cleaning, linen changes, and readiness checks between bookings, synced to your rental calendar with photo confirmation.",
       },
     ],
-    lastUpdated: "2026-06-25",
+    lastUpdated: "2026-07-16",
   },
   {
     slug: "wallingford",
@@ -403,7 +403,7 @@ export const serviceAreas: ServiceArea[] = [
       "Property care here tends to emphasize practical over flashy — owners want reliable service, durable work, and fair pricing.",
       "We handle the full scope for Pittsford homeowners, farm operators, and rural property owners — grounds, winter service, property oversight, and carpentry projects as they come up.",
     ],
-    localContext: "Pittsford has a small village center along Route 7 with rural land stretching to both sides of the corridor. The town is agricultural with working farms, historic homes, and the Vermont Police Academy as a major local institution. Properties range from small village lots to multi-acre rural parcels, and snow loads are typical of central Rutland County. Early July along Route 7 puts Pittsford into holiday-week finish work: village lots get their Thursday finish-cut before the four-day weekend, agricultural field edges are on second-pass trim ahead of first hay cut on the working farms, and the deck and exterior trim carpentry from the spring assessment is wrapping punch-list before owners host over July 4. Post-storm limb sweeps handled the mid-week thunder cells that dropped debris across the corridor.",
+    localContext: "Pittsford has a small village center along Route 7 with rural land stretching to both sides of the corridor. The town is agricultural with working farms, historic homes, and the Vermont Police Academy as a major local institution. Properties range from small village lots to multi-acre rural parcels, and snow loads are typical of central Rutland County. Mid-July along Route 7 has Pittsford settled into its second-half summer rotation: first hay is off on the working farms so field-edge and parcel-line trim is finally easy with equipment across the back acreage, village lots on a Wednesday finish-cut ahead of the Thursday farmers-market foot traffic, and deck-and-trim carpentry from the spring punch-list moving toward exterior paint prep on the historic Route 7 homes while the heat stretch holds. Post-storm limb sweeps stay active as the July convective cells roll the corridor.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "property-maintenance", "carpentry"],
     landmarks: ["Route 7", "Vermont Police Academy", "Pittsford Village", "Hubbardton River"],
     faqs: [
@@ -420,7 +420,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Seasonal plow contracts with fixed pricing are standard for our Pittsford clients. You lock in the rate and priority, and we handle the dispatch automatically when conditions trigger.",
       },
     ],
-    lastUpdated: "2026-07-02",
+    lastUpdated: "2026-07-16",
   },
   {
     slug: "clarendon",
@@ -434,7 +434,7 @@ export const serviceAreas: ServiceArea[] = [
       "The town has a strong year-round residential base and is a natural service area for us — close to our equipment yard and easy to route.",
       "We handle the full scope: grounds, plowing, carpentry, property support, and hardscape work for Clarendon homeowners and rural property owners.",
     ],
-    localContext: "Clarendon has a mix of village-style neighborhoods in the south, rural properties stretching toward the Green Mountains, and the Clarendon Gorge as a notable natural feature. The Appalachian Trail crosses the town, and the proximity to Rutland makes it a common commuter community. Properties range from village lots to rural parcels with significant acreage. Early July in Clarendon is holiday-week finish work: commuter neighborhoods get a Thursday finish-cut at 4 inches before the four-day weekend, irrigation systems are running full pressure with head-by-head walkthroughs on the older village lots, and the patio-and-walkway hardscape builds we sequenced back in June are wrapping punch-list before the July rain pattern sets in. Post-storm limb sweeps handled the mid-week thunder cells that rolled through the Appalachian Trail corridor.",
+    localContext: "Clarendon has a mix of village-style neighborhoods in the south, rural properties stretching toward the Green Mountains, and the Clarendon Gorge as a notable natural feature. The Appalachian Trail crosses the town, and the proximity to Rutland makes it a common commuter community. Properties range from village lots to rural parcels with significant acreage. Mid-July in Clarendon is peak-summer maintenance mode: commuter neighborhoods on a Tuesday 4-inch mow with a Thursday hand-edge to hold shape through the weekend heat, irrigation zones dialed to predawn-only after two consecutive dry weeks tested older village heads, and the August hardscape installs entering the pre-build site-prep phase on the rural parcels. Trailhead-adjacent properties along the Appalachian corridor are getting weekly clearing sweeps as the hiker traffic peaks.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "property-maintenance", "hardscaping", "carpentry"],
     landmarks: ["Clarendon Gorge", "Appalachian Trail", "Route 7B", "Clarendon River"],
     faqs: [
@@ -451,7 +451,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Patios, walkways, and retaining walls in Clarendon are common projects. We build with proper base prep and materials suited to Vermont's freeze-thaw cycles.",
       },
     ],
-    lastUpdated: "2026-07-02",
+    lastUpdated: "2026-07-16",
   },
   {
     slug: "shrewsbury",
@@ -465,7 +465,7 @@ export const serviceAreas: ServiceArea[] = [
       "Properties here sit at elevation, which means bigger snow loads, longer winters, and road access that can get tricky in bad weather — exactly the conditions that separate serious property care companies from the ones that cut corners.",
       "We handle Shrewsbury properties with equipment and crews sized for the terrain, full-season contracts, and the kind of local knowledge you need when your driveway is half a mile long and snows 150 inches a year.",
     ],
-    localContext: "Shrewsbury is a rural town with properties on hillsides, along the edges of Green Mountain National Forest, and across a wide geography with multiple village settlements (Shrewsbury Center, Cuttingsville, Northam). Snow accumulation is among the heaviest in Rutland County, and elevation changes significantly across the town. Many properties are second homes or long-driveway rural homesites. Mid-June Shrewsbury runs on bi-weekly hillside mow rotations, weekly woodland-edge trim work on the long-driveway parcels, and pre-thunderstorm tree-limb assessments through the densely wooded Cuttingsville and Northam settlements where elevation amplifies wind damage. Second-home owners get photo check-ins on the same cadence as the valley properties.",
+    localContext: "Shrewsbury is a rural town with properties on hillsides, along the edges of Green Mountain National Forest, and across a wide geography with multiple village settlements (Shrewsbury Center, Cuttingsville, Northam). Snow accumulation is among the heaviest in Rutland County, and elevation changes significantly across the town. Many properties are second homes or long-driveway rural homesites. Mid-July Shrewsbury is running on a hillside heat rotation: mow decks locked at 4 inches through the current dry stretch so the exposed elevation lawns hold color, post-thunderstorm limb sweeps on the wooded Cuttingsville and Northam parcels every few days as the July convective cells roll through, and tick-check reminders going out to the second-home owners whose long-grass margins meet woodland edge. Summer-occupancy check-ins have shifted from spring photo-cadence to weekly walk-throughs while owners host guests through the peak stretch.",
     priorityServices: ["snow-ice-management", "grounds-maintenance", "property-maintenance", "rental-support"],
     landmarks: ["Cuttingsville", "Shrewsbury Center", "Green Mountain National Forest", "Shrewsbury Peak"],
     faqs: [
@@ -482,7 +482,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Property check-ins with photo documentation are a common service for our Shrewsbury clients, especially during winter when weather events can create issues that need quick response.",
       },
     ],
-    lastUpdated: "2026-06-18",
+    lastUpdated: "2026-07-16",
   },
   {
     slug: "tinmouth",
