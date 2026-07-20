@@ -81,7 +81,7 @@ export default async function Page({ params }: { params: Promise<Params> }) {
 
   const url = `${BASE}/blog/${post.slug}`;
   const datePublished = parseIsoDate(post.date);
-  const dateModified = "2026-07-13";
+  const dateModified = "2026-07-20";
   const capsule = extractCapsule(post.content);
   const faqs = extractFaqs(post.content);
 

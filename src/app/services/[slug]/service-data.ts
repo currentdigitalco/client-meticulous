@@ -86,8 +86,12 @@ export const serviceDetails: ServiceDetail[] = [
       "Full-season programs that eliminate the hassle of scheduling individual services",
     ],
     relatedServices: ["landscaping", "property-maintenance"],
-    lastUpdated: "2026-07-13",
+    lastUpdated: "2026-07-20",
     relatedBlogs: [
+      {
+        slug: "stop-crabgrass-vermont-lawn-summer",
+        title: "How Do You Stop Crabgrass in a Vermont Lawn in Summer?",
+      },
       {
         slug: "lawn-care-cost-rutland-county-vermont",
         title: "Lawn Care Cost in Rutland County, Vermont: 2026 Pricing",
@@ -217,8 +221,12 @@ export const serviceDetails: ServiceDetail[] = [
       "Preventative approach that protects your investment and catches issues early",
     ],
     relatedServices: ["grounds-maintenance", "rental-support"],
-    lastUpdated: "2026-07-13",
+    lastUpdated: "2026-07-20",
     relatedBlogs: [
+      {
+        slug: "stop-crabgrass-vermont-lawn-summer",
+        title: "How Do You Stop Crabgrass in a Vermont Lawn in Summer?",
+      },
       {
         slug: "lawn-care-cost-rutland-county-vermont",
         title: "Lawn Care Cost in Rutland County, Vermont: 2026 Pricing",
