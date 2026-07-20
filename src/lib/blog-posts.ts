@@ -13,6 +13,116 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "stop-crabgrass-vermont-lawn-summer",
+    title: "How Do You Stop Crabgrass in a Vermont Lawn in Summer?",
+    excerpt:
+      "By the time crabgrass shows up in a Rutland County lawn, it is July and the easy fix (a spring pre-emergent) is months behind you. Crabgrass germinates once the soil holds above 55°F, which in Vermont is mid-to-late May, so summer is a control job, not a prevention one. Here is what actually kills crabgrass that is already up, why mowing at 3 to 3.5 inches shades it out, the Vermont control calendar by soil temperature, and how to thicken the turf so it does not come back next year.",
+    category: "Lawn Care",
+    date: "July 2026",
+    readTime: "8 min read",
+    image: "/images/blog-stop-crabgrass-vermont-lawn-summer.jpeg",
+    featured: true,
+    metaDescription:
+      "Stop crabgrass in a Vermont lawn in summer: the pre-emergent window closed in May, so July means post-emergent (quinclorac) plus mowing at 3 inches.",
+    content: `
+<p><em>Updated July 2026.</em></p>
+
+<p data-speakable="true"><strong>To stop crabgrass in a Vermont lawn in summer, skip the pre-emergent (that window closed back in May) and switch to a post-emergent like quinclorac on the young plants, then mow at 3 to 3.5 inches to shade the soil.</strong> Crabgrass germinates once soil temperature holds above 55°F, so by July it is a control job, not a prevention one.</p>
+
+<p>By the time most Rutland County homeowners notice crabgrass, it is already July. The lawn is speckled with flat, pale-green blades fanning out in the sunniest, most compacted strips (driveway edges, the hell strip by the road, the worn line where the dog runs), and the question is what to do about it right now. The honest answer is that the cheap, easy fix is months behind you, and the summer plan is a different set of moves.</p>
+
+<p>Here is why the July timing changes the whole approach on a Vermont lawn, what actually kills crabgrass that is already up, the mowing and cultural habits that shade it out for good, and the point at which spot-spraying stops being worth your Saturday.</p>
+
+<h2>Why Can't You Just Use a Pre-Emergent on Crabgrass in July?</h2>
+
+<p>Because pre-emergent herbicide only works on seed that has not sprouted yet, and in Vermont that seed germinated weeks before you saw the plant. Crabgrass is an annual that comes back every year from seed dropped the previous fall, and the trigger is soil temperature, not the calendar. The seed germinates once the soil in the top inch holds above roughly 55°F for a stretch of days. In the Rutland Valley that usually happens in the middle to end of May. At elevation, on the higher properties around Killington, Mendon, and Chittenden, it runs a week or two later because the soil warms slower.</p>
+
+<p>That timing is the whole problem. A pre-emergent has to be down and watered in before the soil hits that 55°F mark, which in Rutland County means late April into the first half of May, weeks before a single crabgrass blade is visible. By July the plants are up, tillering out, and a pre-emergent applied now does nothing to them. Vermont's short growing season makes the window tighter than it is down south, where crabgrass season stretches for months and a split pre-emergent application is standard. Here you get one narrow spring window, and once it closes the plan changes entirely.</p>
+
+<h2>How Do You Stop Crabgrass in a Vermont Lawn Once It's Already Up?</h2>
+
+<p>You switch to a post-emergent herbicide, and quinclorac is the active ingredient that targets crabgrass without killing the cool-season grasses a Vermont lawn is made of. Post-emergent works on the growing plant, not the seed, so it is the right tool from June through midsummer. The catch is that it works best on young crabgrass with only a few tillers and gets less effective as the plant matures, so the earlier in the summer you catch it, the better the result and the lower the rate you need.</p>
+
+<ul>
+<li><strong>Spot-treat, do not blanket the lawn.</strong> Crabgrass grows in patches in the sunny, compacted, thin areas. A targeted spray on those patches uses far less herbicide than treating the whole lawn and does not stress the healthy turf that is not infested.</li>
+<li><strong>Use a product rated for cool-season turf.</strong> Quinclorac-based selective post-emergents are safe on Kentucky bluegrass, fescue, and perennial ryegrass at label rates. A non-selective product (anything with glyphosate) kills the good grass along with the crabgrass and leaves bare soil that grows more weeds.</li>
+<li><strong>Add the recommended surfactant.</strong> Quinclorac needs a methylated seed oil or crop oil surfactant to move into the waxy crabgrass leaf. Skipping it is the most common reason a spray "does not work."</li>
+<li><strong>Time it around the heat.</strong> Spraying a stressed lawn in 90-degree afternoon heat risks burning the desirable grass. Treat in the morning or on a mild day, and never on turf that is already browned out and dormant.</li>
+<li><strong>Expect a second pass.</strong> Mature July and August crabgrass often needs a follow-up application 10 to 14 days after the first to finish it. One spray rarely clears a heavy stand.</li>
+</ul>
+
+<p>For a small patch or two, hand-pulling works if you get the whole crown before it sets seed. Crabgrass pulls easily, but every plant left to flower drops thousands of seeds into next year's lawn, so pulling before seed-set in late summer is time well spent.</p>
+
+<h2>Does Mowing Height Really Stop Crabgrass?</h2>
+
+<p>Yes, and it is the single most underrated crabgrass control on a Vermont lawn, because it costs nothing and works on the mechanism the herbicide cannot touch. Crabgrass seed needs light and warm soil to germinate. A lawn mowed at 3 to 3.5 inches keeps a dense, tall canopy that shades the soil surface, keeps it cooler, and blocks the light the seed needs to sprout in the first place. A lawn scalped to 1.5 or 2 inches does the opposite: it opens the canopy, warms the soil, and rolls out the exact conditions crabgrass wants.</p>
+
+<p>This is why the lawns we manage that get scalped every week are the ones full of crabgrass by August, and the ones cut tall stay clean. Height is prevention that runs all summer for free. It pairs directly with the cut-height rules we lay out in our guide to <a href="/blog/lawn-mowing-height-rutland-county-vermont-summer">lawn mowing height for a Rutland County summer</a>, where 3 inches is the floor and 4 inches is better through the hottest weeks. Deep, infrequent watering helps too. It builds a thick, deep-rooted turf that out-competes crabgrass for space, where a daily shallow sprinkle keeps the surface warm and moist, which is exactly what the crabgrass seedlings want.</p>
+
+<h2>What's the Right Timing for Crabgrass Control in Vermont?</h2>
+
+<p>The whole program runs off soil temperature, and the Vermont calendar is compressed compared to warmer regions. Here is what the season actually looks like on a Rutland County lawn, and which move fits each window.</p>
+
+<table>
+<thead>
+<tr><th>Window</th><th>Soil temp / crabgrass stage</th><th>The move</th></tr>
+</thead>
+<tbody>
+<tr><td>Late April to mid-May</td><td>Soil warming to 50 to 55°F</td><td>Pre-emergent window. This is next year's play, tied to soil temp not the calendar.</td></tr>
+<tr><td>Mid to late May</td><td>Soil holds above 55°F, seed germinates</td><td>Pre-emergent window has closed. Nothing to spray yet, but it is coming.</td></tr>
+<tr><td>June</td><td>Young crabgrass, few tillers</td><td>Best post-emergent (quinclorac) results of the year. Lowest rate, highest kill.</td></tr>
+<tr><td>July</td><td>Established, spreading in patches</td><td>Post-emergent still works but needs a higher rate and usually a second pass.</td></tr>
+<tr><td>August</td><td>Mature, setting seed</td><td>Control is mostly cosmetic now. Focus on mowing tall and planning a fall reseed.</td></tr>
+<tr><td>September to first frost</td><td>Frost approaching</td><td>Crabgrass dies at the first hard frost. Overseed the thin, bare patches it leaves.</td></tr>
+</tbody>
+</table>
+
+<p>The number that ties the whole table together is that 55°F soil mark. Miss it in spring and you are managing crabgrass all summer instead of preventing it. That is why on the properties we run, the pre-emergent goes down by soil thermometer in late April and early May, not on a fixed date, and the summer plan assumes some crabgrass will still slip through in the thin spots.</p>
+
+<h2>How Do You Keep Crabgrass From Coming Back Next Year?</h2>
+
+<p>You stop treating it as a weed problem and start treating it as a thin-lawn problem, because crabgrass only wins where the desirable turf is weak. A dense, tall, deep-rooted cool-season lawn simply does not give crabgrass the light and space it needs. The multi-season fix:</p>
+
+<ol>
+<li><strong>Overseed to thicken the turf.</strong> The fall aeration window, late August through mid-September in Rutland County, is the best time of the year to seed cool-season grass. A thick stand going into next spring is the strongest crabgrass barrier there is.</li>
+<li><strong>Mow tall all season.</strong> Keep the deck at 3 to 3.5 inches from June through August, every year. This shades out germinating seed for free, every week.</li>
+<li><strong>Time the pre-emergent to soil temperature.</strong> Next spring, put the pre-emergent down when the soil hits 50 to 55°F (a useful field cue is when the forsythia finishes blooming), not on a calendar date. In Rutland that is usually late April into early May.</li>
+<li><strong>Fix the compaction and bare strips.</strong> Crabgrass colonizes the driveway edges, road strips, and worn paths where the soil is compacted and the turf is thin. Core aeration and reseeding those specific areas removes the opening it exploits.</li>
+<li><strong>Water deep and infrequent.</strong> One deep soaking a week grows deep roots on the good grass and keeps the surface dry between waterings, which favors the turf over the crabgrass seedlings.</li>
+</ol>
+
+<p>Done together over a season or two, these turn a crabgrass-prone lawn into one that crowds the weed out on its own, which is a far better outcome than spraying the same patches every July for the rest of the lawn's life.</p>
+
+<h2>When Should You Bring In a Crew?</h2>
+
+<p>When the crabgrass has spread past a few patches into a real infestation, when the lawn is thin enough that spraying alone will just leave bare dirt, or when you own the property remotely and cannot time the spring pre-emergent or the summer follow-ups yourself. Crabgrass control is a timing game, and the timing is easy to miss on a second home where nobody is on site in late April to read the soil temperature or in July to catch the young plants before they seed.</p>
+
+<p>On the properties we manage across Rutland County, crabgrass is handled as part of the season, not as an emergency in August. The pre-emergent goes down on the soil-temperature window in spring, the mowing height stays tall all summer so most of the seed never germinates, the thin and compacted strips get aerated and overseeded in the fall, and the patches that still slip through get spot-treated while they are young. That is the difference between a lawn that fights crabgrass every year and one that quietly stops giving it a place to grow. It folds into the same seasonal cadence as the rest of our <a href="/services/grounds-maintenance">grounds maintenance</a> work and the full <a href="/blog/summer-grounds-maintenance-schedule-vermont">summer grounds maintenance schedule</a> we run on every property.</p>
+
+<h2>Vermont Crabgrass FAQs for Property Owners</h2>
+
+<h3>Is it too late to stop crabgrass in July?</h3>
+<p>It is too late for a pre-emergent, but not too late to control it. By July the crabgrass is already up, so the move is a post-emergent herbicide like quinclorac on the young plants, spot-treated in the patches, plus mowing at 3 to 3.5 inches to shade out any seed that has not germinated yet. The earlier in the summer you catch it, the fewer passes it takes.</p>
+
+<h3>What kills crabgrass without killing the grass in a Vermont lawn?</h3>
+<p>A selective post-emergent with quinclorac. It targets crabgrass while leaving Kentucky bluegrass, fescue, and perennial ryegrass, the cool-season grasses that make up nearly every Rutland County lawn, unharmed at label rates. Add a methylated seed oil surfactant so it moves into the waxy crabgrass leaf, and treat in the morning or on a mild day rather than in peak afternoon heat.</p>
+
+<h3>Will mowing shorter help me get rid of crabgrass?</h3>
+<p>No, mowing shorter makes it worse. Scalping the lawn opens the canopy, warms the soil, and gives crabgrass seed the light and heat it needs to germinate. The correct move is the opposite: mow tall, 3 to 3.5 inches through the Vermont summer, to keep a dense canopy that shades the soil and blocks germination. Short mowing is one of the top reasons a lawn fills with crabgrass by August.</p>
+
+<h3>When should I put down crabgrass pre-emergent in Rutland County?</h3>
+<p>When the soil in the top inch reaches 50 to 55°F, which in the Rutland Valley is usually late April into early May, and a week or two later at elevation around Killington and Mendon. Go by soil temperature, not a calendar date. A common field cue is to apply it as the forsythia finishes blooming, and to get it watered in before the soil crosses that 55°F germination threshold.</p>
+
+<h3>Does crabgrass die on its own in the fall?</h3>
+<p>Yes. Crabgrass is a summer annual, so it dies completely at the first hard frost, which in Rutland County usually arrives in late September or October. The problem is that each plant drops thousands of seeds before it dies, seeding next year's crop, and it leaves bare patches behind. The right fall response is to overseed those thin areas so the desirable turf, not more crabgrass, fills them next spring.</p>
+
+<h2>Get a Lawn Assessment Before It Seeds</h2>
+
+<p>If your Rutland County lawn is speckled with crabgrass right now and you are not sure whether to spray it, pull it, or just mow tall and ride out the season, we walk the lawn, identify how far it has spread, and lay out the plan that fits the property. We manage lawns across Killington, Rutland, Woodstock, Ludlow, Mendon, Pittsfield, Chittenden, Proctor, West Rutland, Brandon, and Castleton, and the properties we run on a full-season program (rated <strong>4.8 across 31 Google reviews</strong>) rarely see crabgrass because the mowing, watering, and spring timing are handled before it ever gets a foothold.</p>
+
+<p>Call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send the property address and a photo of the patches through the <a href="/contact">contact page</a>, or read more about the towns we cover on our <a href="/service-areas/rutland">Rutland service area</a> page. Meticulous LLC is owned and run by Dan Villarreal, and we have been keeping Vermont lawns thick enough to crowd out crabgrass since 2009. The best time to stop next year's crabgrass is this fall, so the sooner we look at the lawn, the cheaper the fix.</p>`,
+  },
+  {
     slug: "japanese-knotweed-removal-vermont",
     title: "How to Get Rid of Japanese Knotweed on a Vermont Property",
     excerpt:
@@ -21,7 +131,7 @@ export const blogPosts: BlogPost[] = [
     date: "July 2026",
     readTime: "9 min read",
     image: "/images/blog-japanese-knotweed-removal-vermont.jpeg",
-    featured: true,
+    featured: false,
     metaDescription:
       "Japanese knotweed removal in Vermont is a multi-season job. Rhizomes run 20 ft out and it's on the state Noxious Weed Quarantine. Here's what kills it.",
     content: `
@@ -191,7 +301,7 @@ export const blogPosts: BlogPost[] = [
 <li><strong>Do not fertilize.</strong> A dormant lawn cannot metabolize nitrogen. Applying a lawn fertilizer to browned-out turf in July does not feed the plant — it burns the crown, salts the surface soil, and puts a stressed lawn into permanent decline. Every fertilizer window in Vermont is on the cool side of the calendar. Late spring, early fall. Not midsummer.</li>
 <li><strong>Do not mow.</strong> Dormant turf does not need to be cut, and every mowing pass adds foot traffic, wheel compaction, and blade-tip trauma to a plant already surviving on reserves. Skip the mow until the lawn greens up again, or if you have to keep the property looking maintained for guests, raise the deck to four inches and cut only when there is measurable regrowth. Never scalp a stressed lawn — it is the fastest way to convert dormant grass into dead grass.</li>
 <li><strong>Do not walk on it heavily.</strong> Dormant crowns are fragile. Repeated foot traffic on the same lines — the dog's path, the path to the mailbox, the kids' short-cut across the front lawn — crushes the crowns and shows up as permanent trails when the rest of the lawn greens up. Reroute traffic to the driveway or the walks for the dry weeks.</li>
-<li><strong>Do not spray herbicide.</strong> Broadleaf herbicides and crabgrass pre-emergents assume actively growing turf. Applied to a stressed, dormant lawn, they do more damage to the desirable grass than to the weeds you are trying to kill. Weed control moves to September on a dormant summer lawn.</li>
+<li><strong>Do not spray herbicide.</strong> Broadleaf herbicides and crabgrass pre-emergents assume actively growing turf. Applied to a stressed, dormant lawn, they do more damage to the desirable grass than to the weeds you are trying to kill. Weed control moves to September on a dormant summer lawn. If the brown you are seeing is actually crabgrass creeping into the thin spots, our guide to <a href="/blog/stop-crabgrass-vermont-lawn-summer">stopping crabgrass in a Vermont lawn in summer</a> covers the post-emergent and mowing plan for that.</li>
 </ul>
 
 <p>The theme across all four: leave it alone. A cool-season lawn is genuinely built to survive a Vermont July without any help. Most of the damage that shows up in the fall is from the owner trying to fix a lawn that did not need fixing.</p>
@@ -374,7 +484,7 @@ export const blogPosts: BlogPost[] = [
 <li><strong>Short turf has short roots.</strong> The root system of a grass plant mirrors the leaf height roughly inch for inch. A lawn cut to 1.5 inches has roots about that deep, which is not enough to reach moisture in a Vermont July when the topsoil dries out between rains. A lawn cut to 3.5 inches has roots in the 3 to 4 inch range and a much wider tolerance for a dry week.</li>
 <li><strong>Short turf cooks the soil.</strong> Bare-looking, scalped turf lets full sun hit the soil surface. The soil heats up, the crowns of the grass plants stress, the surface moisture evaporates faster, and the lawn browns from the top of the soil down. Taller turf shades its own soil and holds 5 to 10 degrees of moderation underneath the canopy on a hot day.</li>
 <li><strong>Short turf cannot photosynthesize.</strong> Grass feeds itself through the green blade above the crown. Cut too much of the blade off and the plant has nothing left to convert sun and CO2 into the sugars it needs to grow, defend itself, and recover. The lawn enters every week of summer behind.</li>
-<li><strong>Short turf lets weeds in.</strong> A dense, tall canopy shades out crabgrass and the broadleaf weed seeds that are sitting in the top half-inch of every Vermont lawn. A scalped lawn opens the canopy, the soil warms, the weed seeds germinate, and the lawn that was supposed to be turf becomes turf-and-crabgrass by August.</li>
+<li><strong>Short turf lets weeds in.</strong> A dense, tall canopy shades out crabgrass and the broadleaf weed seeds that are sitting in the top half-inch of every Vermont lawn. A scalped lawn opens the canopy, the soil warms, the weed seeds germinate, and the lawn that was supposed to be turf becomes turf-and-crabgrass by August. If crabgrass is already in the lawn, our guide to <a href="/blog/stop-crabgrass-vermont-lawn-summer">stopping crabgrass in a Vermont lawn in summer</a> covers what actually kills it once the pre-emergent window has closed.</li>
 </ul>
 
 <p>Every one of those mechanisms compounds in a Rutland County summer. The lawns we manage that hold their color through July and August are not the ones with the most fertilizer or the most water. They are the ones cut tall on a routine the whole summer.</p>
@@ -1421,7 +1531,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Here's the thing most people get wrong: they aerate in April because that's when the big box stores start selling aerator rentals. Makes sense on paper. The snow's melted, you're itching to get outside, might as well punch some holes in the lawn.</p>
 
-<p>Bad idea. Vermont soil in April is still saturated from snowmelt. You're pulling up mud plugs, not clean cores. The holes close up almost immediately. Worse, you're giving weed seeds — especially crabgrass — a perfect place to germinate before your grass has woken up enough to compete.</p>
+<p>Bad idea. Vermont soil in April is still saturated from snowmelt. You're pulling up mud plugs, not clean cores. The holes close up almost immediately. Worse, you're giving weed seeds — especially crabgrass — a perfect place to germinate before your grass has woken up enough to compete. If crabgrass has already taken hold, see our guide to <a href="/blog/stop-crabgrass-vermont-lawn-summer">stopping crabgrass in a Vermont lawn in summer</a>.</p>
 
 <p>We've seen it dozens of times. Someone aerates in spring, the lawn looks roughed up for three weeks, and by June they've got more weeds than before.</p>
 
