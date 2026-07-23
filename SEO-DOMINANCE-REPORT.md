@@ -1,11 +1,11 @@
-# SEO/AEO/GEO/pSEO Dominance Report — client-meticulous
+# SEO/AEO/GEO/pSEO Dominance Report — meticulous
 
 **Score:** 105 / 120 (88%) — B — strong, minor gaps
 **Site path:** `sites/client-meticulous`
 **Pages (estimate):** 20
 **Schema types detected:** AdministrativeArea, AggregateRating, Answer, BlogPosting, BreadcrumbList, City, CollectionPage, ContactPoint, FAQPage, GeoCoordinates, HomeAndConstructionBusiness, HowTo, HowToStep, HowToSupply, HowToTool, ItemList, ListItem, LocalBusiness, MonetaryAmount, Offer, OfferCatalog, OpeningHoursSpecification, Organization, Person, PostalAddress, Question, Rating, Review, Service, SpeakableSpecification, State, WebPage, WebSite
 **LocalBusiness fields detected:** address, areaServed, founder, geo, hasOfferCatalog, knowsAbout, openingHoursSpecification, paymentAccepted, review, sameAs
-**llms.txt:** present (186 lines)
+**llms.txt:** present (195 lines)
 **llms-full.txt:** present
 **robots:** present
 **sitemap:** present
@@ -34,7 +34,7 @@
 
 ### AEO
 
-- **✓ [PASS] llms-txt** — llms.txt present (186 lines).
+- **✓ [PASS] llms-txt** — llms.txt present (195 lines).
 - **✓ [PASS] llms-full-txt** — llms-full.txt present (deeper AI crawler doc).
 - **✓ [PASS] speakable** — Speakable schema present — voice-search ready.
 - **✓ [PASS] ai-crawlers** — No key AI crawler blocked in robots (GPTBot / OAI-SearchBot / PerplexityBot / ClaudeBot / Google-Extended / Bingbot permitted).

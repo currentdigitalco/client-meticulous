@@ -217,7 +217,7 @@ export const serviceAreas: ServiceArea[] = [
       "Because we route through Mendon constantly on our way between Rutland and the mountain, our Mendon clients get consistent service without the travel-time premium that distant services charge.",
       "We handle grounds maintenance, snow contracts, carpentry, and property support for Mendon homeowners — whether you live here year-round or use the place as a ski retreat.",
     ],
-    localContext: "Mendon straddles Route 4 between Rutland and Killington, with properties along the corridor, up toward Mendon Mountain, and in the rural outlying areas. The town has a mix of working families, retirees, and second-home owners. Winter snow loads are substantial: Mendon sits at elevation and catches storms that roll east from Killington Peak. Early July puts Mendon at holiday-week peak: Route 4 corridor lawns get a Thursday finish-cut at 4 inches with crisp road-frontage edging ahead of guest arrivals, deck and patio builds that started back in April are wrapping punch-list before owners occupy for July 4, and the mid-week thunder cells that rolled off Killington Peak kept the tree-limb crews on post-storm cleanup across the elevation properties.",
+    localContext: "Mendon straddles Route 4 between Rutland and Killington, with properties along the corridor, up toward Mendon Mountain, and in the rural outlying areas. The town has a mix of working families, retirees, and second-home owners. Winter snow loads are substantial: Mendon sits at elevation and catches storms that roll east from Killington Peak. Late July puts Mendon in second-half summer cadence: Route 4 corridor lawns are on a Wednesday finish-cut at 4 inches to hold color through the current heat stretch, mountain-bike-season weekend traffic keeps rental-property turnovers running Thursday and Sunday so hardscape sweeps are stacked pre-arrival, and post-storm limb sweeps continue as afternoon convective cells roll off Killington Peak. Deck-stain reseals timed to the August cool-down window are getting scoped on the elevation second homes.",
     priorityServices: ["snow-ice-management", "grounds-maintenance", "property-maintenance", "carpentry"],
     landmarks: ["Route 4", "Mendon Mountain", "Turn of River Lodge", "Long Trail access"],
     faqs: [
@@ -234,7 +234,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. As a registered Vermont residential contractor, we handle deck rebuilds, rot repair, siding, trim, and structural work throughout Mendon.",
       },
     ],
-    lastUpdated: "2026-07-06",
+    lastUpdated: "2026-07-23",
   },
   {
     slug: "proctor",
@@ -248,7 +248,7 @@ export const serviceAreas: ServiceArea[] = [
       "Properties in Proctor tend to be closer-knit than the rural towns further east, which changes what property care looks like — tighter lots, shared boundaries, and historic homes that benefit from careful craftsmanship rather than heavy-equipment solutions.",
       "We handle the full scope for Proctor homeowners and property managers, from grounds maintenance and snow plowing to hardscape repairs and carpentry on older homes.",
     ],
-    localContext: "Proctor was built around the Vermont marble industry and still shows that character in its stone buildings and compact village layout. The town has a dense residential core, the Otter Creek running through the center, and Proctor Falls as a local landmark. Properties here are often older with original stonework and architectural details that need a specific kind of care. Mid-July in Proctor is peak heat-wave discipline: weekly mow routes are running the deck at 4 inches to keep root crowns shaded and the tan patches on the compact village lots reading dormant instead of dead, bed watering is on early-morning cycles ahead of the afternoon Otter Creek humidity climb, and the stone-wall pointing work stays on hold until the July mortar-cure window closes and cooler August mornings return.",
+    localContext: "Proctor was built around the Vermont marble industry and still shows that character in its stone buildings and compact village layout. The town has a dense residential core, the Otter Creek running through the center, and Proctor Falls as a local landmark. Properties here are often older with original stonework and architectural details that need a specific kind of care. Late July in Proctor is sustained heat-wave discipline: weekly mow routes are locked at 4 inches with fresh-sharpened blades so the compact village lawns read dormant instead of dead, bed watering is on pre-dawn cycles ahead of the afternoon Otter Creek humidity climb, and the marble-and-slate walkway pressure-washing is stacked into early-morning windows before the mid-day heat. Deck-stain reseals on the historic Main Street homes are getting scoped for the first cool-window in August rather than pushed through the current dry stretch.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "carpentry", "property-maintenance", "hardscaping"],
     landmarks: ["Proctor Falls", "Otter Creek", "Vermont Marble Museum", "Main Street Proctor"],
     faqs: [
@@ -265,7 +265,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "We handle stonework as part of hardscape installation and repair. For specialty historic preservation work, we collaborate with local stone masons when the job calls for it.",
       },
     ],
-    lastUpdated: "2026-07-09",
+    lastUpdated: "2026-07-23",
   },
   {
     slug: "west-rutland",
@@ -279,7 +279,7 @@ export const serviceAreas: ServiceArea[] = [
       "Property care here tends to be practical and no-nonsense — owners want reliable service, fair pricing, and crews that show up when they're supposed to.",
       "That's how we run. West Rutland is a core part of our service area and we handle the full scope: grounds, plowing, repairs, and property support for homes and businesses throughout town.",
     ],
-    localContext: "West Rutland has a strong working identity, with agricultural land, small industrial areas, and historic residential neighborhoods. Route 4A runs through the town connecting it to the main Rutland area. The town's Grange Hall, marble quarries, and Clarendon Gorge make it a distinct community from Rutland proper despite the proximity. Early July along Route 4A runs on holiday-week rhythm: small-business storefronts get their pre-July-4 mow-and-edge before Thursday opening, the historic residential blocks are on tight bed-weed passes ahead of neighborhood cookouts, and the hayfield-edge crews that started first-pass clearing in June are now cycling back for a second pass timed to the first hay cut. Sidewalk-and-curb patch work is on hold this week while foot traffic climbs.",
+    localContext: "West Rutland has a strong working identity, with agricultural land, small industrial areas, and historic residential neighborhoods. Route 4A runs through the town connecting it to the main Rutland area. The town's Grange Hall, marble quarries, and Clarendon Gorge make it a distinct community from Rutland proper despite the proximity. Late July along Route 4A is settled into full second-half rhythm: first hay is off across the working parcels so field-edge trim finally clears with equipment, storefront lawns are cutting on a Tuesday-Thursday 4-inch rotation to hold color through the late-July heat, and the historic residential blocks are on mid-summer bed refresh with the June-blooming perennials deadheaded ahead of the August garden-tour walk. Post-storm limb sweeps continue as the mid-week thunder cells roll the corridor.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "property-maintenance", "carpentry"],
     landmarks: ["Route 4A", "Clarendon Gorge", "West Rutland Town Hall", "West Rutland Marble Quarry"],
     faqs: [
@@ -296,7 +296,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Because we're local and route efficiently, we're usually at or below the rates of out-of-county services while delivering faster response and better accountability.",
       },
     ],
-    lastUpdated: "2026-07-02",
+    lastUpdated: "2026-07-23",
   },
   {
     slug: "brandon",
@@ -496,7 +496,7 @@ export const serviceAreas: ServiceArea[] = [
       "Property care in Tinmouth tends to be relationship-driven — neighbors know each other, and owners want service providers who'll treat the property and the community with the same respect.",
       "We work with Tinmouth homeowners and rural property owners on grounds care, snow contracts, carpentry, and property support. We route through the town on a regular schedule so clients get consistent service despite the rural geography.",
     ],
-    localContext: "Tinmouth is a rural town with working farms, historic homes, and a strong community identity. The town has protected significant acreage through conservation efforts, and many properties sit on larger parcels with mature landscaping and woodland borders. Tinmouth Pond and the Tinmouth Contra Dance Hall are notable features. Mid-July in Tinmouth is between-cut window on the working farms: first hay is off, second cut is a few weeks out, so the crews are catching the parcel-edge trim and woodland-border cleanup while equipment access is easy across the back acreage, and mow decks stay at 4 inches through the heat stretch so the meadow-adjacent lawns hold color instead of frying at the crown.",
+    localContext: "Tinmouth is a rural town with working farms, historic homes, and a strong community identity. The town has protected significant acreage through conservation efforts, and many properties sit on larger parcels with mature landscaping and woodland borders. Tinmouth Pond and the Tinmouth Contra Dance Hall are notable features. Late July in Tinmouth is second-cut prep on the working farms: crews are moving through the field-edge and woodland-border trim ahead of the second hay window, mow decks stay at 4 inches on the meadow-adjacent lawns so root crowns hold color through the dry stretch, and tick-check reminders continue on every grounds pass along the long woodland margins. The pond-front conservation-parcel access work is stacked into cooler morning windows before the mid-day heat and humidity climb.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "property-maintenance", "carpentry"],
     landmarks: ["Tinmouth Pond", "Tinmouth Contra Dance Hall", "Tinmouth Channel Wildlife Management Area"],
     faqs: [
@@ -513,7 +513,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Historic and older homes are common in Tinmouth. We handle exterior repairs, trim work, and structural carpentry with the care those properties deserve.",
       },
     ],
-    lastUpdated: "2026-07-09",
+    lastUpdated: "2026-07-23",
   },
   {
     slug: "florence",
@@ -527,7 +527,7 @@ export const serviceAreas: ServiceArea[] = [
       "We service Florence as part of our Route 7 corridor coverage, with grounds care, winter contracts, and property support that gets scheduled efficiently alongside our Pittsford and Brandon routes.",
       "Florence properties benefit from our routing — we're already in the area, which keeps pricing fair and response times tight.",
     ],
-    localContext: "Florence is a village within the town of Pittsford, situated along Route 7 near Otter Creek. Properties here are a mix of residential homes, small farms, and rural parcels. The community's proximity to larger towns (Pittsford center, Brandon, Rutland) makes it a common commuter area, with many year-round residents. Mid-July in Florence is heat-stress management on the Route 7 corridor: weekly mow routes are running the deck at 4 inches with fresh-sharpened blades so the tan-tinged commuter lawns hold their crowns instead of tearing at the tip, irrigation controllers are shifted to pre-dawn cycles to beat evaporation, and the Otter Creek-adjacent parcels are on post-storm limb sweeps after the mid-week thunder cell that rolled down the valley.",
+    localContext: "Florence is a village within the town of Pittsford, situated along Route 7 near Otter Creek. Properties here are a mix of residential homes, small farms, and rural parcels. The community's proximity to larger towns (Pittsford center, Brandon, Rutland) makes it a common commuter area, with many year-round residents. Late July in Florence is sustained heat-stretch management on the Route 7 corridor: weekly mow routes are locked at 4 inches with fresh-sharpened blades so the commuter lawns hold their crowns instead of tearing at the tip, irrigation controllers are on pre-dawn cycles to beat evaporation, and the Otter Creek-adjacent parcels are on ongoing post-storm limb sweeps as afternoon convective cells continue to roll down the valley. Bed refresh with deadheading of the June-July perennials is stacked into the cooler Wednesday morning windows.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "property-maintenance", "carpentry"],
     landmarks: ["Otter Creek", "Route 7", "Florence Station Road"],
     faqs: [
@@ -548,7 +548,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes, but higher and less often. Raising the deck to three-and-a-half or four inches shades the soil, holds moisture, and keeps the roots cool, so the lawn survives the heat instead of frying. Cutting short in a drought is the fastest way to lose it. We raise mowing height across our Florence route automatically through the hottest stretch.",
       },
     ],
-    lastUpdated: "2026-07-09",
+    lastUpdated: "2026-07-23",
   },
   {
     slug: "fair-haven",
@@ -593,7 +593,7 @@ export const serviceAreas: ServiceArea[] = [
       "We service Mount Holly homeowners and second-home owners with the same care we bring to our Ludlow and Killington clients: snow contracts, grounds care, rental turnovers, and property oversight for remote owners who need reliable eyes on the ground.",
       "Because we route through Ludlow and the Okemo area regularly, adding Mount Holly properties doesn't stretch our response times. You get consistent service from crews who know the terrain.",
     ],
-    localContext: "Mount Holly is a small rural town in southeastern Rutland County, situated along Route 103 south of Ludlow. The town has a mix of year-round residents, second-home owners, and properties that serve the Okemo Mountain rental market. Elevation here is significant: snow loads are heavy and mud season runs later than in the valley. The Tarbellville area and surrounding hills have properties with long driveways and dense tree cover that demand reliable equipment and crew scheduling. Early July puts Mount Holly at peak rental turnover: Route 103 and Lake Ninevah rentals get accelerated Thursday-morning grounds passes before July 4 arrivals, Okemo-corridor second homes are on final pre-arrival walkthroughs with photo confirmation, and the mid-week thunder cells that rolled through Tarbellville kept the tree-limb crews on post-storm cleanup across the densely wooded elevation parcels.",
+    localContext: "Mount Holly is a small rural town in southeastern Rutland County, situated along Route 103 south of Ludlow. The town has a mix of year-round residents, second-home owners, and properties that serve the Okemo Mountain rental market. Elevation here is significant: snow loads are heavy and mud season runs later than in the valley. The Tarbellville area and surrounding hills have properties with long driveways and dense tree cover that demand reliable equipment and crew scheduling. Late July puts Mount Holly in sustained rental cadence: Route 103 and Lake Ninevah short-term rentals are on a Thursday-Sunday turnover mow-and-shoreline-trim to hold through back-to-back guest windows, Okemo-corridor second homes with owners in residence for the peak stretch are getting weekly walk-throughs on grounds and hardscape, and the elevation-parcel driveways are getting a mid-season regrade before the August install queue backs up. Tick-check reminders continue with every grounds pass along the wooded property edges.",
     priorityServices: ["snow-ice-management", "grounds-maintenance", "property-maintenance", "rental-support"],
     landmarks: ["Route 103", "Tarbellville", "Green Mountain National Forest", "Lake Ninevah"],
     faqs: [
@@ -610,7 +610,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Spring cleanup — driveway condition assessment, frost heave repair, grounds debris clearance, and season-opening property checks — is a core service for our Mount Holly clients.",
       },
     ],
-    lastUpdated: "2026-07-02",
+    lastUpdated: "2026-07-23",
   },
   {
     slug: "poultney",
