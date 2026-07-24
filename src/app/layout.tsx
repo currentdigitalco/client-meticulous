@@ -106,9 +106,10 @@ export default function RootLayout({
 
   // aggregateRating describes the FULL Google review corpus, not the excerpts
   // above — it must match the public profile exactly (it is checkable in one
-  // click). Verified live 2026-07-15: 31 reviews @ 4.8. Counts drift; re-check
+  // click). Verified live 2026-07-24: 32 reviews @ 4.7. Counts drift; re-check
   // on the weekly SEO pass.
-  const gbpReviews = { rating: "4.8", count: "31", verifiedOn: "2026-07-15" };
+  // Re-verify: python execution/reply_to_gbp_reviews.py --audit --client meticulous
+  const gbpReviews = { rating: "4.7", count: "32", verifiedOn: "2026-07-24" };
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "HomeAndConstructionBusiness",
