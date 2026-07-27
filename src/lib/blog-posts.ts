@@ -13,6 +13,130 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "fence-posts-vermont-depth-frost-line",
+    title: "Fence Posts in Vermont: How Deep, What Wood, and the Frost-Line Rule",
+    excerpt:
+      "A fence post in Rutland County either sits below the frost line or the frost lifts it out over a few winters. The frost line here runs 48 inches and deeper at elevation, and that floor beats the usual one-third burial rule. Here is how deep to set a post, what size and spacing a 6-foot fence needs, when concrete helps and when it makes the heaving worse, and which wood actually survives Vermont ground.",
+    category: "Fencing",
+    date: "July 2026",
+    readTime: "9 min read",
+    image: "/images/blog-fence-posts-vermont-depth-frost-line.jpeg",
+    featured: true,
+    metaDescription:
+      "Fence post depth and the frost line in Vermont: set posts below the 48-inch Rutland County frost line, plus the best wood and post spacing.",
+    content: `
+<p><em>Updated July 2026.</em></p>
+
+<p data-speakable="true"><strong>In Rutland County, Vermont, a fence post has to sit below the frost line, which runs 48 inches deep here and deeper at elevation. The rule that governs fence post depth is simple: get the bottom of the post below the frost line, or the frost will lift it out for you.</strong> That 48-inch floor beats the one-third burial rule everywhere in the county.</p>
+
+<p>Most of the leaning fences we get called to fix in Rutland County failed for the same reason: the posts were set too shallow. The panels look fine the first summer, then a couple of winters go by and the line starts to wander. Gates stop latching, posts tilt at their own angles, and what should have been a twenty-year fence is a rebuild in year three.</p>
+
+<p>Fence posts are the one part of the job where Vermont ground makes its own rules. Here is the frost-line rule in plain terms, why heave lifts a shallow post about an inch a winter, how deep to actually dig, what size and spacing a 6-foot fence needs, whether to backfill with concrete or gravel, and which wood lasts in the ground here.</p>
+
+<h2>What's the Frost-Line Rule for Fence Posts in Vermont?</h2>
+
+<p>The rule is one line: the bottom of the post, or the bottom of its footing, has to sit below the frost line, and in Rutland County that means at least 48 inches down. The frost line is the deepest point at which soil moisture freezes in winter. Below it, the ground stays above 32 degrees year-round, so nothing down there freezes, expands, or moves. Anything set above that line is inside the freeze zone, and the freeze zone is where fences die.</p>
+
+<p>Vermont follows the International Residential Code, which sets our regional frost depth at 48 inches. We treat that as the floor, not the goal. On the Rutland valley floor we set posts to 52 or 54 inches. Above about 1,500 feet, on exposed lots around Killington, Mendon, and Chittenden, the frost drives deeper and we go 56 to 60 inches. The extra depth costs a few minutes of auger time per hole and almost nothing in material, and it is the whole difference between a fence that holds and one that walks.</p>
+
+<h2>Why Does Frost Heave Wreck a Fence?</h2>
+
+<p>Frost heave wrecks a fence because water in the soil freezes, expands, and jacks anything shallow upward, and a fence post is a perfect handle for it to grab. Here is the mechanism. As the ground freezes from the top down, ice forms in the soil and expands roughly 9 percent by volume. That expansion has to go somewhere, so it pushes up. Ice bonds to the sides of a post or its concrete collar and drags the whole assembly up with it, a little at a time. This is the freeze-thaw jack, and on a shallow post it lifts about an inch a winter.</p>
+
+<p>The reason it never corrects itself is what happens on the thaw. When the ground releases the post in spring, the post does not drop cleanly back into its old hole. Soil and grit have already slid into the gap underneath, so the post settles a little higher than it started. Freeze, lift, thaw, backfill, repeat. Over two or three winters a post set at 30 or 36 inches can ride three to six inches out of the ground, and a fence line where each post heaves a different amount turns into a row of crooked teeth. Vermont makes this worse than most places because our freeze-thaw cycles are frequent and our soils hold water, and wet soil heaves harder than dry.</p>
+
+<h2>How Deep Should a Fence Post Go Below the Vermont Frost Line?</h2>
+
+<p>Deep enough that the bottom of the post clears the frost line, which in Rutland County is the 48-inch floor, and that floor almost always governs over the old one-third rule. The one-third rule you hear from installers down south says to bury one-third of the post height: an 8-foot post for a 6-foot fence gets 2 feet in the ground. That math produces a 24-inch hole. In Killington, where the frost runs 48 inches or more, a 24-inch post is buried entirely inside the freeze zone. It has no chance.</p>
+
+<p>So in Vermont the two rules collide, and the frost line wins. Run both numbers and dig to whichever is deeper:</p>
+
+<ul>
+<li><strong>The one-third figure:</strong> for a 6-foot fence on an 8-foot post, that is about 24 inches. Fine in Tennessee. Not close in Vermont.</li>
+<li><strong>The frost-line floor:</strong> the bottom of the post below 48 inches on the valley floor, and 54 to 60 inches at elevation.</li>
+<li><strong>Footing math:</strong> if you set the post in a concrete footing, it is the bottom of the concrete that has to clear the frost line. An 8-inch-tall concrete plug means the hole bottom needs to reach 56 inches to keep the concrete below a 48-inch frost line.</li>
+</ul>
+
+<p>In practice, on Rutland County jobs, the frost-line floor is deeper than the one-third figure every single time, so it is the number that decides the hole. That is the piece most homeowners and a lot of installers get backward. They bury a third of the post, hit 24 or 30 inches, and call it done, when the only depth that matters here is how far below the frost line the post ends up.</p>
+
+<h2>What Post Size and Spacing Does a 6-Foot Fence Need?</h2>
+
+<p>A standard 6-foot privacy fence wants 4x4 line posts at 6 to 8 feet on center, with 6x6 posts for gates, corners, and ends where the load concentrates. The taller and more solid the fence, the more it acts like a sail, so post size and spacing are about wind and snow load as much as looks. Get the spans too wide or the posts too small and the fence sags and racks long before the wood ever rots.</p>
+
+<table>
+<thead>
+<tr><th>Fence type</th><th>Line post</th><th>Post spacing</th><th>Notes for Vermont</th></tr>
+</thead>
+<tbody>
+<tr><td>6-ft solid privacy</td><td>4x4 (6x6 at gates/corners)</td><td>6 ft on center</td><td>Tighten to 6 ft, not 8, on exposed and windy lots to cut racking.</td></tr>
+<tr><td>6-ft semi-privacy (spaced boards)</td><td>4x4</td><td>6 to 8 ft on center</td><td>Gaps cut wind load 30 to 40 percent, so the fence and posts last longer.</td></tr>
+<tr><td>4-ft picket or yard fence</td><td>4x4</td><td>8 ft on center</td><td>Lower sail area tolerates wider spans.</td></tr>
+<tr><td>Gate and end posts (any fence)</td><td>6x6</td><td>n/a</td><td>Set deepest and stiffest; gates swing on them all day and they carry the most stress.</td></tr>
+</tbody>
+</table>
+
+<p>The other detail that stops sag before it starts is bracing the corners and gate posts and hanging gates on the 6x6s. A gate hung on a 4x4 will pull that post out of plumb within a season or two, and then it drags. Wider spacing looks cheaper on the estimate because it means fewer holes, but on a windy Rutland County hilltop it is the first thing that fails.</p>
+
+<h2>Concrete, Gravel, or Dirt Around the Post?</h2>
+
+<p>Concrete helps only when its bottom sits below the frost line, and it actively hurts when it does not, so the smartest backfill in Vermont is usually gravel at the bottom and concrete only at the top. A solid concrete plug gives a post great lateral rigidity, but it also gives frost a smooth, wide surface to grip. If that plug stops short of the frost line, the freeze-thaw jack lifts the whole cylinder like a cork, and now you have heaved a chunk of concrete instead of just a post. Concrete also holds water against a wood post, which speeds rot at the worst spot, right at the base.</p>
+
+<p>Here is the method that holds up in our soil:</p>
+
+<ol>
+<li><strong>Gravel at the base.</strong> Put 6 inches of 3/4-inch crushed stone in the bottom of the hole. It drains water away from the end grain of the post, so there is less moisture to freeze and less to rot the wood.</li>
+<li><strong>Set and plumb the post</strong> on that gravel bed, with the bottom of the post below the frost line.</li>
+<li><strong>Gravel up the sides</strong> to within about a foot of grade, tamped tight in lifts. The irregular stone lets the ground move without dragging the post along, which is exactly what you want against heave.</li>
+<li><strong>Concrete the top foot.</strong> A concrete collar at the surface gives the lateral stiffness that keeps the fence from racking, right where that stiffness matters.</li>
+</ol>
+
+<p>Plain tamped dirt is the cheapest option and it is fine for a light 4-foot yard fence in well-drained ground, but for a 6-foot privacy fence that catches wind and snow, it does not hold a post plumb through Vermont winters. Whatever you backfill with, the depth below the frost line is still the thing doing the real work. Backfill choice tunes the result; it does not rescue a shallow hole.</p>
+
+<h2>What's the Best Wood for Fence Posts in Vermont?</h2>
+
+<p>For posts in Vermont ground, the honest ranking is black locust first, ground-contact rated pressure-treated pine second, and western red cedar third. The distinction that matters is ground contact. A post is buried in wet, freezing soil for its whole life, which is a far harder job than the rails and boards above it, and not every rot-resistant wood is rated for it.</p>
+
+<table>
+<thead>
+<tr><th>Post wood</th><th>Rough in-ground life</th><th>The trade-off</th></tr>
+</thead>
+<tbody>
+<tr><td>Black locust</td><td>25 to 40+ years</td><td>The old New England fence wood. Extremely rot-resistant untreated, very hard, hard to source straight and to work.</td></tr>
+<tr><td>Ground-contact pressure-treated pine</td><td>20 to 30 years</td><td>Must say "Ground Contact" (higher chemical retention) on the tag, not just "Above Ground." The reliable, available default.</td></tr>
+<tr><td>Western red cedar</td><td>10 to 20 years in ground</td><td>Beautiful and naturally rot-resistant above grade, but shorter-lived buried. Best used as a PT post with cedar above.</td></tr>
+<tr><td>Untreated pine or spruce</td><td>3 to 7 years</td><td>Do not put it in the ground. It rots fast at the soil line.</td></tr>
+</tbody>
+</table>
+
+<p>The common mistake is buying a cedar or PT post that is rated "Above Ground" and setting it in a hole. Above-ground treatment carries less preservative and is meant for rails and pickets, not for the part sitting in wet soil. For the posts specifically, a "Ground Contact" tag on pressure-treated stock, or genuine black locust, is what buys you the twenty-plus years. A frequent, sensible build here is ground-contact PT posts underground with cedar boards and rails above the soil, which pairs the toughest option where it is buried with the better-looking one where you see it. That is the same durability-versus-looks call we lay out in our guide to <a href="/blog/vinyl-vs-cedar-fencing">choosing between vinyl and cedar fencing</a>.</p>
+
+<h2>Vermont Fence Post FAQs for Property Owners</h2>
+
+<h3>How deep should a fence post be in Vermont?</h3>
+<p>Deep enough that the bottom of the post or its concrete footing clears the frost line, which is 48 inches across most of Rutland County and deeper at elevation. We set line posts to 52 to 54 inches on the valley floor and 56 to 60 inches above 1,500 feet around Killington, Mendon, and Chittenden. The 48-inch frost floor almost always governs over the one-third burial rule here.</p>
+
+<h3>Does the one-third rule work for fence posts in Vermont?</h3>
+<p>No. The one-third rule (burying a third of the post) gives you about 24 inches for a 6-foot fence, which is entirely inside Vermont's freeze zone. In Rutland County the frost line runs 48 inches, so the frost-line depth is always deeper than the one-third figure and is the number you actually dig to. Run both and use whichever is deeper, which here is always the frost line.</p>
+
+<h3>Should I set fence posts in concrete in Vermont?</h3>
+<p>Only if the bottom of the concrete sits below the frost line. A concrete plug that stops short of 48 inches gives frost a smooth surface to grip and gets heaved up whole. The method that holds in our soil is 6 inches of crushed gravel at the base for drainage, gravel packed up the sides, and concrete only in the top foot for lateral stiffness. That keeps water off the wood and gives frost nothing solid to lift.</p>
+
+<h3>How much does frost heave lift a shallow fence post?</h3>
+<p>About an inch per winter on a post set too shallow, and it does not drop back. Soil fills the gap under the post on each thaw, so it ratchets a little higher every freeze-thaw cycle. Over two or three winters a post set at 30 to 36 inches can rise three to six inches out of the ground, which is what makes an old fence lean and its gates stop latching.</p>
+
+<h3>What is the best wood for fence posts in Vermont ground?</h3>
+<p>Black locust lasts longest untreated at 25 to 40-plus years, but it is hard to source and work. For most jobs, ground-contact rated pressure-treated pine is the reliable choice at 20 to 30 years in the ground. Make sure the tag reads "Ground Contact," not "Above Ground," since above-ground stock carries less preservative and rots fast when buried. Western red cedar is better above grade than in the soil.</p>
+
+<h3>Why does my fence lean after only a few winters?</h3>
+<p>Almost always because the posts were set above the frost line. A post buried at 24 or 30 inches in Rutland County is inside the freeze zone, so frost heave lifts it a bit every winter and it never settles back level. The posts rise unevenly, the line goes crooked, and gates drag. The fix is resetting the posts below the frost line, since the leaning does not correct itself and gets worse each year.</p>
+
+<h2>Planning a Fence? Get the Posts Right the First Time</h2>
+
+<p>If you are putting in a new fence and want it standing straight in year ten, or you have a leaning fence that heave has already gotten into, we walk the line, read the soil and elevation, and set posts to the depth Rutland County ground actually requires. We handle fence installation and exterior carpentry across Killington, Rutland, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, West Rutland, Brandon, and Castleton, and we know where the ledge hides and how deep the frost really drives on each of them. For the physics behind all of this, our deeper piece on <a href="/blog/frost-line-depth-vermont-fencing">frost line depth for Vermont fences</a> walks through it, and the full <a href="/services/carpentry">fence installation and carpentry</a> service page covers the rest of the exterior work.</p>
+
+<p>Call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send the property address and a photo of the fence line through the <a href="/contact">contact page</a>. Meticulous LLC is owned and run by Dan Villarreal, and we have been setting posts in Rutland County soil since 2009, so we set them once, below the frost line, and they stay where we put them.</p>`,
+  },
+  {
     slug: "stop-crabgrass-vermont-lawn-summer",
     title: "How Do You Stop Crabgrass in a Vermont Lawn in Summer?",
     excerpt:
@@ -21,7 +145,7 @@ export const blogPosts: BlogPost[] = [
     date: "July 2026",
     readTime: "8 min read",
     image: "/images/blog-stop-crabgrass-vermont-lawn-summer.jpeg",
-    featured: true,
+    featured: false,
     metaDescription:
       "Stop crabgrass in a Vermont lawn in summer: the pre-emergent window closed in May, so July means post-emergent (quinclorac) plus mowing at 3 inches.",
     content: `
@@ -1770,7 +1894,7 @@ export const blogPosts: BlogPost[] = [
 <li>Long-term cost matters more than upfront price</li>
 </ul>
 
-<p>We install about 60% cedar, 40% vinyl across our fence jobs. The split has been moving toward vinyl in recent years, mostly because people are tired of the maintenance commitment. Either one will serve you well if it's installed right — deep posts, proper spacing, good hardware. That's the part that actually determines whether your fence is standing straight in year ten.</p>
+<p>We install about 60% cedar, 40% vinyl across our fence jobs. The split has been moving toward vinyl in recent years, mostly because people are tired of the maintenance commitment. Either one will serve you well if it's installed right — deep posts, proper spacing, good hardware. That's the part that actually determines whether your fence is standing straight in year ten. For exactly how deep those posts have to go and what size and spacing a 6-foot fence needs in Rutland County, see our guide to <a href="/blog/fence-posts-vermont-depth-frost-line">fence post depth and the Vermont frost-line rule</a>.</p>
 `,
   },
   {
@@ -2002,7 +2126,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>We fix a lot of other people's fences. The most common cause of failure, by far, is shallow posts. Digging to 52 inches instead of 36 inches adds maybe 15 minutes per hole and costs almost nothing extra in materials. But it's the difference between a fence that stands straight for 20 years and one that's falling apart in three.</p>
 
-<p>If your fence is showing signs of heave, or you're planning a new fence and want it done right the first time, give us a call. We've been setting posts in Rutland County soil since 2009, and we know where the rocks are.</p>
+<p>If your fence is showing signs of heave, or you're planning a new fence and want it done right the first time, give us a call. We've been setting posts in Rutland County soil since 2009, and we know where the rocks are. For the full rundown on post depth, size, spacing, and which wood lasts in Vermont ground, read our guide to <a href="/blog/fence-posts-vermont-depth-frost-line">how deep to set fence posts and the frost-line rule</a>.</p>
 `,
   },
   {

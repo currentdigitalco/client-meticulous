@@ -86,7 +86,7 @@ export const serviceDetails: ServiceDetail[] = [
       "Full-season programs that eliminate the hassle of scheduling individual services",
     ],
     relatedServices: ["landscaping", "property-maintenance"],
-    lastUpdated: "2026-07-20",
+    lastUpdated: "2026-07-27",
     relatedBlogs: [
       {
         slug: "stop-crabgrass-vermont-lawn-summer",
@@ -221,7 +221,7 @@ export const serviceDetails: ServiceDetail[] = [
       "Preventative approach that protects your investment and catches issues early",
     ],
     relatedServices: ["grounds-maintenance", "rental-support"],
-    lastUpdated: "2026-07-20",
+    lastUpdated: "2026-07-27",
     relatedBlogs: [
       {
         slug: "stop-crabgrass-vermont-lawn-summer",
@@ -416,6 +416,17 @@ export const serviceDetails: ServiceDetail[] = [
       "Clean job sites and professional conduct — we respect your property while we work on it",
     ],
     relatedServices: ["hardscaping", "property-maintenance"],
+    lastUpdated: "2026-07-27",
+    relatedBlogs: [
+      {
+        slug: "fence-posts-vermont-depth-frost-line",
+        title: "Fence Posts in Vermont: How Deep, What Wood, and the Frost-Line Rule",
+      },
+      {
+        slug: "frost-line-depth-vermont-fencing",
+        title: "Why Frost Line Depth Matters for Vermont Fences",
+      },
+    ],
   },
   {
     slug: "housekeeping",
