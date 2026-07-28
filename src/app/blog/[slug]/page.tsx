@@ -14,6 +14,21 @@ function stripTags(html: string): string {
   return html.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
 }
 
+// Google renders ~600px of <title>, roughly 60 characters. Past that the tail is
+// replaced with an ellipsis. The " | Meticulous LLC Blog" suffix costs 22 of those
+// characters and was pushing 20 of 21 posts over the limit, so it is now appended
+// only when the headline leaves room for it.
+const TITLE_BUDGET = 60;
+const BLOG_SUFFIX = " | Meticulous LLC Blog";
+
+function buildBlogSeoTitle(post: { title: string; seoTitle?: string }): string {
+  // seoTitle lets a long editorial headline stay on the page while search gets a
+  // version that fits — and, where GSC shows an intent mismatch, one phrased the
+  // way people actually search.
+  const base = post.seoTitle ?? post.title;
+  return base.length + BLOG_SUFFIX.length <= TITLE_BUDGET ? `${base}${BLOG_SUFFIX}` : base;
+}
+
 function extractFaqs(html: string): { question: string; answer: string }[] {
   const faqs: { question: string; answer: string }[] = [];
   const re = /<h3[^>]*>([\s\S]*?)<\/h3>\s*<p[^>]*>([\s\S]*?)<\/p>/gi;
@@ -61,7 +76,7 @@ export async function generateMetadata({
   if (!post) return {};
 
   return {
-    title: `${post.title} | Meticulous LLC Blog`,
+    title: buildBlogSeoTitle(post),
     description: post.metaDescription,
     alternates: { canonical: `/blog/${post.slug}` },
     openGraph: buildOpenGraph({
