@@ -199,3 +199,105 @@ In Rutland County the frost line runs 48 inches, and the rule that governs fence
 ---
 
 Last updated: 2026-07-27. Business information, service area coverage, and pricing are current as of this date. 20 dedicated service-area pages live across Rutland County and Windsor County, Vermont.
+
+---
+
+## Blog Archive
+
+<!-- BEGIN GENERATED BLOG ARCHIVE — regenerate with execution/regenerate_llms_blog_archive.py -->
+
+Complete archive of all 23 published blog posts, newest first. Every URL below is a live, indexable page.
+
+- **How Do You Stop Crabgrass in a Vermont Lawn in Summer?** (published 2026-07-01)
+  https://meticulous802.com/blog/stop-crabgrass-vermont-lawn-summer
+  Stop crabgrass in a Vermont lawn in summer: the pre-emergent window closed in May, so July means post-emergent (quinclorac) plus mowing at 3 inches.
+
+- **How to Get Rid of Japanese Knotweed on a Vermont Property** (published 2026-07-01)
+  https://meticulous802.com/blog/japanese-knotweed-removal-vermont
+  Japanese knotweed removal in Vermont is a multi-season job. Rhizomes run 20 ft out and it's on the state Noxious Weed Quarantine. Here's what kills it.
+
+- **Is Your Lawn Dead or Dormant? A Vermont Summer Guide (2026)** (published 2026-07-01)
+  https://meticulous802.com/blog/is-my-lawn-dead-or-dormant-vermont
+  Is your Vermont lawn dead or dormant? The 3-part field test and the ½–1 inch every 3–4 weeks water spec that holds a Rutland County lawn through July.
+
+- **Fence Posts in Vermont: How Deep, What Wood, and the Frost-Line Rule** (published 2026-07-01)
+  https://meticulous802.com/blog/fence-posts-vermont-depth-frost-line
+  Fence post depth and the frost line in Vermont: set posts below the 48-inch Rutland County frost line, plus the best wood and post spacing.
+
+- **The Summer Grounds Maintenance Schedule for a Vermont Second Home** (published 2026-06-01)
+  https://meticulous802.com/blog/summer-grounds-maintenance-schedule-vermont
+  A week-by-week summer grounds maintenance schedule for Vermont second-home owners: mowing height, fertilization timing, hardscape work, pest pressure, and the calendar we run on Rutland County properties in Killington, Woodstock, Ludlow, Pittsfield, Chittenden, and Mendon.
+
+- **Stone Wall Building and Repair at a Rutland County Vermont Property: What It Actually Costs, How Long It Takes, and Why Most Walls Fail Within Five Years** (published 2026-06-01)
+  https://meticulous802.com/blog/stone-wall-building-repair-rutland-county-vermont
+  Stone wall building and repair on a Rutland County, Vermont property: dry-stack vs mortared cost, foundation depth below the frost line, batter, drainage, capstones, timeline, and what causes most new walls to fail by year five. Killington, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon.
+
+- **Lawn Mowing Height for a Rutland County, Vermont Summer: Why Cutting Too Short Is the Single Biggest Cause of Brown Turf in August** (published 2026-06-01)
+  https://meticulous802.com/blog/lawn-mowing-height-rutland-county-vermont-summer
+  Lawn mowing height for a Rutland County, Vermont summer: why three inches is the floor for Vermont cool-season turf, why scalping causes the brown August lawn, the one-third rule, sharp-blade rule, and the right mowing schedule for Killington, Rutland, Woodstock, Ludlow, Mendon, Chittenden, and Pittsfield properties.
+
+- **Lawn Irrigation in Rutland County, Vermont: Why a System Built for the Wrong Season Wastes Water All Summer and Splits Your Pipes by October** (published 2026-06-01)
+  https://meticulous802.com/blog/lawn-irrigation-rutland-county-vermont
+  Lawn irrigation for a Rutland County, Vermont property: correct summer watering schedule for a short humid growing season, zone tuning, smart controllers, frost-line considerations, and the fall blow-out that prevents split pipes. Killington, Rutland, Woodstock, Ludlow, Mendon, Chittenden, Pittsfield.
+
+- **Lawn Care Cost in Rutland County, Vermont: 2026 Pricing for Mow-Only, Full-Season, and Property Management** (published 2026-06-01)
+  https://meticulous802.com/blog/lawn-care-cost-rutland-county-vermont
+  Lawn care cost in Rutland County, Vermont for 2026: per-visit mowing rates, full-season contracts, and second-home property management pricing for Killington, Rutland, Woodstock, Ludlow, Mendon, Chittenden, Pittsfield, Proctor, West Rutland, Brandon, and Castleton.
+
+- **Ticks, Black Flies, and Mosquitoes on Vermont Properties: Your Late-Spring Pest Plan** (published 2026-05-01)
+  https://meticulous802.com/blog/tick-mosquito-control-vermont-properties
+  A late-spring pest control plan for Vermont properties: tick management and Lyme prevention, black fly timing, and mosquito source reduction for Rutland County second-home owners in Killington, Woodstock, Mendon, and Chittenden.
+
+- **Opening Your Vermont Second Home in May: A Property Checklist for Out-of-State Owners** (published 2026-05-01)
+  https://meticulous802.com/blog/opening-vermont-second-home-spring-checklist
+  The complete spring open-up checklist for Vermont second homes. Water systems, roof and exterior, septic, grounds, and pest signs in Rutland County, Killington, Woodstock, and Ludlow.
+
+- **Lawn Reseeding and Snowplow Damage Repair on Vermont Properties: The Mid-May Window** (published 2026-05-01)
+  https://meticulous802.com/blog/lawn-reseeding-snowplow-damage-vermont-may
+  How to repair snowplow damage, reseed bare patches, and recover salt-burned turf on Vermont properties in May. Real seed mixes, soil temperature, slit-seeding, and the Memorial Day timeline for Rutland County second-home owners.
+
+- **How to Choose a Lawn Care Service in Vermont (And Avoid the Wrong One)** (published 2026-05-01)
+  https://meticulous802.com/blog/how-to-choose-lawn-care-service-vermont
+  How to choose the right lawn care service in Vermont. What a full-service package should include, mowing frequency, DIY vs hire, and the questions to ask before signing a contract.
+
+- **Frost Heave Repair on Vermont Walkways and Patios: What to Fix Before Memorial Day** (published 2026-05-01)
+  https://meticulous802.com/blog/frost-heave-repair-walkways-patios-vermont
+  How to assess and repair frost-heaved bluestone, pavers, and concrete walkways and patios on Vermont properties. Diagnosis, full reset vs. lift-and-reset, and pricing realities for Rutland County hardscape repair.
+
+- **Spring Drainage Problems After Vermont Snowmelt** (published 2026-04-01)
+  https://meticulous802.com/blog/spring-drainage-problems-vermont-snowmelt
+  How to identify and fix spring drainage problems after snowmelt in Vermont. Grading, French drains, swales, and foundation protection for Rutland County properties.
+
+- **Mud Season Property Cleanup: What Every Vermont Homeowner Needs to Know** (published 2026-04-01)
+  https://meticulous802.com/blog/mud-season-property-cleanup-vermont
+  How to clean up your Vermont property after mud season. Driveway repair, lawn recovery, drainage fixes, and walkway restoration for Rutland County homeowners.
+
+- **Driveway Damage After Vermont Mud Season: How to Spot It and What to Fix First** (published 2026-04-01)
+  https://meticulous802.com/blog/driveway-damage-after-vermont-mud-season
+  How to inspect a Vermont driveway after mud season. Spot frost heave, base failure, washouts, and asphalt cracking before it gets expensive. Rutland County guide.
+
+- **When to Aerate Your Lawn in Vermont** (published 2026-03-01)
+  https://meticulous802.com/blog/when-to-aerate-your-lawn-vermont
+  Learn the best time to aerate your lawn in Vermont. Rutland County soil types, fall timing windows, and why spring aeration causes more harm than good.
+
+- **Bluestone vs. Concrete Pavers: Which Lasts in Vermont?** (published 2026-02-01)
+  https://meticulous802.com/blog/bluestone-vs-concrete-pavers
+  Bluestone vs concrete pavers in Vermont: real performance after 5+ winters, freeze-thaw damage, cost per square foot, and which material Meticulous LLC recommends.
+
+- **Vinyl vs. Cedar Fencing: A Vermont Homeowner's Guide** (published 2026-01-01)
+  https://meticulous802.com/blog/vinyl-vs-cedar-fencing
+  Vinyl vs cedar fencing in Vermont: upfront cost, long-term durability, snow load handling, wind resistance, and building code requirements for Rutland County.
+
+- **How to Prepare Your Vermont Property for Winter** (published 2025-10-01)
+  https://meticulous802.com/blog/preparing-property-for-winter
+  Complete Vermont winter property preparation checklist from September to November. Drain hoses, mark driveways, schedule plowing, and avoid costly freeze damage.
+
+- **LVP vs. Hardwood: What We Install Most (and Why)** (published 2025-09-01)
+  https://meticulous802.com/blog/lvp-vs-hardwood-flooring
+  LVP vs hardwood flooring comparison from Vermont installers. Real cost, durability in Vermont humidity, best rooms for each, and rental property recommendations.
+
+- **Why Frost Line Depth Matters for Vermont Fences** (published 2025-08-01)
+  https://meticulous802.com/blog/frost-line-depth-vermont-fencing
+  Vermont frost line depth for fence posts: why 48 inches isn't always enough, how frost heave destroys fences, and the concrete vs gravel backfill debate.
+
+<!-- END GENERATED BLOG ARCHIVE -->
