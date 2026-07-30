@@ -159,10 +159,7 @@ export default function RootLayout({
           : "Rutland County, Vermont",
       },
     })),
-    serviceArea: {
-      "@type": "State",
-      name: "Vermont",
-    },
+    // serviceArea is deprecated on schema.org (superseded by areaServed, above)
     hasOfferCatalog: {
       "@type": "OfferCatalog",
       name: "Property Care Services",

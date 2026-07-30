@@ -273,11 +273,23 @@ function buildSchema(area: ServiceArea, svc: ServiceDetail, faqs: { question: st
       "@type": "Service",
       name: `${svc.title} in ${area.name}, VT`,
       description: svc.seoDescription,
+      // Google's LocalBusiness feature requires an address on the provider; the
+      // @id also merges this with the full #business node in layout.tsx.
       provider: {
         "@type": "HomeAndConstructionBusiness",
+        "@id": "https://meticulous802.com/#business",
         name: "Meticulous LLC",
         telephone: "+1-802-342-8293",
         url: "https://meticulous802.com",
+        image: "https://meticulous802.com/images/logo-m.png",
+        address: {
+          "@type": "PostalAddress",
+          streetAddress: "463 West St",
+          addressLocality: "Rutland",
+          addressRegion: "VT",
+          postalCode: "05701",
+          addressCountry: "US",
+        },
       },
       areaServed: {
         "@type": "City",
