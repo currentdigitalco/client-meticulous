@@ -96,7 +96,10 @@ export default async function Page({ params }: { params: Promise<Params> }) {
 
   const url = `${BASE}/blog/${post.slug}`;
   const datePublished = parseIsoDate(post.date);
-  const dateModified = "2026-07-27";
+  // Site-wide "last touched" stamp for the older posts, but a post published
+  // after it must never claim a dateModified earlier than its datePublished
+  // (invalid, and a false understatement). Newer posts carry their own date.
+  const dateModified = datePublished > "2026-07-27" ? datePublished : "2026-07-27";
   const capsule = extractCapsule(post.content);
   const faqs = extractFaqs(post.content);
 
