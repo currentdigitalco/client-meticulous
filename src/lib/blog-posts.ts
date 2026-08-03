@@ -20,6 +20,134 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "fence-cost-vermont",
+    title: "What a Fence Costs in Vermont (By Material, Length, and Terrain)",
+    // Editorial headline is 62 chars, so a shorter search-facing title carries
+    // the primary keyword ("fence cost vermont") inside the ~60-char SERP budget.
+    seoTitle: "Fence Cost in Vermont: Price Per Foot",
+    excerpt:
+      "A new fence in Rutland County runs about $8 to $80 per linear foot installed, and the material sets the band: wire and field fencing at the low end, pressure-treated and cedar in the middle, vinyl and aluminum at the top. But the sticker range is only half the story. Frost depth, ledge, and slope are what actually decide where in that band your quote lands, and why two identical-looking fences can price a thousand dollars apart. Here is the honest per-foot math for a Vermont install.",
+    category: "Fencing",
+    date: "August 2026",
+    readTime: "9 min read",
+    image: "/images/blog-fence-cost-vermont.jpeg",
+    featured: true,
+    metaDescription:
+      "Fence cost in Vermont runs about $8 to $80 per linear foot installed. Real Rutland County price ranges by material, plus what frost, ledge, and slope add.",
+    content: `
+<p><em>Published August 2026.</em></p>
+
+<p data-speakable="true"><strong>A new fence cost in Vermont runs about $8 to $80 per linear foot installed, and the material sets the band: wire and field fencing at the low end, pressure-treated and cedar in the middle, vinyl and aluminum at the top.</strong> Frost depth, ledge, and slope decide where in that band your quote lands.</p>
+
+<p>Every fence quote a homeowner in Rutland County reads starts with a per-foot number, and every per-foot number hides the same three Vermont variables. Two properties can get quotes for the same 200 feet of 6-foot cedar and land four figures apart, and the difference is almost never the fence itself. It is the ground the fence has to cross.</p>
+
+<p>If you want the physics of post depth, we cover <a href="/blog/fence-posts-vermont-depth-frost-line">how deep to set fence posts below the Vermont frost line</a> in detail. This page answers the question a price-shopper asks first: what am I going to pay, and what makes it swing. Here is the honest per-foot math, what Vermont adds on top of it, and the questions that tell a real quote from a lowball.</p>
+
+<h2>What Does a Fence Cost in Vermont, by the Linear Foot?</h2>
+
+<p>A fence cost in Vermont, installed, runs from roughly $8 per linear foot for basic wire up to about $80 per linear foot for premium vinyl or ornamental aluminum, with the wood options most homeowners want landing in the $25 to $70 range. Per linear foot is how the trade prices fencing because it rolls material, posts, hardware, and labor into one number you can multiply by the length of your line. Here are the bands we see on Rutland County jobs, all figures for a standard installed fence on workable ground.</p>
+
+<table>
+<thead>
+<tr><th>Fence type / material</th><th>Typical installed cost (per linear foot)</th><th>Rough lifespan in Vermont</th></tr>
+</thead>
+<tbody>
+<tr><td>High-tensile or field wire</td><td>$8 to $18</td><td>15 to 25 years</td></tr>
+<tr><td>Chain-link, 4 ft galvanized</td><td>$20 to $35</td><td>20 to 30 years</td></tr>
+<tr><td>Pressure-treated post-and-rail or picket</td><td>$25 to $45</td><td>15 to 25 years</td></tr>
+<tr><td>Pressure-treated 6-ft privacy</td><td>$35 to $55</td><td>15 to 25 years</td></tr>
+<tr><td>Western red cedar, 6-ft privacy</td><td>$45 to $70</td><td>15 to 30 years</td></tr>
+<tr><td>Vinyl, 6-ft privacy</td><td>$50 to $80</td><td>25 to 40 years</td></tr>
+<tr><td>Ornamental aluminum</td><td>$45 to $75</td><td>30 to 50 years</td></tr>
+</tbody>
+</table>
+
+<p>These are honest Vermont-market ranges from our own fencing work, not a national average pulled off a calculator. A few things to read into them before you multiply:</p>
+
+<ul>
+<li><strong>The low end of each band assumes easy ground.</strong> Flat, open, no ledge, no trees, a clear line to run. That is the exception in Rutland County, not the rule, so a real quote for most properties sits in the middle of the band or higher.</li>
+<li><strong>Lifespan is about the posts, not the panels.</strong> A cedar fence lasts 15 to 30 years only if the posts underneath it are set deep enough and rated for ground contact. Set them shallow and the panels outlive the posts by a decade while the whole line leans.</li>
+<li><strong>Vinyl and aluminum cost the most up front and the least over time.</strong> No rot, no staining, and they shrug off Vermont winters, so on a fence you plan to keep, the twenty-year math often favors the pricier material.</li>
+<li><strong>Length works in your favor.</strong> A 300-foot run prices lower per foot than a 60-foot run, because mobilization and setup spread across more footage. Short fences carry a higher per-foot number, the same as a small paving job.</li>
+</ul>
+
+<h2>What Does Vermont Add to a Fence Bill? Frost, Ledge, and Slope</h2>
+
+<p>Vermont adds cost in three places a warmer-state quote never has to account for: deeper post holes to clear the frost line, ledge that has to be drilled or blasted, and slope that slows every part of the install. These are the variables that move a quote within its band, and they are the reason a per-foot number from a national site is close to useless here.</p>
+
+<ul>
+<li><strong>Frost-depth post setting.</strong> Every post on a Vermont fence has to reach below the frost line, which runs 48 inches across most of Rutland County and deeper at elevation. That is roughly double the hole depth a Tennessee installer digs, which means more auger time, more backfill, and more concrete per post. It is not optional. A post set above the frost line gets heaved out over a few winters, which is <a href="/blog/frost-line-depth-vermont-fencing">why frost line depth decides whether a Vermont fence survives</a> at all.</li>
+<li><strong>Ledge.</strong> Much of the county sits on shallow bedrock, and when an auger hits ledge at 20 inches on a line that needs a 52-inch hole, the plan changes. Now it is a rock drill, sometimes a breaker, occasionally a call to blast. A single ledge post can cost more than ten posts in clean soil, and a whole line over ledge is a different quote entirely.</li>
+<li><strong>Slope.</strong> A fence climbing a hillside is either racked (each panel stepped to follow the grade) or stepped (each section dropped like a staircase), and both take longer to lay out and build than a flat run. Slope also complicates the dig, because a hole on a grade needs more excavation to sit level and plumb.</li>
+</ul>
+
+<p>None of these three show up as a line called "Vermont tax" on an estimate; they show up as a higher per-foot number, or as separate allowances for ledge and rock work. A quote that ignores them on a sloped, ledgy Rutland County lot will grow once the crew starts digging.</p>
+
+<h2>Why Does a Quote Double When the Line Runs Through Trees or Stone?</h2>
+
+<p>A quote doubles through trees and stone because the length of fence stays the same while the work per foot multiplies, and per foot is what you are paying for. A clean 200-foot run across a mowed field is close to the best case. Send that same 200 feet through a tree line or along an old stone wall and every one of those advantages disappears.</p>
+
+<p>Through trees, the crew is cutting roots that fight the auger, working around trunks that force the line to jog, and hand-digging holes a machine cannot reach. Along a stone wall or over buried rock, the story is the same one that drives our <a href="/blog/stone-wall-building-repair-rutland-county-vermont">stone wall building and repair work in Rutland County</a>: you cannot auger through a boulder, so you are drilling, breaking, or relocating the post, and the neat six-foot spacing becomes wherever the ground will actually take a hole.</p>
+
+<p>The finished fence looks identical to the one across the open field, but the bill is not, because you paid for the hours the obstacles cost, not the feet of finished fence. This is the single biggest reason online per-foot estimates mislead Vermont homeowners: they price the fence, not the ground.</p>
+
+<h2>Why Do Gates, Corners, and End Posts Cost More Than the Runs?</h2>
+
+<p>Gates, corners, and end posts cost more than the straight runs because they carry concentrated load and take extra material and labor, so a fence with three gates and five corners prices higher than a plain rectangle of the same footage. The long straight sections are the cheap part of any fence. The stress points are where the money goes.</p>
+
+<ul>
+<li><strong>Gates</strong> need heavier posts (a 6x6 where the line uses 4x4), hinges, latches, hardware, and a post set deeper and stiffer because a gate swings on it all day. A single gate can add the cost of eight to ten feet of plain fence, and a double drive gate more than that.</li>
+<li><strong>Corners</strong> take the pull of two fence directions at once, so they get an oversized, deeper-set, often braced post. Every corner is a small anchor.</li>
+<li><strong>End and terminal posts</strong> are the same story on a smaller scale: they resist the tension of the run without a second direction to balance it, so they are set stouter than a line post.</li>
+</ul>
+
+<p>This is why two 150-foot fences can price differently. A simple back-yard rectangle has four corners and one gate, while a fence that jogs along a property line with a driveway gate, a walk gate, and a garden gate has far more of the expensive parts at the same footage. When you read a quote, count the gates and corners, not just the feet.</p>
+
+<h2>What Are You Actually Paying For on a Fence That Lasts Twenty Years?</h2>
+
+<p>On a fence built to last twenty years in Vermont, you are paying for post depth, ground-contact-rated material, and correct hardware, and those are exactly the three things a cheap quote shaves to hit a lower number. The fence panels are almost never where a fence fails. The failure is always at the posts and the fasteners, below the part you look at.</p>
+
+<p>The twenty-year fence has posts set below the frost line so heave cannot lift them, backfilled with gravel for drainage and concrete only at the top for stiffness, and built from stock rated for ground contact rather than above-ground use. It uses hot-dipped galvanized or stainless fasteners that do not bleed rust down the boards, and gates hung on posts sized to carry them. None of that is visible on install day, which is exactly why it is the first thing a lowball quote cuts.</p>
+
+<p>A quote that comes in well under the others is usually buying its price somewhere you cannot see: shallower holes, above-ground-rated posts in the ground, thinner or fewer posts, cheaper hardware. The difference shows up in year three, when the cheap one starts to lean and the built-right one does not. Where the trade-off is genuinely yours to make is material, and we lay that out in our guide to <a href="/blog/vinyl-vs-cedar-fencing">choosing between vinyl and cedar fencing</a>. Post depth and hardware are not a trade-off. They are the job.</p>
+
+<h2>What Should You Ask Before You Accept a Fence Quote?</h2>
+
+<p>Before you sign a fence quote in Vermont, ask how deep the posts go, what the posts are rated for, and what happens if the crew hits ledge, because those three answers separate a real quote from a number designed to win the job and grow later. A good installer answers all three without hesitating. Here is the short list to run through:</p>
+
+<ol>
+<li><strong>How deep are the posts set?</strong> You want to hear "below the frost line," which means at least 48 inches here, deeper at elevation. If the answer is 24 or 30 inches, the fence will heave.</li>
+<li><strong>Are the posts rated for ground contact?</strong> The tag should read "Ground Contact," not "Above Ground." Above-ground stock carries less preservative and rots fast in wet Vermont soil.</li>
+<li><strong>What happens if you hit ledge?</strong> A straight answer includes how ledge is handled and how it is priced. Silence here means a change order later.</li>
+<li><strong>Is the quote itemized?</strong> Material, posts, gates, and labor broken out lets you compare quotes honestly. A single lump sum hides where the corners got cut.</li>
+<li><strong>How are gates and corners built?</strong> You want heavier, deeper-set posts at every stress point, and gates hung on 6x6s. A gate on a 4x4 will drag within two seasons.</li>
+<li><strong>Are you licensed and insured for this work?</strong> In Vermont, a registered residential contractor is the baseline, and it protects you if something goes wrong on your property.</li>
+</ol>
+
+<h2>Vermont Fence Cost FAQs for Property Owners</h2>
+
+<h3>How much does a fence cost per foot in Vermont?</h3>
+<p>Installed, a fence in Vermont runs about $8 to $80 per linear foot depending on material. Wire and field fencing sit at the low end, pressure-treated and cedar in the $25 to $70 middle, and vinyl and ornamental aluminum at the top. Where you land inside that band is set less by the material than by the ground, since frost depth, ledge, and slope all push the per-foot number up on a typical Rutland County lot.</p>
+
+<h3>Why is a fence more expensive to install in Vermont than in other states?</h3>
+<p>Because every post has to reach below the frost line, which runs 48 inches across most of Rutland County and deeper at elevation, so the holes are roughly twice as deep as a warmer state digs. Add the shallow bedrock that turns a routine post hole into rock drilling, and the slopes that slow layout and excavation, and the same fence simply takes more labor and material to build here.</p>
+
+<h3>What is the cheapest fence to install in Vermont?</h3>
+<p>High-tensile or field wire is the least expensive at roughly $8 to $18 per linear foot installed, which is why it is the standard for pastures, large properties, and boundary lines where privacy is not the point. Chain-link is the next step up. For a yard fence you want to look at, pressure-treated wood is the most affordable option that still holds up to Vermont winters when the posts are set correctly.</p>
+
+<h3>Is vinyl or cedar fencing worth the extra cost in Vermont?</h3>
+<p>Often yes, if you plan to keep the fence long term. Vinyl costs the most up front at $50 to $80 per linear foot but lasts 25 to 40 years with no staining or rot, so the per-year cost is low. Cedar looks better to a lot of people and costs less than vinyl, but it needs upkeep and its in-ground life depends entirely on the posts. The right answer depends on whether you are optimizing for up-front price or twenty-year cost.</p>
+
+<h3>How long should a professionally installed fence last in Vermont?</h3>
+<p>A fence built correctly for Vermont should last 15 to 40 years depending on material, and the deciding factor is the posts, not the panels. Posts set below the frost line and rated for ground contact keep the whole line standing straight. Posts set shallow or rated only for above-ground use let frost heave lift the fence a bit every winter, so it leans within a few years no matter how good the panels are.</p>
+
+<h2>Get a Fence Quote for Your Rutland County Property</h2>
+
+<p>If you are ready for a real number, we will walk your line, read the soil and elevation, flag where the ledge hides, and give you an itemized quote that accounts for the ground instead of pretending it is flat and clear. We handle <a href="/services/carpentry">fence installation and exterior carpentry</a> across Killington, Rutland, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, West Rutland, Brandon, and Castleton, and we set posts below the Vermont frost line so the fence you pay for is still standing straight in year twenty.</p>
+
+<p>Call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send your property address and a photo of the fence line through the <a href="/contact">contact page</a>. Meticulous LLC is owned and run by Dan Villarreal, and we have been building and setting fences in Rutland County soil since 2009, so the quote you get is the fence you get.</p>`,
+  },
+  {
     slug: "fence-posts-vermont-depth-frost-line",
     title: "Fence Posts in Vermont: How Deep, What Wood, and the Frost-Line Rule",
     // Differentiated from /blog/frost-line-depth-vermont-fencing, which is
@@ -33,7 +161,7 @@ export const blogPosts: BlogPost[] = [
     date: "July 2026",
     readTime: "9 min read",
     image: "/images/blog-fence-posts-vermont-depth-frost-line.jpeg",
-    featured: true,
+    featured: false,
     metaDescription:
       "Fence post depth and the frost line in Vermont: set posts below the 48-inch Rutland County frost line, plus the best wood and post spacing.",
     content: `
@@ -144,7 +272,7 @@ export const blogPosts: BlogPost[] = [
 
 <h2>Planning a Fence? Get the Posts Right the First Time</h2>
 
-<p>If you are putting in a new fence and want it standing straight in year ten, or you have a leaning fence that heave has already gotten into, we walk the line, read the soil and elevation, and set posts to the depth Rutland County ground actually requires. We handle fence installation and exterior carpentry across Killington, Rutland, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, West Rutland, Brandon, and Castleton, and we know where the ledge hides and how deep the frost really drives on each of them. For the physics behind all of this, our deeper piece on <a href="/blog/frost-line-depth-vermont-fencing">frost line depth for Vermont fences</a> walks through it, and the full <a href="/services/carpentry">fence installation and carpentry</a> service page covers the rest of the exterior work.</p>
+<p>If you are putting in a new fence and want it standing straight in year ten, or you have a leaning fence that heave has already gotten into, we walk the line, read the soil and elevation, and set posts to the depth Rutland County ground actually requires. We handle fence installation and exterior carpentry across Killington, Rutland, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, West Rutland, Brandon, and Castleton, and we know where the ledge hides and how deep the frost really drives on each of them. For the physics behind all of this, our deeper piece on <a href="/blog/frost-line-depth-vermont-fencing">frost line depth for Vermont fences</a> walks through it, and the full <a href="/services/carpentry">fence installation and carpentry</a> service page covers the rest of the exterior work. If you are still at the budgeting stage, our breakdown of <a href="/blog/fence-cost-vermont">what a fence costs in Vermont by material and terrain</a> lays out the per-foot ranges first.</p>
 
 <p>Call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send the property address and a photo of the fence line through the <a href="/contact">contact page</a>. Meticulous LLC is owned and run by Dan Villarreal, and we have been setting posts in Rutland County soil since 2009, so we set them once, below the frost line, and they stay where we put them.</p>`,
   },
@@ -1916,7 +2044,7 @@ export const blogPosts: BlogPost[] = [
 <li>Long-term cost matters more than upfront price</li>
 </ul>
 
-<p>We install about 60% cedar, 40% vinyl across our fence jobs. The split has been moving toward vinyl in recent years, mostly because people are tired of the maintenance commitment. Either one will serve you well if it's installed right — deep posts, proper spacing, good hardware. That's the part that actually determines whether your fence is standing straight in year ten. For exactly how deep those posts have to go and what size and spacing a 6-foot fence needs in Rutland County, see our guide to <a href="/blog/fence-posts-vermont-depth-frost-line">fence post depth and the Vermont frost-line rule</a>.</p>
+<p>We install about 60% cedar, 40% vinyl across our fence jobs. The split has been moving toward vinyl in recent years, mostly because people are tired of the maintenance commitment. Either one will serve you well if it's installed right — deep posts, proper spacing, good hardware. That's the part that actually determines whether your fence is standing straight in year ten. For exactly how deep those posts have to go and what size and spacing a 6-foot fence needs in Rutland County, see our guide to <a href="/blog/fence-posts-vermont-depth-frost-line">fence post depth and the Vermont frost-line rule</a>. And if you are weighing that material choice against the price, our breakdown of <a href="/blog/fence-cost-vermont">what a fence costs in Vermont per linear foot</a> puts real ranges next to each option.</p>
 `,
   },
   {
@@ -2161,7 +2289,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>We fix a lot of other people's fences. The most common cause of failure, by far, is shallow posts. Digging to 52 inches instead of 36 inches adds maybe 15 minutes per hole and costs almost nothing extra in materials. But it's the difference between a fence that stands straight for 20 years and one that's falling apart in three.</p>
 
-<p>If your fence is showing signs of heave, or you're planning a new fence and want it done right the first time, give us a call. We've been setting posts in Rutland County soil since 2009, and we know where the rocks are. For the full rundown on post depth, size, spacing, and which wood lasts in Vermont ground, read our guide to <a href="/blog/fence-posts-vermont-depth-frost-line">how deep to set fence posts and the frost-line rule</a>.</p>
+<p>If your fence is showing signs of heave, or you're planning a new fence and want it done right the first time, give us a call. We've been setting posts in Rutland County soil since 2009, and we know where the rocks are. For the full rundown on post depth, size, spacing, and which wood lasts in Vermont ground, read our guide to <a href="/blog/fence-posts-vermont-depth-frost-line">how deep to set fence posts and the frost-line rule</a>. For the price side of the decision, see our breakdown of <a href="/blog/fence-cost-vermont">what a fence costs in Vermont by material, length, and terrain</a>.</p>
 `,
   },
   {

@@ -356,6 +356,17 @@ export const serviceDetails: ServiceDetail[] = [
       "We handle the full scope — from excavation to finish grading — so you're not coordinating multiple trades",
     ],
     relatedServices: ["carpentry", "landscaping"],
+    lastUpdated: "2026-08-03",
+    relatedBlogs: [
+      {
+        slug: "stone-wall-building-repair-rutland-county-vermont",
+        title: "Stone Wall Building & Repair in Rutland County, Vermont",
+      },
+      {
+        slug: "fence-cost-vermont",
+        title: "What a Fence Costs in Vermont (By Material, Length, and Terrain)",
+      },
+    ],
   },
   {
     slug: "carpentry",
@@ -416,8 +427,12 @@ export const serviceDetails: ServiceDetail[] = [
       "Clean job sites and professional conduct — we respect your property while we work on it",
     ],
     relatedServices: ["hardscaping", "property-maintenance"],
-    lastUpdated: "2026-07-27",
+    lastUpdated: "2026-08-03",
     relatedBlogs: [
+      {
+        slug: "fence-cost-vermont",
+        title: "What a Fence Costs in Vermont (By Material, Length, and Terrain)",
+      },
       {
         slug: "fence-posts-vermont-depth-frost-line",
         title: "Fence Posts in Vermont: How Deep, What Wood, and the Frost-Line Rule",
