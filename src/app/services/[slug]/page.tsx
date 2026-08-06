@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { serviceDetails, getServiceBySlug } from "./service-data";
 import { ServiceDetailPage } from "./service-detail-page";
+import { buildOpenGraph } from "@/lib/og";
 
 export function generateStaticParams() {
   return serviceDetails.map((s) => ({ slug: s.slug }));
@@ -19,6 +20,11 @@ export async function generateMetadata({
     title: service.seoTitle,
     description: service.seoDescription,
     alternates: { canonical: `/services/${service.slug}` },
+    openGraph: buildOpenGraph({
+      title: service.seoTitle,
+      description: service.seoDescription,
+      path: `/services/${service.slug}`,
+    }),
   };
 }
 
