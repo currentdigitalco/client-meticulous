@@ -212,7 +212,11 @@ Last updated: 2026-07-27. Business information, service area coverage, and prici
 
 <!-- BEGIN GENERATED BLOG ARCHIVE — regenerate with execution/regenerate_llms_blog_archive.py -->
 
-Complete archive of all 23 published blog posts, newest first. Every URL below is a live, indexable page.
+Complete archive of all 24 published blog posts, newest first. Every URL below is a live, indexable page.
+
+- **What a Fence Costs in Vermont (By Material, Length, and Terrain)** (published 2026-08-01)
+  https://meticulous802.com/blog/fence-cost-vermont
+  Fence cost in Vermont runs about $8 to $80 per linear foot installed. Real Rutland County price ranges by material, plus what frost, ledge, and slope add.
 
 - **How Do You Stop Crabgrass in a Vermont Lawn in Summer?** (published 2026-07-01)
   https://meticulous802.com/blog/stop-crabgrass-vermont-lawn-summer
