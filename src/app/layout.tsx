@@ -84,6 +84,7 @@ export default function RootLayout({
     { name: "Grounds Maintenance", slug: "grounds-maintenance", desc: "Year-round lawn care, mowing, edging, leaf cleanup, and seasonal property upkeep across Rutland County, VT." },
     { name: "Landscaping & Exterior Enhancements", slug: "landscaping", desc: "Design and installation of garden beds, plantings, walkways, and exterior refresh work for Vermont homes." },
     { name: "Property Maintenance", slug: "property-maintenance", desc: "Ongoing maintenance for primary residences, second homes, and rental properties — eyes-on-the-ground service for remote owners." },
+    { name: "Fall Cleanup & Leaf Removal", slug: "fall-cleanup", desc: "Complete fall cleanups — leaf removal and haul-away, garden bed cleanout, gutter clearing, final mow, and winter prep for Rutland County properties." },
     { name: "Snow & Ice Management", slug: "snow-ice-management", desc: "Seasonal plow contracts with pre-dawn dispatch, sidewalk clearing, sanding, and ice management for Vermont's 200+ inch snow seasons." },
     { name: "Hardscaping & Exterior Improvements", slug: "hardscaping", desc: "Bluestone patios, retaining walls, fire pits, walkways, and outdoor living installations." },
     { name: "Carpentry & Construction Services", slug: "carpentry", desc: "Decks, fences, repair carpentry, and small-scale construction projects." },

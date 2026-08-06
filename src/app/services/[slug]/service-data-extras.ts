@@ -41,6 +41,16 @@ export const serviceExtras: Record<string, ServiceExtras> = {
       rural: "Long absences are no problem — scheduled property checks with condition reports and photo-flagged issues.",
     },
   },
+  "fall-cleanup": {
+    priceAnchor: "Fall cleanups are priced per property after a walkthrough — tree cover, leaf load, bed count, and gutter length drive the scope. Standalone visits or bundled with a seasonal snow contract; we confirm the number before any work starts.",
+    townTypeSpins: {
+      mountain: "Leaf drop comes early at elevation and the snow follows fast — cleanup gets scheduled tight to conditions, often on the same visit that sets up the winter snow contract.",
+      lake: "Waterfront properties get closed out properly — leaf load cleared from lawns and gutters, beds cut back, and everything stowed before ice season.",
+      urban: "Village lots get full haul-away — no curbside piles waiting for a pickup that may not come, and driveway edges cleared so winter plowing starts clean.",
+      historic: "Mature maples drop heavy here. We work carefully around established beds and specimen plantings — the cleanup respects what took decades to grow.",
+      rural: "Acreage-scale cleanup scoped by actual leaf load and blowdown, not a flat package — field edges, long driveways, and wooded property lines included in the walkthrough.",
+    },
+  },
   "snow-ice-management": {
     priceAnchor: "Seasonal plow contracts priced after we walk the driveway and set trigger depths. Commercial by lot, residential by driveway.",
     townTypeSpins: {

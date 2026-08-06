@@ -149,6 +149,17 @@ function getServiceFAQs(area: ServiceArea, svc: ServiceDetail) {
             answer: `Yes. The ${landmark} area and surrounding ${city} roads are within our regular routing. We match equipment to the property — long rural driveways, tight village lots, and commercial entryways each get appropriate machines, not whatever's available.`,
           },
         ];
+      case "fall-cleanup":
+        return [
+          {
+            question: `When should I schedule fall cleanup in ${city}?`,
+            answer: `${isMountain ? `Earlier than the valley towns — ${city} sits at elevation, leaf drop finishes sooner, and the first sticking snow comes fast behind it. Late September through October is the working window.` : `Most ${city} properties are cleaned up between early October and mid-November, timed to when the leaves have actually finished dropping rather than a fixed date.`} Routes fill as the season goes — booking ahead of leaf drop guarantees your property gets done before snow, not after.`,
+          },
+          {
+            question: `Can you combine fall cleanup with a snow plowing contract in ${city}?`,
+            answer: `Yes, and it's how most of our ${city} clients run it. The cleanup visit preps the property for winter — driveway edges marked, surfaces cleared — and the same team comes back with the plow when the first storm hits. One company, one handoff, no gap between seasons. Call 802-342-8293 to set up both before the routes fill.`,
+          },
+        ];
       case "grounds-maintenance":
         return [
           {

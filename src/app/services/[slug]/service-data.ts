@@ -238,6 +238,81 @@ export const serviceDetails: ServiceDetail[] = [
     ],
   },
   {
+    slug: "fall-cleanup",
+    title: "Fall Cleanup & Leaf Removal",
+    subtitle: "Professional Fall Cleanups & Leaf Removal in Rutland County, Vermont",
+    seoTitle: "Fall Cleanup & Leaf Removal | Rutland County, VT | Meticulous LLC",
+    seoDescription: "Professional fall cleanup & leaf removal in Rutland County, Vermont. Leaf removal, bed cleanout, gutter clearing, final mow & winter prep for homes, rentals & second homes. Call 802-342-8293.",
+    heroImage: "/images/bg-fall-cleanup.jpeg",
+    introParagraphs: [
+      "Fall in Vermont is short, and the window between peak leaf drop and the first sticking snow is shorter. A property that goes into winter under a mat of wet leaves comes out of it with smothered turf, clogged drainage, and beds full of rot.",
+      "Meticulous LLC provides complete fall cleanup services — leaf removal, garden bed cleanout, gutter clearing, and a final cut that sets your lawn up to come through winter healthy — for homeowners, second-home owners, and rental properties throughout Killington, Rutland, and surrounding areas.",
+      "We schedule around actual leaf drop, not a fixed calendar date, and we finish before the snow flies. For clients on a seasonal snow contract, fall cleanup is how the same team hands your property from one season to the next.",
+    ],
+    features: [
+      "Leaf removal & haul-away",
+      "Final mow & lawn winterizing",
+      "Garden bed cleanout",
+      "Gutter clearing",
+      "Storm & blowdown debris removal",
+      "Snow-ready property prep",
+    ],
+    featureDetails: [
+      {
+        title: "Leaf Removal & Haul-Away",
+        description: "Complete leaf collection from lawns, beds, and hard surfaces — blown, gathered, and hauled off-site, not left in curbside piles. A lawn that goes into winter clear of leaf mat comes out of it without smothered, matted turf.",
+      },
+      {
+        title: "Final Mow & Lawn Winterizing",
+        description: "An end-of-season cut at a shorter height to reduce snow-mold pressure through the winter, with clean edges so the property looks finished until the snow covers it.",
+      },
+      {
+        title: "Garden Bed Cleanout",
+        description: "Dead growth cut back, annuals pulled, perennials trimmed appropriately for the species, and beds cleared of debris so spring startup is a refresh, not an excavation.",
+      },
+      {
+        title: "Gutter Clearing",
+        description: "Gutters and downspouts cleared of leaf load before winter. A gutter that goes into December full of leaves becomes an ice dam by February — this is cheap prevention for an expensive problem.",
+      },
+      {
+        title: "Storm & Blowdown Debris Removal",
+        description: "Fallen limbs, branch litter, and storm debris collected and removed — the material that accumulates through fall and blocks drainage or damages equipment if it's still there in spring.",
+      },
+      {
+        title: "Snow-Ready Property Prep",
+        description: "Driveway edges and obstacles marked, furniture and planters stowed or repositioned, and surfaces cleared so plows and shovels can work without damaging what's underneath.",
+      },
+    ],
+    process: [
+      { step: "01", title: "Walkthrough & Scope", description: "We assess your property's tree cover, leaf load, beds, and gutters, and agree on exactly what the cleanup covers before any work starts." },
+      { step: "02", title: "Scheduled Around Leaf Drop", description: "Cleanup is timed to your property's actual conditions — elevation and tree species change when leaves come down, and we route accordingly rather than working off a fixed date." },
+      { step: "03", title: "Full Cleanup Visit", description: "Leaves removed and hauled, beds cleaned out, gutters cleared, final mow completed. Larger properties or heavy tree cover may get a two-visit split: bulk drop first, final pass after the stragglers." },
+      { step: "04", title: "Winter Handoff", description: "The property is left snow-ready — obstacles marked, surfaces clear. For seasonal snow contract clients, this is the same team that will be plowing your driveway in December." },
+    ],
+    differentiators: [
+      "Serving Vermont properties since 2009 — we know when each town's leaves actually come down",
+      "Cleanup timed to conditions, not a calendar — no showing up before the maples have dropped",
+      "One team from fall through winter — the crew that does your cleanup runs your snow contract",
+      "Haul-away included — leaves leave the property, they don't get pushed to the road edge",
+    ],
+    relatedServices: ["snow-ice-management", "grounds-maintenance"],
+    lastUpdated: "2026-08-06",
+    relatedBlogs: [
+      {
+        slug: "preparing-property-for-winter",
+        title: "How to Prepare Your Vermont Property for Winter",
+      },
+      {
+        slug: "when-to-aerate-your-lawn-vermont",
+        title: "When to Aerate Your Lawn in Vermont",
+      },
+      {
+        slug: "how-to-choose-lawn-care-service-vermont",
+        title: "How to Choose a Lawn Care Service in Vermont (And Avoid the Wrong One)",
+      },
+    ],
+  },
+  {
     slug: "snow-ice-management",
     title: "Snow & Ice Management",
     subtitle: "Reliable Snow Plowing & Ice Management in Rutland County, Vermont",
@@ -295,7 +370,7 @@ export const serviceDetails: ServiceDetail[] = [
       "Priority response for seasonal contract holders — your property gets serviced first",
       "We carry proper insurance and use commercial-grade equipment built for Vermont conditions",
     ],
-    relatedServices: ["property-maintenance", "grounds-maintenance"],
+    relatedServices: ["fall-cleanup", "property-maintenance"],
   },
   {
     slug: "hardscaping",

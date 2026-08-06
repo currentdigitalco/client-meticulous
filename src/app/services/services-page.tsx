@@ -37,6 +37,15 @@ const services = [
     features: ["General exterior maintenance", "Property support services", "Repair coordination", "Seasonal maintenance", "Second-home oversight", "Preventative upkeep"],
   },
   {
+    id: "fall-cleanup",
+    title: "Fall Cleanup & Leaf Removal",
+    subtitle: "Leaf-free, winter-ready, before the snow flies.",
+    image: "/images/bg-fall-cleanup.jpeg",
+    detailImage: "/images/detail-lawn.jpeg",
+    description: "Complete fall cleanups timed to Vermont's actual leaf drop — leaf removal and haul-away, garden bed cleanout, gutter clearing, and a final mow that sets your lawn up to come through winter healthy. The same team that cleans up your property in October plows it in December.",
+    features: ["Leaf removal & haul-away", "Final mow & lawn winterizing", "Garden bed cleanout", "Gutter clearing", "Storm & blowdown debris removal", "Snow-ready property prep"],
+  },
+  {
     id: "snow-ice-management",
     title: "Snow & Ice Management",
     subtitle: "Dependable winter response when it matters most.",
