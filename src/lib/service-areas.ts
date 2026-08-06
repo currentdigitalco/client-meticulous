@@ -155,7 +155,7 @@ export const serviceAreas: ServiceArea[] = [
       "We service Pittsfield homeowners, second-home owners, and rental operators with plow contracts, grounds care, and property oversight — especially important for the remote owners who can't easily check on their place in person.",
       "Our coverage of the Route 100 corridor from Killington north means Pittsfield properties aren't an afterthought — we're already running routes through the area.",
     ],
-    localContext: "Pittsfield sits in a narrow valley along the Tweed River with a small village center and homes spread along Route 100 and the surrounding back roads. The town is known for long driveways, high snow accumulation, and a mix of year-round residents, second-home owners, and rental properties catering to the Killington market. Early July puts Pittsfield in final pre-July-4 sprint: rental owners arriving for holiday-weekend stays get accelerated Thursday-morning grounds passes on Route 100 frontage, gravel-driveway regrades are wrapping up before the incoming visitor traffic, and we are on post-storm cleanup for the mid-week thunder cells that stripped small limbs across the Tweed River corridor. Second-home owners on the long back-road parcels get pre-arrival photo check-ins before the Friday guest window.",
+    localContext: "Pittsfield sits in a narrow valley along the Tweed River with a small village center and homes spread along Route 100 and the surrounding back roads. The town is known for long driveways, high snow accumulation, and a mix of year-round residents, second-home owners, and rental properties catering to the Killington market. Early August is the dry-stretch discipline week for Pittsfield: mow heights are locked at 4 inches to hold color through the current heat pattern, roadside brush-hogging along the long Route 100 driveways is stacked for the coolest windows of the day, and gravel driveway grade checks are running weekly as the run-off from mid-week convective cells starts washing swale ends. Second-home owners on the back-road parcels are getting the first foliage-season prep scopes so guttering and small trim carpentry can be booked into the last cool August window before the leaf-peeper booking wave lands.",
     priorityServices: ["snow-ice-management", "grounds-maintenance", "property-maintenance", "rental-support"],
     landmarks: ["Route 100", "Tweed River", "Pittsfield Village", "Amee Farm", "Route 100 north corridor"],
     faqs: [
@@ -172,7 +172,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Our regular service area covers the Route 100 corridor from Killington through Pittsfield and up to Stockbridge. Properties beyond that we handle case by case.",
       },
     ],
-    lastUpdated: "2026-07-02",
+    lastUpdated: "2026-08-06",
   },
   {
     slug: "chittenden",
@@ -186,7 +186,7 @@ export const serviceAreas: ServiceArea[] = [
       "We handle the full range of property care services in Chittenden — grounds maintenance, snow management, landscaping, and hardscape work — with crews that know how to operate on the narrower rural roads and longer site drives.",
       "Most Chittenden properties need a partner who understands the rhythm of the town: spread-out properties, long winters, and owners who value reliability over flash.",
     ],
-    localContext: "Chittenden is home to the Chittenden Reservoir and Lefferts Pond, plus a mix of small working farms, rural homesites, and second-home properties tucked into the Green Mountain foothills. The town is largely forested with winding back roads and a small village center. Properties tend to be large, with mature landscaping and significant snow exposure. Mid-July at Chittenden is post-holiday reset week: reservoir-front lots getting the deep-cleanup pass on lakeside grounds and beach frontage after the extended weekend guest rotation, forested rural lots on a running post-storm limb sweep as the July convective pattern rolls through, and small working farms opening their second-cut hay window so the parcel-edge trim work along field margins is finally accessible with equipment. Woodland-edge tick-check reminders are going out with the weekly grounds visits.",
+    localContext: "Chittenden is home to the Chittenden Reservoir and Lefferts Pond, plus a mix of small working farms, rural homesites, and second-home properties tucked into the Green Mountain foothills. The town is largely forested with winding back roads and a small village center. Properties tend to be large, with mature landscaping and significant snow exposure. Early August at Chittenden is second-cut hay and heat-cycle week: reservoir-front lots hold at 4-inch mow heights so lakeside beach frontage stays green through the dry stretch, working farms are running the second cut of the season and the parcel-edge trim work along field margins is scheduled around the baler pattern, and forested rural lots stay on limb-sweep watch as the afternoon convective cells continue rolling off the Green Mountain ridge. Foliage-season prep scopes are going out to reservoir-front rental owners for gutters and light exterior carpentry before the September booking wave.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "landscaping", "property-maintenance"],
     landmarks: ["Chittenden Reservoir", "Lefferts Pond", "Green Mountain National Forest", "Chittenden Dam"],
     faqs: [
@@ -203,7 +203,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Spring opening and fall closing are common services for our Chittenden clients. We can also handle winterization, frost-prep, and pre-arrival readiness checks.",
       },
     ],
-    lastUpdated: "2026-07-16",
+    lastUpdated: "2026-08-06",
   },
   {
     slug: "mendon",
@@ -217,7 +217,7 @@ export const serviceAreas: ServiceArea[] = [
       "Because we route through Mendon constantly on our way between Rutland and the mountain, our Mendon clients get consistent service without the travel-time premium that distant services charge.",
       "We handle grounds maintenance, snow contracts, carpentry, and property support for Mendon homeowners — whether you live here year-round or use the place as a ski retreat.",
     ],
-    localContext: "Mendon straddles Route 4 between Rutland and Killington, with properties along the corridor, up toward Mendon Mountain, and in the rural outlying areas. The town has a mix of working families, retirees, and second-home owners. Winter snow loads are substantial: Mendon sits at elevation and catches storms that roll east from Killington Peak. Late July puts Mendon in second-half summer cadence: Route 4 corridor lawns are on a Wednesday finish-cut at 4 inches to hold color through the current heat stretch, mountain-bike-season weekend traffic keeps rental-property turnovers running Thursday and Sunday so hardscape sweeps are stacked pre-arrival, and post-storm limb sweeps continue as afternoon convective cells roll off Killington Peak. Deck-stain reseals timed to the August cool-down window are getting scoped on the elevation second homes.",
+    localContext: "Mendon straddles Route 4 between Rutland and Killington, with properties along the corridor, up toward Mendon Mountain, and in the rural outlying areas. The town has a mix of working families, retirees, and second-home owners. Winter snow loads are substantial: Mendon sits at elevation and catches storms that roll east from Killington Peak. Early August pushes Mendon into the deck-reseal and pre-foliage window: elevation second homes are getting stain and reseal work booked into the coolest morning windows, Route 4 corridor lawns hold at 4-inch finish cuts to survive the sustained dry stretch, and mountain-bike-season weekend rental turnovers are still running Thursday and Sunday so hardscape sweeps stay stacked pre-arrival. First foliage-lookout gutter and downspout checks are going out to remote owners on the mountain-side parcels so the September leaf-peeper wave lands on a clean property.",
     priorityServices: ["snow-ice-management", "grounds-maintenance", "property-maintenance", "carpentry"],
     landmarks: ["Route 4", "Mendon Mountain", "Turn of River Lodge", "Long Trail access"],
     faqs: [
@@ -234,7 +234,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. As a registered Vermont residential contractor, we handle deck rebuilds, rot repair, siding, trim, and structural work throughout Mendon.",
       },
     ],
-    lastUpdated: "2026-07-23",
+    lastUpdated: "2026-08-06",
   },
   {
     slug: "proctor",
@@ -248,7 +248,7 @@ export const serviceAreas: ServiceArea[] = [
       "Properties in Proctor tend to be closer-knit than the rural towns further east, which changes what property care looks like — tighter lots, shared boundaries, and historic homes that benefit from careful craftsmanship rather than heavy-equipment solutions.",
       "We handle the full scope for Proctor homeowners and property managers, from grounds maintenance and snow plowing to hardscape repairs and carpentry on older homes.",
     ],
-    localContext: "Proctor was built around the Vermont marble industry and still shows that character in its stone buildings and compact village layout. The town has a dense residential core, the Otter Creek running through the center, and Proctor Falls as a local landmark. Properties here are often older with original stonework and architectural details that need a specific kind of care. Late July in Proctor is sustained heat-wave discipline: weekly mow routes are locked at 4 inches with fresh-sharpened blades so the compact village lawns read dormant instead of dead, bed watering is on pre-dawn cycles ahead of the afternoon Otter Creek humidity climb, and the marble-and-slate walkway pressure-washing is stacked into early-morning windows before the mid-day heat. Deck-stain reseals on the historic Main Street homes are getting scoped for the first cool-window in August rather than pushed through the current dry stretch.",
+    localContext: "Proctor was built around the Vermont marble industry and still shows that character in its stone buildings and compact village layout. The town has a dense residential core, the Otter Creek running through the center, and Proctor Falls as a local landmark. Properties here are often older with original stonework and architectural details that need a specific kind of care. Early August in Proctor is the historic-home reseal window: deck-stain and porch reseals on the Main Street homes are booked into the first stretch of overnight lows that let the coating cure, weekly mow routes are locked at 4 inches with fresh-sharpened blades so compact village lawns read dormant instead of dead through the dry pattern, and marble-and-slate walkway pressure-washing runs at first light before the Otter Creek humidity climb. Historic-home gutter and trim carpentry scopes are going out ahead of the September foliage traffic on Main Street.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "carpentry", "property-maintenance", "hardscaping"],
     landmarks: ["Proctor Falls", "Otter Creek", "Vermont Marble Museum", "Main Street Proctor"],
     faqs: [
@@ -265,7 +265,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "We handle stonework as part of hardscape installation and repair. For specialty historic preservation work, we collaborate with local stone masons when the job calls for it.",
       },
     ],
-    lastUpdated: "2026-07-23",
+    lastUpdated: "2026-08-06",
   },
   {
     slug: "west-rutland",
