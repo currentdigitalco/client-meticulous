@@ -296,8 +296,13 @@ export const serviceDetails: ServiceDetail[] = [
       "Haul-away included — leaves leave the property, they don't get pushed to the road edge",
     ],
     relatedServices: ["snow-ice-management", "grounds-maintenance"],
-    lastUpdated: "2026-08-06",
+    lastUpdated: "2026-08-10",
     relatedBlogs: [
+      {
+        slug: "when-to-book-snow-removal-vermont",
+        title:
+          "When to Book Snow Removal in Vermont (and What a Seasonal Contract Covers)",
+      },
       {
         slug: "preparing-property-for-winter",
         title: "How to Prepare Your Vermont Property for Winter",
@@ -371,6 +376,18 @@ export const serviceDetails: ServiceDetail[] = [
       "We carry proper insurance and use commercial-grade equipment built for Vermont conditions",
     ],
     relatedServices: ["fall-cleanup", "property-maintenance"],
+    lastUpdated: "2026-08-10",
+    relatedBlogs: [
+      {
+        slug: "when-to-book-snow-removal-vermont",
+        title:
+          "When to Book Snow Removal in Vermont (and What a Seasonal Contract Covers)",
+      },
+      {
+        slug: "preparing-property-for-winter",
+        title: "How to Prepare Your Vermont Property for Winter",
+      },
+    ],
   },
   {
     slug: "hardscaping",
