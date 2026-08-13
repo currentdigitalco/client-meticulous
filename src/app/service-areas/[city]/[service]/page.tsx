@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { buildOpenGraph } from "@/lib/og";
+import { fitDescription } from "@/lib/seo-description";
 import { serviceAreas, getServiceAreaBySlug } from "@/lib/service-areas";
 import type { ServiceArea } from "@/lib/service-areas";
 import { getExtras, getPricingNote } from "@/lib/service-areas-extras";
@@ -47,9 +48,19 @@ export async function generateMetadata({
 
   const extras = getExtras(area.slug);
   const title = `${svc.title} in ${area.name}, VT | Meticulous LLC`;
-  const description = extras?.seasonalHook
-    ? `${svc.title} in ${area.name}, VT. ${extras.seasonalHook} Vermont-registered contractor. Call 802-342-8293.`
-    : `${svc.title} in ${area.name}, Vermont. ${svc.seoDescription.split(".")[0]}. Serving ${area.region}. Call 802-342-8293.`;
+
+  // Composed to the ~160-char SERP budget instead of concatenated blind: the
+  // old template ran to 203 chars on the longest town/service pairs, so the
+  // phone number — the whole point of the tail — was truncated away on 136 of
+  // these 180 pages. Optional clauses are ordered most-valuable-first and the
+  // generic ones drop out when a town's hook is long.
+  const description = fitDescription({
+    lead: `${svc.title} in ${area.name}, VT.`,
+    optional: extras?.seasonalHook
+      ? [extras.seasonalHook, "Vermont-registered contractor."]
+      : [`${svc.seoDescription.split(".")[0]}.`, `Serving ${area.region}.`],
+    cta: "Call 802-342-8293.",
+  });
 
   return {
     title,
@@ -354,11 +365,18 @@ export default async function ServiceCityPage({
     : otherServices.slice(0, 4);
 
   // Cross-link to same service in nearby cities.
+  //
+  // 4, not 3: adjacency here is hand-authored and was ASYMMETRIC — Chittenden
+  // and Poultney bordered towns that never listed them back, so nothing linked
+  // into their service pages and all 9 of those pages crawled as orphans. The
+  // back-references are appended rather than swapped in, which only works if
+  // the slice is wide enough to reach them. Displacing a correct neighbour to
+  // make room would have traded one orphan for another.
   const nearbyTownSlugs = extras?.nearestTowns ?? [];
   const nearbyForService = nearbyTownSlugs
     .map((slug) => getServiceAreaBySlug(slug))
     .filter((a): a is ServiceArea => Boolean(a))
-    .slice(0, 3);
+    .slice(0, 4);
 
   return (
     <InnerLayout>

@@ -132,8 +132,8 @@ export const serviceAreaExtras: Record<string, ServiceAreaExtras> = {
     },
   },
   mendon: {
-    nearestTowns: ["rutland", "killington", "pittsfield"],
-    seasonalHook: "Route 4 corridor coverage — Mendon properties get consistent service without the travel-time premium.",
+    nearestTowns: ["rutland", "killington", "pittsfield", "chittenden"],
+    seasonalHook: "Route 4 corridor coverage — consistent service, no travel-time premium.",
     localProofPoint: "On Route 4 between our Rutland yard and Killington every day of the year.",
     recentWork: [
       {
@@ -172,7 +172,7 @@ export const serviceAreaExtras: Record<string, ServiceAreaExtras> = {
     },
   },
   castleton: {
-    nearestTowns: ["fair-haven", "west-rutland", "rutland"],
+    nearestTowns: ["fair-haven", "west-rutland", "rutland", "poultney"],
     seasonalHook: "Lakefront property care — spring opening through fall close on Lake Bomoseen.",
     localProofPoint: "Standing schedule for Bomoseen spring opens and fall closings — we book the route, not one-off visits.",
     recentWork: [
@@ -192,7 +192,7 @@ export const serviceAreaExtras: Record<string, ServiceAreaExtras> = {
     localProofPoint: "Route 7 corridor coverage means Wallingford properties aren't an afterthought stop.",
   },
   pittsford: {
-    nearestTowns: ["brandon", "florence", "proctor"],
+    nearestTowns: ["brandon", "florence", "proctor", "chittenden"],
     seasonalHook: "Practical, durable property care for Pittsford homes and farms.",
     localProofPoint: "Year-round routing through Pittsford on the Route 7 corridor — same crew every visit.",
   },
@@ -220,7 +220,7 @@ export const serviceAreaExtras: Record<string, ServiceAreaExtras> = {
     localProofPoint: "Florence is on our standing Route 7 route. No premium for distance.",
   },
   "fair-haven": {
-    nearestTowns: ["castleton", "west-rutland", "rutland"],
+    nearestTowns: ["castleton", "west-rutland", "rutland", "poultney"],
     seasonalHook: "Western-corridor property care for Fair Haven homes and small commercial.",
     localProofPoint: "Fair Haven sits on our western Rutland County route — Castleton and Fair Haven serviced the same morning.",
   },
@@ -231,6 +231,17 @@ export const serviceAreaExtras: Record<string, ServiceAreaExtras> = {
     pricingNotes: {
       "snow-ice-management": "Mount Holly plow contracts are scoped for the elevation. We confirm equipment fit on the walkthrough before quoting.",
     },
+  },
+  poultney: {
+    // Poultney was the only one of the 20 service areas with no extras entry at
+    // all, which is why it had no outbound neighbour links and fell through to
+    // the generic meta-description branch on all 9 of its service pages.
+    // Neighbours and copy below restate what the town's own page already
+    // publishes ("we already run routes through Fair Haven and Castleton"),
+    // rather than asserting anything new about the business.
+    nearestTowns: ["fair-haven", "castleton", "west-rutland"],
+    seasonalHook: "Slate-belt property care along Route 30 — no long-haul drive premium.",
+    localProofPoint: "Already routing through Fair Haven and Castleton on the way into the slate belt.",
   },
 };
 

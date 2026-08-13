@@ -243,7 +243,7 @@ export function CityPage({
             {priorityServiceEntries.map((s) => (
               <a
                 key={s.slug}
-                href={`/services/${s.slug}`}
+                href={`/service-areas/${area.slug}/${s.slug}`}
                 className="fade-up group block"
               >
                 <div className="flex items-start gap-4">
@@ -288,7 +288,7 @@ export function CityPage({
             {allServices.map((s) => (
               <a
                 key={s.slug}
-                href={`/services/${s.slug}`}
+                href={`/service-areas/${area.slug}/${s.slug}`}
                 className="fade-up group flex items-center justify-between p-6 rounded-2xl bg-soil-light/15 ring-1 ring-white/5 transition-colors hover:ring-white/10 hover:bg-soil-light/25"
               >
                 <span className="text-[15px] font-medium text-cream">
