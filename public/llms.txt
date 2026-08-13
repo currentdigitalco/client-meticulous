@@ -221,7 +221,11 @@ Last updated: 2026-08-10. Business information, service area coverage, and prici
 
 <!-- BEGIN GENERATED BLOG ARCHIVE — regenerate with execution/regenerate_llms_blog_archive.py -->
 
-Complete archive of all 24 published blog posts, newest first. Every URL below is a live, indexable page.
+Complete archive of all 25 published blog posts, newest first. Every URL below is a live, indexable page.
+
+- **When to Book Snow Removal in Vermont (and What a Seasonal Contract Covers)** (published 2026-08-01)
+  https://meticulous802.com/blog/when-to-book-snow-removal-vermont
+  When to book snow removal in Vermont: reserve your seasonal plowing slot August to October before Rutland County routes fill, and what a contract covers.
 
 - **What a Fence Costs in Vermont (By Material, Length, and Terrain)** (published 2026-08-01)
   https://meticulous802.com/blog/fence-cost-vermont
