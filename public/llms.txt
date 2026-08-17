@@ -227,7 +227,11 @@ Last updated: 2026-08-17. Business information, service area coverage, and prici
 
 <!-- BEGIN GENERATED BLOG ARCHIVE — regenerate with execution/regenerate_llms_blog_archive.py -->
 
-Complete archive of all 25 published blog posts, newest first. Every URL below is a live, indexable page.
+Complete archive of all 26 published blog posts, newest first. Every URL below is a live, indexable page.
+
+- **Why Fall Cleanup Matters More Than Any Other Visit** (published 2026-08-01)
+  https://meticulous802.com/blog/why-fall-cleanup-matters-vermont
+  Why fall cleanup matters for lawn health: a wet leaf mat under four months of Vermont snow smothers grass and breeds snow mold. What a skipped fall costs.
 
 - **When to Book Snow Removal in Vermont (and What a Seasonal Contract Covers)** (published 2026-08-01)
   https://meticulous802.com/blog/when-to-book-snow-removal-vermont
