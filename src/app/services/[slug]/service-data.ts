@@ -86,8 +86,12 @@ export const serviceDetails: ServiceDetail[] = [
       "Full-season programs that eliminate the hassle of scheduling individual services",
     ],
     relatedServices: ["landscaping", "property-maintenance"],
-    lastUpdated: "2026-07-27",
+    lastUpdated: "2026-08-17",
     relatedBlogs: [
+      {
+        slug: "why-fall-cleanup-matters-vermont",
+        title: "Why Fall Cleanup Matters More Than Any Other Visit",
+      },
       {
         slug: "stop-crabgrass-vermont-lawn-summer",
         title: "How Do You Stop Crabgrass in a Vermont Lawn in Summer?",
@@ -296,8 +300,12 @@ export const serviceDetails: ServiceDetail[] = [
       "Haul-away included — leaves leave the property, they don't get pushed to the road edge",
     ],
     relatedServices: ["snow-ice-management", "grounds-maintenance"],
-    lastUpdated: "2026-08-10",
+    lastUpdated: "2026-08-17",
     relatedBlogs: [
+      {
+        slug: "why-fall-cleanup-matters-vermont",
+        title: "Why Fall Cleanup Matters More Than Any Other Visit",
+      },
       {
         slug: "when-to-book-snow-removal-vermont",
         title:
@@ -376,8 +384,12 @@ export const serviceDetails: ServiceDetail[] = [
       "We carry proper insurance and use commercial-grade equipment built for Vermont conditions",
     ],
     relatedServices: ["fall-cleanup", "property-maintenance"],
-    lastUpdated: "2026-08-10",
+    lastUpdated: "2026-08-17",
     relatedBlogs: [
+      {
+        slug: "why-fall-cleanup-matters-vermont",
+        title: "Why Fall Cleanup Matters More Than Any Other Visit",
+      },
       {
         slug: "when-to-book-snow-removal-vermont",
         title:
