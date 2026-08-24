@@ -20,6 +20,141 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "how-often-should-my-driveway-be-plowed-vt",
+    title:
+      "What Actually Triggers a Plow Visit (and How Often to Expect One)",
+    // Editorial headline runs 65 chars, so a shorter search-facing title
+    // carries the primary keyword ("how often should my driveway be plowed")
+    // inside the ~60-char SERP budget.
+    seoTitle: "How Often Should My Driveway Be Plowed in Vermont?",
+    excerpt:
+      "Most Rutland County homeowners assume plowing runs on a schedule, but it runs on a trigger depth: once accumulation crosses roughly two to three inches, a truck moves, whether that happens once or four times in one storm. A two-foot storm is never a single visit, because a plow that waits for the last flake just buries the driveway in ice nobody can push. Overnight and pre-dawn routes decide who is cleared before the school bus and who waits, freezing rain and drifting undo a clean plow in under an hour, and an unoccupied second home needs automatic dispatch, not a phone call nobody is there to make. Here is what actually decides when your truck shows up, and how often to expect it.",
+    category: "Snow & Ice",
+    date: "August 2026",
+    readTime: "10 min read",
+    image: "/images/blog-how-often-should-my-driveway-be-plowed-vt.jpeg",
+    featured: true,
+    metaDescription:
+      "How often should my driveway be plowed in Vermont? A 2 to 3 inch trigger depth decides, not a fixed schedule, and a big storm can mean several visits.",
+    content: `
+<p><em>Updated August 2026.</em></p>
+
+<p data-speakable="true"><strong>How often should my driveway be plowed in Vermont? It comes down to a trigger depth, not a fixed schedule: most residential routes dispatch once accumulation crosses about two to three inches, and the truck returns each time that depth is crossed again during a single storm.</strong> A two-foot storm is rarely one visit.</p>
+
+<p>Every plow call we get in December starts with some version of the same question: why did the neighbor's driveway get done at 5 AM and mine at 9? The honest answer almost never has anything to do with favoritism. It comes down to a trigger depth set months earlier, a route built for efficiency, and conditions that plowing alone cannot fix.</p>
+
+<p>Meticulous LLC has plowed and managed ice on Rutland County properties since 2009, for year-round residents, second-home owners, and rental managers across Killington, Rutland, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, Brandon, and Castleton. I am Dan Villarreal, and this is the plain answer to what triggers a visit, how a two-foot storm turns into more than one truck run, and what a seasonal agreement should spell out before you sign it.</p>
+
+<h2>How Often Should My Driveway Be Plowed? Trigger Depth Is the Real Answer</h2>
+
+<p>How often your driveway should be plowed comes down entirely to trigger depth, not a calendar: for a typical Rutland County residential driveway that number is about two to three inches of fresh accumulation, and it is the switch, not the schedule.</p>
+
+<p>We do not watch a clock and plow every property at a set hour. We watch snow depth against each property's own agreed trigger, and once a storm crosses it, that property enters the route. A two-inch trigger gets serviced earlier and more often in a long storm than a four-inch trigger, by design. Steep grades, rental turnovers, and commercial lots typically run a lower trigger because the cost of a slick surface is higher on them. A flat driveway used once a day can often run slightly higher.</p>
+
+<p>The trigger is a client decision, set during the pre-season walkthrough, and the tradeoff is worth understanding plainly: a lower trigger depth means more dispatches per storm, which means more labor and equipment time on your property, which means it costs more than a higher trigger. There is no version of a lower trigger that is free.</p>
+
+<h2>Why Is a Two-Foot Storm Never Just One Visit?</h2>
+
+<p>A two-foot storm is never just one visit because the trigger depth gets crossed several times over the course of it, and each crossing is its own dispatch. A nor'easter depositing twenty-four inches over eighteen hours will cross a two-inch trigger something like eight to ten times, and a truck arriving only once at the end would be pushing a compacted, partially refrozen mass instead of loose snow.</p>
+
+<p>There is a mechanical reason this matters. A plow blade is efficient against fresh, uncompacted snow and far less efficient against snow that has been driven over and refrozen into a dense layer. Waiting for a storm to fully end before the first pass trades an easy job for a hard one. Repeated passes through a long storm keep the surface manageable throughout, and the final post-storm pass is a cleanup, not the only excavation.</p>
+
+<table>
+<thead>
+<tr><th>Storm total</th><th>Typical trigger crossings (2 to 3 inch trigger)</th><th>What that looks like on your driveway</th></tr>
+</thead>
+<tbody>
+<tr><td>Under 3 inches</td><td>1</td><td>One clean pass, usually after the storm tapers</td></tr>
+<tr><td>6 to 10 inches</td><td>2 to 3</td><td>A mid-storm pass plus a final cleanup pass</td></tr>
+<tr><td>12 to 18 inches</td><td>4 to 6</td><td>Repeated passes through the storm, banks pushed back each time</td></tr>
+<tr><td>24 inches or more</td><td>7 or more, plus a post-storm pass</td><td>Continuous service, with a return visit after it stops for final cleanup and salting</td></tr>
+</tbody>
+</table>
+
+<p>A big storm on a low trigger genuinely is more truck time, which is why a <a href="/services/snow-ice-management">seasonal snow and ice contract</a> is what keeps that cost predictable no matter how many times the trigger gets crossed in a given winter.</p>
+
+<h2>What Does "During the Storm" vs. "After It Stops" Mean for Your Morning?</h2>
+
+<p>Whether your property gets plowed during an active storm or only after it stops depends on what it is used for, and both are legitimate strategies for different problems. Commercial lots, rental turnovers, and driveways someone needs to leave from before dawn get serviced during the storm, on the trigger, because the goal is a passable surface at a known departure time. A vacant second home with nobody arriving that day is often better served with one thorough pass after the snow stops, because plowing mid-storm there just means doing the job twice for no benefit.</p>
+
+<p>Two neighboring driveways getting treated differently on the same storm rarely means the service is arbitrary. One is a rental turning over guests at 3 PM and needs the driveway clear well before then. The other is a second home nobody is visiting until the following weekend, so a single clean pass once the storm has settled does the job better and costs less in truck time.</p>
+
+<p>For occupied residential properties on a standard seasonal contract, the practical answer is a combination: dispatch on the trigger during the storm to keep the surface manageable, plus a dedicated post-storm cleanup pass once accumulation has stopped, banks are pushed back, and traction material goes down. That is what most of our Rutland County residential clients actually have, whether they realize it or not.</p>
+
+<h2>How Do Overnight and Early-Morning Routes Decide Who Gets Cleared First?</h2>
+
+<p>Where your driveway sits in the plowing order during an overnight storm is decided by a fixed route built before the season, not by when we happen to get to your street. A route is a planned loop through a geographic area, sequenced to move a truck efficiently from one property to the next, built once in the fall.</p>
+
+<ul>
+<li><strong>Commercial and rental-turnover properties go first,</strong> because a guest arriving to an unplowed driveway is the most time-sensitive failure on the route.</li>
+<li><strong>Seasonal contract holders are next,</strong> in whatever sequence gets the truck through the loop fastest, which is why your position can look different storm to storm even though the route does not change.</li>
+<li><strong>Per-push and on-call requests are fit in after the priority list,</strong> the practical cost of not having a contract locked in before the season.</li>
+<li><strong>A driveway added mid-winter does not slot cleanly into an existing route,</strong> so it either pushes everyone behind it later or waits for a second truck.</li>
+</ul>
+
+<p>Overnight and pre-dawn service exists specifically to have commuter driveways clear before people need to leave for work, which is why booking ahead of the season, covered in detail in our piece on <a href="/blog/when-to-book-snow-removal-vermont">when to book snow removal in Vermont</a>, has such a direct effect on how early your property actually gets done.</p>
+
+<h2>What Do Freezing Rain, Drifting, and Refreeze Mean for a Plow-Only Contract?</h2>
+
+<p>Freezing rain, drifting, and overnight refreeze all create dangerous surfaces that plowing alone does nothing to solve, because a plow blade only responds to accumulated depth. Freezing rain glazes a driveway with a sheet of ice and accumulates essentially zero measurable depth. A daytime thaw followed by an overnight refreeze turns yesterday's meltwater into black ice with no new snow on the ground at all. Open, exposed driveways in the hill towns around Killington and Mendon can drift a foot deep along one edge while the trigger depth in the open middle never gets crossed.</p>
+
+<p>None of those three conditions are answered by a plow. They are answered by ice management: salt or sand applied to the actual surface conditions, timed to temperature swings rather than snowfall, on driving surfaces, walkways, steps, and entries. A property covered by plowing alone can look fine on the storm report and still be the most dangerous morning of the month, because the danger never showed up as depth.</p>
+
+<p>This is also where a lower trigger depth earns its cost on a property with real drifting exposure. If wind piles snow against one section faster than the open middle accumulates, a lower overall trigger catches that drift sooner, even though it means more total dispatches for the season.</p>
+
+<h2>What Should You Pin Down in Writing Before Signing a Seasonal Agreement?</h2>
+
+<p>Before you sign a seasonal snow agreement, get the trigger depth, the priority order, and what is included beyond the driveway confirmed in writing, because those three items separate a real winter contract from a plow-only handshake. Here is the sequence we walk every new Rutland County client through:</p>
+
+<ol>
+<li><strong>Confirm your exact trigger depth.</strong> Ask for the number, not "a couple inches." Two inches and four inches are different service levels with different costs.</li>
+<li><strong>Understand what a lower trigger costs.</strong> A lower trigger means more dispatches per storm. If a contractor offers a very low trigger at the same price as everyone else's higher one, ask why.</li>
+<li><strong>Get your route priority in writing.</strong> Seasonal contract holders should be serviced ahead of per-push and on-call requests. If that is not stated explicitly, you do not have priority, you have a hope.</li>
+<li><strong>Confirm what happens beyond the driveway.</strong> Walkways, steps, and entries need separate attention from a plow blade. Ask whether they are included, and whether salt or sand is part of the agreement or billed separately.</li>
+<li><strong>Ask how mid-storm dispatch works.</strong> Find out whether the contractor plows during long storms on the trigger, or waits until the snow fully stops, and confirm that matches how you use the property.</li>
+<li><strong>Confirm dispatch is automatic.</strong> A property owner should never need to call and ask for service once the trigger is crossed. If a phone call is required to start the clock, that is not automatic dispatch, no matter what the paperwork calls it.</li>
+</ol>
+
+<p>Get all six answered before the first snowflake. A contract you cannot point to specific numbers in is an understanding, not a contract, and understandings fall apart during a busy storm.</p>
+
+<h2>What Happens to a Second Home or Unoccupied Property When Nobody Is There to Call?</h2>
+
+<p>An unoccupied second home needs automatic trigger-based dispatch more than any other property type, because there is no one there to notice it snowed and call for service. A per-push arrangement runs on a phone call, and a phone call requires a person at the property who knows conditions have changed. An empty ski-country house in Killington or Ludlow has none of that on a random Tuesday in January.</p>
+
+<p>This is the exact gap trigger-based automatic dispatch is built to close. We set the trigger before the season, monitor the weather all winter, and clear the property automatically once a storm reaches the threshold, whether the owner is in Boston, New York, or somewhere with no snow at all. For rental properties the stakes go up again, because a guest arriving to an unplowed driveway is a canceled booking and a bad review. Photo confirmation after each visit gives an absentee owner the same picture a resident owner gets by looking out the window.</p>
+
+<p>An empty house is not a reason to skip a seasonal agreement, it is the strongest reason to have one, and pairing it with a <a href="/services/fall-cleanup">fall cleanup</a> in October means the same crew closing out your property for the season is already assigned to your driveway when the first trigger gets crossed in December.</p>
+
+<h2>Vermont Snow Plowing FAQs</h2>
+
+<h3>How often should my driveway be plowed in Vermont?</h3>
+<p>It depends on your trigger depth and how many times a storm crosses it, not a fixed schedule. At the common two to three inch residential trigger, a small storm is one visit, and a large multi-day storm can mean five or more dispatches plus a final cleanup pass. There is no single "once per storm" answer, because storms are not one size.</p>
+
+<h3>What trigger depth do most residential Rutland County properties use?</h3>
+<p>Most run a two to three inch trigger, confirmed at the pre-season walkthrough. Steep grades, long driveways, rental turnovers, and drift-prone properties often run lower, and a flat driveway used once a day can sometimes run slightly higher.</p>
+
+<h3>Does a lower trigger depth cost more?</h3>
+<p>Yes, and it should, because a lower trigger means the truck comes more often during the same storm. It is not a markup, it is more labor and equipment time on your property. The right trigger matches how the property is used, not automatically the lowest number available.</p>
+
+<h3>Will you plow while it is still snowing, or only after the storm ends?</h3>
+<p>Both, depending on the property. Commercial lots, rentals, and driveways people need to leave from get dispatched during the storm on the trigger. Vacant properties and second homes with no one arriving that day often get one thorough pass after the storm settles, plus the standard post-storm cleanup.</p>
+
+<h3>My neighbor got plowed hours before I did. Why?</h3>
+<p>Almost always route order, not favoritism. Routes are built in the fall as a fixed geographic loop, and commercial and rental-turnover properties are sequenced ahead of standard residential service. Your position on the same route can shift storm to storm depending on how the loop runs most efficiently that night.</p>
+
+<h3>Does a seasonal contract cover ice, or only snow accumulation?</h3>
+<p>Our contracts cover ice management as well as trigger-based plowing: salt and sand on driving surfaces, walkways, steps, and entries, applied to the conditions rather than only when there is enough depth to plow. Freezing rain, drifting, and overnight refreeze are exactly the events a plow-only arrangement misses.</p>
+
+<h3>Do you automatically plow a second home while the owner is away?</h3>
+<p>Yes, that is what trigger-based automatic dispatch is for. We set the trigger before the season, watch the weather, and clear the property once a storm crosses the threshold, with no call required and photo confirmation available so an owner in another state can see the work was done.</p>
+
+<h2>Get Your Trigger Depth Set Before the Next Storm</h2>
+
+<p>If you want your driveway cleared on a system instead of a guess, the trigger depth is the one number that decides everything after it, and it needs to be set before the snow flies. We will walk the property, agree on a trigger that matches how you use it, and put you on a <a href="/services/snow-ice-management">seasonal snow and ice management contract</a> that covers plowing, ice, and post-storm cleanup as one system. We plow and manage ice across <a href="/service-areas/killington">Killington</a>, Rutland, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, Brandon, and Castleton, and for most clients we pair it with a <a href="/services/fall-cleanup">fall cleanup</a> so the same crew hands the property from one season into the next.</p>
+
+<p>Call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send your property address through the <a href="/contact">contact page</a> to get your trigger depth set and your driveway on the route. Meticulous LLC is owned and run by Dan Villarreal, and we have plowed Rutland County driveways since 2009, so the trigger you agree to in the fall is the truck that shows up on your schedule all winter.</p>`,
+  },
+  {
     slug: "why-fall-cleanup-matters-vermont",
     title: "Why Fall Cleanup Matters More Than Any Other Visit",
     // Editorial H1 is 50 chars and fits the SERP on its own, but the search-facing
@@ -31,7 +166,7 @@ export const blogPosts: BlogPost[] = [
     date: "August 2026",
     readTime: "9 min read",
     image: "/images/blog-why-fall-cleanup-matters-vermont.jpeg",
-    featured: true,
+    featured: false,
     metaDescription:
       "Why fall cleanup matters for lawn health: a wet leaf mat under four months of Vermont snow smothers grass and breeds snow mold. What a skipped fall costs.",
     content: `

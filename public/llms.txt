@@ -227,7 +227,11 @@ Last updated: 2026-08-20. Business information, service area coverage, and prici
 
 <!-- BEGIN GENERATED BLOG ARCHIVE — regenerate with execution/regenerate_llms_blog_archive.py -->
 
-Complete archive of all 26 published blog posts, newest first. Every URL below is a live, indexable page.
+Complete archive of all 27 published blog posts, newest first. Every URL below is a live, indexable page.
+
+- **What Actually Triggers a Plow Visit (and How Often to Expect One)** (published 2026-08-01)
+  https://meticulous802.com/blog/how-often-should-my-driveway-be-plowed-vt
+  How often should my driveway be plowed in Vermont? A 2 to 3 inch trigger depth decides, not a fixed schedule, and a big storm can mean several visits.
 
 - **Why Fall Cleanup Matters More Than Any Other Visit** (published 2026-08-01)
   https://meticulous802.com/blog/why-fall-cleanup-matters-vermont

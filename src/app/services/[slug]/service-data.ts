@@ -300,8 +300,13 @@ export const serviceDetails: ServiceDetail[] = [
       "Haul-away included — leaves leave the property, they don't get pushed to the road edge",
     ],
     relatedServices: ["snow-ice-management", "grounds-maintenance"],
-    lastUpdated: "2026-08-17",
+    lastUpdated: "2026-08-24",
     relatedBlogs: [
+      {
+        slug: "how-often-should-my-driveway-be-plowed-vt",
+        title:
+          "What Actually Triggers a Plow Visit (and How Often to Expect One)",
+      },
       {
         slug: "why-fall-cleanup-matters-vermont",
         title: "Why Fall Cleanup Matters More Than Any Other Visit",
@@ -384,8 +389,13 @@ export const serviceDetails: ServiceDetail[] = [
       "We carry proper insurance and use commercial-grade equipment built for Vermont conditions",
     ],
     relatedServices: ["fall-cleanup", "property-maintenance"],
-    lastUpdated: "2026-08-17",
+    lastUpdated: "2026-08-24",
     relatedBlogs: [
+      {
+        slug: "how-often-should-my-driveway-be-plowed-vt",
+        title:
+          "What Actually Triggers a Plow Visit (and How Often to Expect One)",
+      },
       {
         slug: "why-fall-cleanup-matters-vermont",
         title: "Why Fall Cleanup Matters More Than Any Other Visit",
