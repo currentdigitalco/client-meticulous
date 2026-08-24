@@ -299,6 +299,41 @@ export function ServiceDetailPage({
         </section>
       )}
 
+      {/* Related Reading */}
+      {service.relatedBlogs && service.relatedBlogs.length > 0 && (
+        <section className="py-24 md:py-32">
+          <div className="mx-auto max-w-4xl px-6 md:px-8">
+            <div className="fade-up text-center mb-12">
+              <p className="text-xs font-medium uppercase tracking-[0.3em] text-copper-light">
+                Related Reading
+              </p>
+              <h2 className="mt-4 font-display text-2xl md:text-3xl tracking-tight">
+                More on this from our blog
+              </h2>
+            </div>
+            <ul className="fade-up space-y-4">
+              {service.relatedBlogs.map((b) => (
+                <li key={b.slug}>
+                  <a
+                    href={`/blog/${b.slug}`}
+                    className="group flex items-center justify-between gap-4 rounded-xl bg-soil-light/15 px-6 py-4 ring-1 ring-white/5 transition-colors hover:ring-white/10"
+                  >
+                    <span className="text-sm text-stone-dark/70 group-hover:text-cream transition-colors">
+                      {b.title}
+                    </span>
+                    <ArrowRight
+                      size={14}
+                      strokeWidth={2}
+                      className="text-forest-light flex-shrink-0"
+                    />
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </section>
+      )}
+
       {/* CTA */}
       <section className="py-24 md:py-32 bg-forest">
         <div className="mx-auto max-w-3xl px-6 md:px-8 text-center">
