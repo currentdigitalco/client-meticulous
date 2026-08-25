@@ -2614,8 +2614,10 @@ export const blogPosts: BlogPost[] = [
     image: "/images/blog-frost-line.jpeg",
     featured: false,
     metaDescription:
-      "Vermont frost line depth for fence posts: why 48 inches isn't always enough, how frost heave destroys fences, and the concrete vs gravel backfill debate.",
+      "Yes — fence posts must sit below the frost line: 48 inches in most of Rutland County, up to 60 at elevation. How deep to dig, and concrete vs gravel backfill.",
     content: `
+<p data-speakable="true"><strong>Yes — fence posts need to be set below the frost line, and in Vermont that is deeper than most people think: the frost line sits at 48 inches in most of Rutland County and pushes to 54–60 inches at higher elevations like Killington, Mendon, and Shrewsbury. A post that stops short of it will heave.</strong> Here is what that looks like in practice.</p>
+
 <p>Got a call in March from a homeowner in Killington whose fence looked like a row of crooked teeth. Every third post was tilted at a different angle. The fence was two years old. When we dug up the first post, the concrete footing was sitting at 24 inches. Twenty-four inches, in Killington. The frost line up there is a solid 48 inches, sometimes deeper. That fence never had a chance.</p>
 
 <p>Frost line depth is the single most important factor in whether a Vermont fence stays straight. Get it wrong and physics will tear your fence apart — slowly, silently, every freeze-thaw cycle.</p>
