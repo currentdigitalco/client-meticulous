@@ -20,6 +20,93 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "fix-a-damaged-lawn-late-summer-vermont",
+    title:
+      "The Six-Week Window: Repairing a Beat-Up Lawn in Vermont",
+    // Searchers phrase this as fixing or repairing a lawn far more often than
+    // as "renovation", and the late-summer timing is the whole point of the
+    // post, so the search-facing title leads with both.
+    seoTitle: "How to Fix a Damaged Lawn in Vermont (Late Summer)",
+    excerpt:
+      "Late August through mid-September is the best six weeks of the year to repair a Vermont lawn, and most people wait until spring and get worse results for more money. Warm soil, cooling nights and collapsed weed pressure line up in a way they never do in April. Here is how to tell whether your thin patches are a seeding problem, a soil problem, a drainage problem or grubs, what overseeding actually fixes and what it cannot, and why the same window that repairs a lawn is also when fall cleanup and snow contracts get booked.",
+    category: "Lawn Care",
+    date: "August 2026",
+    readTime: "10 min read",
+    image: "/images/blog-fix-a-damaged-lawn-late-summer-vermont.jpeg",
+    featured: false,
+    metaDescription:
+      "The best time to fix a thin or damaged lawn in Vermont is late August to mid-September. Why the window works, and how to tell what is actually wrong.",
+    content: `
+<p data-speakable="true"><strong>The best time to repair a damaged lawn in Vermont is late August through mid-September. Soil is still warm enough for fast germination, nights have cooled, and annual weed pressure has collapsed, so new grass gets roughly six weeks of establishment before hard frost without competing against crabgrass the way spring seeding does.</strong></p>
+
+<p>Most people look at a thin, patchy lawn in August, decide it is a spring problem, and wait. That instinct is understandable and it is backwards. By the time you seed in April, soil temperatures are still climbing, crabgrass is germinating alongside your grass seed, and everything you plant heads straight into summer heat with a root system a few weeks old. The lawns that look good next June are the ones fixed this September.</p>
+
+<h2>Why the late-summer window is the good one</h2>
+
+<p>Three conditions overlap in Rutland County right now, and they do not overlap again until this time next year.</p>
+
+<ul>
+  <li><strong>Soil is still warm.</strong> Cool-season grasses — the fescues, ryegrasses and Kentucky bluegrass that make up a Vermont lawn — germinate on soil temperature, not air temperature. Late-summer soil is at the top of that range, so seed comes up fast instead of sitting.</li>
+  <li><strong>Nights have cooled.</strong> New seedlings lose moisture on hot nights. Cool nights and heavy morning dew mean less watering and less stress on a plant that has almost no root system yet.</li>
+  <li><strong>Weed pressure has collapsed.</strong> Crabgrass is an annual and it is finishing, not starting. Seed put down now is not competing for light and water the way April seed does. This is the difference people notice most and understand least.</li>
+</ul>
+
+<p>The window closes on frost. Grass needs roughly six weeks of growing conditions to establish well enough to survive a Vermont winter, which is why the practical cutoff in this part of the state is mid-September, and earlier at elevation. Seed put down in mid-October is a coin flip.</p>
+
+<h2>First, work out what is actually wrong</h2>
+
+<p>Overseeding fixes exactly one thing: not enough grass plants. It does nothing for a lawn that is thin for a different reason, and this is where money gets wasted every year. Four quick diagnostics.</p>
+
+<h3>Compaction</h3>
+
+<p>Push a screwdriver into the lawn. In decent soil it should go in several inches with hand pressure. If it stops short, the soil is compacted, and seed dropped on compacted ground will germinate and then stall because the roots have nowhere to go. That needs core aeration first — seeding into the holes afterward is one of the highest-return things you can do to a tired lawn.</p>
+
+<h3>Grubs</h3>
+
+<p>Tug on a thin patch. If the turf lifts like a loose carpet with no roots holding it, something has eaten the roots. Peel it back and look for white C-shaped larvae in the top inch or two of soil. Seeding over an active grub population is throwing seed at something that will eat the new roots too.</p>
+
+<h3>Drainage</h3>
+
+<p>Think about where water sits after a heavy rain. A patch that is thin every single year in the same low spot is a drainage problem wearing a lawn problem's clothes. Seed will germinate there and drown or heave out over winter. That one needs grading or drainage work, not more seed.</p>
+
+<h3>Shade</h3>
+
+<p>Track how many hours of direct sun a thin area actually gets. Under four, most lawn grasses will not hold no matter what you spend. The honest options are a shade-tolerant seed mix, limbing up the canopy to let light through, or accepting that the area wants to be a bed rather than a lawn. We would rather tell you that than sell you seed twice.</p>
+
+<h2>What the repair actually involves</h2>
+
+<p>Assuming the problem really is thin turf, the sequence that works is not complicated, and skipping steps is why DIY seeding often disappoints.</p>
+
+<ol>
+  <li><strong>Mow short and clear the surface.</strong> Cut lower than usual and bag it, then rake or dethatch so seed can physically reach soil. Seed sitting on top of thatch does not germinate — it just feeds birds.</li>
+  <li><strong>Open the soil.</strong> Core aeration on a compacted lawn, or a hard raking to break the crust on smaller patches. Seed-to-soil contact is the entire game.</li>
+  <li><strong>Seed at the right rate with the right mix.</strong> Overseeding an existing lawn takes a different rate than starting bare ground, and heavier is not better — crowded seedlings compete with each other. The mix should match the site, especially in shade.</li>
+  <li><strong>Topdress lightly.</strong> A thin layer of compost holds moisture against the seed and adds organic matter to soil that usually needs it. Thin is the operative word; burying seed is as bad as leaving it exposed.</li>
+  <li><strong>Water lightly and often, then taper.</strong> The top half-inch has to stay damp until germination, which usually means short cycles daily rather than one long soak. Once seedlings are up, water less often and more deeply so roots chase it down.</li>
+</ol>
+
+<p>Keep foot traffic off it for a few weeks, and hold off on any weed control until the new grass has been mowed a few times — most products will kill young seedlings outright.</p>
+
+<h2>Repair, or start over?</h2>
+
+<p>The rough rule we use walking a property: if more than about half the area is bare or weeds, overseeding is putting good seed into a bad situation, and a full renovation — killing off what is there, correcting the soil, and starting clean — will cost more up front and less over five years. Under half, repair is the better value and it is what we will recommend.</p>
+
+<p>There is a middle case worth naming too. A lawn that is genuinely thin everywhere rather than patchy in specific spots is usually telling you something about soil, not about seed. That is worth a soil test before spending anything, because lime and nutrient corrections are cheap compared with reseeding a lawn twice.</p>
+
+<h2>The same window does three jobs</h2>
+
+<p>This is the practical reason we bring it up now rather than in October. The six weeks that repair a lawn are the same six weeks when <a href="/services/fall-cleanup">fall cleanup</a> gets scheduled and when <a href="/services/snow-ice-management">snow contracts</a> get booked for the season.</p>
+
+<p>Doing them as one conversation is not upselling, it is sequencing. Aerating and seeding, then cleaning up leaves without smothering new grass, then having the plow route set before the first storm rather than during it — that ordering matters, and it is much harder to arrange once everyone in the county is calling at the same time in November.</p>
+
+<h2>Getting it looked at</h2>
+
+<p>If you have a lawn that has been getting worse for a couple of seasons and you would like a straight answer on whether it needs seed, aeration, drainage work or a soil test, we will walk it with you and tell you which one it is — including telling you when the answer is to spend nothing until spring.</p>
+
+<p>Meticulous handles <a href="/services/landscaping">landscaping</a>, lawn care and property maintenance across Rutland County, from Rutland and Mendon out through Castleton, Brandon, Killington and Pittsford. <a href="/contact">Get in touch</a> and we will get out to look at it.</p>
+`,
+  },
+  {
     slug: "how-often-should-my-driveway-be-plowed-vt",
     title:
       "What Actually Triggers a Plow Visit (and How Often to Expect One)",
