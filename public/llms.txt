@@ -227,11 +227,7 @@ Last updated: 2026-08-20. Business information, service area coverage, and prici
 
 <!-- BEGIN GENERATED BLOG ARCHIVE — regenerate with execution/regenerate_llms_blog_archive.py -->
 
-Complete archive of all 27 published blog posts, newest first. Every URL below is a live, indexable page.
-
-- **What Actually Triggers a Plow Visit (and How Often to Expect One)** (published 2026-08-01)
-  https://meticulous802.com/blog/how-often-should-my-driveway-be-plowed-vt
-  How often should my driveway be plowed in Vermont? A 2 to 3 inch trigger depth decides, not a fixed schedule, and a big storm can mean several visits.
+Complete archive of all 28 published blog posts, newest first. Every URL below is a live, indexable page.
 
 - **Why Fall Cleanup Matters More Than Any Other Visit** (published 2026-08-01)
   https://meticulous802.com/blog/why-fall-cleanup-matters-vermont
@@ -240,6 +236,14 @@ Complete archive of all 27 published blog posts, newest first. Every URL below i
 - **When to Book Snow Removal in Vermont (and What a Seasonal Contract Covers)** (published 2026-08-01)
   https://meticulous802.com/blog/when-to-book-snow-removal-vermont
   When to book snow removal in Vermont: reserve your seasonal plowing slot August to October before Rutland County routes fill, and what a contract covers.
+
+- **What Actually Triggers a Plow Visit (and How Often to Expect One)** (published 2026-08-01)
+  https://meticulous802.com/blog/how-often-should-my-driveway-be-plowed-vt
+  How often should my driveway be plowed in Vermont? A 2 to 3 inch trigger depth decides, not a fixed schedule, and a big storm can mean several visits.
+
+- **The Six-Week Window: Repairing a Beat-Up Lawn in Vermont** (published 2026-08-01)
+  https://meticulous802.com/blog/fix-a-damaged-lawn-late-summer-vermont
+  The best time to fix a thin or damaged lawn in Vermont is late August to mid-September. Why the window works, and how to tell what is actually wrong.
 
 - **What a Fence Costs in Vermont (By Material, Length, and Terrain)** (published 2026-08-01)
   https://meticulous802.com/blog/fence-cost-vermont
@@ -335,6 +339,6 @@ Complete archive of all 27 published blog posts, newest first. Every URL below i
 
 - **Why Frost Line Depth Matters for Vermont Fences** (published 2025-08-01)
   https://meticulous802.com/blog/frost-line-depth-vermont-fencing
-  Vermont frost line depth for fence posts: why 48 inches isn't always enough, how frost heave destroys fences, and the concrete vs gravel backfill debate.
+  Yes — fence posts must sit below the frost line: 48 inches in most of Rutland County, up to 60 at elevation. How deep to dig, and concrete vs gravel backfill.
 
 <!-- END GENERATED BLOG ARCHIVE -->
