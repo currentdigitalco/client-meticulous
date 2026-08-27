@@ -107,13 +107,22 @@ export default function RootLayout({
 
   // aggregateRating describes the FULL Google review corpus, not the excerpts
   // above — it must match the public profile exactly (it is checkable in one
-  // click). Verified live 2026-08-12 against the GBP v4 reviews endpoint:
-  // 32 reviews @ 4.7. This pair OSCILLATES between two states — 32@4.7 (7/24)
-  // → 31@4.8 (7/27) → 32@4.7 (8/12) — one specific review is repeatedly
-  // removed and reinstated by Google. Patch to the live figure every time;
-  // do not treat its return as evidence a patch failed.
+  // click). Verified live 2026-08-26 against the GBP v4 reviews endpoint:
+  // 32 reviews @ 4.8.
+  //
+  // This pair DRIFTS and has now taken three distinct states, not two:
+  //   32@4.7 (7/24) → 31@4.8 (7/27) → 32@4.7 (8/12, 8/19) → 32@4.8 (8/26)
+  // The older note here explained it as "one specific review repeatedly
+  // removed and reinstated by Google." That no longer covers it: this time
+  // the COUNT held at 32 while only the RATING moved, which a single review
+  // toggling in and out cannot produce. Either a reviewer edited their star
+  // value, or one review left and another arrived between reads. Do not
+  // carry the single-review theory forward as if it were established.
+  //
+  // Patch to the live figure every time; do not treat a return to a previous
+  // state as evidence a patch failed.
   // Re-verify: python execution/gbp_fetch_reviews.py --slug meticulous
-  const gbpReviews = { rating: "4.7", count: "32", verifiedOn: "2026-08-13" };
+  const gbpReviews = { rating: "4.8", count: "32", verifiedOn: "2026-08-26" };
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "HomeAndConstructionBusiness",
