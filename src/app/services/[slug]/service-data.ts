@@ -389,8 +389,13 @@ export const serviceDetails: ServiceDetail[] = [
       "We carry proper insurance and use commercial-grade equipment built for Vermont conditions",
     ],
     relatedServices: ["fall-cleanup", "property-maintenance"],
-    lastUpdated: "2026-08-24",
+    lastUpdated: "2026-08-31",
     relatedBlogs: [
+      {
+        slug: "what-is-included-in-snow-removal-vermont",
+        title:
+          "What a Snow Removal Service Actually Clears (and What It Does Not)",
+      },
       {
         slug: "how-often-should-my-driveway-be-plowed-vt",
         title:

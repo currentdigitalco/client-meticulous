@@ -20,6 +20,124 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "what-is-included-in-snow-removal-vermont",
+    title:
+      "What a Snow Removal Service Actually Clears (and What It Does Not)",
+    // Searchers phrase this as "what is included in snow removal" far more than
+    // as the editorial headline, and the scope question is the whole post.
+    seoTitle: "What's Included in Snow Removal Service",
+    excerpt:
+      "Everyone signs a snow contract in October and finds out what it covers in January. A standard seasonal plow contract clears the driveway on a trigger depth, but walkways, steps, entries, de-icing, and the berm the town plow leaves are separate questions the agreement has to answer by name. Here is what a Rutland County plow contract actually covers, what sits outside every one of them, and the lines to read before the first storm instead of during it.",
+    category: "Snow Removal",
+    date: "August 2026",
+    readTime: "11 min read",
+    image: "/images/blog-what-is-included-in-snow-removal-vermont.jpeg",
+    featured: true,
+    metaDescription:
+      "What is included in snow removal service in Vermont? The driveway is plowed on a trigger depth, but walkways, de-icing, and the town-plow berm are separate lines.",
+    content: `
+<p data-speakable="true"><strong>A standard seasonal snow removal contract clears your driveway on a trigger depth, usually 2 to 3 inches, for the whole season. Walkways, steps and entries, de-icing, and clearing the berm the town plow leaves at the end of your drive are three separate line items, and in our experience most homeowners assume all three are included when the contract names only the driveway.</strong></p>
+
+<p><em>Updated August 2026.</em></p>
+
+<p>Everyone signs a snow contract in October, when the driveway is dry and the question feels simple, and finds out what it actually covers in January, standing at the top of an un-shoveled walkway. Meticulous LLC has plowed and managed properties across Rutland County for years, from year-round homes in Rutland and Mendon to second homes on the Killington access roads, and the single most common surprise is not the price. It is the scope. Here is what a snow removal service actually clears, what sits outside every plow contract written, and the lines worth reading before the first storm.</p>
+
+<h2>The driveway gets plowed. Then what?</h2>
+
+<p>The driveway is the one thing every contract covers, and it is also the one thing people picture when they think "snow removal," which is exactly why the rest gets missed. A seasonal driveway contract in this part of Vermont is almost always written against a trigger depth, not a schedule: the plow comes when accumulation reaches an agreed number, commonly 2 to 3 inches, and comes back through a long storm as many times as it takes. That is the driveway. It says nothing yet about the ten feet between where the truck stops and your front door.</p>
+
+<p>The question to ask on the day you sign is simple: read the scope line aloud and see how many surfaces it actually names. If it says "plow driveway," that is what you bought. Everything below is a surface a plow truck cannot or does not touch, and each one is a decision, not an oversight.</p>
+
+<h2>Walkways, steps and entries: cleared, shoveled, or not touched</h2>
+
+<p>Walkways, steps and entries are cleared by hand or by a walk-behind machine, never by the plow truck, so they are always a separate scope line and often a separate crew visit. A plow blade cannot get up your front steps or along a three-foot path, so this work is done with shovels, snowblowers and a bag of ice melt, and it takes a person time on foot. That is why it is priced and scoped on its own. A contract can include it, exclude it, or make it on-call, and all three are legitimate. What you cannot afford is to assume it and find the path buried.</p>
+
+<p>Three ways this typically gets handled:</p>
+
+<ul>
+  <li><strong>Bundled.</strong> Walkways and the main entry are cleared on the same trigger as the driveway, every push. The most hands-off and the most expensive.</li>
+  <li><strong>Primary entry only.</strong> One path, usually the main door, is cleared; side and secondary entries are not. Common on larger homes.</li>
+  <li><strong>On-call.</strong> Walkways are cleared only when you request it. Cheapest, but useless if you are traveling and a storm hits.</li>
+</ul>
+
+<h2>De-icing is a separate line, and here is why</h2>
+
+<p>De-icing is billed separately from plowing because it is a different job with a different material cost that scales with the weather, not with your square footage. Plowing moves snow. De-icing, whether it is rock salt, a calcium or magnesium chloride blend, or sand for traction, treats the ice that plowing leaves behind and the freeze-thaw glaze that forms on Vermont driveways as temperatures swing across 32 degrees through a single day. A hard-packed or icy surface is not a plowing failure; it is the point where a de-icer is the only thing that works, and the product gets used up every application.</p>
+
+<p>Because material cost is real and variable, de-icing is usually written one of three ways: included at a set number of applications per season, billed per application as needed, or left entirely to the homeowner. On sloped drives and the shaded north-side entries common on Killington-area properties, de-icing is not optional in February, so it is worth knowing which structure your contract uses before the first ice event, not after a fall on the steps.</p>
+
+<h2>The berm the town plow leaves after we have already been</h2>
+
+<p>The hardest, heaviest snow on your property is the berm the town plow throws across the end of your driveway, and it usually arrives after your contractor has already cleared the drive. When the municipal plow runs the road, it pushes a dense, often icy wall of road snow right across your apron, sometimes hours after your own plow came through on a clean driveway. Clearing that berm is real, heavy work, and whether it is included, handled on the next scheduled push, or left to you is a line most contracts do not address unless you ask. During a long storm this is the difference between a driveway you can leave in the morning and one you cannot.</p>
+
+<h2>Where the snow goes once the banks get high</h2>
+
+<p>Every plow contract has an unspoken limit: the snow has to go somewhere, and by February the banks are full. Early season, the plow pushes snow to the edges of the driveway. After enough storms, those banks are taller than the blade can lift, and the usable width of the driveway shrinks. At that point the options are stacking the snow farther back, relocating it with a loader, or hauling it off the property entirely, and the last two are almost never inside a standard seasonal price. On tight lots and steep access roads this is worth discussing in October, because a heavy Rutland County winter can bury a drive from its own cleared snow.</p>
+
+<h2>What is outside every plow contract</h2>
+
+<p>Some things are outside the scope of every snow removal contract, not because a contractor is cutting corners, but because they are a different trade or a genuine safety line. Do not expect any of the following as part of a plowing agreement:</p>
+
+<table>
+  <thead>
+    <tr><th>Inside a typical seasonal contract</th><th>Outside every plow contract</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Driveway cleared on a trigger depth, all season</td><td>Clearing snow off the roof or removing ice dams</td></tr>
+    <tr><td>Walkways and entries (if named in the scope)</td><td>Shoveling decks, patios and porches under load</td></tr>
+    <tr><td>De-icing (if named, by set applications or on-call)</td><td>Digging out a buried, parked vehicle</td></tr>
+    <tr><td>Return visits through a long storm</td><td>Damage from ice or snow slides off a roof</td></tr>
+    <tr><td>Snow stacked at the driveway edges</td><td>Hauling snow off-site once the banks are full (unless quoted)</td></tr>
+  </tbody>
+</table>
+
+<p>Roof snow and ice dams matter most here. On a Vermont winter with real snow load, roofs need attention, but that is roof work with its own risk and its own crew, and no reputable plow contract folds it in silently. If your property needs it, scope it separately and deliberately. Our overview of <a href="/blog/preparing-property-for-winter">preparing a property for winter</a> covers the pre-season items that sit outside plowing entirely.</p>
+
+<h2>Reading your agreement before the first storm, not during it</h2>
+
+<p>Read the scope the day you sign, when you can still change it, because the day you need it changed is the day it is snowing. Run this quick checklist against any snow removal agreement before you commit:</p>
+
+<ol>
+  <li>What is the trigger depth, and does the plow return through a long storm?</li>
+  <li>Are walkways, steps and the main entry named, and cleared on the same trigger?</li>
+  <li>Is de-icing included, per-application, or mine to handle?</li>
+  <li>Who clears the town-plow berm at the end of the drive, and when?</li>
+  <li>What happens when the banks are full and snow has to be relocated?</li>
+  <li>What is explicitly excluded, in writing?</li>
+</ol>
+
+<p>A contract that answers those six questions is one you can rely on in January. A contract that only says "plow driveway" is a price and a start date, not a plan for the winter. This is the same discipline behind knowing <a href="/blog/how-often-should-my-driveway-be-plowed-vt">how often a driveway should actually be plowed</a> and <a href="/blog/when-to-book-snow-removal-vermont">when to book snow removal in Vermont</a> before the season fills.</p>
+
+<h2>Common questions about what snow removal includes</h2>
+
+<h3>What is included in a standard snow removal service?</h3>
+
+<p>A standard seasonal contract in Vermont includes clearing the driveway on a trigger depth, usually 2 to 3 inches, with return visits through a long storm. Walkways, steps, entries, de-icing, and clearing the berm left by the town plow are separate scope lines that may or may not be included. Roof snow, decks, patios and hauling snow off-site are outside every standard plow contract. Read the scope line and count how many surfaces it actually names before you sign.</p>
+
+<h3>Does snow plowing include salting or de-icing?</h3>
+
+<p>Not automatically. Plowing moves snow; de-icing treats the ice and freeze-thaw glaze that plowing leaves behind, and it uses material that gets consumed every application, so it is almost always billed separately. It is written one of three ways: a set number of applications included per season, billed per application as needed, or left to the homeowner. On sloped or shaded Vermont drives, confirm which structure your contract uses before the first ice event.</p>
+
+<h3>Are walkways and sidewalks cleared as part of snow removal?</h3>
+
+<p>Only if the contract names them. A plow truck cannot clear a walkway or steps, so that work is done by hand or with a walk-behind machine and is scoped and priced on its own. Many driveway contracts do not include walkways at all, or include only the primary entry. If a cleared path to your door matters, make sure walkways, steps and the main entry are written into the scope, not assumed.</p>
+
+<h3>Who clears the snow the town plow pushes across my driveway?</h3>
+
+<p>That depends on your contract, and it is the line most agreements leave unaddressed. The municipal plow throws a dense berm across your driveway apron when it runs the road, often after your own plow has already cleared the drive. Whether that berm is cleared on the next scheduled push, included, or left to you should be spelled out. Ask specifically, because it is the heaviest snow on the property and it always arrives at the worst time.</p>
+
+<h3>Does snow removal include getting snow off my roof?</h3>
+
+<p>No. Roof snow removal and ice-dam work are a separate trade with their own safety risk and their own crew, and no reputable plow contract includes them silently. On a heavy Vermont winter a roof under real snow load may need attention, but scope it separately and deliberately rather than expecting it as part of plowing.</p>
+
+<h3>How many times will you plow during one storm?</h3>
+
+<p>On a seasonal trigger-depth contract, as many times as it takes to keep accumulation at or below the agreed depth. A storm that drops a foot over a day and a half may mean several visits, all covered by the seasonal price, which is the whole advantage of a trigger contract over a per-visit one. Confirm the trigger depth and that return visits through a long storm are included, since that is what separates a real seasonal contract from one that comes once and calls it done.</p>
+
+<p>If you want a snow removal scope written in plain language, with walkways, de-icing and the town-plow berm named instead of assumed, our <a href="/services/snow-ice-management">snow and ice management service</a> is built that way from the first line. <a href="/contact">Get in touch with Meticulous</a> to walk your property before the first storm and get a contract you can actually rely on in January.</p>
+`,
+  },
+  {
     slug: "fix-a-damaged-lawn-late-summer-vermont",
     title:
       "The Six-Week Window: Repairing a Beat-Up Lawn in Vermont",
@@ -120,7 +238,7 @@ export const blogPosts: BlogPost[] = [
     date: "August 2026",
     readTime: "10 min read",
     image: "/images/blog-how-often-should-my-driveway-be-plowed-vt.jpeg",
-    featured: true,
+    featured: false,
     metaDescription:
       "How often should my driveway be plowed in Vermont? A 2 to 3 inch trigger depth decides, not a fixed schedule, and a big storm can mean several visits.",
     content: `
@@ -239,7 +357,9 @@ export const blogPosts: BlogPost[] = [
 
 <p>If you want your driveway cleared on a system instead of a guess, the trigger depth is the one number that decides everything after it, and it needs to be set before the snow flies. We will walk the property, agree on a trigger that matches how you use it, and put you on a <a href="/services/snow-ice-management">seasonal snow and ice management contract</a> that covers plowing, ice, and post-storm cleanup as one system. We plow and manage ice across <a href="/service-areas/killington">Killington</a>, Rutland, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, Brandon, and Castleton, and for most clients we pair it with a <a href="/services/fall-cleanup">fall cleanup</a> so the same crew hands the property from one season into the next.</p>
 
-<p>Call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send your property address through the <a href="/contact">contact page</a> to get your trigger depth set and your driveway on the route. Meticulous LLC is owned and run by Dan Villarreal, and we have plowed Rutland County driveways since 2009, so the trigger you agree to in the fall is the truck that shows up on your schedule all winter.</p>`,
+<p>Before you sign anything, it is worth knowing <a href="/blog/what-is-included-in-snow-removal-vermont">what a snow removal service actually clears</a>, so walkways, de-icing and the town-plow berm are named in your contract instead of assumed.</p>
+
+<p>Call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send your property address through the <a href="/contact">contact page</a> toget your trigger depth set and your driveway on the route. Meticulous LLC is owned and run by Dan Villarreal, and we have plowed Rutland County driveways since 2009, so the trigger you agree to in the fall is the truck that shows up on your schedule all winter.</p>`,
   },
   {
     slug: "why-fall-cleanup-matters-vermont",
@@ -354,7 +474,9 @@ export const blogPosts: BlogPost[] = [
 
 <p>If you want spring to start as a fresh season instead of a repair job, the fall cleanup is the visit that decides it, and it has to happen before the snow settles. We will walk the property, scope the leaf load and drainage, time the cleanup to your actual drop, and for most clients pair it with a <a href="/services/snow-ice-management">seasonal snow and ice contract</a> so the same crew carries the place from fall into winter. We handle <a href="/services/fall-cleanup">fall cleanups</a> across <a href="/service-areas/killington">Killington</a>, <a href="/service-areas/rutland">Rutland</a>, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, West Rutland, Brandon, and Castleton.</p>
 
-<p>Call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send your property address through the <a href="/contact">contact page</a> to get your fall cleanup on the schedule and your driveway on the snow route. Meticulous LLC is owned and run by Dan Villarreal, and we have cared for Rutland County properties through more than fifteen Vermont winters, so we know exactly what a skipped fall costs when the snow comes off in April.</p>`,
+<p>Before you sign anything, it is worth knowing <a href="/blog/what-is-included-in-snow-removal-vermont">what a snow removal service actually clears</a>, so walkways, de-icing and the town-plow berm are named in your contract instead of assumed.</p>
+
+<p>Call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send your property address through the <a href="/contact">contact page</a> toget your fall cleanup on the schedule and your driveway on the snow route. Meticulous LLC is owned and run by Dan Villarreal, and we have cared for Rutland County properties through more than fifteen Vermont winters, so we know exactly what a skipped fall costs when the snow comes off in April.</p>`,
   },
   {
     slug: "when-to-book-snow-removal-vermont",
@@ -483,7 +605,9 @@ export const blogPosts: BlogPost[] = [
 
 <p>If you want your driveway on a route before the first storm rather than after it, now is the time to book. We will walk the property, mark obstacles, set your trigger depth, and put you on a <a href="/services/snow-ice-management">seasonal snow and ice management contract</a> with automatic dispatch and priority response, so you can stop watching the forecast. We plow and manage ice across <a href="/service-areas/killington">Killington</a>, <a href="/service-areas/rutland">Rutland</a>, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, West Rutland, Brandon, and Castleton, and for many clients we pair it with the <a href="/blog/preparing-property-for-winter">fall property prep that gets everything snow-ready</a> so the same crew carries the place from one season into the next.</p>
 
-<p>Call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send your property address through the <a href="/contact">contact page</a> to reserve your slot. Meticulous LLC is owned and run by Dan Villarreal, and we have been plowing Rutland County driveways since 2009, so the route you book in August is the truck at your driveway in December.</p>`,
+<p>Before you sign anything, it is worth knowing <a href="/blog/what-is-included-in-snow-removal-vermont">what a snow removal service actually clears</a>, so walkways, de-icing and the town-plow berm are named in your contract instead of assumed.</p>
+
+<p>Call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send your property address through the <a href="/contact">contact page</a> toreserve your slot. Meticulous LLC is owned and run by Dan Villarreal, and we have been plowing Rutland County driveways since 2009, so the route you book in August is the truck at your driveway in December.</p>`,
   },
   {
     slug: "fence-cost-vermont",
