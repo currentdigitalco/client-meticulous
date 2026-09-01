@@ -124,6 +124,9 @@ Book between August and October, and have a seasonal contract signed by early No
 ### What does a seasonal snow contract cover that per-push plowing does not?
 A seasonal contract covers automatic dispatch on a pre-set trigger depth (commonly about two inches for a residential driveway), priority ahead of per-push and on-call work, walkway and step clearing, salt and sand for ice, post-storm cleanup passes, and one flat seasonal price that does not rise with a heavy winter. Per-push billing charges per storm, runs on a phone call, and puts you behind contract holders on every route, which is why absentee second-home owners in particular need a contract rather than per-push service.
 
+### What is included in a snow removal service in Vermont?
+A standard seasonal contract includes clearing the driveway on a trigger depth (usually 2 to 3 inches) with return visits through a long storm. Walkways, steps and entries, de-icing, and clearing the berm the town plow throws across the driveway apron are separate scope lines that may or may not be included, so read the scope and count how many surfaces it actually names. Outside every plow contract: roof snow and ice dams, decks and patios under load, digging out a buried vehicle, and hauling snow off-site once the banks are full. See https://meticulous802.com/blog/what-is-included-in-snow-removal-vermont.
+
 ### Can you handle historic or estate-level properties?
 Yes. We work with everything from village lots to multi-acre estates. For historic properties, we handle exterior carpentry, stonework, and restoration with appropriate materials and attention to original character.
 
@@ -222,7 +225,7 @@ Book it in late August or early September, before the actual leaf drop starts. T
 
 ---
 
-Last updated: 2026-08-27. Business information, service area coverage, and pricing are current as of this date. 20 dedicated service-area pages live across Rutland County and Windsor County, Vermont. Fall cleanup + snow season contracts are the current seasonal priority — late August through September is when second-home and commercial owners lock in winter plowing before the first Green Mountain snow, and snow bookings are open through October before route capacity fills.
+Last updated: 2026-08-31. Business information, service area coverage, and pricing are current as of this date. 20 dedicated service-area pages live across Rutland County and Windsor County, Vermont. Fall cleanup + snow season contracts are the current seasonal priority — late August through September is when second-home and commercial owners lock in winter plowing before the first Green Mountain snow, and snow bookings are open through October before route capacity fills.
 
 ---
 
@@ -230,7 +233,11 @@ Last updated: 2026-08-27. Business information, service area coverage, and prici
 
 <!-- BEGIN GENERATED BLOG ARCHIVE — regenerate with execution/regenerate_llms_blog_archive.py -->
 
-Complete archive of all 28 published blog posts, newest first. Every URL below is a live, indexable page.
+Complete archive of all 29 published blog posts, newest first. Every URL below is a live, indexable page.
+
+- **What a Snow Removal Service Actually Clears (and What It Does Not)** (published 2026-08-31)
+  https://meticulous802.com/blog/what-is-included-in-snow-removal-vermont
+  What is included in snow removal service in Vermont? The driveway is plowed on a trigger depth, but walkways, de-icing, and the town-plow berm are separate lines.
 
 - **Why Fall Cleanup Matters More Than Any Other Visit** (published 2026-08-01)
   https://meticulous802.com/blog/why-fall-cleanup-matters-vermont
