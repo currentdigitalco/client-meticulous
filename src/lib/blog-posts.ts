@@ -2816,7 +2816,12 @@ export const blogPosts: BlogPost[] = [
     // rankings — so it keeps the frost-line depth intent and the newer post is
     // pointed at wood choice and post spacing instead. Do not re-broaden either
     // one back over the other.
-    seoTitle: "Do Fence Posts Need to Be Below the Frost Line?",
+    //
+    // GSC 2026-09-02 (28d): pos 1.8 "frost line in vermont" (19 imp), 4.6 "do
+    // fence posts need to be below frost line" (45), 5.7-8.4 fence-post frost
+    // queries, still 0 clicks. Retitled to lead with the depth figure the post
+    // states and the yes answer, so the snippet answers before the click.
+    seoTitle: "Vermont Frost Line: 48 to 60 Inches. Set Fence Posts Below",
     excerpt:
       "If your fence posts aren't below the frost line, your fence will move. We've fixed enough leaning fences to know exactly how deep to go.",
     category: "Fencing",
@@ -2825,7 +2830,7 @@ export const blogPosts: BlogPost[] = [
     image: "/images/blog-frost-line.jpeg",
     featured: false,
     metaDescription:
-      "Yes — fence posts must sit below the frost line: 48 inches in most of Rutland County, up to 60 at elevation. How deep to dig, and concrete vs gravel backfill.",
+      "The frost line is 48 inches in most of Rutland County, 54 to 60 at elevation. Yes, fence posts go below it or frost heave lifts them. Dig depth and backfill.",
     content: `
 <p data-speakable="true"><strong>Yes — fence posts need to be set below the frost line, and in Vermont that is deeper than most people think: the frost line sits at 48 inches in most of Rutland County and pushes to 54–60 inches at higher elevations like Killington, Mendon, and Shrewsbury. A post that stops short of it will heave.</strong> Here is what that looks like in practice.</p>
 
