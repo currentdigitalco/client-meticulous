@@ -31,7 +31,7 @@ export const serviceAreas: ServiceArea[] = [
       "Meticulous LLC handles the full stack for Killington owners: plow contracts that actually show up at 4 AM before a powder day, hospitality-grade turnovers between bookings, and year-round grounds work for the off-season.",
       "Most of our Killington clients are remote owners. We operate as their eyes and hands on the ground, so the property is always guest-ready and the driveway is always cleared.",
     ],
-    localContext: "Killington has Vermont's largest ski resort, which drives the local rental market. Properties here see heavy winter traffic, extreme snow loads (routinely 200+ inches per season), and short turnover windows between guests. Late August turns the Killington calendar toward the seasons ahead: weekly mowing eases as growth slows, fall-cleanup scope is being walked and quoted on the Killington Road rental properties before leaf drop, and this is when second-home owners lock in snow-plowing contracts ahead of a season that routinely runs 200-plus inches. Beds get their end-of-summer refresh and perennial cutback, and hardscape crews are closing out retaining-wall and patio work before the ground cools on the access-road elevations.",
+    localContext: "Killington has Vermont's largest ski resort, which drives the local rental market. Properties here see heavy winter traffic, extreme snow loads (routinely 200+ inches per season), and short turnover windows between guests. Early September is when the Killington calendar tips into pre-season: fall-cleanup routes are now booked, not quoted, on the Killington Road rental properties, and second-home owners are signing snow-plowing contracts before the first storms hit the access road. Weekly mowing frequency drops as cool nights slow growth on the mountain elevations, and hardscape crews are wrapping retaining-wall and patio work before the ground cools.",
     priorityServices: ["snow-ice-management", "housekeeping", "rental-support", "grounds-maintenance"],
     landmarks: ["Killington Resort", "Pico Mountain", "Killington Peak Lodge", "Route 4 corridor", "Killington Road"],
     faqs: [
@@ -48,7 +48,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. We service the full Killington Road corridor, the access roads leading to the mountain, and outlying neighborhoods toward Pico, Mendon, and the Route 4 corridor.",
       },
     ],
-    lastUpdated: "2026-08-20",
+    lastUpdated: "2026-09-03",
   },
   {
     slug: "rutland",
@@ -62,7 +62,7 @@ export const serviceAreas: ServiceArea[] = [
       "City properties here need different care than the ski-town rentals up the mountain. We handle commercial plowing for storefronts and office parks, grounds maintenance for multi-family properties, and full-scope carpentry and hardscaping for single-family homeowners.",
       "Because we're local, we're not a sub-contractor bouncing between regions. Our crews know Rutland block by block and respond faster than the out-of-county companies trying to service from afar.",
     ],
-    localContext: "Rutland is Vermont's third-largest city with a dense mix of commercial properties, multi-family housing, and residential neighborhoods. Winter brings heavy snow off the Green Mountains, and mud season arrives hard in April as snowmelt saturates the clay-heavy soils on compact urban lots. The city's historic downtown has specific landscaping and sidewalk maintenance requirements that commercial property owners have to meet. Late August shifts the Rutland commercial calendar toward fall: Route 7 storefronts and the medical-center campus stay on a clean weekly cut while growth slows, downtown sidewalk planters get their end-of-summer refresh, and fall-cleanup routes are being scheduled for leaf drop across the multi-family and commercial book. This is also when commercial property owners lock in their winter plowing contracts, so the lots and access roads that need pre-season striping and stake-out are being walked now before the first Green Mountain snow.",
+    localContext: "Rutland is Vermont's third-largest city with a dense mix of commercial properties, multi-family housing, and residential neighborhoods. Winter brings heavy snow off the Green Mountains, and mud season arrives hard in April as snowmelt saturates the clay-heavy soils on compact urban lots. The city's historic downtown has specific landscaping and sidewalk maintenance requirements that commercial property owners have to meet. Early September moves the Rutland commercial calendar squarely into pre-season winter prep: Route 7 storefronts and the medical-center campus are shifting from weekly mowing to bi-weekly as growth slows, downtown sidewalk planters are being cycled to fall material, and fall cleanup is now being routed for the leaf-drop window across the multi-family and commercial book. Commercial plowing contracts for the coming winter are being signed and marked out this month, so lots and access roads get their pre-season striping and stake-out before the first Green Mountain storm.",
     priorityServices: ["snow-ice-management", "grounds-maintenance", "property-maintenance", "hardscaping", "carpentry"],
     landmarks: ["Downtown Rutland", "Main Street", "Rutland Regional Medical Center", "Route 7 corridor", "Giorgetti Park"],
     faqs: [
@@ -79,7 +79,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Meticulous LLC is a registered residential contractor and registered Property Management Firm in Vermont, properly licensed and insured for the full scope of services we offer.",
       },
     ],
-    lastUpdated: "2026-08-20",
+    lastUpdated: "2026-09-03",
   },
   {
     slug: "woodstock",
@@ -93,7 +93,7 @@ export const serviceAreas: ServiceArea[] = [
       "We work with Woodstock homeowners, estate managers, and innkeepers who want their property presented at a level that matches the village itself — manicured beds, clean hardscape, and grounds that look intentional from the road.",
       "Most of our Woodstock clients are either year-round residents with high expectations or second-home owners who need a trusted local to keep things looking right while they're away.",
     ],
-    localContext: "Woodstock is one of the most visited towns in Vermont, with a protected historic character that extends to how properties are maintained. Stone walls, specimen trees, and curated gardens are common features that need specific expertise. Late August moves Woodstock estates into fall foliage-season presentation: the Route 4 corridor properties and inns have to read camera-ready through the busiest visitor stretch of the year, so we're on weekly mow-edge-blow rotations while growth slows, holding beds clean with end-of-summer refresh and deadheading, shaping specimen trees before the leaves turn, and sweeping stone walks ahead of every weekend arrival. Fall-cleanup and gutter scope is being quoted on the second homes now, and this is when owners lock in winter plowing before the ground cools.",
+    localContext: "Woodstock is one of the most visited towns in Vermont, with a protected historic character that extends to how properties are maintained. Stone walls, specimen trees, and curated gardens are common features that need specific expertise. Early September puts Woodstock estates squarely into foliage-season presentation: the Route 4 corridor properties and inns have to read camera-ready through the busiest visitor stretch of the year, so we're on weekly mow-edge-blow rotations even as growth slows, holding beds clean with early fall refresh and deadheading, shaping specimen trees before the leaves turn, and sweeping stone walks ahead of every weekend arrival. Fall-cleanup and gutter scope on the second homes is now on the schedule rather than in the quote pipeline, and winter plowing contracts are being finalized before the ground cools.",
     priorityServices: ["landscaping", "grounds-maintenance", "hardscaping", "property-maintenance"],
     landmarks: ["Woodstock Village Green", "Billings Farm", "Marsh-Billings-Rockefeller National Historical Park", "Route 4", "Ottauquechee River"],
     faqs: [
@@ -110,7 +110,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Woodstock is within our regular service radius. We schedule routes efficiently so clients aren't paying a premium for distance.",
       },
     ],
-    lastUpdated: "2026-08-20",
+    lastUpdated: "2026-09-03",
   },
   {
     slug: "ludlow",
@@ -124,7 +124,7 @@ export const serviceAreas: ServiceArea[] = [
       "We serve Ludlow homeowners and rental operators with the full stack: plow contracts, hospitality-grade turnovers, and grounds care that keeps the property presentable for the next booking.",
       "Because we already run routes through Killington and the Route 4 corridor, adding Ludlow properties to the schedule doesn't stretch us thin or hurt our response times.",
     ],
-    localContext: "Ludlow is built around Okemo Mountain Resort and the year-round Jackson Gore base area. Properties here range from village condos to slope-side second homes, and the rental market is active through both winter and shoulder seasons. Late August turns Ludlow toward foliage season and the winter ahead: weekly mowing eases as growth slows while properties still turn over on a Friday schedule for shoulder-season guests, Jackson Gore condo HOA grounds get their end-of-summer bed refresh, and Echo Lake-facing second homes are getting dock pull-and-store planning before the water cools. This is the window when owners lock in Okemo-season plow contracts, and the fall-cleanup route for the slope-side properties is being scheduled ahead of leaf drop.",
+    localContext: "Ludlow is built around Okemo Mountain Resort and the year-round Jackson Gore base area. Properties here range from village condos to slope-side second homes, and the rental market is active through both winter and shoulder seasons. Early September flips Ludlow from shoulder-season maintenance into foliage-season prep: weekly mowing frequency is dropping as growth slows while properties still turn over on a Friday schedule for pre-foliage guests, Jackson Gore condo HOA grounds are being cycled into fall color, and Echo Lake-facing second homes are scheduling dock pull-and-store before the water cools. Okemo-season plow contracts are being signed this month, and the fall-cleanup route for the slope-side properties is now scheduled rather than being scoped.",
     priorityServices: ["snow-ice-management", "housekeeping", "rental-support", "grounds-maintenance"],
     landmarks: ["Okemo Mountain Resort", "Jackson Gore", "Route 100", "Main Street Ludlow", "Echo Lake"],
     faqs: [
@@ -141,7 +141,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Summer is our prime hardscape season. We install patios, retaining walls, and walkways throughout the Ludlow area, engineered for Vermont's freeze-thaw cycles.",
       },
     ],
-    lastUpdated: "2026-08-20",
+    lastUpdated: "2026-09-03",
   },
   {
     slug: "pittsfield",
@@ -186,7 +186,7 @@ export const serviceAreas: ServiceArea[] = [
       "We handle the full range of property care services in Chittenden — grounds maintenance, snow management, landscaping, and hardscape work — with crews that know how to operate on the narrower rural roads and longer site drives.",
       "Most Chittenden properties need a partner who understands the rhythm of the town: spread-out properties, long winters, and owners who value reliability over flash.",
     ],
-    localContext: "Chittenden is home to the Chittenden Reservoir and Lefferts Pond, plus a mix of small working farms, rural homesites, and second-home properties tucked into the Green Mountain foothills. The town is largely forested with winding back roads and a small village center. Properties tend to be large, with mature landscaping and significant snow exposure. Early August at Chittenden is second-cut hay and heat-cycle week: reservoir-front lots hold at 4-inch mow heights so lakeside beach frontage stays green through the dry stretch, working farms are running the second cut of the season and the parcel-edge trim work along field margins is scheduled around the baler pattern, and forested rural lots stay on limb-sweep watch as the afternoon convective cells continue rolling off the Green Mountain ridge. Foliage-season prep scopes are going out to reservoir-front rental owners for gutters and light exterior carpentry before the September booking wave.",
+    localContext: "Chittenden is home to the Chittenden Reservoir and Lefferts Pond, plus a mix of small working farms, rural homesites, and second-home properties tucked into the Green Mountain foothills. The town is largely forested with winding back roads and a small village center. Properties tend to be large, with mature landscaping and significant snow exposure. Early September is the foliage-prep window for Chittenden: reservoir-front lots are being cycled into their fall look, gutters and downspouts are being cleared on the second homes ahead of the leaf-drop wave, and working farms are wrapping the last field cut before the season shuts down. Snow-plow contracts for the coming winter are being finalized on the long forested driveways where a February failure to plow is a safety issue, not an inconvenience.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "landscaping", "property-maintenance"],
     landmarks: ["Chittenden Reservoir", "Lefferts Pond", "Green Mountain National Forest", "Chittenden Dam"],
     faqs: [
@@ -203,7 +203,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Spring opening and fall closing are common services for our Chittenden clients. We can also handle winterization, frost-prep, and pre-arrival readiness checks.",
       },
     ],
-    lastUpdated: "2026-08-06",
+    lastUpdated: "2026-09-03",
   },
   {
     slug: "mendon",
@@ -217,7 +217,7 @@ export const serviceAreas: ServiceArea[] = [
       "Because we route through Mendon constantly on our way between Rutland and the mountain, our Mendon clients get consistent service without the travel-time premium that distant services charge.",
       "We handle grounds maintenance, snow contracts, carpentry, and property support for Mendon homeowners — whether you live here year-round or use the place as a ski retreat.",
     ],
-    localContext: "Mendon straddles Route 4 between Rutland and Killington, with properties along the corridor, up toward Mendon Mountain, and in the rural outlying areas. The town has a mix of working families, retirees, and second-home owners. Winter snow loads are substantial: Mendon sits at elevation and catches storms that roll east from Killington Peak. Early August pushes Mendon into the deck-reseal and pre-foliage window: elevation second homes are getting stain and reseal work booked into the coolest morning windows, Route 4 corridor lawns hold at 4-inch finish cuts to survive the sustained dry stretch, and mountain-bike-season weekend rental turnovers are still running Thursday and Sunday so hardscape sweeps stay stacked pre-arrival. First foliage-lookout gutter and downspout checks are going out to remote owners on the mountain-side parcels so the September leaf-peeper wave lands on a clean property.",
+    localContext: "Mendon straddles Route 4 between Rutland and Killington, with properties along the corridor, up toward Mendon Mountain, and in the rural outlying areas. The town has a mix of working families, retirees, and second-home owners. Winter snow loads are substantial: Mendon sits at elevation and catches storms that roll east from Killington Peak. Early September lands Mendon in foliage-lookout mode: gutter and downspout checks are running on the mountain-side parcels ahead of the leaf-peeper wave, Route 4 corridor lawns are shifting to bi-weekly finish cuts as cool nights slow growth, and elevation second homes still have a narrow deck-reseal window before nighttime temperatures drop out of the working range. Snow-plow contracts for the corridor and Mendon Mountain properties are being locked in now — the storms that roll east from Killington Peak arrive early at this elevation.",
     priorityServices: ["snow-ice-management", "grounds-maintenance", "property-maintenance", "carpentry"],
     landmarks: ["Route 4", "Mendon Mountain", "Turn of River Lodge", "Long Trail access"],
     faqs: [
@@ -234,7 +234,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. As a registered Vermont residential contractor, we handle deck rebuilds, rot repair, siding, trim, and structural work throughout Mendon.",
       },
     ],
-    lastUpdated: "2026-08-06",
+    lastUpdated: "2026-09-03",
   },
   {
     slug: "proctor",
