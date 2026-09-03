@@ -125,7 +125,7 @@ Book between August and October, and have a seasonal contract signed by early No
 A seasonal contract covers automatic dispatch on a pre-set trigger depth (commonly about two inches for a residential driveway), priority ahead of per-push and on-call work, walkway and step clearing, salt and sand for ice, post-storm cleanup passes, and one flat seasonal price that does not rise with a heavy winter. Per-push billing charges per storm, runs on a phone call, and puts you behind contract holders on every route, which is why absentee second-home owners in particular need a contract rather than per-push service.
 
 ### What is included in a snow removal service in Vermont?
-A standard seasonal contract includes clearing the driveway on a trigger depth (usually 2 to 3 inches) with return visits through a long storm. Walkways, steps and entries, de-icing, and clearing the berm the town plow throws across the driveway apron are separate scope lines that may or may not be included, so read the scope and count how many surfaces it actually names. Outside every plow contract: roof snow and ice dams, decks and patios under load, digging out a buried vehicle, and hauling snow off-site once the banks are full. See https://meticulous802.com/blog/what-is-included-in-snow-removal-vermont.
+A standard seasonal contract includes clearing the driveway on a trigger depth (usually 2 to 3 inches) with return visits through a long storm. Walkways, steps and entries, de-icing, and clearing the berm the town plow throws across the driveway apron are separate scope lines that may or may not be included, so read the scope and count how many surfaces it actually names. Outside every plow contract: roof snow and ice dams, decks and patios under load, digging out a buried vehicle, and hauling snow off-site once the banks are full. See <https://meticulous802.com/blog/what-is-included-in-snow-removal-vermont>.
 
 ### Can you handle historic or estate-level properties?
 Yes. We work with everything from village lots to multi-acre estates. For historic properties, we handle exterior carpentry, stonework, and restoration with appropriate materials and attention to original character.
@@ -235,10 +235,6 @@ Last updated: 2026-08-31. Business information, service area coverage, and prici
 
 Complete archive of all 29 published blog posts, newest first. Every URL below is a live, indexable page.
 
-- **What a Snow Removal Service Actually Clears (and What It Does Not)** (published 2026-08-31)
-  https://meticulous802.com/blog/what-is-included-in-snow-removal-vermont
-  What is included in snow removal service in Vermont? The driveway is plowed on a trigger depth, but walkways, de-icing, and the town-plow berm are separate lines.
-
 - **Why Fall Cleanup Matters More Than Any Other Visit** (published 2026-08-01)
   https://meticulous802.com/blog/why-fall-cleanup-matters-vermont
   Why fall cleanup matters for lawn health: a wet leaf mat under four months of Vermont snow smothers grass and breeds snow mold. What a skipped fall costs.
@@ -246,6 +242,10 @@ Complete archive of all 29 published blog posts, newest first. Every URL below i
 - **When to Book Snow Removal in Vermont (and What a Seasonal Contract Covers)** (published 2026-08-01)
   https://meticulous802.com/blog/when-to-book-snow-removal-vermont
   When to book snow removal in Vermont: reserve your seasonal plowing slot August to October before Rutland County routes fill, and what a contract covers.
+
+- **What a Snow Removal Service Actually Clears (and What It Does Not)** (published 2026-08-01)
+  https://meticulous802.com/blog/what-is-included-in-snow-removal-vermont
+  What is included in snow removal service in Vermont? The driveway is plowed on a trigger depth, but walkways, de-icing, and the town-plow berm are separate lines.
 
 - **What Actually Triggers a Plow Visit (and How Often to Expect One)** (published 2026-08-01)
   https://meticulous802.com/blog/how-often-should-my-driveway-be-plowed-vt
@@ -349,6 +349,6 @@ Complete archive of all 29 published blog posts, newest first. Every URL below i
 
 - **Why Frost Line Depth Matters for Vermont Fences** (published 2025-08-01)
   https://meticulous802.com/blog/frost-line-depth-vermont-fencing
-  Yes — fence posts must sit below the frost line: 48 inches in most of Rutland County, up to 60 at elevation. How deep to dig, and concrete vs gravel backfill.
+  The frost line is 48 inches in most of Rutland County, 54 to 60 at elevation. Yes, fence posts go below it or frost heave lifts them. Dig depth and backfill.
 
 <!-- END GENERATED BLOG ARCHIVE -->
