@@ -11,14 +11,149 @@ export interface BlogPost {
   excerpt: string;
   category: string;
   date: string;
+  /**
+   * Optional explicit ISO publish date (YYYY-MM-DD). The schema layer defaults
+   * to `parseIsoDate(date)`, which resolves the "Month Year" display string to
+   * the 1st of the month. Set this when the exact day matters for datePublished
+   * / dateModified. Older posts omit it and keep the day-1 behavior.
+   */
+  datePublished?: string;
   readTime: string;
   image: string;
+  /**
+   * Optional keyword-bearing alt text for the hero image. Falls back to `title`
+   * when unset, so existing posts are unaffected.
+   */
+  imageAlt?: string;
   featured: boolean;
   metaDescription: string;
   content: string;
 }
 
 export const blogPosts: BlogPost[] = [
+  {
+    slug: "when-to-schedule-fall-cleanup-vermont",
+    title:
+      "What a Fall Cleanup Includes, and the Week to Book It in Rutland County",
+    // Editorial H1 is 71 chars, too long for the SERP. The search-facing title
+    // carries the "when to book / fall cleanup / Vermont" intent inside budget.
+    seoTitle: "When to Book a Fall Cleanup in Vermont",
+    excerpt:
+      "Most people call about fall cleanup in October, when the leaves are already down and the first snow is in the forecast, and by then the schedule is full. In Rutland County there is a two-week window in early September, before leaf drop starts, when you can still get on the route and still get a coordinated hand-off into a snow contract. Here is what a fall cleanup actually includes, why the leaves are the smallest part of it, and how leaf drop runs across the valley and the hill towns so you can book the right week.",
+    category: "Fall & Winter Prep",
+    date: "September 2026",
+    datePublished: "2026-09-07",
+    readTime: "10 min read",
+    image: "/images/blog-when-to-schedule-fall-cleanup-vermont.jpeg",
+    imageAlt:
+      "When to schedule fall cleanup in Vermont: leaf removal on a Rutland County property before the first snow",
+    featured: true,
+    metaDescription:
+      "When to schedule fall cleanup in Vermont: book in early September, before leaf drop, so it is done before the first Rutland County snow. What's included.",
+    content: `
+<p><em>Updated September 2026.</em></p>
+
+<p data-speakable="true"><strong>When to schedule fall cleanup in Vermont comes down to a two-week window: book it in early September, before leaf drop starts, so the work lands between late September and mid-November and finishes before the first snow. Whatever is on the lawn when the first Rutland County storm hits is locked there until April.</strong></p>
+
+<p>Meticulous LLC has managed properties across Rutland County since 2009, for year-round residents and second-home owners in Killington, Rutland, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, West Rutland, Brandon, and Castleton. I am Dan Villarreal, and every year the same thing happens: the phone starts ringing in mid-October, when the leaves are already down and the first snow is in the forecast, and by then the fall routes are full. The people who get a clean hand-off from fall into winter are the ones who called in early September, before a single maple had dropped. This is the visit that makes the plowing possible, so here is exactly what it includes and the week to book it.</p>
+
+<h2>When should you schedule a fall cleanup in Vermont?</h2>
+
+<p>Schedule it in early September, roughly two weeks before leaf drop begins, because that is the only stretch when you can still choose your slot instead of taking whatever is left. The fall cleanup calendar in Rutland County runs from the last week of September through mid-November, timed to elevation and tree cover, and the routes fill from the top down. By early October the roster is mostly committed to contract holders, and a walk-in call in late October gets pushed to the tail end of November, when snow has already flattened the leaf mat and half the intended work is no longer possible to do well.</p>
+
+<p>There is a second reason the early-September window matters, and it has nothing to do with leaves. Booking the cleanup before the season fills is what secures the coordinated hand-off into a seasonal snow contract, so the same crew that hauls your leaves in October is the one plowing your driveway in December. On the properties we run year-round, both get booked on the same call. Miss the window and you are not just late for leaves, you are trying to find a plow in November, which in this county you do not want to be doing.</p>
+
+<h2>Why are leaves the smallest part of a fall cleanup?</h2>
+
+<p>Leaves are the smallest part of a fall cleanup because the cleanup is really a winter-prep visit, and clearing the lawn is one line of six. The leaves are the part everyone can see, so they get all the attention, but the work that actually decides how the property comes through winter happens in the beds, the gutters, the drainage, and the ground around the driveway. We make the full case for the visit itself in <a href="/blog/why-fall-cleanup-matters-vermont">why fall cleanup matters more than any other visit</a>. Here is everything a real fall cleanup covers in Rutland County, and why each line earns its place before the snow lands.</p>
+
+<table>
+<thead>
+<tr><th>What the cleanup covers</th><th>Why it matters before snow</th></tr>
+</thead>
+<tbody>
+<tr><td>Leaf removal and haul-away</td><td>A wet leaf mat under four months of snow smothers turf and breeds snow mold</td></tr>
+<tr><td>Garden bed cleanout</td><td>Packed leaves and dead growth in beds rot and hold water against crowns and foundations</td></tr>
+<tr><td>Perennial cutback, species by species</td><td>Some plants get cut now, some hold their stems for winter protection, and getting it wrong sets growth back a season</td></tr>
+<tr><td>Gutter and downspout clearing</td><td>A gutter full of leaves in December freezes into an ice dam by February</td></tr>
+<tr><td>Storm and blowdown debris removal</td><td>Branch litter washes into swales and culverts and packs into a plug the spring melt cannot get through</td></tr>
+<tr><td>Final short mow and snow-ready prep</td><td>A short final cut reduces snow-mold pressure, and marked edges let the plow work without tearing turf</td></tr>
+</tbody>
+</table>
+
+<p>Notice how few of those lines are about leaves. The leaf removal is the visible half. The other five are the reason a skipped fall turns into a spring repair list instead of a clean startup.</p>
+
+<h2>What gets cut back now, and what waits until spring?</h2>
+
+<p>What gets cut back now is the dead, soft, disease-prone growth, and what waits until spring is anything whose standing stems protect the crown through a Vermont winter or feed the birds. This is the part of a cleanup that separates a crew that knows plants from one that just runs a blower, because cutting the wrong perennial to the ground in October exposes its crown to frost heave and sets it back a full season. Here is how we sort it on a Rutland County property:</p>
+
+<ul>
+<li><strong>Cut back now:</strong> hostas, daylilies, bee balm, peonies, and anything that flopped, blackened, or showed mildew or leaf spot this year. Diseased foliage left standing overwinters the problem and reinfects the plant in spring.</li>
+<li><strong>Leave standing until spring:</strong> ornamental grasses, coneflower and black-eyed Susan seed heads, and lavender and other woody-stemmed perennials. The standing stems trap insulating snow over the crown, and at our elevation that snow cover is real winter protection, not a cosmetic choice.</li>
+<li><strong>Cut, but leave the roots undisturbed:</strong> most late annuals get pulled, but we do not dig or divide beds in the fall here, because a bed opened up in October heaves over winter and the plants sit proud of the soil by April.</li>
+<li><strong>Always clear out:</strong> fallen leaves, rotted mulch, and spent vegetable growth, which hold moisture and harbor slugs and fungus against the plants you are trying to protect.</li>
+</ul>
+
+<p>If you are not sure which pile a plant belongs in, the safe default in this climate is to leave it standing and cut it in spring. You lose a little tidiness over winter and gain crown protection. We cover the spring side of this in our post on <a href="/blog/spring-drainage-problems-vermont-snowmelt">spring drainage problems after snowmelt</a>, because the beds and the drainage are the same story running in two seasons.</p>
+
+<h2>Where is the snowmelt going to go?</h2>
+
+<p>The snowmelt is going to go wherever the fall cleanup left the drainage, which is why clearing gutters, swales, and culverts in October is really spring-flood insurance you collect on in April. Vermont's melt is not gentle: four months of snowpack can come off the valley in a few weeks, sometimes a few days, and all of that water needs a clear path off the property. When the gutters, downspouts, and low-spot drainage are choked with a winter's worth of un-cleared leaves and branch litter, the water backs up instead. It pools against foundations, saturates the lawn into the soft mush that rutting and frost heave love, and finds the low door or the window well.</p>
+
+<p>Gutters are the fastest-moving version of this problem. Leaves left in a gutter through December freeze solid, and frozen leaf-packed gutters are exactly how ice dams form on a Vermont roof, which is an interior-water problem, not a lawn one. Clearing them in the fall costs an hour; chasing the ice-dam damage in February costs far more. Our overview of <a href="/blog/preparing-property-for-winter">preparing a property for winter</a> walks through the rest of the pre-snow drainage and freeze items in order.</p>
+
+<h2>How do you get a property ready for a plow to actually work on it?</h2>
+
+<p>You get a property ready for a plow by clearing and marking everything the blade needs to miss and everything it needs to reach, before the first snow hides all of it. This is the line most people never think of as part of a cleanup, and it is the one that ties the whole visit together: the fall cleanup is what makes the winter plowing possible. A plow truck working a driveway it cannot read is how mailboxes, bed edges, landscape lighting, and turf get torn up.</p>
+
+<p>Here is the snow-ready pass we run at the end of every fall cleanup, in order:</p>
+
+<ol>
+<li><strong>Clear the driveway edges and turnarounds</strong> of leaves, branches, and debris so the plow has clean pavement to push to, not a hidden layer that freezes into ruts.</li>
+<li><strong>Mark the obstacles</strong> the snow will bury: driveway edges, culvert ends, bed corners, walkway lights, water shutoffs, and anything low that a blade or a snowblower would catch.</li>
+<li><strong>Stow or reposition</strong> furniture, planters, hoses, and seasonal fixtures that would be damaged under snow load or sitting in the plow's path.</li>
+<li><strong>Cut the final short mow</strong> so the last growth does not mat under the snow, and edge the surfaces so the property looks finished until it is covered.</li>
+<li><strong>Confirm the snow plan</strong> so the crew that just cleaned the property knows the trigger depth, the priority paths, and where the snow gets stacked before the first storm, not during it.</li>
+</ol>
+
+<p>Done right, the property disappears under the first snow already set up for the whole winter. That is the real product of a fall cleanup: not a tidy lawn for the three weeks before it snows, but a property a plow can work safely for four months. If you want the detail on the winter side, our post on <a href="/blog/when-to-book-snow-removal-vermont">when to book snow removal in Vermont</a> covers what a seasonal contract actually locks in.</p>
+
+<h2>One visit or two: how does leaf drop actually run here?</h2>
+
+<p>Whether your property needs one cleanup visit or two comes down to how much tree cover you have and how leaf drop runs at your elevation, and in Rutland County those two things can be three weeks apart on properties fifteen minutes from each other. This is the local pattern that decides the schedule: in the valley towns, Rutland, Proctor, West Rutland, Brandon, and Castleton, the maples and oaks finish dropping through the third week of October. But the hill towns above 1,500 feet around Killington, Mendon, and Chittenden can take their first plowable snow by the last week of October, before the last leaves up top are even down. Leaves still falling while snow is already possible is the exact overlap that makes the booking window narrow and the timing worth getting right.</p>
+
+<p>Because of that, heavily wooded and higher-elevation properties usually get a two-visit cleanup rather than one:</p>
+
+<ul>
+<li><strong>Bulk visit</strong> during peak drop, to get the heaviest load off the lawn before it can mat and before the first snow.</li>
+<li><strong>Final pass</strong> after the stragglers come down, so nothing sits matting on the turf while you wait on the last leaves, and the property goes into winter genuinely clean.</li>
+</ul>
+
+<p>A single-visit cleanup works fine on open or lightly wooded lots with a modest, later drop. The mistake is forcing a big, heavily treed property into one visit to save a trip, then watching half the leaves come down after the crew has left and mat under the first snow. We route the whole county by elevation and tree cover for exactly this reason, which is only possible when the property is booked early enough to plan around, one more argument for that early-September call.</p>
+
+<h2>Vermont Fall Cleanup Timing FAQs</h2>
+
+<h3>When should I schedule my fall cleanup in Vermont?</h3>
+<p>Book it in early September, about two weeks before leaf drop starts, so the actual work can be scheduled between late September and mid-November and finished before the first snow. In Rutland County the routes fill from the top down through October, and a call made in late October usually gets pushed into late November, when snow has already flattened the leaf mat and the cleanup can no longer be done properly. Booking early also secures the hand-off into a seasonal snow contract.</p>
+
+<h3>What is actually included in a fall cleanup?</h3>
+<p>A complete fall cleanup includes leaf removal with haul-away, garden bed cleanout, species-appropriate perennial cutback, gutter and downspout clearing, storm and blowdown debris removal, a final short mow, and a snow-ready pass that marks obstacles for the plow. The leaves are the visible part, but the beds, gutters, drainage, and plow prep are what decide how the property comes through four months of snow. A cleanup that only removes leaves is half a job in this climate.</p>
+
+<h3>What is the last week I can get a fall cleanup done before snow?</h3>
+<p>In most of the Rutland County valley the practical cutoff is mid-November, but at elevation around Killington and Mendon it is earlier, because the first plowable snow can arrive by the last week of October. Once snow settles on the leaves, it mats them flat against the turf and the drainage, and much of the cleanup value is already lost. That is why the booking happens in early September even though the work happens in October: the window to do it well is short, and it closes with the first storm.</p>
+
+<h3>Do the leaves really need to be hauled away, or can they be mulched?</h3>
+<p>On a light, dry leaf load we can mulch them in place, chopping them fine enough to fall between the grass blades and feed the soil, but most wooded Rutland County properties drop far too much for that and the leaves have to be collected and hauled off. A heavy layer mulched in place just becomes the smothering mat you were trying to avoid. Beds and gutters are always cleared out, never mulched, because packed leaves there rot and hold water. We make that call property by property.</p>
+
+<h3>We are second-home owners and are not up in the fall. Can you still handle it?</h3>
+<p>Yes, and that is exactly who a fall cleanup protects most, because you are not there to see the leaves come down or the first storm arrive. We schedule the cleanup to your property's actual leaf drop, send photo confirmation of the completed work, and roll it straight into a seasonal snow contract so the property is handed cleanly from fall into winter with no call required from you. Most of the Killington, Woodstock, and Ludlow second-home owners we work with run it exactly this way.</p>
+
+<h2>Get on the Fall Cleanup Schedule Before Leaf Drop</h2>
+
+<p>If you want your property handed cleanly from fall into winter, the fall cleanup is the visit that decides it, and the week to book it is now, in early September, before the first maple drops and the routes fill. We will walk the property, scope the leaf load, beds, gutters, and drainage, time the cleanup to your actual drop and elevation, and for most clients pair it with a <a href="/services/snow-ice-management">seasonal snow and ice contract</a> so the same crew carries the place from fall into winter. We handle <a href="/services/fall-cleanup">fall cleanups</a> across <a href="/service-areas/killington">Killington</a>, <a href="/service-areas/rutland">Rutland</a>, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, West Rutland, Brandon, and Castleton.</p>
+
+<p>Call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send your property address through the <a href="/contact">contact page</a> to get your fall cleanup on the schedule and your driveway on the snow route. Meticulous LLC is owned and run by Dan Villarreal, and we have carried Rutland County properties through more than fifteen Vermont winters, so we know exactly which week your leaves come down and when the snow beats them to it.</p>`,
+  },
   {
     slug: "what-is-included-in-snow-removal-vermont",
     title:
@@ -32,7 +167,7 @@ export const blogPosts: BlogPost[] = [
     date: "August 2026",
     readTime: "11 min read",
     image: "/images/blog-what-is-included-in-snow-removal-vermont.jpeg",
-    featured: true,
+    featured: false,
     metaDescription:
       "What is included in snow removal service in Vermont? The driveway is plowed on a trigger depth, but walkways, de-icing, and the town-plow berm are separate lines.",
     content: `
@@ -474,7 +609,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>If you want spring to start as a fresh season instead of a repair job, the fall cleanup is the visit that decides it, and it has to happen before the snow settles. We will walk the property, scope the leaf load and drainage, time the cleanup to your actual drop, and for most clients pair it with a <a href="/services/snow-ice-management">seasonal snow and ice contract</a> so the same crew carries the place from fall into winter. We handle <a href="/services/fall-cleanup">fall cleanups</a> across <a href="/service-areas/killington">Killington</a>, <a href="/service-areas/rutland">Rutland</a>, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, West Rutland, Brandon, and Castleton.</p>
 
-<p>Before you sign anything, it is worth knowing <a href="/blog/what-is-included-in-snow-removal-vermont">what a snow removal service actually clears</a>, so walkways, de-icing and the town-plow berm are named in your contract instead of assumed.</p>
+<p>If you are working out the timing, our guide to <a href="/blog/when-to-schedule-fall-cleanup-vermont">what a fall cleanup includes and the week to book it</a> covers the two-week early-September window and everything the visit actually does before the snow. And before you sign anything, it is worth knowing <a href="/blog/what-is-included-in-snow-removal-vermont">what a snow removal service actually clears</a>, so walkways, de-icing and the town-plow berm are named in your contract instead of assumed.</p>
 
 <p>Call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send your property address through the <a href="/contact">contact page</a> toget your fall cleanup on the schedule and your driveway on the snow route. Meticulous LLC is owned and run by Dan Villarreal, and we have cared for Rutland County properties through more than fifteen Vermont winters, so we know exactly what a skipped fall costs when the snow comes off in April.</p>`,
   },
@@ -603,7 +738,7 @@ export const blogPosts: BlogPost[] = [
 
 <h2>Reserve Your Seasonal Snow Slot for Rutland County</h2>
 
-<p>If you want your driveway on a route before the first storm rather than after it, now is the time to book. We will walk the property, mark obstacles, set your trigger depth, and put you on a <a href="/services/snow-ice-management">seasonal snow and ice management contract</a> with automatic dispatch and priority response, so you can stop watching the forecast. We plow and manage ice across <a href="/service-areas/killington">Killington</a>, <a href="/service-areas/rutland">Rutland</a>, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, West Rutland, Brandon, and Castleton, and for many clients we pair it with the <a href="/blog/preparing-property-for-winter">fall property prep that gets everything snow-ready</a> so the same crew carries the place from one season into the next.</p>
+<p>If you want your driveway on a route before the first storm rather than after it, now is the time to book. We will walk the property, mark obstacles, set your trigger depth, and put you on a <a href="/services/snow-ice-management">seasonal snow and ice management contract</a> with automatic dispatch and priority response, so you can stop watching the forecast. We plow and manage ice across <a href="/service-areas/killington">Killington</a>, <a href="/service-areas/rutland">Rutland</a>, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, West Rutland, Brandon, and Castleton, and for many clients we pair it with a fall cleanup, timed by <a href="/blog/when-to-schedule-fall-cleanup-vermont">the two-week window most people miss</a>, so the same crew carries the place from one season into the next.</p>
 
 <p>Before you sign anything, it is worth knowing <a href="/blog/what-is-included-in-snow-removal-vermont">what a snow removal service actually clears</a>, so walkways, de-icing and the town-plow berm are named in your contract instead of assumed.</p>
 

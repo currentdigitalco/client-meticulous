@@ -86,7 +86,7 @@ export const serviceDetails: ServiceDetail[] = [
       "Full-season programs that eliminate the hassle of scheduling individual services",
     ],
     relatedServices: ["landscaping", "property-maintenance"],
-    lastUpdated: "2026-08-17",
+    lastUpdated: "2026-09-07",
     relatedBlogs: [
       {
         slug: "why-fall-cleanup-matters-vermont",
@@ -300,8 +300,13 @@ export const serviceDetails: ServiceDetail[] = [
       "Haul-away included — leaves leave the property, they don't get pushed to the road edge",
     ],
     relatedServices: ["snow-ice-management", "grounds-maintenance"],
-    lastUpdated: "2026-08-24",
+    lastUpdated: "2026-09-07",
     relatedBlogs: [
+      {
+        slug: "when-to-schedule-fall-cleanup-vermont",
+        title:
+          "What a Fall Cleanup Includes, and the Week to Book It in Rutland County",
+      },
       {
         slug: "how-often-should-my-driveway-be-plowed-vt",
         title:
@@ -389,12 +394,17 @@ export const serviceDetails: ServiceDetail[] = [
       "We carry proper insurance and use commercial-grade equipment built for Vermont conditions",
     ],
     relatedServices: ["fall-cleanup", "property-maintenance"],
-    lastUpdated: "2026-08-31",
+    lastUpdated: "2026-09-07",
     relatedBlogs: [
       {
         slug: "what-is-included-in-snow-removal-vermont",
         title:
           "What a Snow Removal Service Actually Clears (and What It Does Not)",
+      },
+      {
+        slug: "when-to-schedule-fall-cleanup-vermont",
+        title:
+          "What a Fall Cleanup Includes, and the Week to Book It in Rutland County",
       },
       {
         slug: "how-often-should-my-driveway-be-plowed-vt",
