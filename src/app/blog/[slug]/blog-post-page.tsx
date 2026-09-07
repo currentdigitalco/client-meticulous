@@ -43,7 +43,7 @@ export function BlogPostPage({ post }: { post: BlogPost }) {
       <section className="relative h-[50vh] md:h-[60vh] overflow-hidden">
         <img
           src={post.image}
-          alt={post.title}
+          alt={post.imageAlt ?? post.title}
           className="post-hero-img w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-soil via-soil/50 to-transparent" />

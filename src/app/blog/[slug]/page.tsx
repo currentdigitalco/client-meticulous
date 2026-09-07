@@ -95,7 +95,9 @@ export default async function Page({ params }: { params: Promise<Params> }) {
   if (!post) notFound();
 
   const url = `${BASE}/blog/${post.slug}`;
-  const datePublished = parseIsoDate(post.date);
+  // Prefer an explicit ISO publish date when the post sets one; otherwise resolve
+  // the "Month Year" display string to the 1st of the month (day-1 default).
+  const datePublished = post.datePublished ?? parseIsoDate(post.date);
   // Site-wide "last touched" stamp for the older posts, but a post published
   // after it must never claim a dateModified earlier than its datePublished
   // (invalid, and a false understatement). Newer posts carry their own date.
