@@ -239,7 +239,11 @@ Last updated: 2026-09-07. Business information, service area coverage, and prici
 
 <!-- BEGIN GENERATED BLOG ARCHIVE — regenerate with execution/regenerate_llms_blog_archive.py -->
 
-Complete archive of all 29 published blog posts, newest first. Every URL below is a live, indexable page.
+Complete archive of all 30 published blog posts, newest first. Every URL below is a live, indexable page.
+
+- **What a Fall Cleanup Includes, and the Week to Book It in Rutland County** (published 2026-09-07)
+  https://meticulous802.com/blog/when-to-schedule-fall-cleanup-vermont
+  When to schedule fall cleanup in Vermont: book in early September, before leaf drop, so it is done before the first Rutland County snow. What's included.
 
 - **Why Fall Cleanup Matters More Than Any Other Visit** (published 2026-08-01)
   https://meticulous802.com/blog/why-fall-cleanup-matters-vermont
