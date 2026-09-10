@@ -248,7 +248,7 @@ export const serviceAreas: ServiceArea[] = [
       "Properties in Proctor tend to be closer-knit than the rural towns further east, which changes what property care looks like — tighter lots, shared boundaries, and historic homes that benefit from careful craftsmanship rather than heavy-equipment solutions.",
       "We handle the full scope for Proctor homeowners and property managers, from grounds maintenance and snow plowing to hardscape repairs and carpentry on older homes.",
     ],
-    localContext: "Proctor was built around the Vermont marble industry and still shows that character in its stone buildings and compact village layout. The town has a dense residential core, the Otter Creek running through the center, and Proctor Falls as a local landmark. Properties here are often older with original stonework and architectural details that need a specific kind of care. Early August in Proctor is the historic-home reseal window: deck-stain and porch reseals on the Main Street homes are booked into the first stretch of overnight lows that let the coating cure, weekly mow routes are locked at 4 inches with fresh-sharpened blades so compact village lawns read dormant instead of dead through the dry pattern, and marble-and-slate walkway pressure-washing runs at first light before the Otter Creek humidity climb. Historic-home gutter and trim carpentry scopes are going out ahead of the September foliage traffic on Main Street.",
+    localContext: "Proctor was built around the Vermont marble industry and still shows that character in its stone buildings and compact village layout. The town has a dense residential core, the Otter Creek running through the center, and Proctor Falls as a local landmark. Properties here are often older with original stonework and architectural details that need a specific kind of care. Mid-September in Proctor is fall-pivot week on Main Street: village lawns shift to bi-weekly finish cuts as growth slows into cool mornings, historic-home gutter and downspout checks are booked ahead of the leaf-drop wave, and marble-and-slate walkway repointing is on the calendar for the coolest weekday windows before the ground cools. Fall-cleanup routes are scheduled for the dense residential core and this is the week Main Street owners lock in seasonal plow contracts before route capacity fills for the winter.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "carpentry", "property-maintenance", "hardscaping"],
     landmarks: ["Proctor Falls", "Otter Creek", "Vermont Marble Museum", "Main Street Proctor"],
     faqs: [
@@ -265,7 +265,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "We handle stonework as part of hardscape installation and repair. For specialty historic preservation work, we collaborate with local stone masons when the job calls for it.",
       },
     ],
-    lastUpdated: "2026-08-06",
+    lastUpdated: "2026-09-10",
   },
   {
     slug: "west-rutland",
@@ -279,7 +279,7 @@ export const serviceAreas: ServiceArea[] = [
       "Property care here tends to be practical and no-nonsense — owners want reliable service, fair pricing, and crews that show up when they're supposed to.",
       "That's how we run. West Rutland is a core part of our service area and we handle the full scope: grounds, plowing, repairs, and property support for homes and businesses throughout town.",
     ],
-    localContext: "West Rutland has a strong working identity, with agricultural land, small industrial areas, and historic residential neighborhoods. Route 4A runs through the town connecting it to the main Rutland area. The town's Grange Hall, marble quarries, and Clarendon Gorge make it a distinct community from Rutland proper despite the proximity. Late July along Route 4A is settled into full second-half rhythm: first hay is off across the working parcels so field-edge trim finally clears with equipment, storefront lawns are cutting on a Tuesday-Thursday 4-inch rotation to hold color through the late-July heat, and the historic residential blocks are on mid-summer bed refresh with the June-blooming perennials deadheaded ahead of the August garden-tour walk. Post-storm limb sweeps continue as the mid-week thunder cells roll the corridor.",
+    localContext: "West Rutland has a strong working identity, with agricultural land, small industrial areas, and historic residential neighborhoods. Route 4A runs through the town connecting it to the main Rutland area. The town's Grange Hall, marble quarries, and Clarendon Gorge make it a distinct community from Rutland proper despite the proximity. Mid-September along Route 4A is settled into the fall pivot: second-cut hay is finishing on the working parcels so field-edge trim and parcel-line runs clear cleanly, storefront lawns are shifting to bi-weekly finish cuts as growth slows into cool mornings, and the historic residential blocks are getting fall-cleanup scope walks ahead of leaf drop. This is the week Route 4A commercial and residential owners lock in seasonal plow contracts before central-county route capacity fills for winter.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "property-maintenance", "carpentry"],
     landmarks: ["Route 4A", "Clarendon Gorge", "West Rutland Town Hall", "West Rutland Marble Quarry"],
     faqs: [
@@ -296,7 +296,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Because we're local and route efficiently, we're usually at or below the rates of out-of-county services while delivering faster response and better accountability.",
       },
     ],
-    lastUpdated: "2026-07-23",
+    lastUpdated: "2026-09-10",
   },
   {
     slug: "brandon",
@@ -341,7 +341,7 @@ export const serviceAreas: ServiceArea[] = [
       "We service both sides of that equation. Residential and commercial property care in the village, plus seasonal opening and closing, grounds maintenance, and property oversight for lakefront homes that sit empty during the off-season.",
       "Lakefront properties have their own rhythm — spring opening, dock management, seasonal cleanups, and fall winterization. We handle the transitions so owners aren't scrambling the first warm weekend.",
     ],
-    localContext: "Castleton is home to Castleton University, Lake Bomoseen (Vermont's largest lake entirely within the state), and a mix of village residential, rural properties, and lakefront homes. The town has a strong seasonal pattern driven by the university calendar and lake season. Many properties are second homes or short-term rentals, especially around Bomoseen. Mid-July has Bomoseen running at the tightest turnover cadence of the summer: back-to-back Friday-and-Sunday changeovers on nearly every short-term rental, lakefront grounds on a Wednesday mow-and-shoreline-trim so the properties present clean for weekend arrivals, and swim-area frontage getting a weekly aquatic-vegetation sweep now that the reservoir has warmed into peak growth. Dock hardware tightening and cleat re-checks are the mid-summer punch-list on the second homes with owners in residence.",
+    localContext: "Castleton is home to Castleton University, Lake Bomoseen (Vermont's largest lake entirely within the state), and a mix of village residential, rural properties, and lakefront homes. The town has a strong seasonal pattern driven by the university calendar and lake season. Many properties are second homes or short-term rentals, especially around Bomoseen. Mid-September has Bomoseen easing off the summer turnover cadence: rental changeovers taper as the season winds down, lakefront grounds shift to bi-weekly finish cuts as growth slows on cool mornings, and dock pull-and-store is now on the schedule for the second-home owners heading south before ice-in. Fall-cleanup routes are booked for the leaf-drop window across the village and university-adjacent neighborhoods, and this is the week owners lock in seasonal plow contracts before route capacity fills for winter.",
     priorityServices: ["grounds-maintenance", "property-maintenance", "snow-ice-management", "housekeeping", "rental-support"],
     landmarks: ["Lake Bomoseen", "Castleton University", "Bomoseen State Park", "Hubbardton Battlefield", "Route 4A"],
     faqs: [
@@ -358,7 +358,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. We handle cleaning, linen changes, and readiness checks between bookings, synced to your rental calendar with photo confirmation.",
       },
     ],
-    lastUpdated: "2026-07-16",
+    lastUpdated: "2026-09-10",
   },
   {
     slug: "wallingford",
@@ -527,7 +527,7 @@ export const serviceAreas: ServiceArea[] = [
       "We service Florence as part of our Route 7 corridor coverage, with grounds care, winter contracts, and property support that gets scheduled efficiently alongside our Pittsford and Brandon routes.",
       "Florence properties benefit from our routing — we're already in the area, which keeps pricing fair and response times tight.",
     ],
-    localContext: "Florence is a village within the town of Pittsford, situated along Route 7 near Otter Creek. Properties here are a mix of residential homes, small farms, and rural parcels. The community's proximity to larger towns (Pittsford center, Brandon, Rutland) makes it a common commuter area, with many year-round residents. Late July in Florence is sustained heat-stretch management on the Route 7 corridor: weekly mow routes are locked at 4 inches with fresh-sharpened blades so the commuter lawns hold their crowns instead of tearing at the tip, irrigation controllers are on pre-dawn cycles to beat evaporation, and the Otter Creek-adjacent parcels are on ongoing post-storm limb sweeps as afternoon convective cells continue to roll down the valley. Bed refresh with deadheading of the June-July perennials is stacked into the cooler Wednesday morning windows.",
+    localContext: "Florence is a village within the town of Pittsford, situated along Route 7 near Otter Creek. Properties here are a mix of residential homes, small farms, and rural parcels. The community's proximity to larger towns (Pittsford center, Brandon, Rutland) makes it a common commuter area, with many year-round residents. Mid-September in Florence turns the Route 7 corridor toward fall-cleanup and winter prep: commuter lawns shift to bi-weekly finish cuts as growth slows into cool mornings, small farms are wrapping second-cut hay so parcel-line and creek-edge trim clears cleanly, and Otter Creek-adjacent properties are getting fall-cleanup scope quoted ahead of the leaf-drop window. This is when residential and rural owners along the corridor lock in seasonal plow contracts before route capacity fills for winter.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "property-maintenance", "carpentry"],
     landmarks: ["Otter Creek", "Route 7", "Florence Station Road"],
     faqs: [
@@ -548,7 +548,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes, but higher and less often. Raising the deck to three-and-a-half or four inches shades the soil, holds moisture, and keeps the roots cool, so the lawn survives the heat instead of frying. Cutting short in a drought is the fastest way to lose it. We raise mowing height across our Florence route automatically through the hottest stretch.",
       },
     ],
-    lastUpdated: "2026-07-23",
+    lastUpdated: "2026-09-10",
   },
   {
     slug: "fair-haven",
@@ -562,7 +562,7 @@ export const serviceAreas: ServiceArea[] = [
       "We service Fair Haven homeowners and business owners with grounds maintenance, winter service, and property care that gets routed efficiently alongside our West Rutland and Castleton coverage.",
       "Most of our Fair Haven clients are year-round residents who want a local crew they can count on season after season, not a rotating cast of subcontractors from outside the county.",
     ],
-    localContext: "Fair Haven has a distinct identity anchored in Vermont's historic slate industry, with older homes, a walkable village, and properties that sit on a mix of village lots and rural parcels. The town is on the Vermont border with New York, giving it a slightly different weather pattern than the eastern Rutland County towns. Mid-July in Fair Haven is heat-wave storefront cadence along Route 4A: pre-opening mow-and-edge routes are running the deck raised to 4 inches so the Village Green and business-front lawns hold color through the dry stretch, slate-walkway pressure-washing is slotted into early morning windows before the humidity climbs, and the hardscape base-prep on the Village Green properties is holding for a cooler weekday window when mortar cure works with us instead of against us.",
+    localContext: "Fair Haven has a distinct identity anchored in Vermont's historic slate industry, with older homes, a walkable village, and properties that sit on a mix of village lots and rural parcels. The town is on the Vermont border with New York, giving it a slightly different weather pattern than the eastern Rutland County towns. Mid-September in Fair Haven is the fall-pivot and snow-contract window along Route 4A: Village Green and business-front lawns are moving from weekly to bi-weekly finish cuts as growth slows and cool mornings return, fall-cleanup routes are being scheduled ahead of leaf drop on the slate-walk residential blocks, and slate-walkway repointing and hardscape wrap-up is on the calendar for the cooler weekday windows before the ground cools. This is the week western-corridor owners lock in seasonal plow contracts before route capacity fills for the winter.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "property-maintenance", "carpentry"],
     landmarks: ["Route 4A", "Fair Haven Village Green", "Fair Haven Town Hall", "Castleton River", "Wells Village nearby"],
     faqs: [
@@ -579,7 +579,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. We handle commercial plowing for storefronts, parking areas, and business properties throughout Fair Haven village, with early-morning priority service so entries are clear before the business day starts.",
       },
     ],
-    lastUpdated: "2026-07-09",
+    lastUpdated: "2026-09-10",
   },
   {
     slug: "mount-holly",
