@@ -32,6 +32,71 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "how-many-fall-cleanups-vermont",
+    title: "How Many Fall Cleanups Do You Need in Rutland County?",
+    excerpt:
+      "One fall cleanup or three? On most wooded Rutland County lots the honest answer is two, one bulk pass at peak drop and a final pass after the stragglers come down. Open lots get by on one, and a few heavily forested hillside properties around Killington need three. The number is set by your trees and your elevation, not by a package. Here is how I count it town by town, why maples and oaks drop three weeks apart, what a single late cleanup costs you in spring, and the honest answer even when it is one.",
+    category: "Fall & Winter Prep",
+    date: "September 2026",
+    datePublished: "2026-09-14",
+    readTime: "9 min read",
+    image: "/images/blog-how-many-fall-cleanups-vermont.jpeg",
+    imageAlt:
+      "How many fall cleanups a Vermont property needs: leaves mid-drop on a wooded Rutland County lawn before the final pass",
+    featured: true,
+    metaDescription:
+      "Most wooded Rutland County lots need two fall cleanups, open lots one, some hillside lots three. How to tell how many passes your Vermont property needs.",
+    content: `
+<p data-speakable="true"><strong>How many fall cleanups do you need? On a typical wooded Rutland County lot the honest answer is two: one bulk pass at peak drop, then a final pass after the stragglers come down. Open, lightly treed lots get by on one. A few heavily forested hillside properties around Killington need three. The number is set by your trees and your elevation, and I can usually call it from the driveway before I write the quote.</strong></p>
+
+<p><em>Updated September 2026.</em></p>
+
+<p>I am Dan Villarreal, and I have run Meticulous LLC across Rutland County since 2009. Every September I get the same question from second-home owners and year-round clients, one cleanup or three, and the answer changes with the property. We already have posts on <a href="/blog/when-to-schedule-fall-cleanup-vermont">when to book the fall cleanup</a> and <a href="/blog/why-fall-cleanup-matters-vermont">why it matters more than any other visit</a>. Neither one answers the question that decides your invoice, which is how many passes your lot actually needs. Here is how I count it, town by town.</p>
+
+<h2>Leaves do not all fall on the same weekend</h2>
+
+<p>The whole idea of a single cleanup assumes the leaves come down together. They do not. In Rutland County leaf drop runs for roughly six weeks, from the first ash and birch in late September to the last oaks holding on into November. One pass catches whatever is on the ground the day we show up and misses everything that falls after it. Book too early and half the canopy is still up. Book too late and the first snow has already pressed the leaves flat into the turf. That spread is the whole reason the count is a real question. On a lot with mature tree cover, one visit is a compromise, and the leaves that drop after the crew leaves sit there until April.</p>
+
+<h2>What a single late cleanup misses, and what it costs in spring</h2>
+
+<p>Some owners try to beat the timing by booking one late cleanup, figuring they will wait until every leaf is down and clear it all at once. In this climate that plan usually loses. The leaves that fell in early October get three or four weeks to pack down and soak through before the November crew arrives, and a wet leaf mat that has sat that long is already smothering the grass under it. When we peel it back in spring, the turf beneath is yellow, thin, and often growing snow mold. That repair is not free. Reseeding a matted-out lawn in May runs $200 to $400 and a month of patchy grass while it fills in. Two properly timed passes cost less than one late pass plus a spring fix, every time.</p>
+
+<h2>Maples, oaks, and the three-week gap between them</h2>
+
+<p>The single biggest thing that sets your count is which trees you have. Maples, ash, and birch drop early and fast, usually finished by the third week of October. Oaks are stubborn. A red oak will hold its leaves deep into November, and some hang on brown until a hard wind or the first heavy snow finally takes them down. That is a genuine three-week gap between the maple drop and the oak drop on the same lawn. If your lot is mostly maple, one well-timed pass in late October can be enough. If you have mature oaks, one pass is guaranteed to leave a second wave on the ground after the crew is gone. This is the detail most quotes skip, and it is the first thing I look up when I walk a property.</p>
+
+<h2>How tree cover and elevation change the answer</h2>
+
+<p>Elevation stacks on top of species. The valley towns, Rutland, Proctor, West Rutland, Brandon, and Castleton, finish their drop through late October and rarely see sticking snow before Halloween. The hill towns above 1,500 feet, around Killington, Mendon, and Chittenden, can take their first plowable snow while the leaves up top are still coming down. So a wooded lot at elevation runs into both problems at once, a long drop and an early snow deadline. Those are the properties that sometimes earn a third pass: a quick early sweep before the first storm, then the usual bulk and final visits. An open lot in the Rutland flats with two young maples is the opposite case, and I will tell you to book one visit and skip the rest.</p>
+
+<h2>The second-home version: one visit after the last drop</h2>
+
+<p>Second-home owners are a different calculation, because you are not here to watch the yard between visits. For most of the Killington, Woodstock, and Ludlow second homes we manage, the right answer is one cleanup scheduled after the last leaf is down, paired with a photo confirmation so you can see it got done from wherever you are. You are not paying for a mid-season tidy you will never lay eyes on. You are paying for a property that goes into winter clean and comes out of it in spring with no repair list. For year-round clients we usually fold both passes into a <a href="/services/grounds-maintenance">full-season grounds maintenance</a> plan, so it is one agreement instead of a scramble every October. The exception is a heavily wooded second-home lot at elevation, where waiting for the last leaf means waiting past the first snow, and there we split it into two after all.</p>
+
+<h2>What gets done on each pass, and what waits for the last one</h2>
+
+<p>When a property gets two passes, the two visits are not the same job. The bulk pass is about volume: get the heaviest load of leaves off the lawn before it can mat, clear the beds of the early drop, and open up the drainage. The final pass is the one that puts the place to bed. That is when we clear the last leaves, cut the short final mow, clean the gutters once the trees are truly bare, and run the snow-ready pass that marks the driveway edges and obstacles for the plow, the same pre-snow checklist we walk through in <a href="/blog/preparing-property-for-winter">preparing your property for winter</a>. Cleaning gutters on the bulk pass is wasted work if the oaks are still dropping into them for another month. So the gutter clearing and the plow prep always ride on the final visit, never the first.</p>
+
+<h2>Booking order, and why the calendar fills from the north</h2>
+
+<p>Here is the part that surprises people. I schedule the county from the high, early-snow towns down toward the valley, so the Killington and Mendon lots get their final pass before the Rutland flats have even finished dropping. On the Chittenden and Mendon properties I run, I hold the final pass until the red oaks along the ridge finish, which lands in the first week of November most years, a good two to three weeks behind the maples down in the Rutland valley. That routing only works if the property is on the schedule early. The lots that call in mid-October take whatever slot is left, and in a heavy leaf year that leftover slot can push the final pass past the first storm. Book in early September, tell me what is growing on your lot, and I will give you the real number, even when the real number is one.</p>
+
+<h2>How Many Fall Cleanups FAQs</h2>
+
+<h3>How many fall cleanups does my Vermont property need?</h3>
+<p>It comes down to your trees and your elevation. A typical wooded Rutland County lot needs two, a bulk pass at peak leaf drop and a final pass after the last leaves come down. Open or lightly treed lots are usually fine with one. Heavily forested lots at elevation around Killington, Mendon, and Chittenden sometimes need three, because the drop runs long and the first plowable snow can arrive before the oaks are bare. When I walk a property I look at the species first, since maples finish by the third week of October while red oaks hold into November.</p>
+
+<h3>Can a wooded Rutland County lot really get away with one cleanup?</h3>
+<p>Only if the trees are mostly maple, ash, or birch, which finish dropping fast and early. On those lots one well-timed pass in late October catches almost everything. The moment there are mature oaks in the mix, one pass leaves a second wave on the ground after the crew is gone, and that wave mats under the first snow and smothers the turf by spring. The mistake I see most is forcing a heavily treed property into a single visit to save a trip, then paying for a spring reseed that runs more than the second pass would have.</p>
+
+<h3>We are second-home owners in Killington. Do we need two visits?</h3>
+<p>Usually one is enough, scheduled after the last leaf is down, because you are not there to see a mid-season tidy anyway and the goal is a property that comes through winter clean. We send a photo confirmation so you can see the finished work from out of state. The exception is a heavily wooded lot high on the access roads, where the last oaks do not finish until the first snow is already possible. On those we split it into two, a bulk pass before the storm risk and a final pass once the ridge is bare.</p>
+
+<h2>Get the honest number for your property</h2>
+
+<p>If you want a straight answer on one cleanup or three, the time to ask is early September, before the first maple drops and the routes fill. We handle <a href="/services/fall-cleanup">fall cleanups</a> across Killington, Rutland, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, West Rutland, Brandon, and Castleton, and we scope the leaf load, tree cover, and elevation before we quote a single pass or two. Call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send your property address through the <a href="/contact">contact page</a>. Meticulous LLC is owned and run by Dan Villarreal, and we have counted leaf drop across Rutland County for more than fifteen falls, so I can tell you how many passes your lot needs, even when the answer is one.</p>`,
+  },
+  {
     slug: "when-to-schedule-fall-cleanup-vermont",
     title:
       "What a Fall Cleanup Includes, and the Week to Book It in Rutland County",
@@ -47,7 +112,7 @@ export const blogPosts: BlogPost[] = [
     image: "/images/blog-when-to-schedule-fall-cleanup-vermont.jpeg",
     imageAlt:
       "When to schedule fall cleanup in Vermont: leaf removal on a Rutland County property before the first snow",
-    featured: true,
+    featured: false,
     metaDescription:
       "When to schedule fall cleanup in Vermont: book in early September, before leaf drop, so it is done before the first Rutland County snow. What's included.",
     content: `
