@@ -51,8 +51,8 @@ export const serviceDetails: ServiceDetail[] = [
     slug: "grounds-maintenance",
     title: "Grounds Maintenance",
     subtitle: "Professional Grounds Maintenance in Killington, Rutland & Surrounding Vermont Areas",
-    seoTitle: "Grounds Maintenance Services | Killington & Rutland, VT | Meticulous LLC",
-    seoDescription: "Professional grounds maintenance in Killington, Rutland & surrounding Vermont areas. Routine mowing, trimming, seasonal cleanups & full-season property care. Call 802-342-8293.",
+    seoTitle: "Grounds Maintenance Killington & Rutland, VT | Weekly Mowing",
+    seoDescription: "Grounds maintenance in Killington and Rutland County, VT: weekly or bi-weekly mowing, trimming, seasonal cleanups and full-season care. Call 802-342-8293.",
     heroImage: "/images/bg-lawn.jpeg",
     introParagraphs: [
       "At Meticulous LLC, we provide dependable, professional grounds maintenance services designed to keep your property clean, healthy, and consistently well maintained throughout the season.",
@@ -161,8 +161,8 @@ export const serviceDetails: ServiceDetail[] = [
     slug: "landscaping",
     title: "Landscaping & Exterior Enhancements",
     subtitle: "Landscaping Services & Exterior Property Enhancements in Vermont",
-    seoTitle: "Landscaping & Exterior Enhancements | Vermont | Meticulous LLC",
-    seoDescription: "Professional landscaping and exterior enhancement services in Vermont. Mulching, planting, seasonal cleanups & curb appeal upgrades. Call 802-342-8293.",
+    seoTitle: "Landscaping Rutland County, VT | Mulching, Planting, Beds",
+    seoDescription: "Landscaping in Rutland County, Vermont: mulching, planting, bed cleanouts, seasonal cleanups and curb appeal upgrades. Call 802-342-8293.",
     heroImage: "/images/bg-landscaping.jpeg",
     introParagraphs: [
       "Meticulous LLC offers professional landscaping and exterior enhancement services designed to improve the appearance and overall presentation of your property.",
@@ -248,8 +248,8 @@ export const serviceDetails: ServiceDetail[] = [
     slug: "property-maintenance",
     title: "Property Maintenance",
     subtitle: "Property Maintenance Services in Killington, Rutland & Surrounding Areas",
-    seoTitle: "Property Maintenance Services | Killington & Rutland, VT | Meticulous LLC",
-    seoDescription: "Reliable property maintenance services in Killington, Rutland & surrounding Vermont areas. Routine upkeep, seasonal maintenance & repair coordination. Call 802-342-8293.",
+    seoTitle: "Property Maintenance Killington & Rutland, VT | Second Homes",
+    seoDescription: "Property maintenance in Killington and Rutland, VT: routine upkeep, seasonal maintenance, second-home checks and repair coordination. Call 802-342-8293.",
     heroImage: "/images/bg-property-maintenance.jpeg",
     introParagraphs: [
       "Keeping up with property maintenance can be time-consuming and overwhelming \u2014 especially for second-home owners and rental properties.",
@@ -350,8 +350,8 @@ export const serviceDetails: ServiceDetail[] = [
     slug: "fall-cleanup",
     title: "Fall Cleanup & Leaf Removal",
     subtitle: "Professional Fall Cleanups & Leaf Removal in Rutland County, Vermont",
-    seoTitle: "Fall Cleanup & Leaf Removal | Rutland County, VT | Meticulous LLC",
-    seoDescription: "Professional fall cleanup & leaf removal in Rutland County, Vermont. Leaf removal, bed cleanout, gutter clearing, final mow & winter prep for homes, rentals & second homes. Call 802-342-8293.",
+    seoTitle: "Fall Cleanup & Leaf Removal Rutland County, VT | Book Early",
+    seoDescription: "Fall cleanup in Rutland County, VT: leaf removal, bed cleanout, gutter clearing, final mow and winter prep. Routes fill by mid-October. Call 802-342-8293.",
     heroImage: "/images/bg-fall-cleanup.jpeg",
     introParagraphs: [
       "Fall in Vermont is short, and the window between peak leaf drop and the first sticking snow is shorter. A property that goes into winter under a mat of wet leaves comes out of it with smothered turf, clogged drainage, and beds full of rot.",
@@ -607,8 +607,8 @@ export const serviceDetails: ServiceDetail[] = [
     slug: "hardscaping",
     title: "Hardscaping & Exterior Improvements",
     subtitle: "Custom Patios, Walkways & Hardscape Installation in Vermont",
-    seoTitle: "Patios, Walkways & Hardscape Installation | Vermont | Meticulous LLC",
-    seoDescription: "Custom patios, walkways, retaining walls & hardscape installation in Vermont. Built for durability through Vermont\u2019s seasonal conditions. Call 802-342-8293.",
+    seoTitle: "Patios, Walkways & Retaining Walls Rutland County, VT",
+    seoDescription: "Custom patios, walkways, retaining walls and hardscape installation in Rutland County, Vermont, on a base built for freeze-thaw. Call 802-342-8293.",
     heroImage: "/images/bg-hardscape.jpeg",
     introParagraphs: [
       "Meticulous LLC designs and installs high-quality hardscaping features, including patios, walkways, retaining walls, and natural stone installations.",
@@ -714,8 +714,8 @@ export const serviceDetails: ServiceDetail[] = [
     // "carpentry contractor". Used by the area-page <title> template only.
     areaTitle: "Carpentry Contractor & Repairs",
     subtitle: "Exterior Carpentry & Construction Services in Rutland County, Vermont",
-    seoTitle: "Carpentry & Construction Services | Rutland County, VT | Meticulous LLC",
-    seoDescription: "Professional exterior carpentry & construction services in Rutland County, Vermont. Repairs, structural improvements & custom builds by a registered residential contractor. Call 802-342-8293.",
+    seoTitle: "Carpentry Contractor Rutland County, VT | Decks & Repairs",
+    seoDescription: "Exterior carpentry in Rutland County, VT: repairs, decks and structural improvements by a registered residential contractor. Call 802-342-8293.",
     heroImage: "/images/hero-landing.jpeg",
     introParagraphs: [
       "At Meticulous LLC, we provide professional carpentry and construction services designed to support and improve your property.",
@@ -821,8 +821,8 @@ export const serviceDetails: ServiceDetail[] = [
     slug: "housekeeping",
     title: "Housekeeping & Turnover Services",
     subtitle: "Vacation Rental Cleaning & Turnover Services in Killington & Surrounding Areas",
-    seoTitle: "Vacation Rental Cleaning & Turnover | Killington, VT | Meticulous LLC",
-    seoDescription: "Reliable housekeeping & turnover services for vacation rentals in Killington & surrounding Vermont areas. Consistent cleaning, detail-focused, guest-ready every time. Call 802-342-8293.",
+    seoTitle: "Vacation Rental Cleaning & Turnovers Killington, VT",
+    seoDescription: "Vacation rental cleaning and turnover service in Killington, VT: consistent, detail-focused and guest-ready between every booking. Call 802-342-8293.",
     heroImage: "/images/bg-housekeeping.jpeg",
     introParagraphs: [
       "Meticulous LLC provides reliable housekeeping and turnover services for vacation rentals, second homes, and managed properties.",
@@ -908,8 +908,8 @@ export const serviceDetails: ServiceDetail[] = [
     slug: "rental-support",
     title: "Rental Property Support & Management",
     subtitle: "Rental Property Support Services in Rutland County, Vermont",
-    seoTitle: "Rental Property Support & Management | Rutland County, VT | Meticulous LLC",
-    seoDescription: "Hands-on rental property support in Rutland County, Vermont. Readiness checks, maintenance coordination & ongoing property care by a registered Property Management Firm. Call 802-342-8293.",
+    seoTitle: "Rental Property Support Rutland County, VT | Registered Firm",
+    seoDescription: "Rental property support in Rutland County, VT: readiness checks and maintenance coordination by a registered property management firm. Call 802-342-8293.",
     heroImage: "/images/bg-rental.jpeg",
     introParagraphs: [
       "Managing a rental property takes time, coordination, and attention to detail.",
