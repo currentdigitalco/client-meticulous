@@ -258,9 +258,41 @@ export function ServiceDetailPage({
         </div>
       </section>
 
+      {/* Common Questions — visible <h2>/<p> pairs; FAQPage JSON-LD in page.tsx
+          is generated from this same `service.faqs` array. No accordion: the
+          answers must be readable without JS, and the `fade-up` reveal is
+          opacity-only via GSAP, so the text is fully present in the HTML. */}
+      <section className="py-24 md:py-32 bg-soil-light/20">
+        <div className="mx-auto max-w-4xl px-6 md:px-8">
+          <div className="fade-up mb-14">
+            <p className="text-xs font-medium uppercase tracking-[0.3em] text-copper-light">
+              Common Questions
+            </p>
+            <p className="mt-4 text-[15px] leading-relaxed text-stone-dark/60 max-w-2xl">
+              Straight answers to what owners ask us about {service.title.toLowerCase()} before they book.
+            </p>
+          </div>
+          <div className="space-y-12">
+            {service.faqs.map((faq) => (
+              <div
+                key={faq.question}
+                className="fade-up border-t border-white/5 pt-10 first:border-t-0 first:pt-0"
+              >
+                <h2 className="font-display text-xl md:text-2xl tracking-tight text-cream leading-snug">
+                  {faq.question}
+                </h2>
+                <p className="mt-4 text-[15px] leading-relaxed text-stone-dark/65">
+                  {faq.answer}
+                </p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
       {/* Related Services */}
       {related.length > 0 && (
-        <section className="py-24 md:py-32 bg-soil-light/20">
+        <section className="py-24 md:py-32">
           <div className="mx-auto max-w-7xl px-6 md:px-8">
             <div className="fade-up text-center mb-12">
               <p className="text-xs font-medium uppercase tracking-[0.3em] text-copper-light">
@@ -301,7 +333,7 @@ export function ServiceDetailPage({
 
       {/* Related Reading */}
       {service.relatedBlogs && service.relatedBlogs.length > 0 && (
-        <section className="py-24 md:py-32">
+        <section className="py-24 md:py-32 bg-soil-light/20">
           <div className="mx-auto max-w-4xl px-6 md:px-8">
             <div className="fade-up text-center mb-12">
               <p className="text-xs font-medium uppercase tracking-[0.3em] text-copper-light">

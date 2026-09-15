@@ -47,7 +47,19 @@ export async function generateMetadata({
   if (!area || !svc) return {};
 
   const extras = getExtras(area.slug);
-  const title = `${svc.title} in ${area.name}, VT | Meticulous LLC`;
+  // Google renders ~60 chars of <title>. The brand tail costs 17, and on the
+  // longer service titles ("Carpentry & Construction Services in West Rutland,
+  // VT | Meticulous LLC" = 70) it pushed the whole thing past the budget. Same
+  // rule as the blog titles: the tail is appended only when it fits. A service
+  // can also supply `areaTitle`, a shorter lead phrased the way GSC shows
+  // searchers typing it (carpentry: "Carpentry Contractor & Repairs").
+  const TITLE_BUDGET = 60;
+  const BRAND_TAIL = " | Meticulous LLC";
+  const titleLead = `${svc.areaTitle ?? svc.title} in ${area.name}, VT`;
+  const title =
+    titleLead.length + BRAND_TAIL.length <= TITLE_BUDGET
+      ? `${titleLead}${BRAND_TAIL}`
+      : titleLead;
 
   // Composed to the ~160-char SERP budget instead of concatenated blind: the
   // old template ran to 203 chars on the longest town/service pairs, so the

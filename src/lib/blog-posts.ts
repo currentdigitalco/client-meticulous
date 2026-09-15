@@ -684,7 +684,9 @@ export const blogPosts: BlogPost[] = [
       "When to Book Snow Removal in Vermont (and What a Seasonal Contract Covers)",
     // Editorial headline is 73 chars, so a shorter search-facing title carries the
     // primary keyword ("when to book snow removal") inside the ~60-char SERP budget.
-    seoTitle: "When to Book Snow Removal in Vermont",
+    // GSC 2026-09-15 (90d): 61 impr / 0 clicks / pos 6.8. Now leads with the
+    // booking window the post states.
+    seoTitle: "When to Book Snow Removal in Vermont: August to October",
     excerpt:
       "The plowing decision in Vermont gets made in late summer, not the night of the first storm. Seasonal snow contracts are sold from August through October, and once a plow route fills for the season a new driveway gets added at the back of the line or not at all. In Rutland County the hill towns around Killington can see plowable snow by late October, so booking early is the difference between a truck at your driveway before sunrise and a scramble in November. Here is when to reserve your slot and exactly what a seasonal contract covers.",
     category: "Snow & Ice",
@@ -693,7 +695,7 @@ export const blogPosts: BlogPost[] = [
     image: "/images/blog-when-to-book-snow-removal-vermont.jpeg",
     featured: false,
     metaDescription:
-      "When to book snow removal in Vermont: reserve your seasonal plowing slot August to October before Rutland County routes fill, and what a contract covers.",
+      "Book snow removal in Vermont between August and October and sign a seasonal contract by early November, before Rutland County plow routes fill.",
     content: `
 <p><em>Updated August 2026.</em></p>
 
@@ -941,10 +943,12 @@ export const blogPosts: BlogPost[] = [
     slug: "fence-posts-vermont-depth-frost-line",
     title: "Fence Posts in Vermont: How Deep, What Wood, and the Frost-Line Rule",
     // Differentiated from /blog/frost-line-depth-vermont-fencing, which is
-    // the incumbent on the frost-line DEPTH queries (pos 3.3-11.1). This
-    // post is aimed at the material and layout questions it uniquely
-    // answers, so the two stop competing for one intent.
-    seoTitle: "Fence Posts in Vermont: Best Wood & Post Spacing",
+    // the incumbent on the FROST LINE queries ("vermont frost line" + zips).
+    // GSC 2026-09-15 (90d): 64 impr / 1 click / pos 6.1. This post now leads
+    // with the POST DIG DEPTH it states (52-60 in), phrased as the "how deep"
+    // question, and never says "frost line" in the title, so the two keep
+    // separate intents: frost line depth vs how deep to set a post.
+    seoTitle: "How Deep to Set Fence Posts in Vermont: 52 to 60 Inches",
     excerpt:
       "A fence post in Rutland County either sits below the frost line or the frost lifts it out over a few winters. The frost line here runs 48 inches and deeper at elevation, and that floor beats the usual one-third burial rule. Here is how deep to set a post, what size and spacing a 6-foot fence needs, when concrete helps and when it makes the heaving worse, and which wood actually survives Vermont ground.",
     category: "Fencing",
@@ -953,7 +957,7 @@ export const blogPosts: BlogPost[] = [
     image: "/images/blog-fence-posts-vermont-depth-frost-line.jpeg",
     featured: false,
     metaDescription:
-      "Fence post depth and the frost line in Vermont: set posts below the 48-inch Rutland County frost line, plus the best wood and post spacing.",
+      "Fence posts in Vermont go 52 to 54 inches deep on the valley floor and 56 to 60 at elevation. Post size and spacing for a 6-foot fence, and best wood.",
     content: `
 <p><em>Updated July 2026.</em></p>
 
@@ -1425,7 +1429,9 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "lawn-care-cost-rutland-county-vermont",
     title: "Lawn Care Cost in Rutland County, Vermont: 2026 Pricing for Mow-Only, Full-Season, and Property Management",
-    seoTitle: "Lawn Care Cost in Rutland County, Vermont (2026)",
+    // GSC 2026-09-15 (90d): 46 impr / 0 clicks / pos 10. Leads with the
+    // per-visit figure the post states.
+    seoTitle: "Lawn Care Cost in Rutland County, VT: $60 to $110 per Visit",
     excerpt:
       "Lawn care in Rutland County, Vermont runs roughly $60 to $110 per mowing visit in 2026 — Vermont is the most expensive state in the US for lawn care, and there are real reasons for it. Here is what a per-visit mow, a full-season contract, and a full property-management plan actually cost in Killington, Rutland, Woodstock, Ludlow, Mendon, Chittenden, Pittsfield, Brandon, and Castleton, and what the right number looks like for a second-home owner who needs the lawn handled remotely.",
     category: "Pricing",
@@ -1434,7 +1440,7 @@ export const blogPosts: BlogPost[] = [
     image: "/images/blog-lawn-care-cost-rutland-county-vermont.jpeg",
     featured: false,
     metaDescription:
-      "Lawn care cost in Rutland County, Vermont for 2026: per-visit mowing rates, full-season contracts, and second-home property management pricing for Killington, Rutland, Woodstock, Ludlow, Mendon, Chittenden, Pittsfield, Proctor, West Rutland, Brandon, and Castleton.",
+      "Lawn care in Rutland County, VT runs $60 to $110 per visit in 2026, $1,400 to $3,200 a season, and $280 to $850 a month for second-home management.",
     content: `
 <p>Lawn care in Rutland County, Vermont runs roughly <strong>$60 to $110 per mowing visit</strong> in 2026 on a typical residential property, with full-season contracts landing between <strong>$1,400 and $3,200</strong> and full property-management plans for second-home owners running <strong>$280 to $850 per month</strong> depending on acreage and scope. Vermont is the single most expensive state in the country for lawn care per the 2025 LawnStarter national pricing data, with average mowing rates running close to $78 per visit — roughly 30 percent above the US median. The number is not arbitrary. Three things drive it: a growing season that runs only about 22 weeks at our elevation, residential lot sizes that average close to 29,000 square feet statewide (more than three times the national mean), and a small pool of seasonal labor that has to be paid enough to show up in June and stay through October.</p>
 
@@ -2652,6 +2658,9 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "bluestone-vs-concrete-pavers",
     title: "Bluestone vs. Concrete Pavers: Which Lasts in Vermont?",
+    // GSC 2026-09-15 (90d): 521 impr / 4 clicks / pos 8.2. Leads with the
+    // installed cost comparison the post states so the snippet answers first.
+    seoTitle: "Bluestone vs Concrete Pavers: $19-34 vs $13-23 per Sq Ft",
     excerpt:
       "We've torn out and repaired enough patios to know what holds up after five Vermont winters and what doesn't. Here's the honest comparison.",
     category: "Hardscape",
@@ -2660,7 +2669,7 @@ export const blogPosts: BlogPost[] = [
     image: "/images/blog-bluestone-pavers.jpeg",
     featured: false,
     metaDescription:
-      "Bluestone vs concrete pavers in Vermont: real performance after 5+ winters, freeze-thaw damage, cost per square foot, and which material Meticulous LLC recommends.",
+      "Bluestone vs concrete pavers in Vermont: $19 to $34 vs $13 to $23 per sq ft, which survives 100 freeze-thaw cycles a year, and which we recommend.",
     content: `
 <p>A few years back we got called out to a patio in Mendon that was three years old and already falling apart. Concrete pavers shifting, corners chipping, whole sections heaving up two inches above their neighbors. The homeowner said they'd paid good money for a "professional" install. Turned out the base was four inches of crushed stone on top of clay with no compaction and no edge restraint. The material didn't fail. The install failed.</p>
 
@@ -3013,15 +3022,20 @@ export const blogPosts: BlogPost[] = [
     //
     // NOTE: /blog/fence-posts-vermont-depth-frost-line (merged 2026-07-27)
     // covers the same ground. This post is the incumbent — it holds the
-    // rankings — so it keeps the frost-line depth intent and the newer post is
-    // pointed at wood choice and post spacing instead. Do not re-broaden either
-    // one back over the other.
+    // rankings — so it keeps the FROST LINE depth intent. The newer post is
+    // titled on the POST dig depth ("how deep to set fence posts", 52-60 in)
+    // plus wood and spacing, and never says "frost line" in its title. Keep
+    // the split: frost line here, post depth there.
     //
     // GSC 2026-09-02 (28d): pos 1.8 "frost line in vermont" (19 imp), 4.6 "do
     // fence posts need to be below frost line" (45), 5.7-8.4 fence-post frost
     // queries, still 0 clicks. Retitled to lead with the depth figure the post
     // states and the yes answer, so the snippet answers before the click.
-    seoTitle: "Vermont Frost Line: 48 to 60 Inches. Set Fence Posts Below",
+    //
+    // GSC 2026-09-15 (90d): 14,198 impr / 111 clicks / pos 6.5 (0.8% CTR), the
+    // biggest CTR lever on the site. Queries are "vermont frost line" plus zip
+    // codes: a DEPTH question. Title now names "depth" and the figures first.
+    seoTitle: "Vermont Frost Line Depth: 48 to 60 Inches (Fence Posts)",
     excerpt:
       "If your fence posts aren't below the frost line, your fence will move. We've fixed enough leaning fences to know exactly how deep to go.",
     category: "Fencing",
@@ -3030,7 +3044,7 @@ export const blogPosts: BlogPost[] = [
     image: "/images/blog-frost-line.jpeg",
     featured: false,
     metaDescription:
-      "The frost line is 48 inches in most of Rutland County, 54 to 60 at elevation. Yes, fence posts go below it or frost heave lifts them. Dig depth and backfill.",
+      "Vermont frost line depth: 48 inches in most of Rutland County, 54 to 60 inches above 1,500 feet. Fence posts go below it or frost heave lifts them out.",
     content: `
 <p data-speakable="true"><strong>Yes — fence posts need to be set below the frost line, and in Vermont that is deeper than most people think: the frost line sits at 48 inches in most of Rutland County and pushes to 54–60 inches at higher elevations like Killington, Mendon, and Shrewsbury. A post that stops short of it will heave.</strong> Here is what that looks like in practice.</p>
 

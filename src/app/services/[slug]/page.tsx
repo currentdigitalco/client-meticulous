@@ -36,5 +36,27 @@ export default async function Page({
   const { slug } = await params;
   const service = getServiceBySlug(slug);
   if (!service) notFound();
-  return <ServiceDetailPage service={service} allServices={serviceDetails} />;
+
+  // FAQPage schema is generated from the SAME `faqs` array the page renders as
+  // visible <h2>/<p> pairs (service-detail-page.tsx), so no schema question can
+  // exist without being on-page. Same pattern as service-areas/[city]/[service].
+  const faqJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: service.faqs.map((f) => ({
+      "@type": "Question",
+      name: f.question,
+      acceptedAnswer: { "@type": "Answer", text: f.answer },
+    })),
+  };
+
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
+      />
+      <ServiceDetailPage service={service} allServices={serviceDetails} />
+    </>
+  );
 }
