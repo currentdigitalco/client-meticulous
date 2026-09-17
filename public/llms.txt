@@ -245,7 +245,11 @@ Last updated: 2026-09-14. Business information, service area coverage, and prici
 
 <!-- BEGIN GENERATED BLOG ARCHIVE — regenerate with execution/regenerate_llms_blog_archive.py -->
 
-Complete archive of all 30 published blog posts, newest first. Every URL below is a live, indexable page.
+Complete archive of all 31 published blog posts, newest first. Every URL below is a live, indexable page.
+
+- **How Many Fall Cleanups Do You Need in Rutland County?** (published 2026-09-14)
+  https://meticulous802.com/blog/how-many-fall-cleanups-vermont
+  Most wooded Rutland County lots need two fall cleanups, open lots one, some hillside lots three. How to tell how many passes your Vermont property needs.
 
 - **What a Fall Cleanup Includes, and the Week to Book It in Rutland County** (published 2026-09-07)
   https://meticulous802.com/blog/when-to-schedule-fall-cleanup-vermont
@@ -257,7 +261,7 @@ Complete archive of all 30 published blog posts, newest first. Every URL below i
 
 - **When to Book Snow Removal in Vermont (and What a Seasonal Contract Covers)** (published 2026-08-01)
   https://meticulous802.com/blog/when-to-book-snow-removal-vermont
-  When to book snow removal in Vermont: reserve your seasonal plowing slot August to October before Rutland County routes fill, and what a contract covers.
+  Book snow removal in Vermont between August and October and sign a seasonal contract by early November, before Rutland County plow routes fill.
 
 - **What a Snow Removal Service Actually Clears (and What It Does Not)** (published 2026-08-01)
   https://meticulous802.com/blog/what-is-included-in-snow-removal-vermont
@@ -289,7 +293,7 @@ Complete archive of all 30 published blog posts, newest first. Every URL below i
 
 - **Fence Posts in Vermont: How Deep, What Wood, and the Frost-Line Rule** (published 2026-07-01)
   https://meticulous802.com/blog/fence-posts-vermont-depth-frost-line
-  Fence post depth and the frost line in Vermont: set posts below the 48-inch Rutland County frost line, plus the best wood and post spacing.
+  Fence posts in Vermont go 52 to 54 inches deep on the valley floor and 56 to 60 at elevation. Post size and spacing for a 6-foot fence, and best wood.
 
 - **The Summer Grounds Maintenance Schedule for a Vermont Second Home** (published 2026-06-01)
   https://meticulous802.com/blog/summer-grounds-maintenance-schedule-vermont
@@ -309,7 +313,7 @@ Complete archive of all 30 published blog posts, newest first. Every URL below i
 
 - **Lawn Care Cost in Rutland County, Vermont: 2026 Pricing for Mow-Only, Full-Season, and Property Management** (published 2026-06-01)
   https://meticulous802.com/blog/lawn-care-cost-rutland-county-vermont
-  Lawn care cost in Rutland County, Vermont for 2026: per-visit mowing rates, full-season contracts, and second-home property management pricing for Killington, Rutland, Woodstock, Ludlow, Mendon, Chittenden, Pittsfield, Proctor, West Rutland, Brandon, and Castleton.
+  Lawn care in Rutland County, VT runs $60 to $110 per visit in 2026, $1,400 to $3,200 a season, and $280 to $850 a month for second-home management.
 
 - **Ticks, Black Flies, and Mosquitoes on Vermont Properties: Your Late-Spring Pest Plan** (published 2026-05-01)
   https://meticulous802.com/blog/tick-mosquito-control-vermont-properties
@@ -349,7 +353,7 @@ Complete archive of all 30 published blog posts, newest first. Every URL below i
 
 - **Bluestone vs. Concrete Pavers: Which Lasts in Vermont?** (published 2026-02-01)
   https://meticulous802.com/blog/bluestone-vs-concrete-pavers
-  Bluestone vs concrete pavers in Vermont: real performance after 5+ winters, freeze-thaw damage, cost per square foot, and which material Meticulous LLC recommends.
+  Bluestone vs concrete pavers in Vermont: $19 to $34 vs $13 to $23 per sq ft, which survives 100 freeze-thaw cycles a year, and which we recommend.
 
 - **Vinyl vs. Cedar Fencing: A Vermont Homeowner's Guide** (published 2026-01-01)
   https://meticulous802.com/blog/vinyl-vs-cedar-fencing
@@ -365,6 +369,6 @@ Complete archive of all 30 published blog posts, newest first. Every URL below i
 
 - **Why Frost Line Depth Matters for Vermont Fences** (published 2025-08-01)
   https://meticulous802.com/blog/frost-line-depth-vermont-fencing
-  The frost line is 48 inches in most of Rutland County, 54 to 60 at elevation. Yes, fence posts go below it or frost heave lifts them. Dig depth and backfill.
+  Vermont frost line depth: 48 inches in most of Rutland County, 54 to 60 inches above 1,500 feet. Fence posts go below it or frost heave lifts them out.
 
 <!-- END GENERATED BLOG ARCHIVE -->
