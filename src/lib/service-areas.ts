@@ -155,7 +155,7 @@ export const serviceAreas: ServiceArea[] = [
       "We service Pittsfield homeowners, second-home owners, and rental operators with plow contracts, grounds care, and property oversight — especially important for the remote owners who can't easily check on their place in person.",
       "Our coverage of the Route 100 corridor from Killington north means Pittsfield properties aren't an afterthought — we're already running routes through the area.",
     ],
-    localContext: "Pittsfield sits in a narrow valley along the Tweed River with a small village center and homes spread along Route 100 and the surrounding back roads. The town is known for long driveways, high snow accumulation, and a mix of year-round residents, second-home owners, and rental properties catering to the Killington market. Early August is the dry-stretch discipline week for Pittsfield: mow heights are locked at 4 inches to hold color through the current heat pattern, roadside brush-hogging along the long Route 100 driveways is stacked for the coolest windows of the day, and gravel driveway grade checks are running weekly as the run-off from mid-week convective cells starts washing swale ends. Second-home owners on the back-road parcels are getting the first foliage-season prep scopes so guttering and small trim carpentry can be booked into the last cool August window before the leaf-peeper booking wave lands.",
+    localContext: "Pittsfield sits in a narrow valley along the Tweed River with a small village center and homes spread along Route 100 and the surrounding back roads. The town is known for long driveways, high snow accumulation, and a mix of year-round residents, second-home owners, and rental properties catering to the Killington market. Mid-September is the fall-cleanup ramp for the Route 100 corridor: the first leaves are already down along Tweed River sightlines, mow heights are stepped up to 4.5 inches for the last two cuts of the year, and gutter-clear scopes are being confirmed with second-home owners so downspouts are clean before the leaf-peeper booking wave and the first hard frost. Plow contracts for the 2026-27 season are locked with route order set — long back-road driveways get first pass on any storm larger than 4 inches.",
     priorityServices: ["snow-ice-management", "grounds-maintenance", "property-maintenance", "rental-support"],
     landmarks: ["Route 100", "Tweed River", "Pittsfield Village", "Amee Farm", "Route 100 north corridor"],
     faqs: [
@@ -172,7 +172,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Our regular service area covers the Route 100 corridor from Killington through Pittsfield and up to Stockbridge. Properties beyond that we handle case by case.",
       },
     ],
-    lastUpdated: "2026-08-06",
+    lastUpdated: "2026-09-17",
   },
   {
     slug: "chittenden",
@@ -403,7 +403,7 @@ export const serviceAreas: ServiceArea[] = [
       "Property care here tends to emphasize practical over flashy — owners want reliable service, durable work, and fair pricing.",
       "We handle the full scope for Pittsford homeowners, farm operators, and rural property owners — grounds, winter service, property oversight, and carpentry projects as they come up.",
     ],
-    localContext: "Pittsford has a small village center along Route 7 with rural land stretching to both sides of the corridor. The town is agricultural with working farms, historic homes, and the Vermont Police Academy as a major local institution. Properties range from small village lots to multi-acre rural parcels, and snow loads are typical of central Rutland County. Late August moves the Pittsford calendar toward the fall pivot: second-cut hay is finishing on the working farms so parcel-line and field-edge trim runs cleanly through the back acreage, village lots ease off the compressed heat-stretch mow as growth slows into cool mornings, and fall-cleanup and gutter scope is being walked on the historic Route 7 homes ahead of leaf drop. This is also the window when rural and village owners lock in seasonal plow contracts before central Rutland County route capacity fills.",
+    localContext: "Pittsford has a small village center along Route 7 with rural land stretching to both sides of the corridor. The town is agricultural with working farms, historic homes, and the Vermont Police Academy as a major local institution. Properties range from small village lots to multi-acre rural parcels, and snow loads are typical of central Rutland County. Mid-September has the Pittsford calendar fully in fall mode: sugar maples along Route 7 are starting to turn, mow cadence has stepped to bi-weekly finish cuts at 4.5 inches on the village lots, and fall-cleanup routes for the historic Route 7 homes and rural properties are booked through the leaf-drop window. Gutter clears are being confirmed on the older homes ahead of the first hard rain, and seasonal plow contracts for the 2026-27 winter are locked with route order set — long rural driveways get first pass on any storm larger than 4 inches.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "property-maintenance", "carpentry"],
     landmarks: ["Route 7", "Vermont Police Academy", "Pittsford Village", "Hubbardton River"],
     faqs: [
@@ -420,7 +420,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Seasonal plow contracts with fixed pricing are standard for our Pittsford clients. You lock in the rate and priority, and we handle the dispatch automatically when conditions trigger.",
       },
     ],
-    lastUpdated: "2026-08-27",
+    lastUpdated: "2026-09-17",
   },
   {
     slug: "clarendon",
@@ -434,7 +434,7 @@ export const serviceAreas: ServiceArea[] = [
       "The town has a strong year-round residential base and is a natural service area for us — close to our equipment yard and easy to route.",
       "We handle the full scope: grounds, plowing, carpentry, property support, and hardscape work for Clarendon homeowners and rural property owners.",
     ],
-    localContext: "Clarendon has a mix of village-style neighborhoods in the south, rural properties stretching toward the Green Mountains, and the Clarendon Gorge as a notable natural feature. The Appalachian Trail crosses the town, and the proximity to Rutland makes it a common commuter community. Properties range from village lots to rural parcels with significant acreage. Late August turns Clarendon toward the fall-cleanup and snow-contract booking window: commuter neighborhoods ease off the compressed heat-stretch cut as growth slows, hardscape crews are wrapping the summer retaining-wall and patio queue on the rural parcels before the ground cools, and gorge-adjacent second homes are getting gutter and fall-cleanup scope quoted ahead of leaf drop. This is also the window when Route 7B commuter and rural owners lock in seasonal plow contracts before the first Green Mountain snow works down the corridor.",
+    localContext: "Clarendon has a mix of village-style neighborhoods in the south, rural properties stretching toward the Green Mountains, and the Clarendon Gorge as a notable natural feature. The Appalachian Trail crosses the town, and the proximity to Rutland makes it a common commuter community. Properties range from village lots to rural parcels with significant acreage. Mid-September has the fall-cleanup calendar filling: commuter neighborhoods are on bi-weekly finish cuts at 4.5 inches, the summer hardscape queue on the rural parcels is closed out so patios and walls set before the first frost, and gorge-adjacent second homes have gutter clears scheduled ahead of the leaf-drop peak. Seasonal plow contracts are locked with route order set — Route 7B commuter driveways get early-morning priority so they are clear before the workday.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "property-maintenance", "hardscaping", "carpentry"],
     landmarks: ["Clarendon Gorge", "Appalachian Trail", "Route 7B", "Clarendon River"],
     faqs: [
@@ -451,7 +451,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Patios, walkways, and retaining walls in Clarendon are common projects. We build with proper base prep and materials suited to Vermont's freeze-thaw cycles.",
       },
     ],
-    lastUpdated: "2026-08-27",
+    lastUpdated: "2026-09-17",
   },
   {
     slug: "shrewsbury",
@@ -465,7 +465,7 @@ export const serviceAreas: ServiceArea[] = [
       "Properties here sit at elevation, which means bigger snow loads, longer winters, and road access that can get tricky in bad weather — exactly the conditions that separate serious property care companies from the ones that cut corners.",
       "We handle Shrewsbury properties with equipment and crews sized for the terrain, full-season contracts, and the kind of local knowledge you need when your driveway is half a mile long and snows 150 inches a year.",
     ],
-    localContext: "Shrewsbury is a rural town with properties on hillsides, along the edges of Green Mountain National Forest, and across a wide geography with multiple village settlements (Shrewsbury Center, Cuttingsville, Northam). Snow accumulation is among the heaviest in Rutland County, and elevation changes significantly across the town. Many properties are second homes or long-driveway rural homesites. Late August turns Shrewsbury toward the fall pivot and the winter ahead: hillside lawns ease off the compressed dry-stretch cut as growth slows into cool mornings, the wooded Cuttingsville and Northam parcels are getting fall-cleanup walk-throughs and gutter scope quoted ahead of leaf drop, and this is the window when the elevation second-home owners lock in seasonal plow contracts before route capacity fills for a Shrewsbury winter that runs 150-plus inches. Long-driveway access markers and stake-outs are being scheduled now for pre-season placement.",
+    localContext: "Shrewsbury is a rural town with properties on hillsides, along the edges of Green Mountain National Forest, and across a wide geography with multiple village settlements (Shrewsbury Center, Cuttingsville, Northam). Snow accumulation is among the heaviest in Rutland County, and elevation changes significantly across the town. Many properties are second homes or long-driveway rural homesites. Mid-September pushes Shrewsbury into pre-winter mode: hillside lawns get their last two finish cuts at 4.5 inches, the wooded Cuttingsville and Northam parcels are on booked fall-cleanup rotation with gutter clears sequenced ahead of leaf drop, and elevation second-home owners have their 2026-27 plow contracts locked with route priority set. Driveway access markers and stake-outs are being placed now so equipment has line-of-sight when the first Green Mountain storm rolls through — a Shrewsbury winter still runs 150-plus inches and access lanes disappear under the first two-foot dump.",
     priorityServices: ["snow-ice-management", "grounds-maintenance", "property-maintenance", "rental-support"],
     landmarks: ["Cuttingsville", "Shrewsbury Center", "Green Mountain National Forest", "Shrewsbury Peak"],
     faqs: [
@@ -482,7 +482,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Property check-ins with photo documentation are a common service for our Shrewsbury clients, especially during winter when weather events can create issues that need quick response.",
       },
     ],
-    lastUpdated: "2026-08-27",
+    lastUpdated: "2026-09-17",
   },
   {
     slug: "tinmouth",
@@ -496,7 +496,7 @@ export const serviceAreas: ServiceArea[] = [
       "Property care in Tinmouth tends to be relationship-driven — neighbors know each other, and owners want service providers who'll treat the property and the community with the same respect.",
       "We work with Tinmouth homeowners and rural property owners on grounds care, snow contracts, carpentry, and property support. We route through the town on a regular schedule so clients get consistent service despite the rural geography.",
     ],
-    localContext: "Tinmouth is a rural town with working farms, historic homes, and a strong community identity. The town has protected significant acreage through conservation efforts, and many properties sit on larger parcels with mature landscaping and woodland borders. Tinmouth Pond and the Tinmouth Contra Dance Hall are notable features. Late August turns Tinmouth toward the fall pivot: the second cut of hay is finishing on the working farms so parcel-line and woodland-border trim runs cleanly into the cool morning windows, meadow-adjacent lawns ease off the compressed dry-stretch cut as growth slows, and fall-cleanup scope is being walked on the conservation-corridor parcels and the historic-home properties before leaf drop. This is also the window when rural and pond-front owners lock in seasonal plow contracts before route capacity fills for winter.",
+    localContext: "Tinmouth is a rural town with working farms, historic homes, and a strong community identity. The town has protected significant acreage through conservation efforts, and many properties sit on larger parcels with mature landscaping and woodland borders. Tinmouth Pond and the Tinmouth Contra Dance Hall are notable features. Mid-September pushes Tinmouth into full fall mode: the last cut of hay is off on the working farms so parcel-line and woodland-border trim clears cleanly, meadow-adjacent lawns are stepped to 4.5-inch bi-weekly finish cuts as growth slows, and fall-cleanup routes for the conservation-corridor parcels and historic Route 133 homes are booked through the leaf-drop peak. Rural and pond-front owners have their 2026-27 plow contracts locked with route order set — larger-parcel driveways get first pass on any storm larger than 4 inches.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "property-maintenance", "carpentry"],
     landmarks: ["Tinmouth Pond", "Tinmouth Contra Dance Hall", "Tinmouth Channel Wildlife Management Area"],
     faqs: [
@@ -513,7 +513,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Historic and older homes are common in Tinmouth. We handle exterior repairs, trim work, and structural carpentry with the care those properties deserve.",
       },
     ],
-    lastUpdated: "2026-08-27",
+    lastUpdated: "2026-09-17",
   },
   {
     slug: "florence",
