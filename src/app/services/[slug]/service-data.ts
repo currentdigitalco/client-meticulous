@@ -303,8 +303,13 @@ export const serviceDetails: ServiceDetail[] = [
       "Preventative approach that protects your investment and catches issues early",
     ],
     relatedServices: ["grounds-maintenance", "rental-support"],
-    lastUpdated: "2026-07-27",
+    lastUpdated: "2026-09-21",
     relatedBlogs: [
+      {
+        slug: "driveway-markers-before-snow-vermont",
+        title:
+          "Stake Your Driveway Before the First Storm",
+      },
       {
         slug: "stop-crabgrass-vermont-lawn-summer",
         title: "How Do You Stop Crabgrass in a Vermont Lawn in Summer?",
@@ -527,7 +532,7 @@ export const serviceDetails: ServiceDetail[] = [
       },
     ],
     process: [
-      { step: "01", title: "Pre-Season Setup", description: "We assess your property before winter, mark obstacles, set trigger depths, and establish your service preferences so we're ready when the first storm hits." },
+      { step: "01", title: "Pre-Season Setup", description: "We walk the property in October while the ground is still soft, stake the driveway edges, culverts, septic lids and turnarounds, set trigger depths, and establish your service preferences so we're ready when the first storm hits." },
       { step: "02", title: "Storm Monitoring", description: "We actively track weather systems and pre-position equipment. When conditions meet your trigger threshold, we mobilize automatically — no phone call needed." },
       { step: "03", title: "Rapid Response", description: "Plowing, shoveling, and salting executed in priority order. Commercial and rental properties get early-morning priority to minimize business disruption." },
       { step: "04", title: "Post-Storm Cleanup", description: "After the storm passes, we return for cleanup passes, bank pushback, and re-salting as needed to keep everything clean and safe." },
@@ -539,8 +544,13 @@ export const serviceDetails: ServiceDetail[] = [
       "We carry proper insurance and use commercial-grade equipment built for Vermont conditions",
     ],
     relatedServices: ["fall-cleanup", "property-maintenance"],
-    lastUpdated: "2026-09-07",
+    lastUpdated: "2026-09-21",
     relatedBlogs: [
+      {
+        slug: "driveway-markers-before-snow-vermont",
+        title:
+          "Stake Your Driveway Before the First Storm",
+      },
       {
         slug: "what-is-included-in-snow-removal-vermont",
         title:
