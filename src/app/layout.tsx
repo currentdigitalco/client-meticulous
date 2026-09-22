@@ -355,10 +355,9 @@ export default function RootLayout({
         </Script>
       </head>
       <body>
-        <Script
+        <script
           id="schema-organization"
           type="application/ld+json"
-          strategy="beforeInteractive"
           dangerouslySetInnerHTML={{
             __html: JSON.stringify({
               "@context": "https://schema.org",
@@ -378,10 +377,9 @@ export default function RootLayout({
             }),
           }}
         />
-        <Script
+        <script
           id="schema-website"
           type="application/ld+json"
-          strategy="beforeInteractive"
           dangerouslySetInnerHTML={{
             __html: JSON.stringify({
               "@context": "https://schema.org",
