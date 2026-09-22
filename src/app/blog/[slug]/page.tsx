@@ -134,17 +134,6 @@ export default async function Page({ params }: { params: Promise<Params> }) {
     ],
   };
 
-  const speakableJsonLd = {
-    "@context": "https://schema.org",
-    "@type": "WebPage",
-    "@id": `${url}#webpage`,
-    url,
-    speakable: {
-      "@type": "SpeakableSpecification",
-      cssSelector: ["h1", "[data-speakable]", "h3"],
-    },
-  };
-
   const faqJsonLd =
     faqs.length > 0
       ? {
@@ -172,17 +161,14 @@ export default async function Page({ params }: { params: Promise<Params> }) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
       />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(speakableJsonLd) }}
-      />
       {faqJsonLd && (
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
         />
       )}
-      {/* Speakable capsule is emitted as a hidden meta node so the crawler picks it up early. */}
+      {/* The answer capsule as a non-standard meta node. Search engines ignore it; it
+          outlived the Speakable block it was written for (removed 2026-09-22). */}
       {capsule && (
         <meta name="description-capsule" content={capsule.slice(0, 320)} />
       )}

@@ -305,16 +305,6 @@ export default function RootLayout({
       },
     ],
   };
-  const speakableJsonLd = {
-    "@context": "https://schema.org",
-    "@type": "WebPage",
-    "@id": `${BASE}/`,
-    url: `${BASE}/`,
-    speakable: {
-      "@type": "SpeakableSpecification",
-      cssSelector: ["h1", "[data-speakable]", ".speakable"],
-    },
-  };
 
   return (
     <html
@@ -336,10 +326,6 @@ export default function RootLayout({
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(howToJsonLd) }}
-        />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(speakableJsonLd) }}
         />
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-V4HN0DL14L"
