@@ -31,7 +31,7 @@ export const serviceAreas: ServiceArea[] = [
       "Meticulous LLC handles the full stack for Killington owners: plow contracts that actually show up at 4 AM before a powder day, hospitality-grade turnovers between bookings, and year-round grounds work for the off-season.",
       "Most of our Killington clients are remote owners. We operate as their eyes and hands on the ground, so the property is always guest-ready and the driveway is always cleared.",
     ],
-    localContext: "Killington has Vermont's largest ski resort, which drives the local rental market. Properties here see heavy winter traffic, extreme snow loads (routinely 200+ inches per season), and short turnover windows between guests. Early September is when the Killington calendar tips into pre-season: fall-cleanup routes are now booked, not quoted, on the Killington Road rental properties, and second-home owners are signing snow-plowing contracts before the first storms hit the access road. Weekly mowing frequency drops as cool nights slow growth on the mountain elevations, and hardscape crews are wrapping retaining-wall and patio work before the ground cools.",
+    localContext: "Killington has Vermont's largest ski resort, which drives the local rental market. Properties here see heavy winter traffic, extreme snow loads (routinely 200+ inches per season), and short turnover windows between guests. Late September has the Killington calendar staged for the ski season lead-up: fall-cleanup routes on the Killington Road rentals are running through the leaf-drop peak, snow-plow contracts on the access-road second homes are locked with route priority set, and staking is going in this week on the long mountain driveways before the ground cools. Mow cadence has stepped to a bi-weekly finish cut at 4.5 inches as cool nights slow growth, and hardscape crews are closing out the last retaining-wall and patio pours before first frost tightens mortar cure.",
     priorityServices: ["snow-ice-management", "housekeeping", "rental-support", "grounds-maintenance"],
     landmarks: ["Killington Resort", "Pico Mountain", "Killington Peak Lodge", "Route 4 corridor", "Killington Road"],
     faqs: [
@@ -48,7 +48,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. We service the full Killington Road corridor, the access roads leading to the mountain, and outlying neighborhoods toward Pico, Mendon, and the Route 4 corridor.",
       },
     ],
-    lastUpdated: "2026-09-03",
+    lastUpdated: "2026-09-24",
   },
   {
     slug: "rutland",
@@ -62,7 +62,7 @@ export const serviceAreas: ServiceArea[] = [
       "City properties here need different care than the ski-town rentals up the mountain. We handle commercial plowing for storefronts and office parks, grounds maintenance for multi-family properties, and full-scope carpentry and hardscaping for single-family homeowners.",
       "Because we're local, we're not a sub-contractor bouncing between regions. Our crews know Rutland block by block and respond faster than the out-of-county companies trying to service from afar.",
     ],
-    localContext: "Rutland is Vermont's third-largest city with a dense mix of commercial properties, multi-family housing, and residential neighborhoods. Winter brings heavy snow off the Green Mountains, and mud season arrives hard in April as snowmelt saturates the clay-heavy soils on compact urban lots. The city's historic downtown has specific landscaping and sidewalk maintenance requirements that commercial property owners have to meet. Early September moves the Rutland commercial calendar squarely into pre-season winter prep: Route 7 storefronts and the medical-center campus are shifting from weekly mowing to bi-weekly as growth slows, downtown sidewalk planters are being cycled to fall material, and fall cleanup is now being routed for the leaf-drop window across the multi-family and commercial book. Commercial plowing contracts for the coming winter are being signed and marked out this month, so lots and access roads get their pre-season striping and stake-out before the first Green Mountain storm.",
+    localContext: "Rutland is Vermont's third-largest city with a dense mix of commercial properties, multi-family housing, and residential neighborhoods. Winter brings heavy snow off the Green Mountains, and mud season arrives hard in April as snowmelt saturates the clay-heavy soils on compact urban lots. The city's historic downtown has specific landscaping and sidewalk maintenance requirements that commercial property owners have to meet. Late September has the Rutland commercial calendar deep in pre-season winter prep: Route 7 storefronts and the medical-center campus are on the bi-weekly finish cut at 4.5 inches, downtown sidewalk planters are running with the fall material and the annual bulb order is being staged for the last planting window before frost, and fall-cleanup routes for the multi-family book are running through the leaf-drop peak. Commercial plow contracts for the 2026-27 winter are all locked with lots striped and marker stakes in on the access roads, so first-storm response starts before business hours without a scramble.",
     priorityServices: ["snow-ice-management", "grounds-maintenance", "property-maintenance", "hardscaping", "carpentry"],
     landmarks: ["Downtown Rutland", "Main Street", "Rutland Regional Medical Center", "Route 7 corridor", "Giorgetti Park"],
     faqs: [
@@ -79,7 +79,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Meticulous LLC is a registered residential contractor and registered Property Management Firm in Vermont, properly licensed and insured for the full scope of services we offer.",
       },
     ],
-    lastUpdated: "2026-09-03",
+    lastUpdated: "2026-09-24",
   },
   {
     slug: "woodstock",
@@ -310,7 +310,7 @@ export const serviceAreas: ServiceArea[] = [
       "We work with Brandon homeowners, business owners, and second-home owners on everything from seasonal grounds maintenance to full hardscape builds and carpentry projects.",
       "Brandon is close enough to Rutland that we service it regularly, and distinctive enough that we approach each property based on its character rather than running a template.",
     ],
-    localContext: "Brandon sits along Route 7 with a historic downtown, the Neshobe River running through it, and residential neighborhoods that span from the village center out to rural properties on the surrounding roads. The town has a thriving arts scene, with Brandon Artists Guild and the annual Brandon Arts Festival drawing regional attention to the community. Late August moves Brandon toward the foliage-season visitor wave: gallery storefronts stay on the weekly mow-and-hand-edge Wednesday rotation while growth slows, downtown planter beds get their end-of-summer refresh, and rural back-road properties ease off the compressed cut as the heat backs off. Historic-home gutter checks and fall-cleanup scope are being scheduled now ahead of leaf drop, and this is when property owners lock in winter plowing before the first snow works down the Neshobe valley.",
+    localContext: "Brandon sits along Route 7 with a historic downtown, the Neshobe River running through it, and residential neighborhoods that span from the village center out to rural properties on the surrounding roads. The town has a thriving arts scene, with Brandon Artists Guild and the annual Brandon Arts Festival drawing regional attention to the community. Late September has Brandon in the leaf-turn window on the maples along Route 7: gallery storefronts have stepped to a bi-weekly finish cut at 4.5 inches while growth slows, downtown planter beds have moved into the cool-season swap with mums and cabbage staged for the foliage weekend, and rural back-road properties are on fall-cleanup scope walks ahead of the leaf-drop peak. Historic-home gutter checks are being confirmed now before the first hard rain, and seasonal plow contracts for the 2026-27 winter are locking in with route order set before the first snow works down the Neshobe valley.",
     priorityServices: ["landscaping", "grounds-maintenance", "hardscaping", "carpentry", "property-maintenance"],
     landmarks: ["Downtown Brandon", "Neshobe River", "Brandon Artists Guild", "Route 7", "Brandon Falls"],
     faqs: [
@@ -327,7 +327,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Our core service area is Rutland County plus Woodstock and Ludlow. Properties north of Brandon toward Middlebury we handle case-by-case based on scope and schedule.",
       },
     ],
-    lastUpdated: "2026-08-20",
+    lastUpdated: "2026-09-24",
   },
   {
     slug: "castleton",
@@ -372,7 +372,7 @@ export const serviceAreas: ServiceArea[] = [
       "We service Wallingford homeowners and rural property owners with grounds care, winter service, and carpentry projects. The town's spread-out geography means routing matters — we build efficient schedules so clients aren't paying for dead travel time.",
       "Most of our Wallingford clients are year-round residents who want a local company that shows up reliably, rather than a regional service bouncing between jobs.",
     ],
-    localContext: "Wallingford has a compact village center along Route 7 and rural properties stretching into the hills to the east and west. The town is known for its connection to Elfin Lake and the Green Mountain National Forest. Properties range from village lots to large rural parcels, with the mix of year-round residents, retirees, and second-home owners typical of southern Rutland County. Late August turns Wallingford toward the fall-cleanup and snow-contract booking window: village Route 7 lawns ease off the compressed dry-stretch cut as growth slows and cooler mornings return, rural back-road parcels are getting fall-cleanup scope walks ahead of leaf drop through the Elfin Lake road, and this is when second-home owners along the Green Mountain corridor lock in seasonal plow contracts before route capacity fills for winter.",
+    localContext: "Wallingford has a compact village center along Route 7 and rural properties stretching into the hills to the east and west. The town is known for its connection to Elfin Lake and the Green Mountain National Forest. Properties range from village lots to large rural parcels, with the mix of year-round residents, retirees, and second-home owners typical of southern Rutland County. Late September has Wallingford deep in the fall pivot: village Route 7 lawns are on a bi-weekly finish cut at 4.5 inches with the last aeration and overseed pass wrapping this week, Elfin Lake road parcels are on the fall-cleanup schedule ahead of the leaf-drop peak, and gutter clears are being confirmed on the older village homes before the first hard rain. Seasonal plow contracts along the Green Mountain corridor are locked with route order set, and the first frost forecast tightens the deadline on any perennial dividing or bulb work still open.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "carpentry", "property-maintenance"],
     landmarks: ["Route 7", "Elfin Lake", "Green Mountain National Forest", "Wallingford Village"],
     faqs: [
@@ -389,7 +389,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Full-season contracts covering grounds maintenance and snow service are our most common arrangement — predictable cost, predictable service, no scheduling headaches.",
       },
     ],
-    lastUpdated: "2026-08-27",
+    lastUpdated: "2026-09-24",
   },
   {
     slug: "pittsford",
@@ -593,7 +593,7 @@ export const serviceAreas: ServiceArea[] = [
       "We service Mount Holly homeowners and second-home owners with the same care we bring to our Ludlow and Killington clients: snow contracts, grounds care, rental turnovers, and property oversight for remote owners who need reliable eyes on the ground.",
       "Because we route through Ludlow and the Okemo area regularly, adding Mount Holly properties doesn't stretch our response times. You get consistent service from crews who know the terrain.",
     ],
-    localContext: "Mount Holly is a small rural town in southeastern Rutland County, situated along Route 103 south of Ludlow. The town has a mix of year-round residents, second-home owners, and properties that serve the Okemo Mountain rental market. Elevation here is significant: snow loads are heavy and mud season runs later than in the valley. The Tarbellville area and surrounding hills have properties with long driveways and dense tree cover that demand reliable equipment and crew scheduling. Late August turns Mount Holly toward the fall pivot and Okemo winter ahead: Route 103 and Lake Ninevah rentals ease off the compressed turnover-mow cadence as growth slows and shoulder-season guests taper, Okemo-corridor second homes are getting fall-cleanup and gutter scope walked ahead of leaf drop, and this is the window when elevation-parcel owners lock in seasonal plow contracts before route capacity fills. Long-driveway grading and access-marker placement are being scheduled now for pre-season set-up.",
+    localContext: "Mount Holly is a small rural town in southeastern Rutland County, situated along Route 103 south of Ludlow. The town has a mix of year-round residents, second-home owners, and properties that serve the Okemo Mountain rental market. Elevation here is significant: snow loads are heavy and mud season runs later than in the valley. The Tarbellville area and surrounding hills have properties with long driveways and dense tree cover that demand reliable equipment and crew scheduling. Late September has the elevation calendar tightening toward the Okemo season: Lake Ninevah rentals have stepped off the peak turnover-mow cadence as shoulder-season guest windows lengthen, Okemo-corridor second homes are on the confirmed fall-cleanup schedule ahead of the leaf-drop peak, and gutter clears are being staged on the long-driveway parcels before the first hard rain. Access markers and driveway staking are going in this week on the higher-elevation contracts before first frost, and seasonal plow routes for the 2026-27 winter are locked with priority order set.",
     priorityServices: ["snow-ice-management", "grounds-maintenance", "property-maintenance", "rental-support"],
     landmarks: ["Route 103", "Tarbellville", "Green Mountain National Forest", "Lake Ninevah"],
     faqs: [
@@ -610,7 +610,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Spring cleanup — driveway condition assessment, frost heave repair, grounds debris clearance, and season-opening property checks — is a core service for our Mount Holly clients.",
       },
     ],
-    lastUpdated: "2026-08-27",
+    lastUpdated: "2026-09-24",
   },
   {
     slug: "poultney",
@@ -624,7 +624,7 @@ export const serviceAreas: ServiceArea[] = [
       "We service Poultney homeowners and rural property owners with grounds care, hardscaping, winter service, and the kind of carpentry work that older slate-region homes need season after season.",
       "Because we already run routes through Fair Haven and Castleton, adding Poultney properties slots cleanly into the schedule. You get a Rutland County crew that knows the slate-belt terrain and isn't pricing for a long-haul drive.",
     ],
-    localContext: "Poultney is the largest slate-belt town in Vermont, with a historic downtown along Main Street, the Castleton-Poultney satellite campus, and rural properties stretching out to East Poultney and the back-road network running into the surrounding hills. Stone outcrops, slate retaining walls, and steep driveways are common features that demand specific equipment and a careful hand. Late August turns Poultney toward the fall pivot and winter ahead: Lake St. Catherine rentals ease off the compressed Thursday-turnover cadence as shoulder-season guest windows lengthen, East Poultney back-road hardscape installs move ahead of the ground cool-down and the slate-retaining-wall queue closes out before mortar cure tightens, and fall-cleanup scope is being walked on the historic Main Street homes ahead of leaf drop. This is also the window when steep-driveway owners in the slate-belt back roads lock in seasonal plow contracts before route capacity fills.",
+    localContext: "Poultney is the largest slate-belt town in Vermont, with a historic downtown along Main Street, the Castleton-Poultney satellite campus, and rural properties stretching out to East Poultney and the back-road network running into the surrounding hills. Stone outcrops, slate retaining walls, and steep driveways are common features that demand specific equipment and a careful hand. Late September has the Poultney calendar deep in the fall pivot: Lake St. Catherine rentals are winding down the summer turnover schedule with a handful of foliage-weekend bookings still on the calendar, the East Poultney back-road hardscape queue is closing out before mortar cure tightens with the first frost forecast, and fall-cleanup routes are on the confirmed schedule for the historic Main Street homes ahead of the leaf-drop peak. Seasonal plow contracts on the steep slate-belt back roads are locked with priority order set, and long-driveway grading is being scheduled now before the ground cools.",
     priorityServices: ["grounds-maintenance", "landscaping", "hardscaping", "carpentry", "snow-ice-management"],
     landmarks: ["Downtown Poultney", "Route 30", "East Poultney", "Lake St. Catherine", "Main Street Poultney"],
     faqs: [
@@ -645,7 +645,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Usually dormant. When it gets hot and dry, Vermont cool-season grass goes tan and stops growing to protect its crown, then greens back up when the weather breaks. Tug a handful. If it holds firm and the crown at the base is still white and firm, it is alive and waiting. If it pulls out with no resistance, that patch is gone and needs reseeding. We can tell the difference on a walk-through before anyone rips up a living lawn.",
       },
     ],
-    lastUpdated: "2026-08-27",
+    lastUpdated: "2026-09-24",
   },
 ];
 
