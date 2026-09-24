@@ -1,12 +1,12 @@
 # SEO/AEO/GEO/pSEO Dominance Report — meticulous
 
-**Score:** 105 / 120 (88%) — B — strong, minor gaps
-**Site path:** `sites/client-meticulous`
+**Score:** 90 / 105 (86%) — B — strong, minor gaps
+**Site path:** `../client-meticulous`
 **Pages (estimate):** 20
-**Schema types detected:** AdministrativeArea, AggregateRating, Answer, BlogPosting, BreadcrumbList, City, CollectionPage, ContactPoint, FAQPage, GeoCoordinates, HomeAndConstructionBusiness, HowTo, HowToStep, HowToSupply, HowToTool, ItemList, ListItem, LocalBusiness, MonetaryAmount, Offer, OfferCatalog, OpeningHoursSpecification, Organization, Person, PostalAddress, Question, Rating, Review, Service, SpeakableSpecification, State, WebPage, WebSite
-**LocalBusiness fields detected:** address, areaServed, founder, geo, hasOfferCatalog, knowsAbout, openingHoursSpecification, paymentAccepted, review, sameAs
-**Built pages checked (FAQPage visibility):** 249 in .next/server/app + .next/server/pages
-**llms.txt:** present (367 lines)
+**Schema types detected:** AdministrativeArea, AggregateRating, Answer, BlogPosting, BreadcrumbList, City, CollectionPage, ContactPoint, FAQPage, GeoCoordinates, HomeAndConstructionBusiness, ItemList, ListItem, LocalBusiness, Offer, OfferCatalog, OpeningHoursSpecification, Organization, Person, PostalAddress, Question, Rating, Review, Service, State, WebPage, WebSite
+**LocalBusiness fields in the source:** address, areaServed, founder, geo, hasOfferCatalog, knowsAbout, openingHoursSpecification, paymentAccepted, review, sameAs (credited only where a built page serves them — see the field-* findings)
+**Built pages checked (FAQPage visibility, HowTo steps, Speakable selectors, Organization/WebSite tags, business fields):** 252 in .next/server/app + .next/server/pages
+**llms.txt:** present (387 lines)
 **llms-full.txt:** present
 **robots:** present
 **sitemap:** present
@@ -16,28 +16,27 @@
 ### Schema
 
 - **✓ [PASS] schema-localbusiness** — LocalBusiness (or subtype) detected.
-- **✓ [PASS] schema-organization** — Organization present.
-- **✓ [PASS] schema-website** — WebSite present.
-- **✓ [PASS] schema-faqpage** — FAQPage on 210 of 249 built page(s) in .next/server/app + .next/server/pages, one per page, all 838 question(s) visible in the page text. ⚠ Source files changed after this build (source 2026-09-10 21:53 > build 2026-09-02 12:43) — rebuild and re-audit before trusting this verdict.
-- **✓ [PASS] schema-howto** — HowTo present.
-- **✓ [PASS] schema-speakablespecification** — SpeakableSpecification present.
+- **✓ [PASS] schema-organization** — Organization declared in a real JSON-LD tag on 250 of 252 built page(s) in .next/server/app + .next/server/pages.
+- **✓ [PASS] schema-website** — WebSite declared in a real JSON-LD tag on 250 of 252 built page(s) in .next/server/app + .next/server/pages.
+- **✓ [PASS] schema-faqpage** — FAQPage on 221 of 252 built page(s) in .next/server/app + .next/server/pages, one per page, all 895 question(s) visible in the page text.
 - **✓ [PASS] schema-review** — Review present.
-- **✓ [PASS] field-areaServed** — areaServed present in business schema.
-- **✓ [PASS] field-hasOfferCatalog** — hasOfferCatalog present in business schema.
-- **✓ [PASS] field-review** — review present in business schema.
-- **✓ [PASS] field-knowsAbout** — knowsAbout present in business schema.
-- **✓ [PASS] field-founder** — founder present in business schema.
-- **✓ [PASS] field-geo** — geo present in business schema.
-- **✓ [PASS] field-openingHoursSpecification** — openingHoursSpecification present in business schema.
-- **✓ [PASS] field-paymentAccepted** — paymentAccepted present in business schema.
-- **✓ [PASS] field-address** — address present in business schema.
-- **✓ [PASS] field-sameAs** — sameAs present in business schema.
+- **— [N/A] schema-howto** — No HowTo on any of the 252 built page(s) in .next/server/app + .next/server/pages — nothing to verify, and nothing to add. Informational, no score weight: Google retired HowTo rich results on 2023-09-13 (desktop and mobile), so HowTo markup earns a site no search feature.
+- **✓ [PASS] field-areaServed** — areaServed served on the business node on 250 of 252 built page(s) in .next/server/app + .next/server/pages.
+- **✓ [PASS] field-hasOfferCatalog** — hasOfferCatalog served on the business node on 250 of 252 built page(s) in .next/server/app + .next/server/pages.
+- **✓ [PASS] field-review** — review served on the business node on 250 of 252 built page(s) in .next/server/app + .next/server/pages.
+- **✓ [PASS] field-knowsAbout** — knowsAbout served on the business node on 250 of 252 built page(s) in .next/server/app + .next/server/pages.
+- **✓ [PASS] field-founder** — founder served on the business node on 250 of 252 built page(s) in .next/server/app + .next/server/pages.
+- **✓ [PASS] field-geo** — geo served on the business node on 250 of 252 built page(s) in .next/server/app + .next/server/pages.
+- **✓ [PASS] field-openingHoursSpecification** — openingHoursSpecification served on the business node on 250 of 252 built page(s) in .next/server/app + .next/server/pages.
+- **✓ [PASS] field-paymentAccepted** — paymentAccepted served on the business node on 250 of 252 built page(s) in .next/server/app + .next/server/pages.
+- **✓ [PASS] field-address** — address served on the business node on 250 of 252 built page(s) in .next/server/app + .next/server/pages.
+- **✓ [PASS] field-sameAs** — sameAs served on the business node on 250 of 252 built page(s) in .next/server/app + .next/server/pages: https://www.google.com/maps?q=meticulous+llc+rutland+vt.
 
 ### AEO
 
-- **✓ [PASS] llms-txt** — llms.txt present (367 lines).
+- **✓ [PASS] llms-txt** — llms.txt present (387 lines).
 - **✓ [PASS] llms-full-txt** — llms-full.txt present (deeper AI crawler doc).
-- **✓ [PASS] speakable** — Speakable schema present — voice-search ready.
+- **— [N/A] speakable** — No Speakable on any of the 252 built page(s) in .next/server/app + .next/server/pages — nothing to verify, and nothing to add. Informational, no score weight: Google uses Speakable only for topical news in the Google Assistant (US English, beta), so a non-news site gains nothing from it.
 - **✓ [PASS] ai-crawlers** — No key AI crawler blocked in robots (GPTBot / OAI-SearchBot / PerplexityBot / ClaudeBot / Google-Extended / Bingbot permitted).
 
 ### Technical SEO
