@@ -241,10 +241,10 @@ Between mid-September and the last week of October a second home in Rutland Coun
 ---
 
 Q: When should driveway markers go in before snow plowing in Vermont?
-A: Before the ground freezes, which in Rutland County means October. Stakes should stand at least 4 feet above grade (5 on a road-facing entrance), sit 8 to 10 inches deep so a thaw does not heave them, and space roughly every 15 to 20 feet on open runs, tightening to every 8 to 10 feet through curves and at the entrance. Mark culvert ends, septic lids, the turnaround and anything low and solid, not just the straight run. See <https://www.meticulousvt.com/blog/driveway-markers-before-snow-vermont>.
+A: Before the ground freezes, which in Rutland County means October. Stakes should stand at least 4 feet above grade (5 on a road-facing entrance), sit 8 to 10 inches deep so a thaw does not heave them, and space roughly every 15 to 20 feet on open runs, tightening to every 8 to 10 feet through curves and at the entrance. Mark culvert ends, septic lids, the turnaround and anything low and solid, not just the straight run. See <https://meticulous802.com/blog/driveway-markers-before-snow-vermont>.
 
 Q: Who pays for plow damage to an unmarked driveway edge?
-A: Most plowing agreements cover damage caused by driver error but not damage to obstacles that were never marked and could not reasonably be seen once the property is under snow. That is standard, and it is why the October staking walk matters: an unmarked septic riser or culvert end in a turnaround is not a driver error. See <https://www.meticulousvt.com/blog/driveway-markers-before-snow-vermont>.
+A: Most plowing agreements cover damage caused by driver error but not damage to obstacles that were never marked and could not reasonably be seen once the property is under snow. That is standard, and it is why the October staking walk matters: an unmarked septic riser or culvert end in a turnaround is not a driver error. See <https://meticulous802.com/blog/driveway-markers-before-snow-vermont>.
 
 Last updated: 2026-09-21. Business information, service area coverage, and pricing are current as of this date. 20 dedicated service-area pages live across Rutland County and Windsor County, Vermont. Fall cleanup routes are now filling and winter plowing contracts are being finalized this month — by early October the seasonal roster closes, so second-home and commercial owners in Rutland County should book both together to secure the coordinated hand-off from fall visit to snow contract before the first Green Mountain storm. Late September into October is also the pre-storm staking window: driveway markers have to go in while the ground is still soft enough to take them.
 
@@ -254,7 +254,11 @@ Last updated: 2026-09-21. Business information, service area coverage, and prici
 
 <!-- BEGIN GENERATED BLOG ARCHIVE — regenerate with execution/regenerate_llms_blog_archive.py -->
 
-Complete archive of all 31 published blog posts, newest first. Every URL below is a live, indexable page.
+Complete archive of all 32 published blog posts, newest first. Every URL below is a live, indexable page.
+
+- **Stake Your Driveway Before the First Storm** (published 2026-09-21)
+  https://meticulous802.com/blog/driveway-markers-before-snow-vermont
+  Driveway markers before snow plowing: when to stake, where they go, how tall and far apart for a Rutland County VT winter, and what breaks without them.
 
 - **How Many Fall Cleanups Do You Need in Rutland County?** (published 2026-09-14)
   https://meticulous802.com/blog/how-many-fall-cleanups-vermont
