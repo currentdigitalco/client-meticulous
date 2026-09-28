@@ -260,7 +260,11 @@ Last updated: 2026-09-28. Business information, service area coverage, and prici
 
 <!-- BEGIN GENERATED BLOG ARCHIVE — regenerate with execution/regenerate_llms_blog_archive.py -->
 
-Complete archive of all 32 published blog posts, newest first. Every URL below is a live, indexable page.
+Complete archive of all 33 published blog posts, newest first. Every URL below is a live, indexable page.
+
+- **Seasonal Snow Contract or Pay Per Storm in Vermont?** (published 2026-09-28)
+  https://meticulous802.com/blog/seasonal-snow-contract-vs-per-storm-vermont
+  Seasonal snow contract or per storm in Rutland County? The budget tradeoff, why elevation changes the math, and what counts as a push.
 
 - **Stake Your Driveway Before the First Storm** (published 2026-09-21)
   https://meticulous802.com/blog/driveway-markers-before-snow-vermont
