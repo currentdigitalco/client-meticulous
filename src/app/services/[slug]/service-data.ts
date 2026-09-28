@@ -410,8 +410,13 @@ export const serviceDetails: ServiceDetail[] = [
       "Haul-away included — leaves leave the property, they don't get pushed to the road edge",
     ],
     relatedServices: ["snow-ice-management", "grounds-maintenance"],
-    lastUpdated: "2026-09-14",
+    lastUpdated: "2026-09-28",
     relatedBlogs: [
+      {
+        slug: "seasonal-snow-contract-vs-per-storm-vermont",
+        title:
+          "Seasonal Snow Contract or Pay Per Storm in Vermont?",
+      },
       {
         slug: "how-many-fall-cleanups-vermont",
         title: "How Many Fall Cleanups Do You Need in Rutland County?",
@@ -544,8 +549,13 @@ export const serviceDetails: ServiceDetail[] = [
       "We carry proper insurance and use commercial-grade equipment built for Vermont conditions",
     ],
     relatedServices: ["fall-cleanup", "property-maintenance"],
-    lastUpdated: "2026-09-21",
+    lastUpdated: "2026-09-28",
     relatedBlogs: [
+      {
+        slug: "seasonal-snow-contract-vs-per-storm-vermont",
+        title:
+          "Seasonal Snow Contract or Pay Per Storm in Vermont?",
+      },
       {
         slug: "driveway-markers-before-snow-vermont",
         title:
