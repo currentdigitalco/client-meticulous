@@ -106,7 +106,7 @@ export const serviceDetails: ServiceDetail[] = [
       "Full-season programs that eliminate the hassle of scheduling individual services",
     ],
     relatedServices: ["landscaping", "property-maintenance"],
-    lastUpdated: "2026-09-14",
+    lastUpdated: "2026-10-05",
     relatedBlogs: [
       {
         slug: "how-many-fall-cleanups-vermont",
@@ -410,7 +410,7 @@ export const serviceDetails: ServiceDetail[] = [
       "Haul-away included — leaves leave the property, they don't get pushed to the road edge",
     ],
     relatedServices: ["snow-ice-management", "grounds-maintenance"],
-    lastUpdated: "2026-09-28",
+    lastUpdated: "2026-10-05",
     relatedBlogs: [
       {
         slug: "seasonal-snow-contract-vs-per-storm-vermont",
@@ -549,8 +549,12 @@ export const serviceDetails: ServiceDetail[] = [
       "We carry proper insurance and use commercial-grade equipment built for Vermont conditions",
     ],
     relatedServices: ["fall-cleanup", "property-maintenance"],
-    lastUpdated: "2026-09-28",
+    lastUpdated: "2026-10-05",
     relatedBlogs: [
+      {
+        slug: "will-a-plow-fit-my-driveway-vermont",
+        title: "Will a Plow Truck Fit My Driveway? What to Check First",
+      },
       {
         slug: "seasonal-snow-contract-vs-per-storm-vermont",
         title:
