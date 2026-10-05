@@ -7,7 +7,6 @@ import { BlogPostPage } from "./blog-post-page";
 type Params = { slug: string };
 
 const BASE = "https://meticulous802.com";
-const AUTHOR = "Daniel Villarreal";
 const PUBLISHER_ID = `${BASE}/#organization`;
 
 function stripTags(html: string): string {
@@ -29,13 +28,17 @@ function buildBlogSeoTitle(post: { title: string; seoTitle?: string }): string {
   return base.length + BLOG_SUFFIX.length <= TITLE_BUDGET ? `${base}${BLOG_SUFFIX}` : base;
 }
 
+// A FAQ question is either an <h3> or a bold lead-in paragraph marked
+// class="faq-q" (used where a post would otherwise carry too many headings),
+// followed by the answer paragraph.
 function extractFaqs(html: string): { question: string; answer: string }[] {
   const faqs: { question: string; answer: string }[] = [];
-  const re = /<h3[^>]*>([\s\S]*?)<\/h3>\s*<p[^>]*>([\s\S]*?)<\/p>/gi;
+  const re =
+    /(?:<h3[^>]*>([\s\S]*?)<\/h3>|<p class="faq-q">([\s\S]*?)<\/p>)\s*<p[^>]*>([\s\S]*?)<\/p>/gi;
   let m: RegExpExecArray | null;
   while ((m = re.exec(html)) !== null) {
-    const question = stripTags(m[1]);
-    const answer = stripTags(m[2]);
+    const question = stripTags(m[1] ?? m[2]);
+    const answer = stripTags(m[3]);
     if (question.endsWith("?")) {
       faqs.push({ question, answer });
     }
@@ -113,7 +116,8 @@ export default async function Page({ params }: { params: Promise<Params> }) {
     headline: post.title,
     description: post.metaDescription,
     image: [`${BASE}${post.image}`],
-    author: { "@type": "Person", name: AUTHOR, jobTitle: "Owner", url: BASE },
+    // Posts are a company publication: credit the Organization, not a person.
+    author: { "@id": PUBLISHER_ID },
     publisher: { "@id": PUBLISHER_ID },
     datePublished,
     dateModified,

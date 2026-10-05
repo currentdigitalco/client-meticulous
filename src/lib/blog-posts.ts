@@ -44,7 +44,7 @@ export const blogPosts: BlogPost[] = [
     imageAlt: "Narrow Vermont gravel driveway between a fieldstone wall and bare maples with a plow truck at the entrance before the first storm.",
     featured: true,
     metaDescription: "Under 10 feet of clear width and a plow truck is not getting up it. How to measure the pinch point, where the snow goes, and when to use a tractor.",
-    content: "<p>If your driveway has less than about 10 feet of clear width, a full size truck with an 8 foot blade is not getting up it without taking something with it. That is the short answer, and I would rather give it to you in October than in January. The useful version is longer, because clear width is not the same as the width you measured, and most of the driveways I turn down on paper turn out to be fine once I walk them.</p>\n\n<p>I get this call every fall, and it comes in two flavors. One is somebody who just bought a place and has never had it plowed. The other is a second home owner who has been handling it themselves with a snowblower and has reached the point where they are not here enough for that to work. The second group is who I want to talk to first, because the answer for them is different.</p>\n\n<h2>What actually has to fit</h2>\n\n<p>A three quarter ton pickup is a little under 7 feet across the body and closer to 8 with the mirrors out. The plow is wider than the truck on purpose, usually 7.5 or 8 feet, because the blade has to cover the tire track when it is angled. Angle a blade and it gets narrower across, which is the trick people miss when they measure.</p>\n\n<p>So the real number is not the truck. It is the truck plus the room to turn the blade, plus enough margin that a wet February push does not put a corner into your lawn. 10 feet of clear travel is comfortable. 9 is workable on a straight run. 8 and under, I am going to want to see it before I say yes to anything.</p>\n\n<p>Clear is the word doing the work in that sentence. Not the gravel width. The width between the things that do not move.</p>\n\n<h2>Measure the pinch point, not the driveway</h2>\n\n<p>Walk the drive with a tape and find the narrowest spot. That is your number, and everything else is irrelevant.</p>\n\n<p>The usual culprits around here are stone walls, a pair of maples that were planted when the drive was for a wagon, a culvert headwall at the road, and a propane tank somebody set three feet off the edge. Then there is the part nobody thinks of, which is the overhead. A low branch at 9 feet is a real constraint, because a plow truck with a sander in the bed is taller than your car and the branch is going to be carrying snow load when it matters.</p>\n\n<p>Measure the entrance separately. The apron where the drive meets the road is where the truck has to swing in off a town road that has already been plowed, which means there is a bank there by January that is not there in October. A 12 foot entrance in the fall can be a 9 foot entrance after three storms.</p>\n\n<p>And look at the turnaround. If there is nowhere to turn, the truck has to back the whole length, and backing a plow down a curved Vermont driveway in the dark is how mailboxes die.</p>\n\n<h2>Where does the snow go</h2>\n\n<p>This one surprises people more than the width does, and it has ended more conversations than clearance ever has.</p>\n\n<p>A plow does not remove snow. It relocates it. Every push needs somewhere downhill or downwind to put the pile, and if your driveway is cut into a bank on both sides, by the third storm there is nowhere left and the usable width starts shrinking toward the middle. I have plowed drives in Mendon where February width was two thirds of October width, purely from stacking.</p>\n\n<p>So when I walk a property I am looking for the dump spots as much as the pinch points. A corner of lawn that can take a pile. A downhill shoulder. Somewhere that is not the septic mound, not the propane tank, and not on top of the heat pump. If there is genuinely nowhere, the honest answer is that the drive needs a blower or a tractor with a bucket rather than a truck, and sometimes it needs to be trucked out entirely in a bad year.</p>\n\n<h2>When a truck is the wrong tool</h2>\n\n<p>Plenty of driveways in Rutland County should not see a plow truck, and saying so has never cost me a customer I wanted.</p>\n\n<p>A narrow drive with a hard pinch, a steep pitch with a turn at the bottom, a paver or stamped concrete apron, a drive that crosses a soft shoulder that never really firms up: those get a smaller machine. A compact tractor with a blower throws the snow rather than stacking it, which solves the nowhere to put it problem outright, and it will go places the truck has no business being. It is slower, so it costs differently, and it goes on a different part of the route.</p>\n\n<p>The other wrong tool is the one you already own. A snowblower is a fine machine if you are standing in the driveway when it stops snowing. If you travel for work, that machine is a thing in your garage that makes you feel prepared while your driveway fills in.</p>\n\n<h2>Who pays when the edge gets clipped</h2>\n\n<p>Ask this before you sign with anybody, including us.</p>\n\n<p>Stakes are the answer, and they go in before the ground freezes, which in Rutland County means October and not the first week of December when you remember. Marked edges are what let a driver push to the actual edge in the dark with 18 inches down and no visible reference. We wrote the whole staking method up in <a href=\"/blog/driveway-markers-before-snow-vermont\">staking your driveway before the first storm</a>, including spacing and height, because a stake every 40 feet is decoration.</p>\n\n<p>My position is plain. If the edge was marked and we clip it, that is ours to fix in the spring. If it was not marked and we guessed, we are both finding out in April. Culverts and septic risers get flagged separately and specifically, because a culvert headwall does not bend.</p>\n\n<h2>The site visit is the whole answer</h2>\n\n<p>I will not tell you over the phone that a truck fits your driveway. Not because I am being difficult, but because the tape measure does not capture the turn, the pitch, the bank at the road or the place the snow has to go, and I have been wrong from a description before.</p>\n\n<p>The visit takes about 15 minutes and it happens before the first storm, not after. It is the same visit that sets the stakes, so if you are booking <a href=\"/services/fall-cleanup\">fall cleanup</a> this month we can do the whole thing in one stop and have the property on the route before anything falls. For a second home that nobody is standing in, that visit is also when we agree how you find out it was done, which matters more than it sounds when you are 300 miles away and the forecast says a foot.</p>\n\n<p>If you are weighing the structure of the agreement itself, <a href=\"/blog/what-is-included-in-snow-removal-vermont\">what is included in snow removal</a> covers scope, and our <a href=\"/services/snow-ice-management\">snow and ice management</a> page has both billing structures. For an owner who is not here much, <a href=\"/blog/opening-vermont-second-home-spring-checklist\">opening a Vermont second home</a> is the other half of the same year.</p>",
+    content: "<p>If your driveway has less than about 10 feet of clear width, a full size truck with an 8 foot blade is not getting up it without taking something with it. That is the short answer, and we would rather give it to you in October than in January. The useful version is longer, because clear width is not the same as the width you measured, and most of the driveways we turn down on paper turn out to be fine once we walk them.</p>\n\n<p>We get this call every fall, and it comes in two flavors. One is somebody who just bought a place and has never had it plowed. The other is a second home owner who has been handling it themselves with a snowblower and has reached the point where they are not here enough for that to work. The second group is who we want to talk to first, because the answer for them is different.</p>\n\n<h2>What actually has to fit</h2>\n\n<p>A three quarter ton pickup is a little under 7 feet across the body and closer to 8 with the mirrors out. The plow is wider than the truck on purpose, usually 7.5 or 8 feet, because the blade has to cover the tire track when it is angled. Angle a blade and it gets narrower across, which is the trick people miss when they measure.</p>\n\n<p>So the real number is not the truck. It is the truck plus the room to turn the blade, plus enough margin that a wet February push does not put a corner into your lawn. 10 feet of clear travel is comfortable. 9 is workable on a straight run. 8 and under, we are going to want to see it before we say yes to anything.</p>\n\n<p>Clear is the word doing the work in that sentence. Not the gravel width. The width between the things that do not move.</p>\n\n<h2>Measure the pinch point, not the driveway</h2>\n\n<p>Walk the drive with a tape and find the narrowest spot. That is your number, and everything else is irrelevant.</p>\n\n<p>The usual culprits around here are stone walls, a pair of maples that were planted when the drive was for a wagon, a culvert headwall at the road, and a propane tank somebody set three feet off the edge. Then there is the part nobody thinks of, which is the overhead. A low branch at 9 feet is a real constraint, because a plow truck with a sander in the bed is taller than your car and the branch is going to be carrying snow load when it matters.</p>\n\n<p>Measure the entrance separately. The apron where the drive meets the road is where the truck has to swing in off a town road that has already been plowed, which means there is a bank there by January that is not there in October. A 12 foot entrance in the fall can be a 9 foot entrance after three storms.</p>\n\n<p>And look at the turnaround. If there is nowhere to turn, the truck has to back the whole length, and backing a plow down a curved Vermont driveway in the dark is how mailboxes die.</p>\n\n<h2>Where does the snow go</h2>\n\n<p>This one surprises people more than the width does, and it has ended more conversations than clearance ever has.</p>\n\n<p>A plow does not remove snow. It relocates it. Every push needs somewhere downhill or downwind to put the pile, and if your driveway is cut into a bank on both sides, by the third storm there is nowhere left and the usable width starts shrinking toward the middle. We have plowed drives in Mendon where February width was two thirds of October width, purely from stacking.</p>\n\n<p>So when we walk a property we are looking for the dump spots as much as the pinch points. A corner of lawn that can take a pile. A downhill shoulder. Somewhere that is not the septic mound, not the propane tank, and not on top of the heat pump. If there is genuinely nowhere, the honest answer is that the drive needs a blower or a tractor with a bucket rather than a truck, and sometimes it needs to be trucked out entirely in a bad year.</p>\n\n<h2>When a truck is the wrong tool</h2>\n\n<p>Plenty of driveways in Rutland County should not see a plow truck, and saying so has never cost us a customer we wanted.</p>\n\n<p>A narrow drive with a hard pinch, a steep pitch with a turn at the bottom, a paver or stamped concrete apron, a drive that crosses a soft shoulder that never really firms up: those get a smaller machine. A compact tractor with a blower throws the snow rather than stacking it, which solves the nowhere to put it problem outright, and it will go places the truck has no business being. It is slower, so it costs differently, and it goes on a different part of the route.</p>\n\n<p>The other wrong tool is the one you already own. A snowblower is a fine machine if you are standing in the driveway when it stops snowing. If you travel for work, that machine is a thing in your garage that makes you feel prepared while your driveway fills in.</p>\n\n<h2>Who pays when the edge gets clipped</h2>\n\n<p>Ask this before you sign with anybody, including us.</p>\n\n<p>Stakes are the answer, and they go in before the ground freezes, which in Rutland County means October and not the first week of December when you remember. Marked edges are what let a driver push to the actual edge in the dark with 18 inches down and no visible reference. We wrote the whole staking method up in <a href=\"/blog/driveway-markers-before-snow-vermont\">staking your driveway before the first storm</a>, including spacing and height, because a stake every 40 feet is decoration.</p>\n\n<p>Our position is plain. If the edge was marked and we clip it, that is ours to fix in the spring. If it was not marked and we guessed, we are both finding out in April. Culverts and septic risers get flagged separately and specifically, because a culvert headwall does not bend.</p>\n\n<h2>The site visit is the whole answer</h2>\n\n<p>We will not tell you over the phone that a truck fits your driveway. Not because we are being difficult, but because the tape measure does not capture the turn, the pitch, the bank at the road or the place the snow has to go, and we have been wrong from a description before.</p>\n\n<p>The visit takes about 15 minutes and it happens before the first storm, not after. It is the same visit that sets the stakes, so if you are booking <a href=\"/services/fall-cleanup\">fall cleanup</a> this month we can do the whole thing in one stop and have the property on the route before anything falls. For a second home that nobody is standing in, that visit is also when we agree how you find out it was done, which matters more than it sounds when you are 300 miles away and the forecast says a foot.</p>\n\n<p>If you are weighing the structure of the agreement itself, <a href=\"/blog/what-is-included-in-snow-removal-vermont\">what is included in snow removal</a> covers scope, and our <a href=\"/services/snow-ice-management\">snow and ice management</a> page has both billing structures. For an owner who is not here much, <a href=\"/blog/opening-vermont-second-home-spring-checklist\">opening a Vermont second home</a> is the other half of the same year.</p>",
   },
   {
     slug: "seasonal-snow-contract-vs-per-storm-vermont",
@@ -59,7 +59,7 @@ export const blogPosts: BlogPost[] = [
     imageAlt: "Vermont gravel driveway under the first dusting of snow beside a fieldstone wall in Rutland County before plowing season.",
     featured: false,
     metaDescription: "Seasonal snow contract or per storm in Rutland County? The budget tradeoff, why elevation changes the math, and what counts as a push.",
-    content: "<p>If you want one number you can budget against and a guaranteed spot on our route, take the seasonal contract. If your driveway is short, you work from home, and you can wait until mid afternoon for a push, per storm will probably cost you less across an average Rutland County winter. The trouble with that sentence is the word average. Where your house sits decides which side of it you land on, and most people guess wrong because they are thinking about the valley when they live on a hill.</p>\n\n<p>I have this conversation every September, usually with somebody who got a surprise bill last March and does not want a repeat. So here is how I actually explain it.</p>\n\n<h2>What you are buying with each one</h2>\n\n<p>A seasonal contract is a flat price for the winter, billed in installments, covering every plowable event from the first storm through the last one. Some winters you come out ahead. Some winters we do. You are buying the end of the arithmetic.</p>\n\n<p>Per storm means we bill each time we push. The rate is set per visit, and the visit is triggered when accumulation hits the threshold in your agreement, usually 2 or 3 inches. Nothing is owed in a week where it does not snow. In a week with three storms and a January thaw that refreezes, you are paying for all of it.</p>\n\n<p>Neither one is a trick. They are two different ways of handling the same risk, and the question is only whether you would rather carry that risk yourself or hand it to us.</p>\n\n<h2>The elevation part nobody accounts for</h2>\n\n<p>This is the piece that surprises people, and it is the reason I will not quote a rule of thumb over the phone without asking where you are.</p>\n\n<p>Rutland city sits around 620 feet. A house on the Killington access road, or up in Mendon, or out toward Chittenden, can easily be 1,200 to 2,000 feet. That difference is not cosmetic. There are storms every winter that put down an inch of wet slush in the valley and eight inches on the mountain. We will run a full route up high on a night when nothing in town triggers a push at all.</p>\n\n<p>So two neighbors, in the loose Vermont sense of neighbor, can sign the same per storm rate and end the winter with bills that are not close. I have seen a Killington property bill out at nearly twice the pushes of a Rutland one in the same season. If you are up in elevation, per storm is a bet against your own address.</p>\n\n<p>The seasonal contract flattens that. It is priced to your property, so the mountain premium is baked in once, in October, instead of arriving in pieces all winter.</p>\n\n<h2>Light winter, heavy winter</h2>\n\n<p>In a light winter, per storm wins. That is just true and I am not going to pretend otherwise.</p>\n\n<p>In a heavy winter, the seasonal contract wins, and it wins by more than the light winter saves you. That asymmetry is the whole argument. The downside of guessing wrong on seasonal is that you overpay a bit in a quiet year. The downside of guessing wrong on per storm is an invoice in February that you did not plan for, in the same month the heating bill peaks.</p>\n\n<p>Our valley seasons tend to land somewhere in the 60 to 80 inch range, but the average is made of wild years on both sides. I have plowed a winter with barely a dozen real events and I have plowed one where we were out more than twenty five times. Nobody knows in October which one is coming.</p>\n\n<h2>What counts as a push, and who decides</h2>\n\n<p>Ask this before you sign anything, with either structure. It matters more than the rate.</p>\n\n<p>The agreement should name a trigger depth and say who calls it. Ours is a stated accumulation, and we make the call, because the alternative is waiting for a phone call from somebody asleep at 4am. It should also say what happens in a storm that runs for two days, because that is either one push or three depending on how the contract is written, and that single clause can move a per storm winter by a lot.</p>\n\n<p>It should cover drifting too. A wind event after a dry snow can close a driveway with no new accumulation at all. We wrote up the rest of the scope in <a href=\"/blog/what-is-included-in-snow-removal-vermont\">what is included in snow removal in Vermont</a>, including where the walkways and the sanding sit.</p>\n\n<h2>Route position is real</h2>\n\n<p>Seasonal customers go on the route first. I want to be straight that this is not a punishment for per storm people, it is just how the truck has to work. The route is built in the fall around committed properties, and per storm calls get fitted into the gaps.</p>\n\n<p>On a normal six inch overnight, nobody notices the difference. On the morning after a foot, seasonal properties are open early and per storm properties are open later in the day. If somebody in the house commutes over the mountain, or you have a second home you are driving up to on a Friday night, that gap is the thing you are actually buying.</p>\n\n<h2>What I tell people</h2>\n\n<p>If you are in the valley, the driveway is short and flat, and a late morning push does not wreck your day, per storm is fine. Take it and keep the flexibility.</p>\n\n<p>If you are above about a thousand feet, if the driveway is long or steep, if somebody has to leave at 6am, or if you simply want the number settled, take the seasonal. The people who are happiest with it are second home owners, because they are paying for the property to be handled whether they are here or not, and they do not want a decision to make from Connecticut at 5am.</p>\n\n<p>One more thing on timing. Sign it before the first storm. Once we are plowing, the season is built and I am fitting people in around a route that already exists. Our <a href=\"/services/snow-ice-management\">snow and ice management</a> page lays out both structures, and if you are booking <a href=\"/services/fall-cleanup\">fall cleanup</a> anyway, do them in the same conversation. We walk the property once and set both up. I wrote more about the booking window in <a href=\"/blog/when-to-book-snow-removal-vermont\">when to book snow removal in Vermont</a>.</p>",
+    content: "<p>If you want one number you can budget against and a guaranteed spot on our route, take the seasonal contract. If your driveway is short, you work from home, and you can wait until mid afternoon for a push, per storm will probably cost you less across an average Rutland County winter. The trouble with that sentence is the word average. Where your house sits decides which side of it you land on, and most people guess wrong because they are thinking about the valley when they live on a hill.</p>\n\n<p>We have this conversation every September, usually with somebody who got a surprise bill last March and does not want a repeat. So here is how we actually explain it.</p>\n\n<h2>What you are buying with each one</h2>\n\n<p>A seasonal contract is a flat price for the winter, billed in installments, covering every plowable event from the first storm through the last one. Some winters you come out ahead. Some winters we do. You are buying the end of the arithmetic.</p>\n\n<p>Per storm means we bill each time we push. The rate is set per visit, and the visit is triggered when accumulation hits the threshold in your agreement, usually 2 or 3 inches. Nothing is owed in a week where it does not snow. In a week with three storms and a January thaw that refreezes, you are paying for all of it.</p>\n\n<p>Neither one is a trick. They are two different ways of handling the same risk, and the question is only whether you would rather carry that risk yourself or hand it to us.</p>\n\n<h2>The elevation part nobody accounts for</h2>\n\n<p>This is the piece that surprises people, and it is the reason we will not quote a rule of thumb over the phone without asking where you are.</p>\n\n<p>Rutland city sits around 620 feet. A house on the Killington access road, or up in Mendon, or out toward Chittenden, can easily be 1,200 to 2,000 feet. That difference is not cosmetic. There are storms every winter that put down an inch of wet slush in the valley and eight inches on the mountain. We will run a full route up high on a night when nothing in town triggers a push at all.</p>\n\n<p>So two neighbors, in the loose Vermont sense of neighbor, can sign the same per storm rate and end the winter with bills that are not close. We have seen a Killington property bill out at nearly twice the pushes of a Rutland one in the same season. If you are up in elevation, per storm is a bet against your own address.</p>\n\n<p>The seasonal contract flattens that. It is priced to your property, so the mountain premium is baked in once, in October, instead of arriving in pieces all winter.</p>\n\n<h2>Light winter, heavy winter</h2>\n\n<p>In a light winter, per storm wins. That is just true and we are not going to pretend otherwise.</p>\n\n<p>In a heavy winter, the seasonal contract wins, and it wins by more than the light winter saves you. That asymmetry is the whole argument. The downside of guessing wrong on seasonal is that you overpay a bit in a quiet year. The downside of guessing wrong on per storm is an invoice in February that you did not plan for, in the same month the heating bill peaks.</p>\n\n<p>Our valley seasons tend to land somewhere in the 60 to 80 inch range, but the average is made of wild years on both sides. We have plowed a winter with barely a dozen real events, and we have plowed one where the trucks were out more than twenty five times. Nobody knows in October which one is coming.</p>\n\n<h2>What counts as a push, and who decides</h2>\n\n<p>Ask this before you sign anything, with either structure. It matters more than the rate.</p>\n\n<p>The agreement should name a trigger depth and say who calls it. Ours is a stated accumulation, and we make the call, because the alternative is waiting for a phone call from somebody asleep at 4am. It should also say what happens in a storm that runs for two days, because that is either one push or three depending on how the contract is written, and that single clause can move a per storm winter by a lot.</p>\n\n<p>It should cover drifting too. A wind event after a dry snow can close a driveway with no new accumulation at all. We wrote up the rest of the scope in <a href=\"/blog/what-is-included-in-snow-removal-vermont\">what is included in snow removal in Vermont</a>, including where the walkways and the sanding sit.</p>\n\n<h2>Route position is real</h2>\n\n<p>Seasonal customers go on the route first. We want to be straight that this is not a punishment for per storm people, it is just how the truck has to work. The route is built in the fall around committed properties, and per storm calls get fitted into the gaps.</p>\n\n<p>On a normal six inch overnight, nobody notices the difference. On the morning after a foot, seasonal properties are open early and per storm properties are open later in the day. If somebody in the house commutes over the mountain, or you have a second home you are driving up to on a Friday night, that gap is the thing you are actually buying.</p>\n\n<h2>What we tell people</h2>\n\n<p>If you are in the valley, the driveway is short and flat, and a late morning push does not wreck your day, per storm is fine. Take it and keep the flexibility.</p>\n\n<p>If you are above about a thousand feet, if the driveway is long or steep, if somebody has to leave at 6am, or if you simply want the number settled, take the seasonal. The people who are happiest with it are second home owners, because they are paying for the property to be handled whether they are here or not, and they do not want a decision to make from Connecticut at 5am.</p>\n\n<p>One more thing on timing. Sign it before the first storm. Once we are plowing, the season is built and we are fitting people in around a route that already exists. Our <a href=\"/services/snow-ice-management\">snow and ice management</a> page lays out both structures, and if you are booking <a href=\"/services/fall-cleanup\">fall cleanup</a> anyway, do them in the same conversation. We walk the property once and set both up. We wrote more about the booking window in <a href=\"/blog/when-to-book-snow-removal-vermont\">when to book snow removal in Vermont</a>.</p>",
   },
   {
     slug: "driveway-markers-before-snow-vermont",
@@ -74,13 +74,13 @@ export const blogPosts: BlogPost[] = [
     imageAlt: "Driveway markers staked along a Vermont gravel driveway edge in late autumn before snow plowing season.",
     featured: false,
     metaDescription: "Driveway markers before snow plowing: when to stake, where they go, how tall and far apart for a Rutland County VT winter, and what breaks without them.",
-    content: "<p>Put your stakes in before the ground freezes, and put them where the plow can hurt you, not just along the pretty part of the driveway. In Rutland County that means late October, because once the top 3 or 4 inches set up you are hammering into concrete and you will snap half of them.</p>\n\n<p>I will tell you why I care about this more than most of what we do in the fall. Every spring we reseed somebody's lawn edge because nobody could tell in January where the driveway stopped. It is the same repair every year on properties that never got marked, and it is one of the few jobs where I know the cause before I get out of the truck. Ten dollars of stakes in October is the whole fix.</p>\n\n<h2>What a Driver Can Actually See in January</h2>\n\n<p>After the third or fourth storm, your property is one continuous white surface. The driveway, the lawn, the ditch and the flower bed are all the same height and the same color. The banks from the last plow have buried whatever edge was still visible, and if it is snowing during the push, the headlights just bounce back.</p>\n\n<p>Drivers go off memory and off whatever is standing above the snow. On a property we have plowed for years, memory carries most of it. On a new property, or after a storm that drops a foot overnight, memory is not enough. The stakes are the only thing telling the driver where the gravel ends.</p>\n\n<p>This matters more on gravel than on pavement. A paved edge gives the blade something to ride. Gravel has no edge at all once it is covered, and the plow will take the shoulder with it if the driver guesses wrong by a foot.</p>\n\n<h2>Where the Stakes Go</h2>\n\n<p>Most people stake the straight run and stop. The straight run is the part least likely to cause trouble. Mark these instead:</p>\n\n<ul>\n<li><strong>Both sides of the entrance</strong> off the town road, where the banks get highest and the sightline is worst.</li>\n<li><strong>Culvert ends.</strong> A plow that clips a culvert end bends it, and you find out in April when the water backs up and takes the driveway apart.</li>\n<li><strong>The turnaround or hammerhead.</strong> This is where a driver has to swing wide, and it is where lawn gets scalped.</li>\n<li><strong>Septic lids and the leach field edge.</strong> A riser lid catches a blade beautifully. Mark it even if it never gets driven on, so nobody stacks snow there.</li>\n<li><strong>Anything low and solid</strong> you would not want hit: granite curbing, the water shutoff, landscape boulders, the corner of a retaining wall.</li>\n<li><strong>The spot where snow can go, and the spot where it cannot.</strong> Marking the pile area saves an argument in February.</li>\n</ul>\n\n<p>Skip the middle of a long straight stretch if you want to save stakes. Nobody has ever damaged anything there.</p>\n\n<h2>How Tall and How Far Apart</h2>\n\n<p>Use stakes that stand at least 4 feet above grade. 5 feet is better on a road-facing entrance. Our snowpack plus the bank a plow throws will bury a 3 foot stake by February, and a stake you cannot see is the same as no stake.</p>\n\n<p>Space them roughly every 15 to 20 feet on the open runs, and tighten that up to every 8 to 10 feet through curves, at the entrance and anywhere the edge does something unexpected. Reflective tops are worth the small upcharge because most of our plowing happens in the dark on both ends of the day.</p>\n\n<p>Fiberglass rods last several seasons and flex instead of snapping. Wooden lath is cheaper and fine for one winter, but it splinters and you will be picking it out of the lawn in spring. Set each one a good 8 to 10 inches deep so frost does not heave it out in a January thaw.</p>\n\n<h2>What Gets Damaged, and Who Pays</h2>\n\n<p>Here is the honest part, because it is the question underneath the question. On an unmarked property, the common damage is lawn edge torn up along the driveway shoulder, a bent culvert end, a cracked septic riser, and gravel dragged 20 feet into the grass. None of it is dramatic. All of it costs real money to put back in the spring.</p>\n\n<p>Most plowing agreements, ours included, cover damage caused by driver error but not damage to things that were never marked and could not reasonably be seen. That is standard and it is fair, but people are surprised by it in April. If your septic lid sits 4 inches proud in the middle of a turnaround and nothing flags it, that is not a driver error. Read whatever you sign, and ask specifically how unmarked obstacles are handled. Our own breakdown of <a href=\"/blog/what-is-included-in-snow-removal-vermont\">what is included in snow removal in Vermont</a> covers the rest of the scope.</p>\n\n<p>When it does go wrong, spring repair is the reseeding pass I mentioned. We wrote up <a href=\"/blog/lawn-reseeding-snowplow-damage-vermont-may\">how we fix snowplow damage to a lawn in May</a>, and every one of those jobs started with an edge nobody could see.</p>\n\n<h2>The Rest of the Pre-Storm Walk</h2>\n\n<p>While you have the stakes out, walk the property once with winter in mind:</p>\n\n<ul>\n<li>Swing every gate fully open and decide if it stays open all winter. A gate that opens into the plow path is a problem in the first storm.</li>\n<li>Look up. Branches that clear a truck in September do not clear it loaded with ice in February.</li>\n<li>Pull hoses, shut the outside spigots, and get the downspout extensions out of the plow path.</li>\n<li>Move anything seasonal off the edges. Planters, hoses, the grill, the decorative rock somebody put at the driveway mouth.</li>\n<li>Decide where the snow goes now, while you can see the ground, and make sure that spot does not drain back across the driveway during a thaw.</li>\n</ul>\n\n<p>Most of that overlaps with a normal <a href=\"/blog/preparing-property-for-winter\">winter property prep pass</a>, so it is not extra work if you are already doing the fall cleanup.</p>\n\n<h2>Do It in October</h2>\n\n<p>The ground in Rutland County is workable through most of October and gets unreliable after that. By mid November you are picking at frozen crust in the mornings, and by December you are not getting a stake in at all without a bar and a lot of patience.</p>\n\n<p>So this is a short window, and it closes quietly. If you are booking plowing for the season anyway, do the walk at the same time. We generally set stakes as part of the pre-season visit for properties we plow, and for second homes we mark it before the owners come up, because the owner is rarely here when the first storm lands.</p>\n\n<p>If you want us to handle the season, <a href=\"/blog/when-to-book-snow-removal-vermont\">book it before the calendar fills</a> or just <a href=\"/services\">tell us what you need</a> and we will come walk it with you.</p>",
+    content: "<p>Put your stakes in before the ground freezes, and put them where the plow can hurt you, not just along the pretty part of the driveway. In Rutland County that means late October, because once the top 3 or 4 inches set up you are hammering into concrete and you will snap half of them.</p>\n\n<p>Here is why we care about this more than most of what we do in the fall. Every spring we reseed somebody's lawn edge because nobody could tell in January where the driveway stopped. It is the same repair every year on properties that never got marked, and it is one of the few jobs where we know the cause before anyone gets out of the truck. Ten dollars of stakes in October is the whole fix.</p>\n\n<h2>What a Driver Can Actually See in January</h2>\n\n<p>After the third or fourth storm, your property is one continuous white surface. The driveway, the lawn, the ditch and the flower bed are all the same height and the same color. The banks from the last plow have buried whatever edge was still visible, and if it is snowing during the push, the headlights just bounce back.</p>\n\n<p>Drivers go off memory and off whatever is standing above the snow. On a property we have plowed for years, memory carries most of it. On a new property, or after a storm that drops a foot overnight, memory is not enough. The stakes are the only thing telling the driver where the gravel ends.</p>\n\n<p>This matters more on gravel than on pavement. A paved edge gives the blade something to ride. Gravel has no edge at all once it is covered, and the plow will take the shoulder with it if the driver guesses wrong by a foot.</p>\n\n<h2>Where the Stakes Go</h2>\n\n<p>Most people stake the straight run and stop. The straight run is the part least likely to cause trouble. Mark these instead:</p>\n\n<ul>\n<li><strong>Both sides of the entrance</strong> off the town road, where the banks get highest and the sightline is worst.</li>\n<li><strong>Culvert ends.</strong> A plow that clips a culvert end bends it, and you find out in April when the water backs up and takes the driveway apart.</li>\n<li><strong>The turnaround or hammerhead.</strong> This is where a driver has to swing wide, and it is where lawn gets scalped.</li>\n<li><strong>Septic lids and the leach field edge.</strong> A riser lid catches a blade beautifully. Mark it even if it never gets driven on, so nobody stacks snow there.</li>\n<li><strong>Anything low and solid</strong> you would not want hit: granite curbing, the water shutoff, landscape boulders, the corner of a retaining wall.</li>\n<li><strong>The spot where snow can go, and the spot where it cannot.</strong> Marking the pile area saves an argument in February.</li>\n</ul>\n\n<p>Skip the middle of a long straight stretch if you want to save stakes. Nobody has ever damaged anything there.</p>\n\n<h2>How Tall and How Far Apart</h2>\n\n<p>Use stakes that stand at least 4 feet above grade. 5 feet is better on a road-facing entrance. Our snowpack plus the bank a plow throws will bury a 3 foot stake by February, and a stake you cannot see is the same as no stake.</p>\n\n<p>Space them roughly every 15 to 20 feet on the open runs, and tighten that up to every 8 to 10 feet through curves, at the entrance and anywhere the edge does something unexpected. Reflective tops are worth the small upcharge because most of our plowing happens in the dark on both ends of the day.</p>\n\n<p>Fiberglass rods last several seasons and flex instead of snapping. Wooden lath is cheaper and fine for one winter, but it splinters and you will be picking it out of the lawn in spring. Set each one a good 8 to 10 inches deep so frost does not heave it out in a January thaw.</p>\n\n<h2>What Gets Damaged, and Who Pays</h2>\n\n<p>Here is the honest part, because it is the question underneath the question. On an unmarked property, the common damage is lawn edge torn up along the driveway shoulder, a bent culvert end, a cracked septic riser, and gravel dragged 20 feet into the grass. None of it is dramatic. All of it costs real money to put back in the spring.</p>\n\n<p>Most plowing agreements, ours included, cover damage caused by driver error but not damage to things that were never marked and could not reasonably be seen. That is standard and it is fair, but people are surprised by it in April. If your septic lid sits 4 inches proud in the middle of a turnaround and nothing flags it, that is not a driver error. Read whatever you sign, and ask specifically how unmarked obstacles are handled. Our own breakdown of <a href=\"/blog/what-is-included-in-snow-removal-vermont\">what is included in snow removal in Vermont</a> covers the rest of the scope.</p>\n\n<p>When it does go wrong, spring repair is the reseeding pass we mentioned. We wrote up <a href=\"/blog/lawn-reseeding-snowplow-damage-vermont-may\">how we fix snowplow damage to a lawn in May</a>, and every one of those jobs started with an edge nobody could see.</p>\n\n<h2>The Rest of the Pre-Storm Walk</h2>\n\n<p>While you have the stakes out, walk the property once with winter in mind:</p>\n\n<ul>\n<li>Swing every gate fully open and decide if it stays open all winter. A gate that opens into the plow path is a problem in the first storm.</li>\n<li>Look up. Branches that clear a truck in September do not clear it loaded with ice in February.</li>\n<li>Pull hoses, shut the outside spigots, and get the downspout extensions out of the plow path.</li>\n<li>Move anything seasonal off the edges. Planters, hoses, the grill, the decorative rock somebody put at the driveway mouth.</li>\n<li>Decide where the snow goes now, while you can see the ground, and make sure that spot does not drain back across the driveway during a thaw.</li>\n</ul>\n\n<p>Most of that overlaps with a normal <a href=\"/blog/preparing-property-for-winter\">winter property prep pass</a>, so it is not extra work if you are already doing the fall cleanup.</p>\n\n<h2>Do It in October</h2>\n\n<p>The ground in Rutland County is workable through most of October and gets unreliable after that. By mid November you are picking at frozen crust in the mornings, and by December you are not getting a stake in at all without a bar and a lot of patience.</p>\n\n<p>So this is a short window, and it closes quietly. If you are booking plowing for the season anyway, do the walk at the same time. We generally set stakes as part of the pre-season visit for properties we plow, and for second homes we mark it before the owners come up, because the owner is rarely here when the first storm lands.</p>\n\n<p>If you want us to handle the season, <a href=\"/blog/when-to-book-snow-removal-vermont\">book it before the calendar fills</a> or just <a href=\"/services\">tell us what you need</a> and we will come walk it with you.</p>",
   },
   {
     slug: "how-many-fall-cleanups-vermont",
     title: "How Many Fall Cleanups Do You Need in Rutland County?",
     excerpt:
-      "One fall cleanup or three? On most wooded Rutland County lots the honest answer is two, one bulk pass at peak drop and a final pass after the stragglers come down. Open lots get by on one, and a few heavily forested hillside properties around Killington need three. The number is set by your trees and your elevation, not by a package. Here is how I count it town by town, why maples and oaks drop three weeks apart, what a single late cleanup costs you in spring, and the honest answer even when it is one.",
+      "One fall cleanup or three? On most wooded Rutland County lots the honest answer is two, one bulk pass at peak drop and a final pass after the stragglers come down. Open lots get by on one, and a few heavily forested hillside properties around Killington need three. The number is set by your trees and your elevation, not by a package. Here is how we count it town by town, why maples and oaks drop three weeks apart, what a single late cleanup costs you in spring, and the honest answer even when it is one.",
     category: "Fall & Winter Prep",
     date: "September 2026",
     datePublished: "2026-09-14",
@@ -92,11 +92,11 @@ export const blogPosts: BlogPost[] = [
     metaDescription:
       "Most wooded Rutland County lots need two fall cleanups, open lots one, some hillside lots three. How to tell how many passes your Vermont property needs.",
     content: `
-<p data-speakable="true"><strong>How many fall cleanups do you need? On a typical wooded Rutland County lot the honest answer is two: one bulk pass at peak drop, then a final pass after the stragglers come down. Open, lightly treed lots get by on one. A few heavily forested hillside properties around Killington need three. The number is set by your trees and your elevation, and I can usually call it from the driveway before I write the quote.</strong></p>
+<p data-speakable="true"><strong>How many fall cleanups do you need? On a typical wooded Rutland County lot the honest answer is two: one bulk pass at peak drop, then a final pass after the stragglers come down. Open, lightly treed lots get by on one. A few heavily forested hillside properties around Killington need three. The number is set by your trees and your elevation, and we can usually call it from the driveway before we write the quote.</strong></p>
 
 <p><em>Updated September 2026.</em></p>
 
-<p>I am Dan Villarreal, and I have run Meticulous LLC across Rutland County since 2009. Every September I get the same question from second-home owners and year-round clients, one cleanup or three, and the answer changes with the property. We already have posts on <a href="/blog/when-to-schedule-fall-cleanup-vermont">when to book the fall cleanup</a> and <a href="/blog/why-fall-cleanup-matters-vermont">why it matters more than any other visit</a>. Neither one answers the question that decides your invoice, which is how many passes your lot actually needs. Here is how I count it, town by town.</p>
+<p>Meticulous LLC has worked properties across Rutland County since 2009, and every September we get the same question from second-home owners and year-round clients, one cleanup or three, and the answer changes with the property. We already have posts on <a href="/blog/when-to-schedule-fall-cleanup-vermont">when to book the fall cleanup</a> and <a href="/blog/why-fall-cleanup-matters-vermont">why it matters more than any other visit</a>. Neither one answers the question that decides your invoice, which is how many passes your lot actually needs. Here is how we count it, town by town.</p>
 
 <h2>Leaves do not all fall on the same weekend</h2>
 
@@ -108,11 +108,9 @@ export const blogPosts: BlogPost[] = [
 
 <h2>Maples, oaks, and the three-week gap between them</h2>
 
-<p>The single biggest thing that sets your count is which trees you have. Maples, ash, and birch drop early and fast, usually finished by the third week of October. Oaks are stubborn. A red oak will hold its leaves deep into November, and some hang on brown until a hard wind or the first heavy snow finally takes them down. That is a genuine three-week gap between the maple drop and the oak drop on the same lawn. If your lot is mostly maple, one well-timed pass in late October can be enough. If you have mature oaks, one pass is guaranteed to leave a second wave on the ground after the crew is gone. This is the detail most quotes skip, and it is the first thing I look up when I walk a property.</p>
+<p>The single biggest thing that sets your count is which trees you have. Maples, ash, and birch drop early and fast, usually finished by the third week of October. Oaks are stubborn. A red oak will hold its leaves deep into November, and some hang on brown until a hard wind or the first heavy snow finally takes them down. That is a genuine three-week gap between the maple drop and the oak drop on the same lawn. If your lot is mostly maple, one well-timed pass in late October can be enough. If you have mature oaks, one pass is guaranteed to leave a second wave on the ground after the crew is gone. This is the detail most quotes skip, and it is the first thing we look up when we walk a property.</p>
 
-<h2>How tree cover and elevation change the answer</h2>
-
-<p>Elevation stacks on top of species. The valley towns, Rutland, Proctor, West Rutland, Brandon, and Castleton, finish their drop through late October and rarely see sticking snow before Halloween. The hill towns above 1,500 feet, around Killington, Mendon, and Chittenden, can take their first plowable snow while the leaves up top are still coming down. So a wooded lot at elevation runs into both problems at once, a long drop and an early snow deadline. Those are the properties that sometimes earn a third pass: a quick early sweep before the first storm, then the usual bulk and final visits. An open lot in the Rutland flats with two young maples is the opposite case, and I will tell you to book one visit and skip the rest.</p>
+<p>Elevation stacks on top of species. The valley towns, Rutland, Proctor, West Rutland, Brandon, and Castleton, finish their drop through late October and rarely see sticking snow before Halloween. The hill towns above 1,500 feet, around Killington, Mendon, and Chittenden, can take their first plowable snow while the leaves up top are still coming down. So a wooded lot at elevation runs into both problems at once, a long drop and an early snow deadline. Those are the properties that sometimes earn a third pass: a quick early sweep before the first storm, then the usual bulk and final visits. An open lot in the Rutland flats with two young maples is the opposite case, and we will tell you to book one visit and skip the rest.</p>
 
 <h2>The second-home version: one visit after the last drop</h2>
 
@@ -124,22 +122,22 @@ export const blogPosts: BlogPost[] = [
 
 <h2>Booking order, and why the calendar fills from the north</h2>
 
-<p>Here is the part that surprises people. I schedule the county from the high, early-snow towns down toward the valley, so the Killington and Mendon lots get their final pass before the Rutland flats have even finished dropping. On the Chittenden and Mendon properties I run, I hold the final pass until the red oaks along the ridge finish, which lands in the first week of November most years, a good two to three weeks behind the maples down in the Rutland valley. That routing only works if the property is on the schedule early. The lots that call in mid-October take whatever slot is left, and in a heavy leaf year that leftover slot can push the final pass past the first storm. Book in early September, tell me what is growing on your lot, and I will give you the real number, even when the real number is one.</p>
+<p>Here is the part that surprises people. We schedule the county from the high, early-snow towns down toward the valley, so the Killington and Mendon lots get their final pass before the Rutland flats have even finished dropping. On the Chittenden and Mendon properties we run, we hold the final pass until the red oaks along the ridge finish, which lands in the first week of November most years, a good two to three weeks behind the maples down in the Rutland valley. That routing only works if the property is on the schedule early. The lots that call in mid-October take whatever slot is left, and in a heavy leaf year that leftover slot can push the final pass past the first storm. Book in early September, tell us what is growing on your lot, and we will give you the real number, even when the real number is one.</p>
 
 <h2>How Many Fall Cleanups FAQs</h2>
 
-<h3>How many fall cleanups does my Vermont property need?</h3>
-<p>It comes down to your trees and your elevation. A typical wooded Rutland County lot needs two, a bulk pass at peak leaf drop and a final pass after the last leaves come down. Open or lightly treed lots are usually fine with one. Heavily forested lots at elevation around Killington, Mendon, and Chittenden sometimes need three, because the drop runs long and the first plowable snow can arrive before the oaks are bare. When I walk a property I look at the species first, since maples finish by the third week of October while red oaks hold into November.</p>
+<p class="faq-q"><strong>How many fall cleanups does my Vermont property need?</strong></p>
+<p>It comes down to your trees and your elevation. A typical wooded Rutland County lot needs two, a bulk pass at peak leaf drop and a final pass after the last leaves come down. Open or lightly treed lots are usually fine with one. Heavily forested lots at elevation around Killington, Mendon, and Chittenden sometimes need three, because the drop runs long and the first plowable snow can arrive before the oaks are bare. When we walk a property we look at the species first, since maples finish by the third week of October while red oaks hold into November.</p>
 
-<h3>Can a wooded Rutland County lot really get away with one cleanup?</h3>
-<p>Only if the trees are mostly maple, ash, or birch, which finish dropping fast and early. On those lots one well-timed pass in late October catches almost everything. The moment there are mature oaks in the mix, one pass leaves a second wave on the ground after the crew is gone, and that wave mats under the first snow and smothers the turf by spring. The mistake I see most is forcing a heavily treed property into a single visit to save a trip, then paying for a spring reseed that runs more than the second pass would have.</p>
+<p class="faq-q"><strong>Can a wooded Rutland County lot really get away with one cleanup?</strong></p>
+<p>Only if the trees are mostly maple, ash, or birch, which finish dropping fast and early. On those lots one well-timed pass in late October catches almost everything. The moment there are mature oaks in the mix, one pass leaves a second wave on the ground after the crew is gone, and that wave mats under the first snow and smothers the turf by spring. The mistake we see most is forcing a heavily treed property into a single visit to save a trip, then paying for a spring reseed that runs more than the second pass would have.</p>
 
-<h3>We are second-home owners in Killington. Do we need two visits?</h3>
+<p class="faq-q"><strong>We are second-home owners in Killington. Do we need two visits?</strong></p>
 <p>Usually one is enough, scheduled after the last leaf is down, because you are not there to see a mid-season tidy anyway and the goal is a property that comes through winter clean. We send a photo confirmation so you can see the finished work from out of state. The exception is a heavily wooded lot high on the access roads, where the last oaks do not finish until the first snow is already possible. On those we split it into two, a bulk pass before the storm risk and a final pass once the ridge is bare.</p>
 
 <h2>Get the honest number for your property</h2>
 
-<p>If you want a straight answer on one cleanup or three, the time to ask is early September, before the first maple drops and the routes fill. We handle <a href="/services/fall-cleanup">fall cleanups</a> across Killington, Rutland, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, West Rutland, Brandon, and Castleton, and we scope the leaf load, tree cover, and elevation before we quote a single pass or two. Call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send your property address through the <a href="/contact">contact page</a>. Meticulous LLC is owned and run by Dan Villarreal, and we have counted leaf drop across Rutland County for more than fifteen falls, so I can tell you how many passes your lot needs, even when the answer is one.</p>`,
+<p>If you want a straight answer on one cleanup or three, the time to ask is early September, before the first maple drops and the routes fill. We handle <a href="/services/fall-cleanup">fall cleanups</a> across Killington, Rutland, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, West Rutland, Brandon, and Castleton, and we scope the leaf load, tree cover, and elevation before we quote a single pass or two. Call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send your property address through the <a href="/contact">contact page</a>. Meticulous LLC is owned and run by Dan Villarreal, and we have counted leaf drop across Rutland County for more than fifteen falls, so we can tell you how many passes your lot needs, even when the answer is one.</p>`,
   },
   {
     slug: "when-to-schedule-fall-cleanup-vermont",
@@ -165,7 +163,7 @@ export const blogPosts: BlogPost[] = [
 
 <p data-speakable="true"><strong>When to schedule fall cleanup in Vermont comes down to a two-week window: book it in early September, before leaf drop starts, so the work lands between late September and mid-November and finishes before the first snow. Whatever is on the lawn when the first Rutland County storm hits is locked there until April.</strong></p>
 
-<p>Meticulous LLC has managed properties across Rutland County since 2009, for year-round residents and second-home owners in Killington, Rutland, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, West Rutland, Brandon, and Castleton. I am Dan Villarreal, and every year the same thing happens: the phone starts ringing in mid-October, when the leaves are already down and the first snow is in the forecast, and by then the fall routes are full. The people who get a clean hand-off from fall into winter are the ones who called in early September, before a single maple had dropped. This is the visit that makes the plowing possible, so here is exactly what it includes and the week to book it.</p>
+<p>Meticulous LLC has managed properties across Rutland County since 2009, for year-round residents and second-home owners in Killington, Rutland, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, West Rutland, Brandon, and Castleton. Every year the same thing happens: the phone starts ringing in mid-October, when the leaves are already down and the first snow is in the forecast, and by then the fall routes are full. The people who get a clean hand-off from fall into winter are the ones who called in early September, before a single maple had dropped. This is the visit that makes the plowing possible, so here is exactly what it includes and the week to book it.</p>
 
 <h2>When should you schedule a fall cleanup in Vermont?</h2>
 
@@ -243,19 +241,19 @@ export const blogPosts: BlogPost[] = [
 
 <h2>Vermont Fall Cleanup Timing FAQs</h2>
 
-<h3>When should I schedule my fall cleanup in Vermont?</h3>
+<p class="faq-q"><strong>When should you schedule your fall cleanup in Vermont?</strong></p>
 <p>Book it in early September, about two weeks before leaf drop starts, so the actual work can be scheduled between late September and mid-November and finished before the first snow. In Rutland County the routes fill from the top down through October, and a call made in late October usually gets pushed into late November, when snow has already flattened the leaf mat and the cleanup can no longer be done properly. Booking early also secures the hand-off into a seasonal snow contract.</p>
 
-<h3>What is actually included in a fall cleanup?</h3>
+<p class="faq-q"><strong>What is actually included in a fall cleanup?</strong></p>
 <p>A complete fall cleanup includes leaf removal with haul-away, garden bed cleanout, species-appropriate perennial cutback, gutter and downspout clearing, storm and blowdown debris removal, a final short mow, and a snow-ready pass that marks obstacles for the plow. The leaves are the visible part, but the beds, gutters, drainage, and plow prep are what decide how the property comes through four months of snow. A cleanup that only removes leaves is half a job in this climate.</p>
 
-<h3>What is the last week I can get a fall cleanup done before snow?</h3>
+<p class="faq-q"><strong>What is the last week you can get a fall cleanup done before snow?</strong></p>
 <p>In most of the Rutland County valley the practical cutoff is mid-November, but at elevation around Killington and Mendon it is earlier, because the first plowable snow can arrive by the last week of October. Once snow settles on the leaves, it mats them flat against the turf and the drainage, and much of the cleanup value is already lost. That is why the booking happens in early September even though the work happens in October: the window to do it well is short, and it closes with the first storm.</p>
 
-<h3>Do the leaves really need to be hauled away, or can they be mulched?</h3>
+<p class="faq-q"><strong>Do the leaves really need to be hauled away, or can they be mulched?</strong></p>
 <p>On a light, dry leaf load we can mulch them in place, chopping them fine enough to fall between the grass blades and feed the soil, but most wooded Rutland County properties drop far too much for that and the leaves have to be collected and hauled off. A heavy layer mulched in place just becomes the smothering mat you were trying to avoid. Beds and gutters are always cleared out, never mulched, because packed leaves there rot and hold water. We make that call property by property.</p>
 
-<h3>We are second-home owners and are not up in the fall. Can you still handle it?</h3>
+<p class="faq-q"><strong>We are second-home owners and are not up in the fall. Can you still handle it?</strong></p>
 <p>Yes, and that is exactly who a fall cleanup protects most, because you are not there to see the leaves come down or the first storm arrive. We schedule the cleanup to your property's actual leaf drop, send photo confirmation of the completed work, and roll it straight into a seasonal snow contract so the property is handed cleanly from fall into winter with no call required from you. Most of the Killington, Woodstock, and Ludlow second-home owners we work with run it exactly this way.</p>
 
 <h2>Get on the Fall Cleanup Schedule Before Leaf Drop</h2>
@@ -285,7 +283,7 @@ export const blogPosts: BlogPost[] = [
 
 <p><em>Updated August 2026.</em></p>
 
-<p>Everyone signs a snow contract in October, when the driveway is dry and the question feels simple, and finds out what it actually covers in January, standing at the top of an un-shoveled walkway. Meticulous LLC has plowed and managed properties across Rutland County for years, from year-round homes in Rutland and Mendon to second homes on the Killington access roads, and the single most common surprise is not the price. It is the scope. Here is what a snow removal service actually clears, what sits outside every plow contract written, and the lines worth reading before the first storm.</p>
+<p>Everyone signs a snow contract in October, when the driveway is dry and the question feels simple, and finds out what it actually covers in January, standing at the top of an un-shoveled walkway. We have plowed and managed properties across Rutland County for years, from year-round homes in Rutland and Mendon to second homes on the Killington access roads, and the single most common surprise we see is not the price. It is the scope. Here is what a snow removal service actually clears, what sits outside every plow contract written, and the lines worth reading before the first storm.</p>
 
 <h2>The driveway gets plowed. Then what?</h2>
 
@@ -297,7 +295,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Walkways, steps and entries are cleared by hand or by a walk-behind machine, never by the plow truck, so they are always a separate scope line and often a separate crew visit. A plow blade cannot get up your front steps or along a three-foot path, so this work is done with shovels, snowblowers and a bag of ice melt, and it takes a person time on foot. That is why it is priced and scoped on its own. A contract can include it, exclude it, or make it on-call, and all three are legitimate. What you cannot afford is to assume it and find the path buried.</p>
 
-<p>Three ways this typically gets handled:</p>
+<p>Three ways we typically see this handled:</p>
 
 <ul>
   <li><strong>Bundled.</strong> Walkways and the main entry are cleared on the same trigger as the driveway, every push. The most hands-off and the most expensive.</li>
@@ -355,27 +353,27 @@ export const blogPosts: BlogPost[] = [
 
 <h2>Common questions about what snow removal includes</h2>
 
-<h3>What is included in a standard snow removal service?</h3>
+<p class="faq-q"><strong>What is included in a standard snow removal service?</strong></p>
 
 <p>A standard seasonal contract in Vermont includes clearing the driveway on a trigger depth, usually 2 to 3 inches, with return visits through a long storm. Walkways, steps, entries, de-icing, and clearing the berm left by the town plow are separate scope lines that may or may not be included. Roof snow, decks, patios and hauling snow off-site are outside every standard plow contract. Read the scope line and count how many surfaces it actually names before you sign.</p>
 
-<h3>Does snow plowing include salting or de-icing?</h3>
+<p class="faq-q"><strong>Does snow plowing include salting or de-icing?</strong></p>
 
 <p>Not automatically. Plowing moves snow; de-icing treats the ice and freeze-thaw glaze that plowing leaves behind, and it uses material that gets consumed every application, so it is almost always billed separately. It is written one of three ways: a set number of applications included per season, billed per application as needed, or left to the homeowner. On sloped or shaded Vermont drives, confirm which structure your contract uses before the first ice event.</p>
 
-<h3>Are walkways and sidewalks cleared as part of snow removal?</h3>
+<p class="faq-q"><strong>Are walkways and sidewalks cleared as part of snow removal?</strong></p>
 
 <p>Only if the contract names them. A plow truck cannot clear a walkway or steps, so that work is done by hand or with a walk-behind machine and is scoped and priced on its own. Many driveway contracts do not include walkways at all, or include only the primary entry. If a cleared path to your door matters, make sure walkways, steps and the main entry are written into the scope, not assumed.</p>
 
-<h3>Who clears the snow the town plow pushes across my driveway?</h3>
+<p class="faq-q"><strong>Who clears the snow the town plow pushes across your driveway?</strong></p>
 
 <p>That depends on your contract, and it is the line most agreements leave unaddressed. The municipal plow throws a dense berm across your driveway apron when it runs the road, often after your own plow has already cleared the drive. Whether that berm is cleared on the next scheduled push, included, or left to you should be spelled out. Ask specifically, because it is the heaviest snow on the property and it always arrives at the worst time.</p>
 
-<h3>Does snow removal include getting snow off my roof?</h3>
+<p class="faq-q"><strong>Does snow removal include getting snow off the roof?</strong></p>
 
 <p>No. Roof snow removal and ice-dam work are a separate trade with their own safety risk and their own crew, and no reputable plow contract includes them silently. On a heavy Vermont winter a roof under real snow load may need attention, but scope it separately and deliberately rather than expecting it as part of plowing.</p>
 
-<h3>How many times will you plow during one storm?</h3>
+<p class="faq-q"><strong>How many times will you plow during one storm?</strong></p>
 
 <p>On a seasonal trigger-depth contract, as many times as it takes to keep accumulation at or below the agreed depth. A storm that drops a foot over a day and a half may mean several visits, all covered by the seasonal price, which is the whole advantage of a trigger contract over a per-visit one. Confirm the trigger depth and that return visits through a long storm are included, since that is what separates a real seasonal contract from one that comes once and calls it done.</p>
 
@@ -409,7 +407,7 @@ export const blogPosts: BlogPost[] = [
 <p>Three conditions overlap in Rutland County right now, and they do not overlap again until this time next year.</p>
 
 <ul>
-  <li><strong>Soil is still warm.</strong> Cool-season grasses — the fescues, ryegrasses and Kentucky bluegrass that make up a Vermont lawn — germinate on soil temperature, not air temperature. Late-summer soil is at the top of that range, so seed comes up fast instead of sitting.</li>
+  <li><strong>Soil is still warm.</strong> Cool-season grasses (the fescues, ryegrasses and Kentucky bluegrass that make up a Vermont lawn) germinate on soil temperature, not air temperature. Late-summer soil is at the top of that range, so seed comes up fast instead of sitting.</li>
   <li><strong>Nights have cooled.</strong> New seedlings lose moisture on hot nights. Cool nights and heavy morning dew mean less watering and less stress on a plant that has almost no root system yet.</li>
   <li><strong>Weed pressure has collapsed.</strong> Crabgrass is an annual and it is finishing, not starting. Seed put down now is not competing for light and water the way April seed does. This is the difference people notice most and understand least.</li>
 </ul>
@@ -420,39 +418,31 @@ export const blogPosts: BlogPost[] = [
 
 <p>Overseeding fixes exactly one thing: not enough grass plants. It does nothing for a lawn that is thin for a different reason, and this is where money gets wasted every year. Four quick diagnostics.</p>
 
-<h3>Compaction</h3>
+<p><strong>Compaction.</strong> Push a screwdriver into the lawn. In decent soil it should go in several inches with hand pressure. If it stops short, the soil is compacted, and seed dropped on compacted ground will germinate and then stall because the roots have nowhere to go. That needs core aeration first: seeding into the holes afterward is one of the highest-return things you can do to a tired lawn.</p>
 
-<p>Push a screwdriver into the lawn. In decent soil it should go in several inches with hand pressure. If it stops short, the soil is compacted, and seed dropped on compacted ground will germinate and then stall because the roots have nowhere to go. That needs core aeration first — seeding into the holes afterward is one of the highest-return things you can do to a tired lawn.</p>
+<p><strong>Grubs.</strong> Tug on a thin patch. If the turf lifts like a loose carpet with no roots holding it, something has eaten the roots. Peel it back and look for white C-shaped larvae in the top inch or two of soil. Seeding over an active grub population is throwing seed at something that will eat the new roots too.</p>
 
-<h3>Grubs</h3>
+<p><strong>Drainage.</strong> Think about where water sits after a heavy rain. A patch that is thin every single year in the same low spot is a drainage problem wearing a lawn problem's clothes. Seed will germinate there and drown or heave out over winter. That one needs grading or drainage work, not more seed.</p>
 
-<p>Tug on a thin patch. If the turf lifts like a loose carpet with no roots holding it, something has eaten the roots. Peel it back and look for white C-shaped larvae in the top inch or two of soil. Seeding over an active grub population is throwing seed at something that will eat the new roots too.</p>
-
-<h3>Drainage</h3>
-
-<p>Think about where water sits after a heavy rain. A patch that is thin every single year in the same low spot is a drainage problem wearing a lawn problem's clothes. Seed will germinate there and drown or heave out over winter. That one needs grading or drainage work, not more seed.</p>
-
-<h3>Shade</h3>
-
-<p>Track how many hours of direct sun a thin area actually gets. Under four, most lawn grasses will not hold no matter what you spend. The honest options are a shade-tolerant seed mix, limbing up the canopy to let light through, or accepting that the area wants to be a bed rather than a lawn. We would rather tell you that than sell you seed twice.</p>
+<p><strong>Shade.</strong> Track how many hours of direct sun a thin area actually gets. Under four, most lawn grasses will not hold no matter what you spend. The honest options are a shade-tolerant seed mix, limbing up the canopy to let light through, or accepting that the area wants to be a bed rather than a lawn. We would rather tell you that than sell you seed twice.</p>
 
 <h2>What the repair actually involves</h2>
 
 <p>Assuming the problem really is thin turf, the sequence that works is not complicated, and skipping steps is why DIY seeding often disappoints.</p>
 
 <ol>
-  <li><strong>Mow short and clear the surface.</strong> Cut lower than usual and bag it, then rake or dethatch so seed can physically reach soil. Seed sitting on top of thatch does not germinate — it just feeds birds.</li>
+  <li><strong>Mow short and clear the surface.</strong> Cut lower than usual and bag it, then rake or dethatch so seed can physically reach soil. Seed sitting on top of thatch does not germinate: it just feeds birds.</li>
   <li><strong>Open the soil.</strong> Core aeration on a compacted lawn, or a hard raking to break the crust on smaller patches. Seed-to-soil contact is the entire game.</li>
-  <li><strong>Seed at the right rate with the right mix.</strong> Overseeding an existing lawn takes a different rate than starting bare ground, and heavier is not better — crowded seedlings compete with each other. The mix should match the site, especially in shade.</li>
+  <li><strong>Seed at the right rate with the right mix.</strong> Overseeding an existing lawn takes a different rate than starting bare ground, and heavier is not better: crowded seedlings compete with each other. The mix should match the site, especially in shade.</li>
   <li><strong>Topdress lightly.</strong> A thin layer of compost holds moisture against the seed and adds organic matter to soil that usually needs it. Thin is the operative word; burying seed is as bad as leaving it exposed.</li>
   <li><strong>Water lightly and often, then taper.</strong> The top half-inch has to stay damp until germination, which usually means short cycles daily rather than one long soak. Once seedlings are up, water less often and more deeply so roots chase it down.</li>
 </ol>
 
-<p>Keep foot traffic off it for a few weeks, and hold off on any weed control until the new grass has been mowed a few times — most products will kill young seedlings outright.</p>
+<p>Keep foot traffic off it for a few weeks, and hold off on any weed control until the new grass has been mowed a few times: most products will kill young seedlings outright.</p>
 
 <h2>Repair, or start over?</h2>
 
-<p>The rough rule we use walking a property: if more than about half the area is bare or weeds, overseeding is putting good seed into a bad situation, and a full renovation — killing off what is there, correcting the soil, and starting clean — will cost more up front and less over five years. Under half, repair is the better value and it is what we will recommend.</p>
+<p>The rough rule we use walking a property: if more than about half the area is bare or weeds, overseeding is putting good seed into a bad situation, and a full renovation (killing off what is there, correcting the soil, and starting clean) will cost more up front and less over five years. Under half, repair is the better value and it is what we will recommend.</p>
 
 <p>There is a middle case worth naming too. A lawn that is genuinely thin everywhere rather than patchy in specific spots is usually telling you something about soil, not about seed. That is worth a soil test before spending anything, because lime and nutrient corrections are cheap compared with reseeding a lawn twice.</p>
 
@@ -460,11 +450,11 @@ export const blogPosts: BlogPost[] = [
 
 <p>This is the practical reason we bring it up now rather than in October. The six weeks that repair a lawn are the same six weeks when <a href="/services/fall-cleanup">fall cleanup</a> gets scheduled and when <a href="/services/snow-ice-management">snow contracts</a> get booked for the season.</p>
 
-<p>Doing them as one conversation is not upselling, it is sequencing. Aerating and seeding, then cleaning up leaves without smothering new grass, then having the plow route set before the first storm rather than during it — that ordering matters, and it is much harder to arrange once everyone in the county is calling at the same time in November.</p>
+<p>Doing them as one conversation is not upselling, it is sequencing. Aerating and seeding, then cleaning up leaves without smothering new grass, then having the plow route set before the first storm rather than during it. That ordering matters, and it is much harder to arrange once everyone in the county is calling at the same time in November.</p>
 
 <h2>Getting it looked at</h2>
 
-<p>If you have a lawn that has been getting worse for a couple of seasons and you would like a straight answer on whether it needs seed, aeration, drainage work or a soil test, we will walk it with you and tell you which one it is — including telling you when the answer is to spend nothing until spring.</p>
+<p>If you have a lawn that has been getting worse for a couple of seasons and you would like a straight answer on whether it needs seed, aeration, drainage work or a soil test, we will walk it with you and tell you which one it is, including telling you when the answer is to spend nothing until spring.</p>
 
 <p>Meticulous handles <a href="/services/landscaping">landscaping</a>, lawn care and property maintenance across Rutland County, from Rutland and Mendon out through Castleton, Brandon, Killington and Pittsford. <a href="/contact">Get in touch</a> and we will get out to look at it.</p>
 `,
@@ -493,9 +483,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Every plow call we get in December starts with some version of the same question: why did the neighbor's driveway get done at 5 AM and mine at 9? The honest answer almost never has anything to do with favoritism. It comes down to a trigger depth set months earlier, a route built for efficiency, and conditions that plowing alone cannot fix.</p>
 
-<p>Meticulous LLC has plowed and managed ice on Rutland County properties since 2009, for year-round residents, second-home owners, and rental managers across Killington, Rutland, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, Brandon, and Castleton. I am Dan Villarreal, and this is the plain answer to what triggers a visit, how a two-foot storm turns into more than one truck run, and what a seasonal agreement should spell out before you sign it.</p>
-
-<h2>How Often Should My Driveway Be Plowed? Trigger Depth Is the Real Answer</h2>
+<p>Meticulous LLC has plowed and managed ice on Rutland County properties since 2009, for year-round residents, second-home owners, and rental managers across Killington, Rutland, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, Brandon, and Castleton. This is the plain answer to what triggers a visit, how a two-foot storm turns into more than one truck run, and what a seasonal agreement should spell out before you sign it.</p>
 
 <p>How often your driveway should be plowed comes down entirely to trigger depth, not a calendar: for a typical Rutland County residential driveway that number is about two to three inches of fresh accumulation, and it is the switch, not the schedule.</p>
 
@@ -577,25 +565,25 @@ export const blogPosts: BlogPost[] = [
 
 <h2>Vermont Snow Plowing FAQs</h2>
 
-<h3>How often should my driveway be plowed in Vermont?</h3>
+<p class="faq-q"><strong>How often should a driveway be plowed in Vermont?</strong></p>
 <p>It depends on your trigger depth and how many times a storm crosses it, not a fixed schedule. At the common two to three inch residential trigger, a small storm is one visit, and a large multi-day storm can mean five or more dispatches plus a final cleanup pass. There is no single "once per storm" answer, because storms are not one size.</p>
 
-<h3>What trigger depth do most residential Rutland County properties use?</h3>
+<p class="faq-q"><strong>What trigger depth do most residential Rutland County properties use?</strong></p>
 <p>Most run a two to three inch trigger, confirmed at the pre-season walkthrough. Steep grades, long driveways, rental turnovers, and drift-prone properties often run lower, and a flat driveway used once a day can sometimes run slightly higher.</p>
 
-<h3>Does a lower trigger depth cost more?</h3>
+<p class="faq-q"><strong>Does a lower trigger depth cost more?</strong></p>
 <p>Yes, and it should, because a lower trigger means the truck comes more often during the same storm. It is not a markup, it is more labor and equipment time on your property. The right trigger matches how the property is used, not automatically the lowest number available.</p>
 
-<h3>Will you plow while it is still snowing, or only after the storm ends?</h3>
+<p class="faq-q"><strong>Will you plow while it is still snowing, or only after the storm ends?</strong></p>
 <p>Both, depending on the property. Commercial lots, rentals, and driveways people need to leave from get dispatched during the storm on the trigger. Vacant properties and second homes with no one arriving that day often get one thorough pass after the storm settles, plus the standard post-storm cleanup.</p>
 
-<h3>My neighbor got plowed hours before I did. Why?</h3>
+<p class="faq-q"><strong>Why did the neighbor's driveway get plowed hours earlier?</strong></p>
 <p>Almost always route order, not favoritism. Routes are built in the fall as a fixed geographic loop, and commercial and rental-turnover properties are sequenced ahead of standard residential service. Your position on the same route can shift storm to storm depending on how the loop runs most efficiently that night.</p>
 
-<h3>Does a seasonal contract cover ice, or only snow accumulation?</h3>
+<p class="faq-q"><strong>Does a seasonal contract cover ice, or only snow accumulation?</strong></p>
 <p>Our contracts cover ice management as well as trigger-based plowing: salt and sand on driving surfaces, walkways, steps, and entries, applied to the conditions rather than only when there is enough depth to plow. Freezing rain, drifting, and overnight refreeze are exactly the events a plow-only arrangement misses.</p>
 
-<h3>Do you automatically plow a second home while the owner is away?</h3>
+<p class="faq-q"><strong>Do you automatically plow a second home while the owner is away?</strong></p>
 <p>Yes, that is what trigger-based automatic dispatch is for. We set the trigger before the season, watch the weather, and clear the property once a storm crosses the threshold, with no call required and photo confirmation available so an owner in another state can see the work was done.</p>
 
 <h2>Get Your Trigger Depth Set Before the Next Storm</h2>
@@ -604,7 +592,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Before you sign anything, it is worth knowing <a href="/blog/what-is-included-in-snow-removal-vermont">what a snow removal service actually clears</a>, so walkways, de-icing and the town-plow berm are named in your contract instead of assumed.</p>
 
-<p>Call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send your property address through the <a href="/contact">contact page</a> toget your trigger depth set and your driveway on the route. Meticulous LLC is owned and run by Dan Villarreal, and we have plowed Rutland County driveways since 2009, so the trigger you agree to in the fall is the truck that shows up on your schedule all winter.</p>`,
+<p>Call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send your property address through the <a href="/contact">contact page</a> to get your trigger depth set and your driveway on the route. Meticulous LLC is owned and run by Dan Villarreal, and we have plowed Rutland County driveways since 2009, so the trigger you agree to in the fall is the truck that shows up on your schedule all winter.</p>`,
   },
   {
     slug: "why-fall-cleanup-matters-vermont",
@@ -628,7 +616,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Fall cleanup is the visit owners are most tempted to skip. The lawn is going dormant, the leaves feel cosmetic, and it is easy to tell yourself the snow will bury it all anyway. That last part is exactly the problem.</p>
 
-<p>Meticulous LLC has managed Rutland County properties since 2009, for year-round residents and second-home owners across Killington, Rutland, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, West Rutland, Brandon, and Castleton. I am Dan Villarreal, and this is the visit I argue hardest for, because it is the one whose absence you do not see until April. Here is the cause-and-effect, laid out so it argues for itself.</p>
+<p>Meticulous LLC has managed Rutland County properties since 2009, for year-round residents and second-home owners across Killington, Rutland, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, West Rutland, Brandon, and Castleton. This is the visit we argue hardest for, because it is the one whose absence you do not see until April. Here is the cause-and-effect, laid out so it argues for itself.</p>
 
 <h2>What Does a Wet Leaf Mat Do to Lawn Health Under Four Months of Snow?</h2>
 
@@ -697,22 +685,22 @@ export const blogPosts: BlogPost[] = [
 
 <h2>Vermont Fall Cleanup FAQs</h2>
 
-<h3>Why does fall cleanup matter more than any other visit?</h3>
+<p class="faq-q"><strong>Why does fall cleanup matter more than any other visit?</strong></p>
 <p>Because its effect runs the longest and shows up the latest. A summer mow you skip is forgotten in two weeks; a fall cleanup you skip sits under four months of snow doing quiet damage to the lawn, the drainage, and the gutters, and you do not see the bill until April. It is the one visit whose absence compounds all winter instead of resetting with the next mow.</p>
 
-<h3>When should fall cleanup happen in Rutland County?</h3>
+<p class="faq-q"><strong>When should fall cleanup happen in Rutland County?</strong></p>
 <p>Late September through mid-November, timed to your property's actual leaf drop and elevation rather than a fixed date. Higher-elevation properties around Killington and Mendon drop later and need the cleanup finished before the first real snow, which can arrive by late October up top. We route the county by elevation and tree cover so every property is cleaned before the snow locks the season in, not after.</p>
 
-<h3>Will the snow just bury the leaves anyway?</h3>
+<p class="faq-q"><strong>Will the snow just bury the leaves anyway?</strong></p>
 <p>It buries them, but burying them is the damage, not the solution. Snow presses a wet leaf layer flat against living grass and seals it there for months, which is exactly the condition that smothers turf and grows snow mold. Leaves the snow covers do not decompose harmlessly over winter; they mat, and the mat is what you are cleaning up in spring.</p>
 
-<h3>Is snow mold dangerous to my lawn permanently?</h3>
+<p class="faq-q"><strong>Is snow mold dangerous to my lawn permanently?</strong></p>
 <p>It damages the grass it grows on, matting it into gray or pink dead-looking circles that have to be raked out and often reseeded in spring, but a lawn that goes into winter clean and short rarely gets it badly in the first place. The point of the final short mow and the leaf removal in a fall cleanup is to deny snow mold the long, matted, insulated layer it needs, so prevention in October beats treatment in April every time.</p>
 
-<h3>Can you mulch the leaves instead of hauling them away?</h3>
+<p class="faq-q"><strong>Can you mulch the leaves instead of hauling them away?</strong></p>
 <p>On a light leaf load we can, chopping them fine so they fall between the blades and feed the soil, but most wooded Rutland County properties drop too much for that and the leaves have to be collected and hauled off. We make that call property by property, because a heavy load mulched in place just becomes the mat you were trying to avoid.</p>
 
-<h3>We are second-home owners and are not up in the fall. Can you still handle it?</h3>
+<p class="faq-q"><strong>We are second-home owners and are not up in the fall. Can you still handle it?</strong></p>
 <p>Yes, and that is exactly who fall cleanup protects most, because you are not there to notice the leaves coming down or the first storm arriving. We schedule the cleanup to your property's leaf drop, send photo confirmation, and roll it straight into the seasonal snow contract so the property is handed cleanly from fall into winter with no call from you required.</p>
 
 <h2>Book Your Fall Cleanup Before the Snow Locks It In</h2>
@@ -721,7 +709,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>If you are working out the timing, our guide to <a href="/blog/when-to-schedule-fall-cleanup-vermont">what a fall cleanup includes and the week to book it</a> covers the two-week early-September window and everything the visit actually does before the snow. And before you sign anything, it is worth knowing <a href="/blog/what-is-included-in-snow-removal-vermont">what a snow removal service actually clears</a>, so walkways, de-icing and the town-plow berm are named in your contract instead of assumed.</p>
 
-<p>Call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send your property address through the <a href="/contact">contact page</a> toget your fall cleanup on the schedule and your driveway on the snow route. Meticulous LLC is owned and run by Dan Villarreal, and we have cared for Rutland County properties through more than fifteen Vermont winters, so we know exactly what a skipped fall costs when the snow comes off in April.</p>`,
+<p>Call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send your property address through the <a href="/contact">contact page</a> to get your fall cleanup on the schedule and your driveway on the snow route. Meticulous LLC is owned and run by Dan Villarreal, and we have cared for Rutland County properties through more than fifteen Vermont winters, so we know exactly what a skipped fall costs when the snow comes off in April.</p>`,
   },
   {
     slug: "when-to-book-snow-removal-vermont",
@@ -749,8 +737,6 @@ export const blogPosts: BlogPost[] = [
 <p>Almost every homeowner who calls a plow company for the first time calls too late. They call after the first forecast, when every route in the county is already spoken for. Snow removal is one of the few property services where the buying decision has to be made in shorts-and-t-shirt weather, months before the snow that makes you want it.</p>
 
 <p>Meticulous LLC has been plowing and managing ice on Rutland County properties since 2009, for year-round residents, second-home owners, and rental managers across Killington, Rutland, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, West Rutland, Brandon, and Castleton. Here is the honest timeline for when to book, how a seasonal contract differs from paying per storm, and what a real winter agreement covers.</p>
-
-<h2>When to Book Snow Removal in Vermont: the Honest Timeline</h2>
 
 <p>You should book snow removal in Vermont between August and October, and have a seasonal contract signed by early November at the latest. That timeline is not a sales tactic. It is set by how a plow operation actually works: a route is a fixed loop of properties a truck can clear before people need to leave for work, and once that loop is full, adding a driveway either pushes everyone else's finish time later or is simply declined.</p>
 
@@ -830,22 +816,22 @@ export const blogPosts: BlogPost[] = [
 
 <h2>Vermont Snow Removal and Seasonal Contract FAQs</h2>
 
-<h3>When should you book snow removal in Vermont?</h3>
+<p class="faq-q"><strong>When should you book snow removal in Vermont?</strong></p>
 <p>Book between August and October, and sign a seasonal contract by early November at the latest. Plow routes are built and filled before the season starts, so an early booking secures a slot and priority dispatch. Killington and the hill towns can see plowable snow by late October, and the valley around Rutland by mid-November, so waiting for the first forecast usually means the route you want is already full.</p>
 
-<h3>What is the difference between a seasonal snow contract and per-push plowing?</h3>
+<p class="faq-q"><strong>What is the difference between a seasonal snow contract and per-push plowing?</strong></p>
 <p>A seasonal contract is one flat price for the whole winter with automatic dispatch and priority on the route, no matter how many storms hit. Per-push billing charges a set fee each time we plow, which can cost less in a mild year but puts you behind contract holders on every storm and makes a heavy winter hard to budget. For any property someone depends on daily, or any second home, the contract is the structure that guarantees the driveway is clear on time.</p>
 
-<h3>How late can I sign up for snow service in Vermont?</h3>
+<p class="faq-q"><strong>How late can I sign up for snow service in Vermont?</strong></p>
 <p>We accept late signups based on remaining route capacity, but priority and guaranteed dispatch are not promised once a route is full. The honest answer is that early November is the safe cutoff. After that, whether we can add a property depends on where it sits relative to an existing route and how much room is left on it.</p>
 
-<h3>Does a snow contract cover ice, or just plowing?</h3>
+<p class="faq-q"><strong>Does a snow contract cover ice, or just plowing?</strong></p>
 <p>Our seasonal contracts cover ice management as well as plowing: salt and sand on driving surfaces, walkways, steps, and entries, applied to the conditions rather than only when there is enough snow to plow. Some of the most dangerous winter mornings in Rutland County are freeze-and-refreeze or freezing-rain events with almost no accumulation, and a plow-only arrangement drives past all of them.</p>
 
-<h3>Do you plow second homes when the owner is away?</h3>
+<p class="faq-q"><strong>Do you plow second homes when the owner is away?</strong></p>
 <p>Yes. That is exactly what trigger-based automatic dispatch is for. We set a snow-depth trigger before the season, monitor the weather, and clear the property automatically when a storm reaches the threshold, so an empty house in Killington or Ludlow is serviced whether the owner is in the state or not, with photo confirmation available on request.</p>
 
-<h3>What trigger depth do you use for residential plowing?</h3>
+<p class="faq-q"><strong>What trigger depth do you use for residential plowing?</strong></p>
 <p>For most residential driveways we set the trigger at about two inches, which we confirm with each client during the pre-season walkthrough. Some properties, steep grades, or rental turnovers warrant a lower trigger, and we set it to the property rather than applying one number to everyone.</p>
 
 <h2>Reserve Your Seasonal Snow Slot for Rutland County</h2>
@@ -854,7 +840,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Before you sign anything, it is worth knowing <a href="/blog/what-is-included-in-snow-removal-vermont">what a snow removal service actually clears</a>, so walkways, de-icing and the town-plow berm are named in your contract instead of assumed.</p>
 
-<p>Call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send your property address through the <a href="/contact">contact page</a> toreserve your slot. Meticulous LLC is owned and run by Dan Villarreal, and we have been plowing Rutland County driveways since 2009, so the route you book in August is the truck at your driveway in December.</p>`,
+<p>Call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send your property address through the <a href="/contact">contact page</a> to reserve your slot. Meticulous LLC is owned and run by Dan Villarreal, and we have been plowing Rutland County driveways since 2009, so the route you book in August is the truck at your driveway in December.</p>`,
   },
   {
     slug: "fence-cost-vermont",
@@ -963,19 +949,19 @@ export const blogPosts: BlogPost[] = [
 
 <h2>Vermont Fence Cost FAQs for Property Owners</h2>
 
-<h3>How much does a fence cost per foot in Vermont?</h3>
+<p class="faq-q"><strong>How much does a fence cost per foot in Vermont?</strong></p>
 <p>Installed, a fence in Vermont runs about $8 to $80 per linear foot depending on material. Wire and field fencing sit at the low end, pressure-treated and cedar in the $25 to $70 middle, and vinyl and ornamental aluminum at the top. Where you land inside that band is set less by the material than by the ground, since frost depth, ledge, and slope all push the per-foot number up on a typical Rutland County lot.</p>
 
-<h3>Why is a fence more expensive to install in Vermont than in other states?</h3>
+<p class="faq-q"><strong>Why is a fence more expensive to install in Vermont than in other states?</strong></p>
 <p>Because every post has to reach below the frost line, which runs 48 inches across most of Rutland County and deeper at elevation, so the holes are roughly twice as deep as a warmer state digs. Add the shallow bedrock that turns a routine post hole into rock drilling, and the slopes that slow layout and excavation, and the same fence simply takes more labor and material to build here.</p>
 
-<h3>What is the cheapest fence to install in Vermont?</h3>
+<p class="faq-q"><strong>What is the cheapest fence to install in Vermont?</strong></p>
 <p>High-tensile or field wire is the least expensive at roughly $8 to $18 per linear foot installed, which is why it is the standard for pastures, large properties, and boundary lines where privacy is not the point. Chain-link is the next step up. For a yard fence you want to look at, pressure-treated wood is the most affordable option that still holds up to Vermont winters when the posts are set correctly.</p>
 
-<h3>Is vinyl or cedar fencing worth the extra cost in Vermont?</h3>
+<p class="faq-q"><strong>Is vinyl or cedar fencing worth the extra cost in Vermont?</strong></p>
 <p>Often yes, if you plan to keep the fence long term. Vinyl costs the most up front at $50 to $80 per linear foot but lasts 25 to 40 years with no staining or rot, so the per-year cost is low. Cedar looks better to a lot of people and costs less than vinyl, but it needs upkeep and its in-ground life depends entirely on the posts. The right answer depends on whether you are optimizing for up-front price or twenty-year cost.</p>
 
-<h3>How long should a professionally installed fence last in Vermont?</h3>
+<p class="faq-q"><strong>How long should a professionally installed fence last in Vermont?</strong></p>
 <p>A fence built correctly for Vermont should last 15 to 40 years depending on material, and the deciding factor is the posts, not the panels. Posts set below the frost line and rated for ground contact keep the whole line standing straight. Posts set shallow or rated only for above-ground use let frost heave lift the fence a bit every winter, so it leans within a few years no matter how good the panels are.</p>
 
 <h2>Get a Fence Quote for Your Rutland County Property</h2>
@@ -1091,22 +1077,22 @@ export const blogPosts: BlogPost[] = [
 
 <h2>Vermont Fence Post FAQs for Property Owners</h2>
 
-<h3>How deep should a fence post be in Vermont?</h3>
+<p class="faq-q"><strong>How deep should a fence post be in Vermont?</strong></p>
 <p>Deep enough that the bottom of the post or its concrete footing clears the frost line, which is 48 inches across most of Rutland County and deeper at elevation. We set line posts to 52 to 54 inches on the valley floor and 56 to 60 inches above 1,500 feet around Killington, Mendon, and Chittenden. The 48-inch frost floor almost always governs over the one-third burial rule here.</p>
 
-<h3>Does the one-third rule work for fence posts in Vermont?</h3>
+<p class="faq-q"><strong>Does the one-third rule work for fence posts in Vermont?</strong></p>
 <p>No. The one-third rule (burying a third of the post) gives you about 24 inches for a 6-foot fence, which is entirely inside Vermont's freeze zone. In Rutland County the frost line runs 48 inches, so the frost-line depth is always deeper than the one-third figure and is the number you actually dig to. Run both and use whichever is deeper, which here is always the frost line.</p>
 
-<h3>Should I set fence posts in concrete in Vermont?</h3>
+<p class="faq-q"><strong>Should I set fence posts in concrete in Vermont?</strong></p>
 <p>Only if the bottom of the concrete sits below the frost line. A concrete plug that stops short of 48 inches gives frost a smooth surface to grip and gets heaved up whole. The method that holds in our soil is 6 inches of crushed gravel at the base for drainage, gravel packed up the sides, and concrete only in the top foot for lateral stiffness. That keeps water off the wood and gives frost nothing solid to lift.</p>
 
-<h3>How much does frost heave lift a shallow fence post?</h3>
+<p class="faq-q"><strong>How much does frost heave lift a shallow fence post?</strong></p>
 <p>About an inch per winter on a post set too shallow, and it does not drop back. Soil fills the gap under the post on each thaw, so it ratchets a little higher every freeze-thaw cycle. Over two or three winters a post set at 30 to 36 inches can rise three to six inches out of the ground, which is what makes an old fence lean and its gates stop latching.</p>
 
-<h3>What is the best wood for fence posts in Vermont ground?</h3>
+<p class="faq-q"><strong>What is the best wood for fence posts in Vermont ground?</strong></p>
 <p>Black locust lasts longest untreated at 25 to 40-plus years, but it is hard to source and work. For most jobs, ground-contact rated pressure-treated pine is the reliable choice at 20 to 30 years in the ground. Make sure the tag reads "Ground Contact," not "Above Ground," since above-ground stock carries less preservative and rots fast when buried. Western red cedar is better above grade than in the soil.</p>
 
-<h3>Why does my fence lean after only a few winters?</h3>
+<p class="faq-q"><strong>Why does my fence lean after only a few winters?</strong></p>
 <p>Almost always because the posts were set above the frost line. A post buried at 24 or 30 inches in Rutland County is inside the freeze zone, so frost heave lifts it a bit every winter and it never settles back level. The posts rise unevenly, the line goes crooked, and gates drag. The fix is resetting the posts below the frost line, since the leaning does not correct itself and gets worse each year.</p>
 
 <h2>Planning a Fence? Get the Posts Right the First Time</h2>
@@ -1204,19 +1190,19 @@ export const blogPosts: BlogPost[] = [
 
 <h2>Vermont Crabgrass FAQs for Property Owners</h2>
 
-<h3>Is it too late to stop crabgrass in July?</h3>
+<p class="faq-q"><strong>Is it too late to stop crabgrass in July?</strong></p>
 <p>It is too late for a pre-emergent, but not too late to control it. By July the crabgrass is already up, so the move is a post-emergent herbicide like quinclorac on the young plants, spot-treated in the patches, plus mowing at 3 to 3.5 inches to shade out any seed that has not germinated yet. The earlier in the summer you catch it, the fewer passes it takes.</p>
 
-<h3>What kills crabgrass without killing the grass in a Vermont lawn?</h3>
+<p class="faq-q"><strong>What kills crabgrass without killing the grass in a Vermont lawn?</strong></p>
 <p>A selective post-emergent with quinclorac. It targets crabgrass while leaving Kentucky bluegrass, fescue, and perennial ryegrass, the cool-season grasses that make up nearly every Rutland County lawn, unharmed at label rates. Add a methylated seed oil surfactant so it moves into the waxy crabgrass leaf, and treat in the morning or on a mild day rather than in peak afternoon heat.</p>
 
-<h3>Will mowing shorter help me get rid of crabgrass?</h3>
+<p class="faq-q"><strong>Will mowing shorter help me get rid of crabgrass?</strong></p>
 <p>No, mowing shorter makes it worse. Scalping the lawn opens the canopy, warms the soil, and gives crabgrass seed the light and heat it needs to germinate. The correct move is the opposite: mow tall, 3 to 3.5 inches through the Vermont summer, to keep a dense canopy that shades the soil and blocks germination. Short mowing is one of the top reasons a lawn fills with crabgrass by August.</p>
 
-<h3>When should I put down crabgrass pre-emergent in Rutland County?</h3>
+<p class="faq-q"><strong>When should I put down crabgrass pre-emergent in Rutland County?</strong></p>
 <p>When the soil in the top inch reaches 50 to 55°F, which in the Rutland Valley is usually late April into early May, and a week or two later at elevation around Killington and Mendon. Go by soil temperature, not a calendar date. A common field cue is to apply it as the forsythia finishes blooming, and to get it watered in before the soil crosses that 55°F germination threshold.</p>
 
-<h3>Does crabgrass die on its own in the fall?</h3>
+<p class="faq-q"><strong>Does crabgrass die on its own in the fall?</strong></p>
 <p>Yes. Crabgrass is a summer annual, so it dies completely at the first hard frost, which in Rutland County usually arrives in late September or October. The problem is that each plant drops thousands of seeds before it dies, seeding next year's crop, and it leaves bare patches behind. The right fall response is to overseed those thin areas so the desirable turf, not more crabgrass, fills them next spring.</p>
 
 <h2>Get a Lawn Assessment Before It Seeds</h2>
@@ -1320,22 +1306,22 @@ export const blogPosts: BlogPost[] = [
 
 <h2>Japanese Knotweed FAQs for Vermont Property Owners</h2>
 
-<h3>Is it illegal to have Japanese knotweed on my property in Vermont?</h3>
+<p class="faq-q"><strong>Is it illegal to have Japanese knotweed on your property in Vermont?</strong></p>
 <p>Having it is not illegal, but moving it is. Japanese knotweed is a Class B species on Vermont's Noxious Weed Quarantine Rule, which makes it illegal to sell, distribute, move, or transport the plant or its rhizomes within or into the state. You are not penalized for a stand growing on your land, but you can create liability by hauling cut material or contaminated soil somewhere else and spreading it.</p>
 
-<h3>Will cutting knotweed once or twice a summer get rid of it?</h3>
+<p class="faq-q"><strong>Will cutting knotweed once or twice a summer get rid of it?</strong></p>
 <p>No. Occasional cutting keeps the canes shorter but does not starve the rhizome, and the plant re-banks its energy every time you leave it alone for a few weeks. To exhaust a stand by cutting, you have to cut the whole thing every two to three weeks across the entire growing season, every year, for several years. Anything less trims it without killing it.</p>
 
-<h3>Can I dig a small knotweed patch out before it gets big?</h3>
+<p class="faq-q"><strong>Can you dig a small knotweed patch out before it gets big?</strong></p>
 <p>Digging is the approach most likely to backfire. A small patch above ground is already a wide rhizome network below ground, and digging chops that network into fragments that each regrow. If a patch is genuinely new and tiny, careful repeated cutting or a targeted herbicide treatment is far safer than excavation, which usually multiplies the growing points and creates regulated soil you cannot legally move.</p>
 
-<h3>Is knotweed near my foundation actually a structural risk?</h3>
+<p class="faq-q"><strong>Is knotweed near the foundation actually a structural risk?</strong></p>
 <p>It can be. Knotweed exploits existing cracks and gaps, pushing into foundation seams, pavement joints, drainage lines, and septic components. It does not drill through sound concrete, but it will find and widen any weakness, and a mature stand pressed against a house is worth taking seriously rather than watching for another few years.</p>
 
-<h3>What is the best time of year to treat knotweed in Vermont?</h3>
+<p class="faq-q"><strong>What is the best time of year to treat knotweed in Vermont?</strong></p>
 <p>For herbicide, late summer into early fall, roughly August into September, when the plant is moving resources down into the rhizome for winter and carries the treatment with it. For cutting programs, the work runs the entire season from the first May shoots to the first hard frost. The fall herbicide window is the single most effective treatment moment of the year.</p>
 
-<h3>Can knotweed spread from my property to my neighbor's?</h3>
+<p class="faq-q"><strong>Can knotweed spread from your property to a neighbor's?</strong></p>
 <p>Yes, especially along water. Rhizome and cut-stem fragments travel in soil, in fill, on equipment, and downstream in a brook or drainage channel, and each one can start a new colony. This is why streamside stands in places like Brandon and Pittsford are treated as a shared problem, and why keeping cut material out of the water is a hard rule on every job.</p>
 
 <h2>Get a Knotweed Assessment Before It Spreads</h2>
@@ -1359,7 +1345,7 @@ export const blogPosts: BlogPost[] = [
     content: `
 <p><em>Updated July 2026.</em></p>
 
-<p data-speakable="true"><strong>A straw-blond Rutland County lawn in July is almost always dormant, not dead.</strong> Cool-season turf shuts down when soil sits above 80&deg;F &mdash; usually the second week of July around Killington. To hold it without waking it up: a half to one inch of water every 3&#8211;4 weeks. Do not fertilize, mow, or walk it.</p>
+<p data-speakable="true"><strong>A straw-blond Rutland County lawn in July is almost always dormant, not dead.</strong> Cool-season turf shuts down when soil sits above 80&deg;F, usually the second week of July around Killington. To hold it without waking it up: a half to one inch of water every 3&#8211;4 weeks. Do not fertilize, mow, or walk it.</p>
 
 <h2>Is My Lawn Dead or Dormant? A Vermont Field Test</h2>
 
@@ -1368,12 +1354,12 @@ export const blogPosts: BlogPost[] = [
 <p>The three-part field test takes about ninety seconds and does not need any tools:</p>
 
 <ol>
-<li><strong>The tug test.</strong> Grab a handful of the brown grass and pull straight up. Dormant grass holds — the crown is still anchored and the roots are still working. Dead grass releases in a clump like pulling a rug up off a floor. If the handful comes out with soil clinging to it and no roots pulling back, that patch is dead.</li>
+<li><strong>The tug test.</strong> Grab a handful of the brown grass and pull straight up. Dormant grass holds: the crown is still anchored and the roots are still working. Dead grass releases in a clump like pulling a rug up off a floor. If the handful comes out with soil clinging to it and no roots pulling back, that patch is dead.</li>
 <li><strong>The colour test.</strong> Push the brown blades aside and look at the base of the plant, right at the soil line. On a dormant lawn the crown is still greenish or cream-white and slightly firm. On a dead lawn the crown is grey, brittle, and snaps.</li>
 <li><strong>The foot-print rebound test.</strong> Walk across the driest patch. On a dormant lawn the tracks stay visible for about an hour and then rebound. On a truly dead patch they stay pressed flat forever, because there is no live tissue left to spring back.</li>
 </ol>
 
-<p>Run the tests on five or six patches — sunny front, shaded side, driveway strip, section under the tallest trees. Most Rutland County properties test dormant everywhere, with maybe a small dead patch along a south-facing driveway edge or where the plow piled salt-laden snow. Those spots reseed in fall. The rest is asleep and will come back on its own.</p>
+<p>Run the tests on five or six patches: sunny front, shaded side, driveway strip, section under the tallest trees. Most Rutland County properties test dormant everywhere, with maybe a small dead patch along a south-facing driveway edge or where the plow piled salt-laden snow. Those spots reseed in fall. The rest is asleep and will come back on its own.</p>
 
 <h2>Why Do Vermont Lawns Go Dormant in July?</h2>
 
@@ -1401,9 +1387,9 @@ export const blogPosts: BlogPost[] = [
 <p>Four things, and every one of them shows up as a call to us in September when the lawn does not come back.</p>
 
 <ul>
-<li><strong>Do not fertilize.</strong> A dormant lawn cannot metabolize nitrogen. Applying a lawn fertilizer to browned-out turf in July does not feed the plant — it burns the crown, salts the surface soil, and puts a stressed lawn into permanent decline. Every fertilizer window in Vermont is on the cool side of the calendar. Late spring, early fall. Not midsummer.</li>
-<li><strong>Do not mow.</strong> Dormant turf does not need to be cut, and every mowing pass adds foot traffic, wheel compaction, and blade-tip trauma to a plant already surviving on reserves. Skip the mow until the lawn greens up again, or if you have to keep the property looking maintained for guests, raise the deck to four inches and cut only when there is measurable regrowth. Never scalp a stressed lawn — it is the fastest way to convert dormant grass into dead grass.</li>
-<li><strong>Do not walk on it heavily.</strong> Dormant crowns are fragile. Repeated foot traffic on the same lines — the dog's path, the path to the mailbox, the kids' short-cut across the front lawn — crushes the crowns and shows up as permanent trails when the rest of the lawn greens up. Reroute traffic to the driveway or the walks for the dry weeks.</li>
+<li><strong>Do not fertilize.</strong> A dormant lawn cannot metabolize nitrogen. Applying a lawn fertilizer to browned-out turf in July does not feed the plant: it burns the crown, salts the surface soil, and puts a stressed lawn into permanent decline. Every fertilizer window in Vermont is on the cool side of the calendar. Late spring, early fall. Not midsummer.</li>
+<li><strong>Do not mow.</strong> Dormant turf does not need to be cut, and every mowing pass adds foot traffic, wheel compaction, and blade-tip trauma to a plant already surviving on reserves. Skip the mow until the lawn greens up again, or if you have to keep the property looking maintained for guests, raise the deck to four inches and cut only when there is measurable regrowth. Never scalp a stressed lawn: it is the fastest way to convert dormant grass into dead grass.</li>
+<li><strong>Do not walk on it heavily.</strong> Dormant crowns are fragile. Repeated foot traffic on the same lines (the dog's path, the path to the mailbox, the kids' short-cut across the front lawn) crushes the crowns and shows up as permanent trails when the rest of the lawn greens up. Reroute traffic to the driveway or the walks for the dry weeks.</li>
 <li><strong>Do not spray herbicide.</strong> Broadleaf herbicides and crabgrass pre-emergents assume actively growing turf. Applied to a stressed, dormant lawn, they do more damage to the desirable grass than to the weeds you are trying to kill. Weed control moves to September on a dormant summer lawn. If the brown you are seeing is actually crabgrass creeping into the thin spots, our guide to <a href="/blog/stop-crabgrass-vermont-lawn-summer">stopping crabgrass in a Vermont lawn in summer</a> covers the post-emergent and mowing plan for that.</li>
 </ul>
 
@@ -1413,7 +1399,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Faster than most owners expect. A properly dormant Rutland County lawn that has been held with the ½&#8211;1 inch every 3&#8211;4 weeks program will start showing green tips within seven to ten days of the first real fall rains, and will be substantially back to full colour within two to three weeks. In a typical Vermont year, that timeline runs from mid-September to early October. The lawn comes back on its own if you did not damage it in July and August.</p>
 
-<p>The check for whether the recovery is happening is at the crown, not the blades. Push the brown grass aside a week after a decent rain and look at the base. New green shoots will emerge from the same crowns that were tested dormant back in July. That is the same plant coming back, not new growth. On the patches that tested dead in July, no new shoots will appear at all — those spots need to be reseeded in the fall aeration window, which we walk through in the <a href="/blog/when-to-aerate-your-lawn-vermont">Vermont aeration timing guide</a>.</p>
+<p>The check for whether the recovery is happening is at the crown, not the blades. Push the brown grass aside a week after a decent rain and look at the base. New green shoots will emerge from the same crowns that were tested dormant back in July. That is the same plant coming back, not new growth. On the patches that tested dead in July, no new shoots will appear at all: those spots need to be reseeded in the fall aeration window, which we walk through in the <a href="/blog/when-to-aerate-your-lawn-vermont">Vermont aeration timing guide</a>.</p>
 
 <p>Below is the field-test comparison we run on every property call in July and August. Match the symptoms to the column, and the right response is usually obvious.</p>
 
@@ -1427,7 +1413,7 @@ export const blogPosts: BlogPost[] = [
 <tr><td>Crown colour at soil line</td><td>Cream to light green, firm</td><td>Grey, brittle, snaps</td></tr>
 <tr><td>Foot-print rebound</td><td>Rebounds within an hour</td><td>Stays pressed, no rebound</td></tr>
 <tr><td>Distribution</td><td>Whole lawn or big zones</td><td>Small patches, usually along edges, salt lines, or plow scars</td></tr>
-<tr><td>Recovery after rain</td><td>Green shoots from crowns in 7&#8211;10 days</td><td>No regrowth &#8212; needs reseed</td></tr>
+<tr><td>Recovery after rain</td><td>Green shoots from crowns in 7&#8211;10 days</td><td>No regrowth, needs reseed</td></tr>
 </tbody>
 </table>
 
@@ -1437,37 +1423,37 @@ export const blogPosts: BlogPost[] = [
 
 <p><strong>Grub damage</strong> reads as irregular patches that pull up in sheets when tugged, because the roots underneath have been chewed off by white grubs feeding in the top two inches of soil. The giveaway is the sheet-lift and the presence of skunks or crows tearing up the same patches at night to get to the grubs. If a dormant-tug test comes up with the sod releasing cleanly with no root resistance and you can see white C-shaped larvae in the exposed soil, that is a grub problem, not a drought problem. Curative grub treatment in mid-to-late August catches the population before they overwinter.</p>
 
-<p><strong>Fungal disease</strong> — dollar spot, brown patch, red thread — tends to show up in circular or ring-shaped patterns rather than the uniform browning of dormancy. The blade edges look scorched or lesioned rather than uniformly straw-coloured, and the pattern often follows humidity zones (low spots, shaded corners, the strip near the AC condenser drain). Fungus is worse on overwatered lawns and on lawns fertilized in early summer, which is one of the reasons the "do not fertilize in July" rule matters. The full summer schedule that avoids feeding fungal pressure is in our <a href="/blog/summer-grounds-maintenance-schedule-vermont">Vermont summer grounds maintenance schedule</a>, and the pest-pressure side is in the <a href="/blog/tick-mosquito-control-vermont-properties">tick, black fly, and mosquito plan</a> we run through late spring.</p>
+<p><strong>Fungal disease</strong> (dollar spot, brown patch, red thread) tends to show up in circular or ring-shaped patterns rather than the uniform browning of dormancy. The blade edges look scorched or lesioned rather than uniformly straw-coloured, and the pattern often follows humidity zones (low spots, shaded corners, the strip near the AC condenser drain). Fungus is worse on overwatered lawns and on lawns fertilized in early summer, which is one of the reasons the "do not fertilize in July" rule matters. The full summer schedule that avoids feeding fungal pressure is in our <a href="/blog/summer-grounds-maintenance-schedule-vermont">Vermont summer grounds maintenance schedule</a>, and the pest-pressure side is in the <a href="/blog/tick-mosquito-control-vermont-properties">tick, black fly, and mosquito plan</a> we run through late spring.</p>
 
 <h2>Vermont Dormant Lawn FAQs</h2>
 
-<h3>How long can a Vermont lawn stay dormant before it starts dying?</h3>
+<p class="faq-q"><strong>How long can a Vermont lawn stay dormant before it starts dying?</strong></p>
 <p>A cool-season lawn can hold dormancy for four to five weeks with no permanent damage as long as it gets some crown moisture. Between six and eight weeks the risk of stand loss rises. Past eight weeks with zero water, expect 20 to 40 percent of the lawn to need reseeding in the fall.</p>
 
-<h3>Will watering a dormant lawn wake it back up?</h3>
-<p>Only if you commit. Light, sporadic watering does not break dormancy — it stresses the plant. A full green-up requires one to one and a half inches per week, consistently, from the day you start until the fall rains take over. If you cannot commit to that, do not start.</p>
+<p class="faq-q"><strong>Will watering a dormant lawn wake it back up?</strong></p>
+<p>Only if you commit. Light, sporadic watering does not break dormancy: it stresses the plant. A full green-up requires one to one and a half inches per week, consistently, from the day you start until the fall rains take over. If you cannot commit to that, do not start.</p>
 
-<h3>What is the water spec for holding a dormant Vermont lawn without waking it?</h3>
+<p class="faq-q"><strong>What is the water spec for holding a dormant Vermont lawn without waking it?</strong></p>
 <p>A half to one inch every three to four weeks, delivered in a single deep morning session, skipped if the last week already produced more than a half inch of rain. That keeps the crowns hydrated without pushing the plant into a growth cycle it cannot sustain.</p>
 
-<h3>My second-home lawn in Killington browned out and I am not up for three weeks — what should the caretaker do?</h3>
+<p class="faq-q"><strong>My second-home lawn in Killington browned out and I am not up for three weeks, so what should the caretaker do?</strong></p>
 <p>Nothing beyond the hold-dormant water spec above, and only if a real dry stretch is on the forecast. No mowing, no fertilizer, no herbicide. A weekly photo-update log so the owner can see the pattern is the correct level of engagement. Anything more usually makes it worse.</p>
 
-<h3>Is it worth aerating and overseeding a dormant lawn to speed recovery?</h3>
+<p class="faq-q"><strong>Is it worth aerating and overseeding a dormant lawn to speed recovery?</strong></p>
 <p>Not in July. Aeration and overseed windows in Vermont are late August through mid-September, when soil temperatures drop back into the 60s and the fall growth cycle begins. Aerating a dormant July lawn wastes both the machine time and the seed.</p>
 
-<h3>Does mowing height matter more when the lawn is stressed?</h3>
+<p class="faq-q"><strong>Does mowing height matter more when the lawn is stressed?</strong></p>
 <p>Yes. If you must mow a heat-stressed Rutland County lawn, the deck goes to four inches and the blade has to be sharp. Cutting shorter than three inches in July is the fastest way to convert dormant grass into dead grass. Full mowing spec is in our <a href="/blog/lawn-mowing-height-rutland-county-vermont-summer">Vermont summer mowing height guide</a>.</p>
 
-<h3>Does the dormant-vs-dead answer change at higher elevation properties?</h3>
+<p class="faq-q"><strong>Does the dormant-vs-dead answer change at higher elevation properties?</strong></p>
 <p>The threshold shifts by a week or two. Higher-elevation properties in Killington, Mendon, Chittenden, and Shrewsbury go into dormancy later than valley properties in Rutland or Proctor, and they usually come out of it earlier when the nights start cooling in late August. The tests and the rules are the same. The calendar shifts about ten to fourteen days.</p>
 
-<h3>Should I be worried about a specific brown patch along the driveway?</h3>
+<p class="faq-q"><strong>Is a specific brown patch along the driveway something to worry about?</strong></p>
 <p>Usually plow salt and de-icer damage from the winter, and usually dead rather than dormant. Those strips are the ones that need reseeding in the fall, not saving in July. Full driveway-edge damage assessment is in our <a href="/blog/lawn-reseeding-snowplow-damage-vermont-may">snowplow damage reseeding guide</a>.</p>
 
 <h2>Get a Mid-Summer Property Walk</h2>
 
-<p>If your Rutland County property browned out this July and you are not sure whether it is dormant, dead, grub-driven, or fungal, we walk the lawn, run the field tests, and tell you which of the four you are dealing with — usually within about half an hour on site. We manage properties across Killington, Rutland, Woodstock, Ludlow, Mendon, Pittsfield, Chittenden, Proctor, West Rutland, Brandon, and Castleton on the schedule laid out in our <a href="/blog/summer-grounds-maintenance-schedule-vermont">Vermont summer grounds maintenance schedule</a>, and second-home owners get the mid-summer walk as part of the retainer.</p>
+<p>If your Rutland County property browned out this July and you are not sure whether it is dormant, dead, grub-driven, or fungal, we walk the lawn, run the field tests, and tell you which of the four you are dealing with, usually within about half an hour on site. We manage properties across Killington, Rutland, Woodstock, Ludlow, Mendon, Pittsfield, Chittenden, Proctor, West Rutland, Brandon, and Castleton on the schedule laid out in our <a href="/blog/summer-grounds-maintenance-schedule-vermont">Vermont summer grounds maintenance schedule</a>, and second-home owners get the mid-summer walk as part of the retainer.</p>
 
 <p>Call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send a note through the <a href="/contact">contact page</a> with the property address and a photo of the brown patch. We will tell you whether it needs anything now or whether the smart move is to hold dormant and wait for the September rains. The right answer for a stressed Vermont lawn in July is usually less work, not more. That is the answer we would rather give you before you spend money doing the wrong thing.</p>`,
   },
@@ -1487,15 +1473,15 @@ export const blogPosts: BlogPost[] = [
     metaDescription:
       "Lawn care in Rutland County, VT runs $60 to $110 per visit in 2026, $1,400 to $3,200 a season, and $280 to $850 a month for second-home management.",
     content: `
-<p>Lawn care in Rutland County, Vermont runs roughly <strong>$60 to $110 per mowing visit</strong> in 2026 on a typical residential property, with full-season contracts landing between <strong>$1,400 and $3,200</strong> and full property-management plans for second-home owners running <strong>$280 to $850 per month</strong> depending on acreage and scope. Vermont is the single most expensive state in the country for lawn care per the 2025 LawnStarter national pricing data, with average mowing rates running close to $78 per visit — roughly 30 percent above the US median. The number is not arbitrary. Three things drive it: a growing season that runs only about 22 weeks at our elevation, residential lot sizes that average close to 29,000 square feet statewide (more than three times the national mean), and a small pool of seasonal labor that has to be paid enough to show up in June and stay through October.</p>
+<p>Lawn care in Rutland County, Vermont runs roughly <strong>$60 to $110 per mowing visit</strong> in 2026 on a typical residential property, with full-season contracts landing between <strong>$1,400 and $3,200</strong> and full property-management plans for second-home owners running <strong>$280 to $850 per month</strong> depending on acreage and scope. Vermont is the single most expensive state in the country for lawn care per the 2025 LawnStarter national pricing data, with average mowing rates running close to $78 per visit, roughly 30 percent above the US median. The number is not arbitrary. Three things drive it: a growing season that runs only about 22 weeks at our elevation, residential lot sizes that average close to 29,000 square feet statewide (more than three times the national mean), and a small pool of seasonal labor that has to be paid enough to show up in June and stay through October.</p>
 
-<p>Here is the honest 2026 breakdown of what lawn care actually costs on a Rutland County property — what a per-visit mow runs, what a full-season contract should cover, what a real second-home property-management plan includes for the owner who is not on site to manage the crew, and the price differences between Killington, Rutland, Woodstock, Ludlow, Mendon, Chittenden, Pittsfield, Brandon, and Castleton.</p>
+<p>Here is the honest 2026 breakdown of what lawn care actually costs on a Rutland County property: what a per-visit mow runs, what a full-season contract should cover, what a real second-home property-management plan includes for the owner who is not on site to manage the crew, and the price differences between Killington, Rutland, Woodstock, Ludlow, Mendon, Chittenden, Pittsfield, Brandon, and Castleton.</p>
 
 <h2>What Does a Single Mow Actually Cost in Rutland County in 2026?</h2>
 
 <p>A single mowing visit on a typical Rutland County residential lawn runs <strong>$60 to $110 in 2026</strong>, with most properties between half an acre and an acre landing in the $70 to $95 range per visit. The state-average mow is around $78, the highest in the US, and Rutland County tracks close to that average with Killington and Woodstock running slightly above on the larger second-home properties.</p>
 
-<p>The per-visit rate covers a standard mow — cutting, line-trimming the edges, blowing the hard surfaces clean — on a property with no slope challenges, no extensive ornamental beds, and clear access for the mower. Properties with steep grades, heavy bed work, gated access, or longer driveways move toward the upper end of the range, and properties that have been let go between visits run higher because the long-cut takes twice as long.</p>
+<p>The per-visit rate covers a standard mow (cutting, line-trimming the edges, blowing the hard surfaces clean) on a property with no slope challenges, no extensive ornamental beds, and clear access for the mower. Properties with steep grades, heavy bed work, gated access, or longer driveways move toward the upper end of the range, and properties that have been let go between visits run higher because the long-cut takes twice as long.</p>
 
 <ul>
 <li><strong>Quarter-acre town lot in Rutland or Brandon:</strong> $55 to $75 per visit</li>
@@ -1504,13 +1490,13 @@ export const blogPosts: BlogPost[] = [
 <li><strong>Two-plus acre Ludlow, Pittsfield, or Chittenden second-home property:</strong> $130 to $225 per visit</li>
 </ul>
 
-<p>Note that Vermont's average residential lot is roughly 29,000 square feet — close to two-thirds of an acre — per the most recent state data. That is well above the national average and is the single biggest reason Vermont per-visit pricing runs above the national median.</p>
+<p>Note that Vermont's average residential lot is roughly 29,000 square feet, close to two-thirds of an acre, per the most recent state data. That is well above the national average and is the single biggest reason Vermont per-visit pricing runs above the national median.</p>
 
 <h2>Per-Visit vs. Full-Season Contract: Which Is Cheaper?</h2>
 
-<p>A full-season mowing contract is almost always 10 to 20 percent cheaper per visit than booking the same property mow-by-mow, because the property owner is paying for predictability and the contractor is locking in a route. Across a typical 22-week Rutland County growing season — from the last week of May to roughly the first week of October — a property that needs a weekly mow runs <strong>$1,400 to $3,200 for the full season</strong> on a contract. The same property booked mow-by-mow at the per-visit rate runs $1,650 to $3,850.</p>
+<p>A full-season mowing contract is almost always 10 to 20 percent cheaper per visit than booking the same property mow-by-mow, because the property owner is paying for predictability and the contractor is locking in a route. Across a typical 22-week Rutland County growing season, from the last week of May to roughly the first week of October, a property that needs a weekly mow runs <strong>$1,400 to $3,200 for the full season</strong> on a contract. The same property booked mow-by-mow at the per-visit rate runs $1,650 to $3,850.</p>
 
-<p>The 22-week season is the part most owners moving up from a longer climate underestimate. In a normal year, the grass starts moving in mid-to-late May, hits peak growth in June and early July, slows in August during the heat, comes back in September with the cooler nights, and stops cleanly by Columbus Day. A "full season" in Vermont is a fraction of the season in Georgia or even Pennsylvania, and the cost structure of the trade reflects that — the truck, the equipment, the insurance, and the labor have to be paid for across a much shorter window.</p>
+<p>The 22-week season is the part most owners moving up from a longer climate underestimate. In a normal year, the grass starts moving in mid-to-late May, hits peak growth in June and early July, slows in August during the heat, comes back in September with the cooler nights, and stops cleanly by Columbus Day. A "full season" in Vermont is a fraction of the season in Georgia or even Pennsylvania, and the cost structure of the trade reflects that: the truck, the equipment, the insurance, and the labor have to be paid for across a much shorter window.</p>
 
 <h2>What Should a Full-Season Contract Include?</h2>
 
@@ -1519,22 +1505,22 @@ export const blogPosts: BlogPost[] = [
 <ol>
 <li><strong>Weekly mowing</strong> at the correct cut height for cool-season turf (3 to 4 inches in summer per the schedule we covered in our <a href="/blog/lawn-mowing-height-rutland-county-vermont-summer">Rutland County mowing height guide</a>) for the 22-week active season.</li>
 <li><strong>Line-trimming and edge work</strong> around beds, hardscape, posts, and the foundation, every visit.</li>
-<li><strong>Blower clean-down</strong> of every hard surface — driveway, walks, patio, deck — every visit.</li>
+<li><strong>Blower clean-down</strong> of every hard surface (driveway, walks, patio, deck) every visit.</li>
 <li><strong>One spring clean-up</strong> at the start of the season: removing winter debris, dethatching where appropriate, and the first-cut height adjustment.</li>
 <li><strong>One fall clean-up</strong> at the end of the season: final cut at a shorter height to reduce snow-mold pressure, leaf collection, and bed clean-out.</li>
 <li><strong>Mower-blade sharpening at least twice in the season</strong>, because a dull blade tears the grass and shows up as a browning lawn in August.</li>
 <li><strong>One core aeration pass in fall</strong> on properties where the soil is compacted and the lawn would benefit (most established Rutland County lawns).</li>
 <li><strong>A scheduled walk-through</strong> at the start of the season to confirm scope, gate codes, irrigation contacts, and any specifics.</li>
-<li><strong>A defined cancellation and weather policy</strong> in writing — when a mow gets skipped for rain, when it gets rescheduled, and how the season total is reconciled.</li>
+<li><strong>A defined cancellation and weather policy</strong> in writing: when a mow gets skipped for rain, when it gets rescheduled, and how the season total is reconciled.</li>
 </ol>
 
 <p>The lower end of the season range, the $1,400 contract, is realistic only on a small town lot with a clean, flat layout. A larger second-home property with mixed beds, slope, and longer driveways is genuinely in the $2,400 to $3,200 range for the full season on weekly service, and the contract should say what is in scope before any work starts.</p>
 
 <h2>What Does Full Property Management Cost for a Second Home?</h2>
 
-<p>Full property management for a second-home owner in Rutland County — the owner who is not on site to coordinate the lawn crew, the snow crew, the irrigation startup, and the seasonal walk-throughs — runs <strong>$280 to $850 per month on retainer</strong> in 2026, depending on acreage, the number of seasonal services bundled in, and whether the plan includes interior coverage between visits.</p>
+<p>Full property management for a second-home owner in Rutland County (the owner who is not on site to coordinate the lawn crew, the snow crew, the irrigation startup, and the seasonal walk-throughs) runs <strong>$280 to $850 per month on retainer</strong> in 2026, depending on acreage, the number of seasonal services bundled in, and whether the plan includes interior coverage between visits.</p>
 
-<p>The retainer is the math that makes second-home ownership in Killington, Woodstock, Ludlow, and the rest of the Rutland County ski and lake country actually work. Booking each service à la carte — a mow, then a separate call for a downed branch, then a separate call for a stuck irrigation valve, then a separate call for the snowplow blow-out — costs more, takes longer to coordinate, and leaves the owner with five different invoices and no single point of contact. A retainer is one call, one invoice, one crew that knows the property.</p>
+<p>The retainer is the math that makes second-home ownership in Killington, Woodstock, Ludlow, and the rest of the Rutland County ski and lake country actually work. Booking each service à la carte (a mow, then a separate call for a downed branch, then a separate call for a stuck irrigation valve, then a separate call for the snowplow blow-out) costs more, takes longer to coordinate, and leaves the owner with five different invoices and no single point of contact. A retainer is one call, one invoice, one crew that knows the property.</p>
 
 | Property type | Approx scope | 2026 retainer (Rutland County) |
 | --- | --- | --- |
@@ -1543,11 +1529,11 @@ export const blogPosts: BlogPost[] = [
 | Larger second home or short-term rental, 2+ acres, full grounds | Mow + snow + irrigation + bed maintenance + interior check + emergency response | $650 – $850 / mo |
 | High-touch ski home / weekly-rental property | Above + same-day turnaround on guest issues + landscape lighting + spring/fall property prep | $850 – $1,400+ / mo |
 
-<p>For the second-home owner, the test is not the dollar number on the retainer. It is whether the contract includes the things that actually fail on an unoccupied Vermont property — the blown irrigation head in August, the limb across the driveway in November, the snowplow that has to come at 4am after a 12-inch storm so the driveway is clear for a Saturday arrival. A retainer that does not include emergency response in writing is not actually a property-management contract.</p>
+<p>For the second-home owner, the test is not the dollar number on the retainer. It is whether the contract includes the things that actually fail on an unoccupied Vermont property: the blown irrigation head in August, the limb across the driveway in November, the snowplow that has to come at 4am after a 12-inch storm so the driveway is clear for a Saturday arrival. A retainer that does not include emergency response in writing is not actually a property-management contract.</p>
 
 <h2>Why Does Vermont Run Higher Than Other States?</h2>
 
-<p>Vermont lawn care runs above the US median for three reasons. First, the active growing season is short — about 22 weeks at Rutland County elevations of 800 to 1,800 feet — so the equipment, insurance, and crew cost have to be amortized across many fewer mowable weeks than they are in a southern state with a 40+ week season. Second, residential lot sizes are big — the state average is close to 29,000 square feet vs roughly 9,000 square feet nationally — so a "typical mow" is genuinely more square footage than the same word covers in a denser market. Third, the labor pool for seasonal trades in central Vermont is small enough that the wage to keep a reliable crew from May through October is higher than the national average for the same trade.</p>
+<p>Vermont lawn care runs above the US median for three reasons. First, the active growing season is short (about 22 weeks at Rutland County elevations of 800 to 1,800 feet) so the equipment, insurance, and crew cost have to be amortized across many fewer mowable weeks than they are in a southern state with a 40+ week season. Second, residential lot sizes are big (the state average is close to 29,000 square feet vs roughly 9,000 square feet nationally) so a "typical mow" is genuinely more square footage than the same word covers in a denser market. Third, the labor pool for seasonal trades in central Vermont is small enough that the wage to keep a reliable crew from May through October is higher than the national average for the same trade.</p>
 
 <p>The combination is real, not a markup. A vendor coming in 30 percent under the regional range is either an out-of-state quote that does not understand the season length, a first-year operator running below break-even, or a crew that will not be reachable when the snowplow needs to come at 4am in February.</p>
 
@@ -1555,13 +1541,13 @@ export const blogPosts: BlogPost[] = [
 
 <p>A real second-home property-management contract bills via card or ACH on a monthly schedule, with itemized statements, and includes a photo update after each visit. The owner gets a record of what was done, when, and on which areas of the property. For a remote owner this is the only way to confirm work without driving up from Boston or New York to walk the grounds.</p>
 
-<p>Photo updates are not a premium service in 2026. They are a baseline expectation on a second-home retainer, and any vendor quoting a retainer without them is quoting an older service model. Same with remote billing — paper checks mailed to a Vermont address do not work for an absentee owner, and a vendor that requires them is one to skip.</p>
+<p>Photo updates are not a premium service in 2026. They are a baseline expectation on a second-home retainer, and any vendor quoting a retainer without them is quoting an older service model. Same with remote billing: paper checks mailed to a Vermont address do not work for an absentee owner, and a vendor that requires them is one to skip.</p>
 
 <h2>How Meticulous Prices Rutland County Properties</h2>
 
-<p>We quote every Rutland County property after a walk-through, on a flat per-visit rate for mow-only customers and a flat monthly retainer for full-season and property-management customers. The number lands inside the ranges above for the property size and scope, and the contract names what is included — mowing height, cleanup cadence, irrigation start and blow-out dates, snow service trigger depth, walk-through frequency, photo update cadence, and the emergency response window — before any work starts. Second-home owners get a single point of contact, monthly billing on card or ACH, and a photo log of every visit emailed the same day.</p>
+<p>We quote every Rutland County property after a walk-through, on a flat per-visit rate for mow-only customers and a flat monthly retainer for full-season and property-management customers. The number lands inside the ranges above for the property size and scope, and the contract names what is included (mowing height, cleanup cadence, irrigation start and blow-out dates, snow service trigger depth, walk-through frequency, photo update cadence, and the emergency response window) before any work starts. Second-home owners get a single point of contact, monthly billing on card or ACH, and a photo log of every visit emailed the same day.</p>
 
-<p>If you own property anywhere from Killington and Woodstock down through <a href="/service-areas/rutland">Rutland</a>, Mendon, Chittenden, Pittsfield, Ludlow, Brandon, West Rutland, Proctor, and <a href="/service-areas/castleton">Castleton</a> and want a real quote — not a phone-call estimate — call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send a note through the <a href="/contact">contact page</a>. For the broader summer schedule on a Vermont property, see our <a href="/blog/summer-grounds-maintenance-schedule-vermont">Rutland County summer grounds-maintenance schedule</a>, and for the single highest-leverage correction most properties need first, our <a href="/blog/lawn-mowing-height-rutland-county-vermont-summer">mowing height guide</a>. The right lawn-care number for a Vermont property is the one that names what is in scope. Anything else is a guess.</p>`,
+<p>If you own property anywhere from Killington and Woodstock down through <a href="/service-areas/rutland">Rutland</a>, Mendon, Chittenden, Pittsfield, Ludlow, Brandon, West Rutland, Proctor, and <a href="/service-areas/castleton">Castleton</a> and want a real quote, not a phone-call estimate, call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send a note through the <a href="/contact">contact page</a>. For the broader summer schedule on a Vermont property, see our <a href="/blog/summer-grounds-maintenance-schedule-vermont">Rutland County summer grounds-maintenance schedule</a>, and for the single highest-payoff correction most properties need first, our <a href="/blog/lawn-mowing-height-rutland-county-vermont-summer">mowing height guide</a>. The right lawn-care number for a Vermont property is the one that names what is in scope. Anything else is a guess.</p>`,
   },
   {
     slug: "lawn-mowing-height-rutland-county-vermont-summer",
@@ -1579,11 +1565,11 @@ export const blogPosts: BlogPost[] = [
     content: `
 <p>Almost every brown, thinning, weed-filled Rutland County lawn we get called to look at in August has the same cause, and it is not what most owners think. It is not drought. It is not fungus. It is not a missed fertilizer. It is the mower setting. The blade was dropped too low at the first mow in June, the lawn was scalped weekly through July, and by the time the heat and humidity of August hit, the turf had no leaf surface left to feed itself, no root depth to draw from, and no shade on the soil to keep it cool. The result is the burnt, patchy lawn that gets blamed on the weather and is almost always the mower.</p>
 
-<p>This is the single highest-leverage correction on a Vermont property, and it costs nothing. Raising the mower deck two notches in June is the difference between a lawn that holds its color through a Rutland County summer and one that has to be rescued every September. Here is why height matters as much as it does in our climate, what the right cut actually is for the cool-season grasses that grow at 1,000 to 2,000 feet of elevation, and the mowing schedule that holds a lawn green from mud season through the first frost.</p>
+<p>This is the single highest-payoff correction on a Vermont property, and it costs nothing. Raising the mower deck two notches in June is the difference between a lawn that holds its color through a Rutland County summer and one that has to be rescued every September. Here is why height matters as much as it does in our climate, what the right cut actually is for the cool-season grasses that grow at 1,000 to 2,000 feet of elevation, and the mowing schedule that holds a lawn green from mud season through the first frost.</p>
 
 <h2>Why Mowing Height Matters More in Vermont Than Most Places</h2>
 
-<p>Vermont lawns are almost entirely cool-season grasses — Kentucky bluegrass, fine fescues, perennial ryegrass, and the tall fescues that have moved north into our soils over the last decade. These grasses do not grow on the same schedule or with the same heat tolerance as the warm-season turf you see across the south. They thrive in spring and fall, slow down in midsummer, and survive the hottest weeks of the year on root reserves, not active growth.</p>
+<p>Vermont lawns are almost entirely cool-season grasses: Kentucky bluegrass, fine fescues, perennial ryegrass, and the tall fescues that have moved north into our soils over the last decade. These grasses do not grow on the same schedule or with the same heat tolerance as the warm-season turf you see across the south. They thrive in spring and fall, slow down in midsummer, and survive the hottest weeks of the year on root reserves, not active growth.</p>
 
 <p>Mowing height controls how those reserves are built and held. The taller the grass, the deeper the roots, the more shade on the soil, the cooler the crown of the plant, and the more leaf surface available to photosynthesize and feed the system. Cut a cool-season lawn short and every one of those buffers disappears at the worst time.</p>
 
@@ -1614,7 +1600,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>The single most important mowing principle for a Vermont lawn is the one-third rule: <strong>never remove more than one third of the grass blade in a single cut.</strong> This is the rule that protects the plant from the shock of a hard cut, and it is the rule that determines how often the lawn needs to be mowed, not the other way around.</p>
 
-<p>If the target height is 3.5 inches, the lawn gets cut when it has grown to about 5 inches — taking it back down to 3.5 removes one third. Letting it grow to 6 or 7 inches and then dropping it to 3 removes more than half the blade in one pass, which scalps the lawn, exposes the soil, and stresses the plant the same way a cut too low does.</p>
+<p>If the target height is 3.5 inches, the lawn gets cut when it has grown to about 5 inches: taking it back down to 3.5 removes one third. Letting it grow to 6 or 7 inches and then dropping it to 3 removes more than half the blade in one pass, which scalps the lawn, exposes the soil, and stresses the plant the same way a cut too low does.</p>
 
 <p>The practical consequence: in the peak of a Vermont spring growth flush, the lawn may need a cut every five days to follow the rule. In the slowdown of midsummer, every ten to fourteen days is often enough. The schedule should follow the growth rate, not the calendar. A lawn that needs a cut gets a cut. A lawn that has not grown much does not get cut just because it is Saturday.</p>
 
@@ -1623,7 +1609,7 @@ export const blogPosts: BlogPost[] = [
 <p>Cut height is the biggest one, but it is not the only one. A few other mowing mistakes show up in the same brown August lawn.</p>
 
 <ul>
-<li><strong>Dull blades.</strong> A dull mower blade tears the grass instead of cutting it cleanly. Torn blades brown at the tips, lose moisture faster, and create open wounds that disease moves into. Sharpen the blade at least twice a season — once in June and once in late July — and the cut will be cleaner and the lawn will hold color longer.</li>
+<li><strong>Dull blades.</strong> A dull mower blade tears the grass instead of cutting it cleanly. Torn blades brown at the tips, lose moisture faster, and create open wounds that disease moves into. Sharpen the blade at least twice a season, once in June and once in late July, and the cut will be cleaner and the lawn will hold color longer.</li>
 <li><strong>Mowing in the heat of the day.</strong> Mowing a stressed lawn at 2pm in 90-degree heat puts compounding stress on the plant. The cut, the foot traffic, the wheel pressure, and the exposure all stack on a lawn that is already trying to survive the day. Mow in the morning or the evening through the hot weeks.</li>
 <li><strong>Bagging the clippings every time.</strong> Bagging removes the small amount of nitrogen the clippings would return to the soil, and over a season that is a meaningful fertilizer loss. Mulching the clippings back into the lawn on a routine basis feeds the soil for free and is fine for the lawn as long as the cut is frequent enough that the clippings are short and break down quickly.</li>
 <li><strong>Mowing wet grass.</strong> Cutting wet grass tears the blade, clumps the clippings, and compacts the soil under the mower wheels. After a heavy Vermont thunderstorm, let the lawn dry before the next cut. The cut quality is visibly worse on wet turf, and the lawn shows it for a week.</li>
@@ -1637,13 +1623,13 @@ export const blogPosts: BlogPost[] = [
 
 <h2>How This Fits Into the Rest of the Summer Schedule</h2>
 
-<p>Mowing height is one piece of a Vermont summer grounds program, and it pairs with the rest of the work. The watering schedule has to match — a tall lawn with deep roots needs the deep-and-infrequent watering pattern we covered in our guide to <a href="/blog/lawn-irrigation-rutland-county-vermont">lawn irrigation in Rutland County</a>, not a daily sprinkle. The seasonal cadence ties into the full <a href="/blog/summer-grounds-maintenance-schedule-vermont">summer grounds maintenance schedule</a>. And the August pressure on the lawn from pests pairs with our notes on <a href="/blog/tick-mosquito-control-vermont-properties">tick and mosquito control on Vermont properties</a>. The mowing height is the cheapest piece of all of it, and it has the biggest impact on what the lawn looks like at the end of August.</p>
+<p>Mowing height is one piece of a Vermont summer grounds program, and it pairs with the rest of the work. The watering schedule has to match: a tall lawn with deep roots needs the deep-and-infrequent watering pattern we covered in our guide to <a href="/blog/lawn-irrigation-rutland-county-vermont">lawn irrigation in Rutland County</a>, not a daily sprinkle. The seasonal cadence ties into the full <a href="/blog/summer-grounds-maintenance-schedule-vermont">summer grounds maintenance schedule</a>. And the August pressure on the lawn from pests pairs with our notes on <a href="/blog/tick-mosquito-control-vermont-properties">tick and mosquito control on Vermont properties</a>. The mowing height is the cheapest piece of all of it, and it has the biggest impact on what the lawn looks like at the end of August.</p>
 
 <h2>What We Do on Rutland County Properties</h2>
 
 <p>On every property we manage across Killington, Rutland, Woodstock, Ludlow, Mendon, Chittenden, Pittsfield, Proctor, West Rutland, Brandon, and Castleton, the mowing deck stays between 3 and 4 inches from mid-June through August. The blade comes off the mower for a sharpen at least twice a season. The cut frequency follows the actual growth, not a fixed Saturday slot. The clippings stay on the lawn unless the cut is unusually heavy. Mowing happens in the morning or evening through the hot weeks. None of it costs more to do. It costs less, because the lawns recover instead of needing the patch-and-overseed work that the scalped lawns need every September.</p>
 
-<p>If your lawn browns out every August no matter what you put on it, the mower setting is the first thing to check. Send a note describing the property, the current mowing height if you know it, and the schedule the crew is on, and we will tell you whether the cut is the cause and what the right routine looks like for the elevation and exposure of the lawn. If it is already brown right now, run the <a href="/blog/is-my-lawn-dead-or-dormant-vermont">dead-or-dormant field test</a> before you touch the mower &mdash; scalping a dormant lawn is what turns it dead.</p>`,
+<p>If your lawn browns out every August no matter what you put on it, the mower setting is the first thing to check. Send a note describing the property, the current mowing height if you know it, and the schedule the crew is on, and we will tell you whether the cut is the cause and what the right routine looks like for the elevation and exposure of the lawn. If it is already brown right now, run the <a href="/blog/is-my-lawn-dead-or-dormant-vermont">dead-or-dormant field test</a> before you touch the mower. Scalping a dormant lawn is what turns it dead.</p>`,
   },
   {
     slug: "lawn-irrigation-rutland-county-vermont",
@@ -1711,7 +1697,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>On the properties we manage across Killington, Rutland, Woodstock, Ludlow, Mendon, Chittenden, and Pittsfield, irrigation is run as a season, not a setting. We tune the schedule for the actual Vermont summer, set each zone for its real sun and slope conditions, install or program weather-based controllers so the system responds to our variable weather, and we handle the fall blow-out as part of the winter shutdown so nothing is left holding water when the ground freezes. For seasonal and second-home owners, that means the lawn is watered correctly while you are not here to manage it, and the system is intact when you come back in the spring.</p>
 
-<p>If your irrigation system is overwatering, running on the wrong schedule, leaving brown patches the heads never reach, or you are not sure it was ever blown out properly before winter, send a note describing the property and what you have got. We will tell you what the system needs, whether it is a tuning or a repair, and how irrigation fits into managing the property through the Vermont seasons. And if the whole lawn is already brown right now, do not turn the system up &mdash; run the <a href="/blog/is-my-lawn-dead-or-dormant-vermont">dead-or-dormant field test</a> first. Half-hearted watering on a dormant Rutland County lawn does more damage than doing nothing.</p>
+<p>If your irrigation system is overwatering, running on the wrong schedule, leaving brown patches the heads never reach, or you are not sure it was ever blown out properly before winter, send a note describing the property and what you have got. We will tell you what the system needs, whether it is a tuning or a repair, and how irrigation fits into managing the property through the Vermont seasons. And if the whole lawn is already brown right now, do not turn the system up. Run the <a href="/blog/is-my-lawn-dead-or-dormant-vermont">dead-or-dormant field test</a> first. Half-hearted watering on a dormant Rutland County lawn does more damage than doing nothing.</p>
 `,
   },
   {
@@ -1750,15 +1736,11 @@ export const blogPosts: BlogPost[] = [
 
 <p>Two wall types come up on every Rutland County property: dry-stack and mortared. Both have their place. Most homeowners get talked into the wrong one.</p>
 
-<h3>Dry-stack stone wall</h3>
+<p><strong>Dry-stack stone wall.</strong> The traditional Vermont wall. Stones set without mortar, with a deep gravel base, a tapered batter from the base up to the cap, and a single layer of capstones flat across the top. Properly built, a dry-stack wall flexes with freeze-thaw without cracking, drains naturally, and lasts a century. The look is honest. The skill is in the rock selection, the shimming, and the patience to fit each stone tight against its neighbors. We use dry-stack on garden bed edges, low retaining walls under 36 inches, property line walls, and decorative runs around outbuildings.</p>
 
-<p>The traditional Vermont wall. Stones set without mortar, with a deep gravel base, a tapered batter from the base up to the cap, and a single layer of capstones flat across the top. Properly built, a dry-stack wall flexes with freeze-thaw without cracking, drains naturally, and lasts a century. The look is honest. The skill is in the rock selection, the shimming, and the patience to fit each stone tight against its neighbors. We use dry-stack on garden bed edges, low retaining walls under 36 inches, property line walls, and decorative runs around outbuildings.</p>
+<p><strong>Mortared stone wall.</strong> Stones bonded with mortar over a poured concrete footing that extends below the frost line. The look is more architectural, the lines are tighter, and the wall can carry more load. The trade-off is that any settlement, any frost movement, any drainage failure shows up as a crack in the mortar. Mortared walls in Vermont need a real footing, a real drainage system, and a real builder who understands that a 12-inch footing in zone 5b will not hold. We use mortared walls on entry walls, gateposts, fireplace and chimney surrounds, foundation-tied walls on the house itself, and high retaining walls over 36 inches where structural load is the issue.</p>
 
-<h3>Mortared stone wall</h3>
-
-<p>Stones bonded with mortar over a poured concrete footing that extends below the frost line. The look is more architectural, the lines are tighter, and the wall can carry more load. The trade-off is that any settlement, any frost movement, any drainage failure shows up as a crack in the mortar. Mortared walls in Vermont need a real footing, a real drainage system, and a real builder who understands that a 12-inch footing in zone 5b will not hold. We use mortared walls on entry walls, gateposts, fireplace and chimney surrounds, foundation-tied walls on the house itself, and high retaining walls over 36 inches where structural load is the issue.</p>
-
-<h3>Which one does the property need?</h3>
+<p class="faq-q"><strong>Which one does the property need?</strong></p>
 
 <p>Most of the dry-stack walls failing in Killington and Woodstock should have been mortared retaining walls. Most of the mortared decorative walls failing in Ludlow and Pittsfield should have been dry-stack. The honest answer depends on the height, the load, the drainage condition, and the aesthetic the owner wants. We walk the site, look at the slope, look at the water, look at the existing hardscape, and recommend the build that fits. A serious wall mason in Rutland County will not give a square foot price over the phone without seeing the site.</p>
 
@@ -1797,12 +1779,13 @@ export const blogPosts: BlogPost[] = [
 
 <p>Stone work is slow. Anyone telling a homeowner that a 50-foot dry-stack wall is a two-day job is either bidding a stack of rocks or planning to cut corners. Here is the honest timeline.</p>
 
-<ul>
-<li><strong>30-foot dry-stack wall, 30 inches tall:</strong> 4 to 6 working days for a two-person crew, including excavation, base, build, and cap.</li>
-<li><strong>50-foot dry-stack retaining wall, 48 inches tall:</strong> 10 to 14 working days for a two-person crew.</li>
-<li><strong>20-foot mortared entry wall with two gateposts:</strong> 7 to 10 working days, including the footing pour and the cure time.</li>
-<li><strong>100-foot dry-stack property line wall, 30 inches tall:</strong> 4 to 6 weeks for a two-person crew, including a stone delivery midway through.</li>
-</ul>
+<p><strong>30-foot dry-stack wall, 30 inches tall:</strong> 4 to 6 working days for a two-person crew, including excavation, base, build, and cap.</p>
+
+<p><strong>50-foot dry-stack retaining wall, 48 inches tall:</strong> 10 to 14 working days for a two-person crew.</p>
+
+<p><strong>20-foot mortared entry wall with two gateposts:</strong> 7 to 10 working days, including the footing pour and the cure time.</p>
+
+<p><strong>100-foot dry-stack property line wall, 30 inches tall:</strong> 4 to 6 weeks for a two-person crew, including a stone delivery midway through.</p>
 
 <p>The build window in Rutland County for stone work runs from May once the ground has thawed through late October before the first hard freeze. Late spring and early summer is the best window, because the ground is workable, the weather is consistent, and the wall has the full summer to settle before the first freeze. We try to be done with all wall builds by Labor Day.</p>
 
@@ -1876,13 +1859,15 @@ export const blogPosts: BlogPost[] = [
 
 <p>The first half of June is when the lawn is establishing its summer growth pattern. The decisions made now hold for the next three months.</p>
 
-<ul>
-<li><strong>Raise the mowing height to 3.5 to 4 inches.</strong> Cool-season grass cut tall holds soil moisture, shades out weed germination, and develops deeper roots that survive a July dry stretch. The "golf course" short cut is the single most common mistake on Vermont properties. A tall mow is what gives the lawn its texture and density. The other rule: never remove more than one-third of the blade in a single mow. Cut tall and cut often.</li>
-<li><strong>Sharp blade, mulch the clippings.</strong> A sharp mower blade cuts cleanly. A dull blade tears, and the brown leaf tip a week later is what makes a lawn look tired. Sharpen at the start of the season and again mid-summer. Mulching clippings back into the lawn returns nitrogen and reduces the fertilizer requirement noticeably.</li>
-<li><strong>First fertilizer application.</strong> A balanced slow-release fertilizer in early June carries the lawn through to mid-summer. We do not push high-nitrogen products at the shore of a Vermont summer because flush growth in a humid July is what invites fungal disease.</li>
-<li><strong>Edge the beds and the walkways.</strong> A clean edge between lawn and bed is what defines a maintained property visually. Fresh edges in early June read clean all season; edges that are not cut until July look reactive.</li>
-<li><strong>Mulch refresh on the beds, but only 2 to 3 inches.</strong> Mulched beds hold moisture and suppress weeds. Mulch piled against the base of trees and shrubs (the "mulch volcano") rots the bark and starves the root flare. Pull mulch back away from trunks and keep the depth honest.</li>
-</ul>
+<p><strong>Raise the mowing height to 3.5 to 4 inches.</strong> Cool-season grass cut tall holds soil moisture, shades out weed germination, and develops deeper roots that survive a July dry stretch. The "golf course" short cut is the single most common mistake on Vermont properties. A tall mow is what gives the lawn its texture and density. The other rule: never remove more than one-third of the blade in a single mow. Cut tall and cut often.</p>
+
+<p><strong>Sharp blade, mulch the clippings.</strong> A sharp mower blade cuts cleanly. A dull blade tears, and the brown leaf tip a week later is what makes a lawn look tired. Sharpen at the start of the season and again mid-summer. Mulching clippings back into the lawn returns nitrogen and reduces the fertilizer requirement noticeably.</p>
+
+<p><strong>First fertilizer application.</strong> A balanced slow-release fertilizer in early June carries the lawn through to mid-summer. We do not push high-nitrogen products at the shore of a Vermont summer because flush growth in a humid July is what invites fungal disease.</p>
+
+<p><strong>Edge the beds and the walkways.</strong> A clean edge between lawn and bed is what defines a maintained property visually. Fresh edges in early June read clean all season; edges that are not cut until July look reactive.</p>
+
+<p><strong>Mulch refresh on the beds, but only 2 to 3 inches.</strong> Mulched beds hold moisture and suppress weeds. Mulch piled against the base of trees and shrubs (the "mulch volcano") rots the bark and starves the root flare. Pull mulch back away from trunks and keep the depth honest.</p>
 
 <h2>Mid-June Through July: The Pressure Months</h2>
 
@@ -1902,7 +1887,7 @@ export const blogPosts: BlogPost[] = [
 <p>August is the month most properties drift. The owners are around, the weather is hot, and the temptation is to do less because the lawn is growing more slowly. The mistake is letting it look that way.</p>
 
 <ul>
-<li><strong>Keep mowing tall, even when growth slows.</strong> Tall grass shades the soil and conserves moisture through the hottest stretch. Cutting low in August is the fastest way to brown out a lawn. If the lawn is already brown, do not scalp it &mdash; run the <a href="/blog/is-my-lawn-dead-or-dormant-vermont">dead-or-dormant field test</a> first and treat accordingly.</li>
+<li><strong>Keep mowing tall, even when growth slows.</strong> Tall grass shades the soil and conserves moisture through the hottest stretch. Cutting low in August is the fastest way to brown out a lawn. If the lawn is already brown, do not scalp it. Run the <a href="/blog/is-my-lawn-dead-or-dormant-vermont">dead-or-dormant field test</a> first and treat accordingly.</li>
 <li><strong>Monitor for grub damage.</strong> The first sign of a grub infestation is patches of lawn that pull up easily because the roots have been eaten. If you see them, a targeted curative treatment in August stops the damage and gives the lawn time to recover before fall.</li>
 <li><strong>Stay on top of fungal disease.</strong> The classic Vermont summer disease is dollar spot or brown patch in a humid stretch. A property that is mowed tall, watered deeply and infrequently, and not over-fertilized usually shrugs it off. A property doing the opposite gets hit hard.</li>
 <li><strong>Hardscape and structure walk-through.</strong> Mid-August is the window to catch issues before fall: any patio paver that has shifted, any walkway that has settled, any retaining wall stone that has worked loose. Fixing them in August is calm work. Fixing them in November is racing the frost.</li>
@@ -1929,7 +1914,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Every second home we manage in Rutland County runs on this schedule. Weekly mow at a tall cut, on a fixed day. Two fertilizer applications, timed to the season, not to the marketing calendar. Bi-weekly bed weeding, mulch refresh in early June, hardscape pressure wash in late June, perimeter tick treatments in late May and mid-July, deadheading and staking through the summer, aeration and overseed in the early-September window. The owner gets a property that looks the same in August whether they are in Vermont or in Manhattan, because the schedule does not depend on whether they are watching it.</p>
 
-<p>If you own a second home or run a property in Killington, Rutland, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, West Rutland, Brandon, or Castleton and you want the summer schedule run the way it is supposed to be run, <a href="/contact">get in touch</a>. We will walk the property, lay out the calendar in writing, and have it on the books before the next mow. For the dollar side of all of this — per-visit mowing rates, full-season contracts, and what a second-home property-management retainer actually runs in Rutland County — see our <a href="/blog/lawn-care-cost-rutland-county-vermont">2026 lawn care cost guide</a>.</p>
+<p>If you own a second home or run a property in Killington, Rutland, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, West Rutland, Brandon, or Castleton and you want the summer schedule run the way it is supposed to be run, <a href="/contact">get in touch</a>. We will walk the property, lay out the calendar in writing, and have it on the books before the next mow. For the dollar side of all of this (per-visit mowing rates, full-season contracts, and what a second-home property-management retainer actually runs in Rutland County) see our <a href="/blog/lawn-care-cost-rutland-county-vermont">2026 lawn care cost guide</a>.</p>
 `,
   },
   {
@@ -1956,11 +1941,11 @@ export const blogPosts: BlogPost[] = [
 
 <p>What actually helps with black flies:</p>
 
-<ul>
-<li><strong>Timing your outdoor work and events.</strong> Black flies are daytime feeders and they are worst on warm, still, humid afternoons. Early morning and the hour around dusk are noticeably better. If you are scheduling an outdoor gathering in late May or early June, this matters more than any product.</li>
-<li><strong>Personal protection over property treatment.</strong> DEET and picaridin repellents work. Light-colored clothing, long sleeves, and a brimmed hat help. There is no honest yard spray that stops black flies, and any company that promises to "treat" your property for them is selling you something that does not work.</li>
-<li><strong>Patience.</strong> The brutal truth is that black fly season ends on its own by late June. The misery is real but short. We tell owners not to spend money fighting black flies and instead to focus that budget on ticks and mosquitoes, which respond to control and last all summer.</li>
-</ul>
+<p><strong>Timing your outdoor work and events.</strong> Black flies are daytime feeders and they are worst on warm, still, humid afternoons. Early morning and the hour around dusk are noticeably better. If you are scheduling an outdoor gathering in late May or early June, this matters more than any product.</p>
+
+<p><strong>Personal protection over property treatment.</strong> DEET and picaridin repellents work. Light-colored clothing, long sleeves, and a brimmed hat help. There is no honest yard spray that stops black flies, and any company that promises to "treat" your property for them is selling you something that does not work.</p>
+
+<p><strong>Patience.</strong> The brutal truth is that black fly season ends on its own by late June. The misery is real but short. We tell owners not to spend money fighting black flies and instead to focus that budget on ticks and mosquitoes, which respond to control and last all summer.</p>
 
 <h2>Ticks: The One That Actually Matters for Your Health</h2>
 
@@ -2062,9 +2047,7 @@ export const blogPosts: BlogPost[] = [
 
 <h2>Repair Process by Damage Type</h2>
 
-<h3>Plow Gouges and Blade Damage</h3>
-
-<p>The procedure for repairing a plow gouge on a Vermont lawn:</p>
+<p><strong>Plow gouges and blade damage.</strong> The procedure for repairing a plow gouge on a Vermont lawn:</p>
 
 <ol>
 <li><strong>Pull back any displaced sod.</strong> If the plow peeled up a strip of turf that is still partly intact, pull it back and check whether the root mass is alive. If yes, replace it as a sod patch and water in. If no, discard.</li>
@@ -2079,13 +2062,9 @@ export const blogPosts: BlogPost[] = [
 <li><strong>Water gently, daily.</strong> Light watering twice a day for the first 10 days. The top half-inch of soil should never dry out. Heavy watering washes seed into low spots.</li>
 </ol>
 
-<h3>Snowbank Smother Damage</h3>
+<p><strong>Snowbank smother damage.</strong> The diagnosis takes a week. Rake the matted grass vigorously to fluff it up and expose the soil. Water it. Wait seven days. If the crowns green up and new blades push through, the lawn is recovering and only needs an overseeding pass to fill in thin spots. If the crowns stay yellow and dead, the lawn has to be reseeded as if it were a plow gouge. The same eight-step process above, scaled to the smother footprint.</p>
 
-<p>The diagnosis takes a week. Rake the matted grass vigorously to fluff it up and expose the soil. Water it. Wait seven days. If the crowns green up and new blades push through, the lawn is recovering and only needs an overseeding pass to fill in thin spots. If the crowns stay yellow and dead, the lawn has to be reseeded as if it were a plow gouge. The same eight-step process above, scaled to the smother footprint.</p>
-
-<h3>Salt Burn</h3>
-
-<p>Salt-damaged soil needs to be flushed before any seed goes in. Saltwater in the root zone kills grass faster than freezing. The flush:</p>
+<p><strong>Salt burn.</strong> Salt-damaged soil needs to be flushed before any seed goes in. Saltwater in the root zone kills grass faster than freezing. The flush:</p>
 
 <ol>
 <li><strong>Apply gypsum.</strong> Pelletized calcium sulfate at 40 to 50 pounds per 1,000 square feet. Gypsum displaces sodium ions from the soil and lets them flush out with water.</li>
@@ -2096,9 +2075,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Salt damage in shore-area homes (lake-adjacent in Castleton or Brandon) is usually less severe than highway-edge driveways. The worst salt cases we see are the long driveways off Route 7 and Route 4 where the highway plow throws salt directly onto the lawn shoulder.</p>
 
-<h3>Vole Damage</h3>
-
-<p>Voles look terrifying and usually fix themselves. Rake the surface trails firmly to break up the dead grass and expose soil. Overseed at 3 to 4 pounds per 1,000 square feet across the affected area. Roll. Water lightly. Most vole damage on a healthy Vermont lawn is gone by the third mowing.</p>
+<p><strong>Vole damage.</strong> Voles look terrifying and usually fix themselves. Rake the surface trails firmly to break up the dead grass and expose soil. Overseed at 3 to 4 pounds per 1,000 square feet across the affected area. Roll. Water lightly. Most vole damage on a healthy Vermont lawn is gone by the third mowing.</p>
 
 <h2>The Seed Mix Question: What to Actually Plant in Rutland County</h2>
 
@@ -2113,15 +2090,11 @@ export const blogPosts: BlogPost[] = [
 
 <p>We carry sun mix and shade mix on the truck during May and June so we are not relying on what the garden center has in stock. A good Vermont sun mix runs $80 to $130 for a 25-pound bag (covers 5,000 square feet new seed or 10,000 square feet overseed). Cheaper bags exist; they are cheap for a reason.</p>
 
-<h2>Slit-Seeding Versus Broadcast Seeding</h2>
-
-<p>For driveway-edge damage on most Rutland County lawns, hand-broadcast seeding works fine. For larger reseeding jobs (more than 500 square feet of damage), a slit-seeder is the better tool. A slit-seeder cuts shallow grooves in the soil and drops seed directly into the grooves, guaranteeing seed-to-soil contact and improving germination by 20 to 30 percent over broadcast seeding.</p>
+<p><strong>Slit-seeding versus broadcast seeding.</strong> For driveway-edge damage on most Rutland County lawns, hand-broadcast seeding works fine. For larger reseeding jobs (more than 500 square feet of damage), a slit-seeder is the better tool. A slit-seeder cuts shallow grooves in the soil and drops seed directly into the grooves, guaranteeing seed-to-soil contact and improving germination by 20 to 30 percent over broadcast seeding.</p>
 
 <p>We rent slit-seeders for any job over 1,000 square feet of repair. The rental is $90 to $130 per day in Rutland County, and the time saved plus the higher germination rate pays for it on anything beyond a single driveway gouge. On smaller jobs the broadcast-rake-roll process is fast enough that the slit-seeder is overkill.</p>
 
-<h2>Soil Aeration: When to Run It Before Reseeding</h2>
-
-<p>Core aeration in fall is the better window for Vermont lawns. Spring aeration is acceptable if the lawn is compacted, but only if the soil is dry enough that the cores come up cleanly and the aerator does not rut the lawn. The decision rule we use: if you can drive a screwdriver into the lawn by hand, the soil is too wet to aerate. Wait. We covered the full aeration question, including the right timing window for second-home owners, in our <a href="/blog/when-to-aerate-your-lawn-vermont">Vermont lawn aeration guide</a>.</p>
+<p><strong>Aeration before reseeding.</strong> Core aeration in fall is the better window for Vermont lawns. Spring aeration is acceptable if the lawn is compacted, but only if the soil is dry enough that the cores come up cleanly and the aerator does not rut the lawn. The decision rule we use: if you can drive a screwdriver into the lawn by hand, the soil is too wet to aerate. Wait. We covered the full aeration question, including the right timing window for second-home owners, in our <a href="/blog/when-to-aerate-your-lawn-vermont">Vermont lawn aeration guide</a>.</p>
 
 <p>If aeration and overseeding are part of the same May visit, the order is: aerate first, then drop a topdressing of compost over the cores, then broadcast seed, then roll. The cores fill with seed and topdressing and give the new grass an ideal pocket to establish from.</p>
 
@@ -2129,11 +2102,11 @@ export const blogPosts: BlogPost[] = [
 
 <p>Most Vermont second-home owners ask whether the lawn will look presentable by Memorial Day weekend. The honest math:</p>
 
-<ul>
-<li><strong>Seed planted by May 12:</strong> Germination by May 22, first mowing by June 1. Lawn looks thin but present by Memorial Day weekend. Acceptable for guests.</li>
-<li><strong>Seed planted by May 19:</strong> Germination by May 30. Lawn looks like bare patches with green fuzz on Memorial Day. Not presentable.</li>
-<li><strong>Seed planted after May 25:</strong> Will not be a lawn by Memorial Day. Cover with sod if presentation matters, or accept the look and let it grow in for July guests.</li>
-</ul>
+<p><strong>Seed planted by May 12:</strong> Germination by May 22, first mowing by June 1. Lawn looks thin but present by Memorial Day weekend. Acceptable for guests.</p>
+
+<p><strong>Seed planted by May 19:</strong> Germination by May 30. Lawn looks like bare patches with green fuzz on Memorial Day. Not presentable.</p>
+
+<p><strong>Seed planted after May 25:</strong> Will not be a lawn by Memorial Day. Cover with sod if presentation matters, or accept the look and let it grow in for July guests.</p>
 
 <p>Sod is the workaround when the timeline is tight. Vermont-grown sod runs $0.85 to $1.20 per square foot installed in Rutland County, plus delivery. For 100 to 500 square feet of high-visibility damage along a front driveway or front walk, sod is a credible Memorial Day fix. For larger areas, the cost is prohibitive and seeding is the right call even if the lawn looks thin for the first holiday weekend.</p>
 
@@ -2345,17 +2318,17 @@ export const blogPosts: BlogPost[] = [
 <tbody>
 <tr><td>Mowing</td><td>Weekly through peak season, bi-weekly in shoulder months</td><td>Cutting height adjusted seasonally (3.5" spring, 4" summer)</td></tr>
 <tr><td>String trimming</td><td>Every visit around buildings, trees, fence lines, beds</td><td>Without trimming, mowing alone leaves 6" rough strips at every edge</td></tr>
-<tr><td>Edging</td><td>Bi-weekly along walkways, driveways, and bed lines</td><td>Defines the lawn — without it the property looks unkempt by July</td></tr>
-<tr><td>Blowing</td><td>Every visit — clippings off hardscape, walkways, decks</td><td>Skipping this is how clippings stain concrete and clog gutters</td></tr>
+<tr><td>Edging</td><td>Bi-weekly along walkways, driveways, and bed lines</td><td>Defines the lawn: without it the property looks unkempt by July</td></tr>
+<tr><td>Blowing</td><td>Every visit: clippings off hardscape, walkways, decks</td><td>Skipping this is how clippings stain concrete and clog gutters</td></tr>
 <tr><td>Spring cleanup</td><td>One-time in April or May</td><td>Debris removal, dethatching, bed prep, mulch refresh</td></tr>
 <tr><td>Fall cleanup</td><td>One or two visits in October-November</td><td>Leaf removal, final mow, bed cleanup, equipment shutdown</td></tr>
-<tr><td>Bed maintenance</td><td>Weekly weeding and edging through summer</td><td>Most "lawn care only" packages skip this — beds become weed forests by August</td></tr>
+<tr><td>Bed maintenance</td><td>Weekly weeding and edging through summer</td><td>Most "lawn care only" packages skip this: beds become weed forests by August</td></tr>
 <tr><td>Mulch</td><td>Annual install, typically May</td><td>Black or brown hemlock, calculated by cubic yard</td></tr>
 <tr><td>Hedge and shrub trimming</td><td>Twice per season minimum</td><td>Once in early summer, once after summer flush</td></tr>
 </tbody>
 </table>
 
-<p>If a quote does not list every line above, ask what is excluded. The honest answer should be specific. "Just mowing" is honest. "Everything you need" is not — that's how the August surprise invoice happens.</p>
+<p>If a quote does not list every line above, ask what is excluded. The honest answer should be specific. "Just mowing" is honest. "Everything you need" is not: that's how the August surprise invoice happens.</p>
 
 <p>For owners with hardscaping, gardens, or extensive plantings, full-service should also cover seasonal maintenance on those features. Pavers need re-sanding. Garden beds need split and divide every few years. Hedge lines need shape correction. A real full-service company carries these into the contract; a mow-and-go operation will tell you to call someone else for the bed work.</p>
 
@@ -2370,13 +2343,13 @@ export const blogPosts: BlogPost[] = [
 <li><strong>October (final cuts):</strong> Bi-weekly tapering to monthly. Last cut should be at 2.5" to discourage snow mold over winter.</li>
 </ul>
 
-<p>The one-third rule applies year-round: never cut more than 1/3 of the leaf blade in a single mow. Cutting too short stresses the lawn, encourages weeds, and creates the brown stripes most homeowners blame on the company. If you went on vacation and the grass got long, the right move is two mows a few days apart at successively lower heights — not one drastic cut. A real lawn service knows this and will sometimes refuse to scalp a recovering lawn.</p>
+<p>The one-third rule applies year-round: never cut more than 1/3 of the leaf blade in a single mow. Cutting too short stresses the lawn, encourages weeds, and creates the brown stripes most homeowners blame on the company. If you went on vacation and the grass got long, the right move is two mows a few days apart at successively lower heights, not one drastic cut. A real lawn service knows this and will sometimes refuse to scalp a recovering lawn.</p>
 
-<p>Mowing height matters as much as frequency. We mow at 3.5 inches in spring, 4 inches through the heat of summer to shade soil and conserve moisture, and back to 3 inches in October. Companies that mow short and short and short — a single height all season — produce yellow, weak lawns by August. Easy to spot, hard to fix mid-season.</p>
+<p>Mowing height matters as much as frequency. We mow at 3.5 inches in spring, 4 inches through the heat of summer to shade soil and conserve moisture, and back to 3 inches in October. Companies that mow short and short and short, a single height all season, produce yellow, weak lawns by August. Easy to spot, hard to fix mid-season.</p>
 
 <h2>DIY vs. Hiring a Service: When Each Makes Sense</h2>
 
-<p>Honest math. Owning a residential mower, a string trimmer, and a leaf blower will run you $1,500 to $4,000 over their useful life, plus gas, oil, blade sharpening, repair parts, and storage space. A weekly hired service for a typical half-acre Rutland County lawn runs roughly $45 to $90 per visit, or about $1,200 to $2,400 for the full season — bare mowing only, before any add-ons.</p>
+<p>Honest math. Owning a residential mower, a string trimmer, and a leaf blower will run you $1,500 to $4,000 over their useful life, plus gas, oil, blade sharpening, repair parts, and storage space. A weekly hired service for a typical half-acre Rutland County lawn runs roughly $45 to $90 per visit, or about $1,200 to $2,400 for the full season: bare mowing only, before any add-ons.</p>
 
 <p><strong>DIY makes sense when:</strong></p>
 
@@ -2393,8 +2366,8 @@ export const blogPosts: BlogPost[] = [
 <li>The property is over an acre or has slopes, ponds, or complex features</li>
 <li>You have a second home you visit on weekends and don't want to mow during your own vacation time</li>
 <li>You travel for work and can't keep a reliable mowing schedule</li>
-<li>You value the time more than the savings — most owners we work with figured out that 2-3 hours of weekend time was worth more than $60 a week</li>
-<li>You want consistent, professional results — properly edged, blown clean, and looking maintained, not just cut</li>
+<li>You value the time more than the savings: most owners we work with figured out that 2-3 hours of weekend time was worth more than $60 a week</li>
+<li>You want consistent, professional results: properly edged, blown clean, and looking maintained, not just cut</li>
 </ul>
 
 <p>The middle path some owners take: hire a full-service company for the bigger seasonal jobs (spring cleanup, mulch, fall leaves) and DIY the weekly mowing. It works if the homeowner stays disciplined about frequency. It falls apart the first time work travel or weather cancels two weeks in a row and the lawn goes feral.</p>
@@ -2408,19 +2381,19 @@ export const blogPosts: BlogPost[] = [
 <li><strong>Can you email me your liability insurance certificate before the first visit?</strong> Mowing season means string trimmers throwing debris, mowers throwing rocks, and equipment around your house, your cars, and your windows. A $1 million liability minimum is the standard. If they can't produce a current certificate that names you as a certificate holder, walk.</li>
 <li><strong>What's the schedule, and what happens if it rains?</strong> A real answer: "We come every Tuesday between 8 and 4. If it's raining, we come Wednesday. If it's still raining Wednesday, we come Thursday. We don't skip weeks." A vague answer means they will skip weeks when it's convenient for them, and the lawn will look like it.</li>
 <li><strong>Who is on my property?</strong> Same crew every visit, or rotating crews? A consistent crew learns the property and the owner's preferences. Rotating crews damage the same plants twice and don't notice when something changes.</li>
-<li><strong>How do you handle property damage?</strong> Mower hits a sprinkler head. String trimmer scars a tree. Tire ruts in soft spring ground. The right answer is "We document it, tell you, and either fix it or pay to have it fixed." The wrong answer is silence — you find the damage yourself in July and try to figure out who to bill.</li>
+<li><strong>How do you handle property damage?</strong> Mower hits a sprinkler head. String trimmer scars a tree. Tire ruts in soft spring ground. The right answer is "We document it, tell you, and either fix it or pay to have it fixed." The wrong answer is silence: you find the damage yourself in July and try to figure out who to bill.</li>
 <li><strong>Do you sub the work out?</strong> Some bigger companies sell contracts and sub the actual mowing to whoever they can find. The crew that shows up is not the company on the contract. Ask directly. If subs are involved, ask whether they carry their own insurance.</li>
 <li><strong>What is the contract length and cancellation policy?</strong> Season-long contracts are standard. Mid-season cancellation should be possible without penalty if the company is not performing. If a contract locks you in for the season with no out, the company expects you to want out at some point. Read why.</li>
 <li><strong>Do you do off-season work, and do current clients get priority?</strong> Snow plowing, fall cleanup, and mulch all get crowded in their respective windows. Companies that do year-round work usually prioritize existing clients on their off-season schedule. If you want one vendor for everything, this matters.</li>
 </ol>
 
-<p>The questions are the test, but watching how they're answered is the real signal. A company that has been doing this in Rutland County for fifteen years will answer all eight without checking notes, and a few of the answers will surprise you with specifics — local plant pressure, how Killington's elevation affects mowing schedule, why early-season grading on Mendon clay matters more than in valley properties.</p>
+<p>The questions are the test, but watching how they're answered is the real signal. A company that has been doing this in Rutland County for fifteen years will answer all eight without checking notes, and a few of the answers will surprise you with specifics: local plant pressure, how Killington's elevation affects mowing schedule, why early-season grading on Mendon clay matters more than in valley properties.</p>
 
 <h2>The shorter version</h2>
 
 <p>Define the property scope before you call anyone. Compare quotes line by line, not totals. Make sure full-service actually means full-service. Match mowing frequency to Vermont's growing season, not a calendar. Ask the eight questions and listen to how the answers come.</p>
 
-<p>If you have a property in Rutland County and want a single vendor who handles grounds maintenance from first thaw to final leaf drop — and snow management when the season turns — we can walk the property, scope it honestly, and quote it line by line. We have been doing this in Vermont since 2009. Our spring schedule fills by late March most years; the sooner you know what you want, the better the slot. <a href="/contact">Reach out</a> and we will set up a property walk.</p>
+<p>If you have a property in Rutland County and want a single vendor who handles grounds maintenance from first thaw to final leaf drop, and snow management when the season turns, we can walk the property, scope it honestly, and quote it line by line. We have been doing this in Vermont since 2009. Our spring schedule fills by late March most years; the sooner you know what you want, the better the slot. <a href="/contact">Reach out</a> and we will set up a property walk.</p>
 `,
   },
   {
@@ -2638,7 +2611,7 @@ export const blogPosts: BlogPost[] = [
     metaDescription:
       "Learn the best time to aerate your lawn in Vermont. Rutland County soil types, fall timing windows, and why spring aeration causes more harm than good.",
     content: `
-<p>Last September, we pulled a core plug out of a lawn in Pittsford and it barely held together. The soil was so compacted you could've skipped a rock off it. The homeowner had been mowing, fertilizing, watering — doing everything right — and his grass still looked thin and stressed. The problem was underneath.</p>
+<p>Last September, we pulled a core plug out of a lawn in Pittsford and it barely held together. The soil was so compacted you could've skipped a rock off it. The homeowner had been mowing, fertilizing, watering, doing everything right, and his grass still looked thin and stressed. The problem was underneath.</p>
 
 <p>That's what compaction does. Water runs off instead of soaking in. Roots can't push down. Fertilizer sits on the surface and washes away. Aeration fixes it, but only if you do it at the right time.</p>
 
@@ -2646,7 +2619,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Here's the thing most people get wrong: they aerate in April because that's when the big box stores start selling aerator rentals. Makes sense on paper. The snow's melted, you're itching to get outside, might as well punch some holes in the lawn.</p>
 
-<p>Bad idea. Vermont soil in April is still saturated from snowmelt. You're pulling up mud plugs, not clean cores. The holes close up almost immediately. Worse, you're giving weed seeds — especially crabgrass — a perfect place to germinate before your grass has woken up enough to compete. If crabgrass has already taken hold, see our guide to <a href="/blog/stop-crabgrass-vermont-lawn-summer">stopping crabgrass in a Vermont lawn in summer</a>.</p>
+<p>Bad idea. Vermont soil in April is still saturated from snowmelt. You're pulling up mud plugs, not clean cores. The holes close up almost immediately. Worse, you're giving weed seeds, especially crabgrass, a perfect place to germinate before your grass has woken up enough to compete. If crabgrass has already taken hold, see our guide to <a href="/blog/stop-crabgrass-vermont-lawn-summer">stopping crabgrass in a Vermont lawn in summer</a>.</p>
 
 <p>We've seen it dozens of times. Someone aerates in spring, the lawn looks roughed up for three weeks, and by June they've got more weeds than before.</p>
 
@@ -2657,7 +2630,7 @@ export const blogPosts: BlogPost[] = [
 <p>Here's why it works:</p>
 
 <ul>
-<li>Cool-season grasses — Kentucky bluegrass, fescue, rye — are entering their strongest growth phase</li>
+<li>Cool-season grasses (Kentucky bluegrass, fescue, rye) are entering their strongest growth phase</li>
 <li>Soil temperatures are still warm enough for root development (55-65 degrees)</li>
 <li>Weed pressure drops off dramatically after Labor Day</li>
 <li>Fall rain keeps the soil moist without being waterlogged</li>
@@ -2675,7 +2648,7 @@ export const blogPosts: BlogPost[] = [
 <ul>
 <li>Water pools on the surface after rain instead of soaking in</li>
 <li>Grass looks thin and stressed even with regular watering</li>
-<li>Heavy foot traffic areas — paths to the shed, around the swing set — are bare</li>
+<li>Heavy foot traffic areas (paths to the shed, around the swing set) are bare</li>
 <li>You can see a visible thatch layer thicker than half an inch</li>
 </ul>
 
@@ -2683,19 +2656,19 @@ export const blogPosts: BlogPost[] = [
 
 <h2>What Does Aeration Actually Look Like?</h2>
 
-<p>We use a core aerator — a machine that pulls small plugs of soil out of the ground, about 2-3 inches deep and half an inch wide. It leaves little cylinders of dirt scattered across the lawn. They look messy for a few days but break down within a week or two.</p>
+<p>We use a core aerator: a machine that pulls small plugs of soil out of the ground, about 2-3 inches deep and half an inch wide. It leaves little cylinders of dirt scattered across the lawn. They look messy for a few days but break down within a week or two.</p>
 
 <p>Don't rake them up. Those plugs break apart and filter back into the lawn, adding organic matter right where it's needed.</p>
 
-<p>The whole process takes a couple hours for an average residential property. We mow the lawn short beforehand — about 2 inches — and flag sprinkler heads and shallow utility lines so we don't hit them.</p>
+<p>The whole process takes a couple hours for an average residential property. We mow the lawn short beforehand, about 2 inches, and flag sprinkler heads and shallow utility lines so we don't hit them.</p>
 
 <h2>What Does Aeration Cost in Vermont?</h2>
 
-<p>For a standard residential lawn in Rutland County — say a quarter acre of actual turf — you're looking at $150 to $250 for core aeration. Add overseeding and it's usually $300 to $450 total depending on the seed blend.</p>
+<p>For a standard residential lawn in Rutland County, say a quarter acre of actual turf, you're looking at $150 to $250 for core aeration. Add overseeding and it's usually $300 to $450 total depending on the seed blend.</p>
 
 <p>You can rent an aerator from a hardware store for $75-100 a day, but those consumer-grade machines are lighter and don't penetrate as well, especially in compacted clay. They also beat you up physically. We run commercial-grade equipment that weighs three times as much and pulls deeper cores.</p>
 
-<p>For what it costs, aeration is the single best return on investment for a struggling lawn. Better than fertilizer alone. Better than watering more. You're solving the root cause — literally — instead of treating symptoms.</p>
+<p>For what it costs, aeration is the single best return on investment for a struggling lawn. Better than fertilizer alone. Better than watering more. You're solving the root cause, literally, instead of treating symptoms.</p>
 
 <p>If your lawn's been looking tired despite doing everything else right, give us a call. We've been doing this in Rutland County since 2009, and we can usually tell you within five minutes whether aeration will make the difference.</p>
 `,
@@ -2718,15 +2691,15 @@ export const blogPosts: BlogPost[] = [
     content: `
 <p>A few years back we got called out to a patio in Mendon that was three years old and already falling apart. Concrete pavers shifting, corners chipping, whole sections heaving up two inches above their neighbors. The homeowner said they'd paid good money for a "professional" install. Turned out the base was four inches of crushed stone on top of clay with no compaction and no edge restraint. The material didn't fail. The install failed.</p>
 
-<p>That's the first thing to understand about the bluestone vs. concrete debate: the material matters less than the base underneath it. But once you get the base right — and we'll talk about that — there are real differences between these two that matter in Vermont.</p>
+<p>That's the first thing to understand about the bluestone vs. concrete debate: the material matters less than the base underneath it. But once you get the base right, and we'll talk about that, there are real differences between these two that matter in Vermont.</p>
 
 <h2>How Does the Vermont Freeze-Thaw Cycle Affect Pavers?</h2>
 
 <p>Rutland County sees somewhere around 100 freeze-thaw cycles per year. That's 100 times moisture in the ground expands as it freezes and contracts as it thaws. Any paving material has to survive that without cracking, spalling, or shifting.</p>
 
-<p><strong>Bluestone</strong> is natural stone — dense, low porosity, and it handles freeze-thaw beautifully. It doesn't absorb much water, so there's less expansion happening inside the stone itself. We've pulled up 20-year-old bluestone patios that look almost the same as when they were laid. The surface develops a patina over time, but the structural integrity stays.</p>
+<p><strong>Bluestone</strong> is natural stone: dense, low porosity, and it handles freeze-thaw beautifully. It doesn't absorb much water, so there's less expansion happening inside the stone itself. We've pulled up 20-year-old bluestone patios that look almost the same as when they were laid. The surface develops a patina over time, but the structural integrity stays.</p>
 
-<p><strong>Concrete pavers</strong> are manufactured. Quality varies a lot. High-end pavers from Belgard or Unilock with a high PSI rating (8,000+) handle freeze-thaw well. Budget pavers from the big box stores — the ones that run $2-3 per square foot — absorb more water and start flaking within three to five winters. We see it constantly on repair calls.</p>
+<p><strong>Concrete pavers</strong> are manufactured. Quality varies a lot. High-end pavers from Belgard or Unilock with a high PSI rating (8,000+) handle freeze-thaw well. Budget pavers from the big box stores, the ones that run $2-3 per square foot, absorb more water and start flaking within three to five winters. We see it constantly on repair calls.</p>
 
 <h2>What Does Each Material Cost Installed?</h2>
 
@@ -2748,7 +2721,7 @@ export const blogPosts: BlogPost[] = [
 
 <h2>How Do Maintenance Needs Compare?</h2>
 
-<p><strong>Concrete pavers</strong> need polymeric sand swept into the joints every two to three years. The sand washes out, weeds grow in, ants move in. Sealing helps but adds $1-2 per square foot every three to four years. Some pavers fade — especially reds and browns — and there's no bringing the color back without replacing them.</p>
+<p><strong>Concrete pavers</strong> need polymeric sand swept into the joints every two to three years. The sand washes out, weeds grow in, ants move in. Sealing helps but adds $1-2 per square foot every three to four years. Some pavers fade, especially reds and browns, and there's no bringing the color back without replacing them.</p>
 
 <p><strong>Bluestone</strong> needs almost nothing. We tell our clients to sweep it, hose it down, maybe hit it with a pressure washer every couple years if moss builds up. The color shifts over time from bright blue-gray to a deeper, weathered tone. Most people prefer the aged look. No sealing required unless you want to keep the wet-look appearance.</p>
 
@@ -2761,14 +2734,14 @@ export const blogPosts: BlogPost[] = [
 <li>Surface spalling and flaking on cheap pavers (freeze-thaw damage)</li>
 <li>Color fading, especially on tinted pavers</li>
 <li>Edge pieces cracking because no edge restraint was installed</li>
-<li>Settlement from inadequate base — this is the big one</li>
+<li>Settlement from inadequate base: this is the big one</li>
 <li>Polymeric sand failure leading to shifting and weed growth</li>
 </ul>
 
 <p><strong>Bluestone failures:</strong></p>
 <ul>
 <li>Cracking along natural cleavage lines (usually from an uneven base, not the stone itself)</li>
-<li>Lippage — uneven edges where stones meet — if the thickness wasn't calibrated during install</li>
+<li>Lippage (uneven edges where stones meet) if the thickness wasn't calibrated during install</li>
 <li>Mortar joint cracking on wet-laid installations (dry-laid avoids this entirely)</li>
 </ul>
 
@@ -2794,9 +2767,9 @@ export const blogPosts: BlogPost[] = [
 <li>You want the option to easily replace individual pieces</li>
 </ul>
 
-<p>For patios and walkways, we install more bluestone than anything else. For driveways and areas with vehicle traffic, we go concrete pavers — specifically Unilock or Belgard products rated for vehicular use.</p>
+<p>For patios and walkways, we install more bluestone than anything else. For driveways and areas with vehicle traffic, we go concrete pavers: specifically Unilock or Belgard products rated for vehicular use.</p>
 
-<p>Either way, we build the same base. Six to eight inches of compacted 3/4-inch processed gravel, one inch of concrete sand for leveling, proper pitch away from the house at a quarter inch per foot minimum. Edge restraint on every job, no exceptions. That's what makes it last — whether you put $5 pavers or $15 bluestone on top.</p>
+<p>Either way, we build the same base. Six to eight inches of compacted 3/4-inch processed gravel, one inch of concrete sand for leveling, proper pitch away from the house at a quarter inch per foot minimum. Edge restraint on every job, no exceptions. That's what makes it last, whether you put $5 pavers or $15 bluestone on top.</p>
 
 <p>If you're weighing options for a hardscape project, we're happy to walk your property and give you a straight answer on what makes sense. No pressure, no upsell. We've been doing this long enough that we'd rather steer you right the first time than fix someone else's mistake later.</p>
 `,
@@ -2814,7 +2787,7 @@ export const blogPosts: BlogPost[] = [
     metaDescription:
       "Vinyl vs cedar fencing in Vermont: upfront cost, long-term durability, snow load handling, wind resistance, and building code requirements for Rutland County.",
     content: `
-<p>Two calls in one week last November. First one: a cedar privacy fence in Castleton, five years old, leaning hard after a wet snowfall. The posts were rotting at ground level. Second call: a vinyl fence in Rutland Town, eight years old, two panels shattered from a branch that came down in an ice storm. Two different materials, two different failures. Neither one was the material's fault — both were installation problems.</p>
+<p>Two calls in one week last November. First one: a cedar privacy fence in Castleton, five years old, leaning hard after a wet snowfall. The posts were rotting at ground level. Second call: a vinyl fence in Rutland Town, eight years old, two panels shattered from a branch that came down in an ice storm. Two different materials, two different failures. Neither one was the material's fault: both were installation problems.</p>
 
 <p>We install both cedar and vinyl. We don't push one over the other because the right answer depends on your property, your budget, and how much time you want to spend on upkeep. Here's the breakdown.</p>
 
@@ -2845,20 +2818,20 @@ export const blogPosts: BlogPost[] = [
 
 <h2>How Does Each Handle Vermont Snow and Wind?</h2>
 
-<p><strong>Snow load:</strong> This is where cedar has an edge. A heavy wet snowdrift leaning against a cedar fence flexes the boards but usually doesn't break them. Wood bends. Vinyl is rigid — it either holds or it cracks. We've replaced more vinyl panels after heavy snow years than cedar boards. That said, proper post spacing (6 feet on center instead of 8) and horizontal rails top and bottom help vinyl handle the load.</p>
+<p><strong>Snow load:</strong> This is where cedar has an edge. A heavy wet snowdrift leaning against a cedar fence flexes the boards but usually doesn't break them. Wood bends. Vinyl is rigid: it either holds or it cracks. We've replaced more vinyl panels after heavy snow years than cedar boards. That said, proper post spacing (6 feet on center instead of 8) and horizontal rails top and bottom help vinyl handle the load.</p>
 
-<p><strong>Wind resistance:</strong> Privacy fences act like sails. In exposed areas — hilltops, open fields — wind is a bigger concern than snow. Cedar can rack and lean over time if the posts aren't deep enough and braced properly. Vinyl stays plumb longer because the panels lock into the posts, but if a gust catches a panel wrong, it can pop out of the channel entirely.</p>
+<p><strong>Wind resistance:</strong> Privacy fences act like sails. In exposed areas (hilltops, open fields) wind is a bigger concern than snow. Cedar can rack and lean over time if the posts aren't deep enough and braced properly. Vinyl stays plumb longer because the panels lock into the posts, but if a gust catches a panel wrong, it can pop out of the channel entirely.</p>
 
-<p>For properties with a lot of wind exposure — and we have plenty in Rutland County — we sometimes recommend a semi-privacy design with small gaps between boards. Cuts wind load by 30-40% and the fence lasts years longer.</p>
+<p>For properties with a lot of wind exposure, and we have plenty in Rutland County, we sometimes recommend a semi-privacy design with small gaps between boards. Cuts wind load by 30-40% and the fence lasts years longer.</p>
 
 <h2>What Do Vermont Building Codes Require?</h2>
 
-<p>Fencing regulations vary by town in Vermont. Most towns in Rutland County don't require a permit for fences under 6 feet unless you're in a flood zone or within a certain distance of a road. But there are some universal requirements:</p>
+<p>Fencing regulations vary by town in Vermont. Most towns in Rutland County don't require a permit for fences under 6 feet unless you're in a flood zone or within a certain distance of a road. But a few requirements apply everywhere:</p>
 
 <ul>
-<li>Post depth must meet frost line requirements — 48 inches minimum in most of Rutland County</li>
-<li>Setback from property lines — typically 2 feet, but check your town zoning</li>
-<li>Height limits — usually 6 feet for backyard, 4 feet for front yard</li>
+<li>Post depth must meet frost line requirements: 48 inches minimum in most of Rutland County</li>
+<li>Setback from property lines: typically 2 feet, but check your town zoning</li>
+<li>Height limits: usually 6 feet for backyard, 4 feet for front yard</li>
 <li>The "good side" faces your neighbor (the finished side faces out)</li>
 </ul>
 
@@ -2868,7 +2841,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Cedar starts out warm and golden. Beautiful wood. Within a year without stain, it fades to silver-gray. Within five years, untreated cedar starts showing cracks, splits, and the occasional warped board. Well-maintained cedar keeps its character and darkens into a rich tone that vinyl can't replicate.</p>
 
-<p>Vinyl starts white, tan, or gray and stays exactly that color. Ten years later, it looks the same. Some people love that consistency. Others find it sterile — it's a plastic fence and it looks like one. The wood-grain textured vinyl products have gotten better, but up close you can always tell.</p>
+<p>Vinyl starts white, tan, or gray and stays exactly that color. Ten years later, it looks the same. Some people love that consistency. Others find it sterile: it's a plastic fence and it looks like one. The wood-grain textured vinyl products have gotten better, but up close you can always tell.</p>
 
 <h2>So Which Should You Pick?</h2>
 
@@ -2888,7 +2861,7 @@ export const blogPosts: BlogPost[] = [
 <li>Long-term cost matters more than upfront price</li>
 </ul>
 
-<p>We install about 60% cedar, 40% vinyl across our fence jobs. The split has been moving toward vinyl in recent years, mostly because people are tired of the maintenance commitment. Either one will serve you well if it's installed right — deep posts, proper spacing, good hardware. That's the part that actually determines whether your fence is standing straight in year ten. For exactly how deep those posts have to go and what size and spacing a 6-foot fence needs in Rutland County, see our guide to <a href="/blog/fence-posts-vermont-depth-frost-line">fence post depth and the Vermont frost-line rule</a>. And if you are weighing that material choice against the price, our breakdown of <a href="/blog/fence-cost-vermont">what a fence costs in Vermont per linear foot</a> puts real ranges next to each option.</p>
+<p>We install about 60% cedar, 40% vinyl across our fence jobs. The split has been moving toward vinyl in recent years, mostly because people are tired of the maintenance commitment. Either one will serve you well if it's installed right: deep posts, proper spacing, good hardware. That's the part that actually determines whether your fence is standing straight in year ten. For exactly how deep those posts have to go and what size and spacing a 6-foot fence needs in Rutland County, see our guide to <a href="/blog/fence-posts-vermont-depth-frost-line">fence post depth and the Vermont frost-line rule</a>. And if you are weighing that material choice against the price, our breakdown of <a href="/blog/fence-cost-vermont">what a fence costs in Vermont per linear foot</a> puts real ranges next to each option.</p>
 `,
   },
   {
@@ -2904,7 +2877,7 @@ export const blogPosts: BlogPost[] = [
     metaDescription:
       "Complete Vermont winter property preparation checklist from September to November. Drain hoses, mark driveways, schedule plowing, and avoid costly freeze damage.",
     content: `
-<p>Every year, same story. First hard freeze hits — usually mid-October around Rutland — and the phone starts ringing. Burst pipe in the garage. Cracked outdoor faucet. Plow driver took out the mailbox because no one marked the driveway edges. All of it preventable. All of it expensive.</p>
+<p>Every year, same story. First hard freeze hits, usually mid-October around Rutland, and the phone starts ringing. Burst pipe in the garage. Cracked outdoor faucet. Plow driver took out the mailbox because no one marked the driveway edges. All of it preventable. All of it expensive.</p>
 
 <p>We manage properties year-round for about two dozen clients in Rutland County. Here's the exact checklist we run through every fall. Month by month, so you can pace it out instead of scrambling the week before Thanksgiving.</p>
 
@@ -2913,7 +2886,7 @@ export const blogPosts: BlogPost[] = [
 <p>September feels early, but this is when you handle the stuff that takes time or requires scheduling.</p>
 
 <ul>
-<li><strong>Schedule your plow contract.</strong> Good plow operators fill up by mid-October. If you wait until the first snow to call around, you're getting whoever's left — and paying a premium. We start booking snow removal contracts September 1st and they're usually full by Columbus Day.</li>
+<li><strong>Schedule your plow contract.</strong> Good plow operators fill up by mid-October. If you wait until the first snow to call around, you're getting whoever's left, and paying a premium. We start booking snow removal contracts September 1st and they're usually full by Columbus Day.</li>
 <li><strong>Service your snowblower.</strong> Change the oil, replace the spark plug, check the shear pins and auger belt. Do it now when the hardware store has everything in stock. A $15 shear pin in September saves a $200 emergency service call in January.</li>
 <li><strong>Aerate and overseed your lawn.</strong> September is prime time. Grass grows strong roots through fall and comes back thick in spring. This is your last chance to do lawn work before the ground freezes.</li>
 <li><strong>Schedule a gutter cleaning.</strong> Leaves haven't all fallen yet, but get on someone's calendar. Clogged gutters cause ice dams, and ice dams cause leaks. It's a $150-$250 job that prevents thousands in water damage.</li>
@@ -2927,9 +2900,9 @@ export const blogPosts: BlogPost[] = [
 <ul>
 <li><strong>Drain and disconnect all garden hoses.</strong> A frozen hose can crack the pipe behind the spigot inside your wall. We've seen $5,000 water damage from a $20 hose that didn't get disconnected. Drain them, coil them, put them in the garage.</li>
 <li><strong>Shut off exterior water lines.</strong> Find the interior shut-off for your outdoor spigots and close them. Open the exterior valve to let any remaining water drain out.</li>
-<li><strong>Cover your AC condenser.</strong> A plywood board on top to keep debris and ice off is fine. Don't wrap it completely in a tarp — that traps moisture and causes corrosion. Just protect the top.</li>
+<li><strong>Cover your AC condenser.</strong> A plywood board on top to keep debris and ice off is fine. Don't wrap it completely in a tarp: that traps moisture and causes corrosion. Just protect the top.</li>
 <li><strong>Clean gutters again</strong> once the leaves have fully dropped. This is the one that actually matters. Packed leaves plus freezing rain equals ice dams.</li>
-<li><strong>Mark your driveway edges.</strong> Fiberglass markers, every 8-10 feet. If you have a gravel driveway, mark the edges AND any spots where the driveway narrows or curves. Your plow driver will thank you — and your lawn will survive the winter.</li>
+<li><strong>Mark your driveway edges.</strong> Fiberglass markers, every 8-10 feet. If you have a gravel driveway, mark the edges AND any spots where the driveway narrows or curves. Your plow driver will thank you, and your lawn will survive the winter.</li>
 <li><strong>Put away patio furniture.</strong> Either bring it inside or cover it. Leaving cushions out guarantees mildew. Metal furniture left on a patio will rust-stain the surface. Stack it in the garage or shed.</li>
 <li><strong>Check weather stripping</strong> on all exterior doors. Worn stripping lets cold air in and drives your heating bill up. A $20 roll of weather stripping and ten minutes with a utility knife makes a noticeable difference.</li>
 </ul>
@@ -2938,18 +2911,21 @@ export const blogPosts: BlogPost[] = [
 
 <p>Final details before winter locks in.</p>
 
-<ul>
-<li><strong>Final mow.</strong> Cut the lawn to about 2.5 inches. Leaving it too long invites snow mold. Too short and the roots are exposed. 2.5 inches is the sweet spot for Vermont.</li>
-<li><strong>Blow out your irrigation system.</strong> If you have in-ground sprinklers, they need to be winterized with compressed air. This is not optional — a single frozen sprinkler line can crack in multiple places and cost $500+ to repair in spring. Hire someone with a commercial compressor; a home-use compressor won't push enough volume.</li>
-<li><strong>Check your sump pump.</strong> Pour a bucket of water in the pit and make sure it kicks on. Test the backup battery if you have one. A failed sump pump during spring thaw is catastrophic.</li>
-<li><strong>Stock up on ice melt.</strong> Calcium chloride works down to -25 degrees and is easier on concrete than rock salt. Buy a few bags now. By January, stores run out after every storm.</li>
-<li><strong>Move snow shovels and roof rakes</strong> to an accessible spot. Not buried behind the lawnmower in the back of the shed.</li>
-<li><strong>Walk your property one last time.</strong> Look for anything that could become a problem under snow — low branches over walkways, loose steps, trip hazards on paths. Fix them now while you can still see them.</li>
-</ul>
+<p><strong>Final mow.</strong> Cut the lawn to about 2.5 inches. Leaving it too long invites snow mold. Too short and the roots are exposed. 2.5 inches is the sweet spot for Vermont.</p>
+
+<p><strong>Blow out your irrigation system.</strong> If you have in-ground sprinklers, they need to be winterized with compressed air. This is not optional: a single frozen sprinkler line can crack in multiple places and cost $500+ to repair in spring. Hire someone with a commercial compressor; a home-use compressor won't push enough volume.</p>
+
+<p><strong>Check your sump pump.</strong> Pour a bucket of water in the pit and make sure it kicks on. Test the backup battery if you have one. A failed sump pump during spring thaw is catastrophic.</p>
+
+<p><strong>Stock up on ice melt.</strong> Calcium chloride works down to -25 degrees and is easier on concrete than rock salt. Buy a few bags now. By January, stores run out after every storm.</p>
+
+<p><strong>Move snow shovels and roof rakes</strong> to an accessible spot. Not buried behind the lawnmower in the back of the shed.</p>
+
+<p><strong>Walk your property one last time.</strong> Look for anything that could become a problem under snow: low branches over walkways, loose steps, trip hazards on paths. Fix them now while you can still see them.</p>
 
 <h2>What Do We Do for Our Managed Properties?</h2>
 
-<p>Our full-service property care clients don't have to think about any of this. We run through this exact checklist starting the first week of September. By the time the first snow flies, their properties are buttoned up — hoses drained, markers set, gutters clean, plow routes confirmed.</p>
+<p>Our full-service property care clients don't have to think about any of this. We run through this exact checklist starting the first week of September. By the time the first snow flies, their properties are buttoned up: hoses drained, markers set, gutters clean, plow routes confirmed.</p>
 
 <p>We also set up a communication plan for winter. Our snow removal clients get a text the night before any storm with expected accumulation and our planned response time. No guessing, no waiting by the window wondering if anyone's coming.</p>
 
@@ -2958,14 +2934,14 @@ export const blogPosts: BlogPost[] = [
 <p>In fifteen years of doing this, the same mistakes come up every winter:</p>
 
 <ul>
-<li><strong>Not disconnecting hoses</strong> — easily the most common cause of burst pipes we see</li>
-<li><strong>Skipping gutter cleaning</strong> — ice dams cause thousands in interior water damage</li>
-<li><strong>No driveway markers</strong> — torn-up lawns, crushed landscaping, and hit mailboxes</li>
-<li><strong>Waiting too long to book plowing</strong> — then scrambling after the first storm</li>
-<li><strong>Ignoring the sump pump</strong> — it sits there all summer and fails when you need it most</li>
+<li><strong>Not disconnecting hoses</strong>: easily the most common cause of burst pipes we see</li>
+<li><strong>Skipping gutter cleaning</strong>: ice dams cause thousands in interior water damage</li>
+<li><strong>No driveway markers</strong>: torn-up lawns, crushed landscaping, and hit mailboxes</li>
+<li><strong>Waiting too long to book plowing</strong>: then scrambling after the first storm</li>
+<li><strong>Ignoring the sump pump</strong>: it sits there all summer and fails when you need it most</li>
 </ul>
 
-<p>Winter in Vermont doesn't sneak up on anyone. You know it's coming. The difference between a smooth winter and a disaster is two or three weekends of prep work spread over September through November. Do the list, do it early, and January is just cold — not expensive.</p>
+<p>Winter in Vermont doesn't sneak up on anyone. You know it's coming. The difference between a smooth winter and a disaster is two or three weekends of prep work spread over September through November. Do the list, do it early, and January is just cold, not expensive.</p>
 
 <p>If you'd rather hand off the whole winterization process, that's what we're here for. We've been managing properties in Rutland County since 2009 and we know what breaks when you skip a step.</p>
 `,
@@ -2983,9 +2959,9 @@ export const blogPosts: BlogPost[] = [
     metaDescription:
       "LVP vs hardwood flooring comparison from Vermont installers. Real cost, durability in Vermont humidity, best rooms for each, and rental property recommendations.",
     content: `
-<p>A homeowner in Brandon called us last spring about refinishing her hardwood floors. They were original to the house — red oak, probably 60 years old. Beautiful wood. But the mudroom entry had been destroyed. Decades of Vermont boot traffic, road salt, snowmelt, and dog nails had worn through the finish and into the wood grain. The rest of the house looked great. That mudroom needed a different solution.</p>
+<p>A homeowner in Brandon called us last spring about refinishing her hardwood floors. They were original to the house: red oak, probably 60 years old. Beautiful wood. But the mudroom entry had been destroyed. Decades of Vermont boot traffic, road salt, snowmelt, and dog nails had worn through the finish and into the wood grain. The rest of the house looked great. That mudroom needed a different solution.</p>
 
-<p>We pulled the damaged hardwood, put down luxury vinyl plank in the mudroom and entryway, and refinished the oak in the living and dining rooms. Best of both worlds. That's usually the right answer — not one or the other everywhere, but the right material in the right room.</p>
+<p>We pulled the damaged hardwood, put down luxury vinyl plank in the mudroom and entryway, and refinished the oak in the living and dining rooms. Best of both worlds. That's usually the right answer, not one or the other everywhere, but the right material in the right room.</p>
 
 <h2>What Does Each Floor Actually Cost Installed?</h2>
 
@@ -3002,11 +2978,11 @@ export const blogPosts: BlogPost[] = [
 </tbody>
 </table>
 
-<p>For a 500-square-foot living area, that's $2,500-$5,500 in LVP or $5,000-$11,000 in hardwood. The gap is significant. LVP also installs faster — most click-lock systems go down in a day for a standard room. Hardwood, especially nail-down on a subfloor, takes two to three times as long.</p>
+<p>For a 500-square-foot living area, that's $2,500-$5,500 in LVP or $5,000-$11,000 in hardwood. The gap is significant. LVP also installs faster: most click-lock systems go down in a day for a standard room. Hardwood, especially nail-down on a subfloor, takes two to three times as long.</p>
 
 <h2>How Does Vermont's Climate Affect Each Floor?</h2>
 
-<p>This is the big one. Vermont homes deal with wild humidity swings — 30% relative humidity in winter when the woodstove is cranking, 70%+ in August. That cycle does things to flooring.</p>
+<p>This is the big one. Vermont homes deal with wild humidity swings: 30% relative humidity in winter when the woodstove is cranking, 70%+ in August. That cycle does things to flooring.</p>
 
 <p><strong>Hardwood</strong> expands and contracts with humidity changes. Gaps appear between boards in winter. Boards cup or buckle in humid summers if there's no vapor barrier or the basement is damp. Engineered hardwood handles this better than solid because the plywood core resists movement, but it still moves. You need to maintain 35-55% humidity year-round for solid hardwood to stay stable, and in Vermont that means running a humidifier in winter and a dehumidifier in summer.</p>
 
@@ -3018,31 +2994,31 @@ export const blogPosts: BlogPost[] = [
 
 <p><strong>LVP makes sense in:</strong></p>
 <ul>
-<li>Mudrooms and entryways — takes the abuse of boots, salt, water, and gravel</li>
-<li>Kitchens — handles spills and moisture without worry</li>
-<li>Bathrooms — water resistance is everything here</li>
-<li>Basements — the only reasonable choice over concrete</li>
-<li>Laundry rooms — for obvious reasons</li>
-<li>Rental properties — holds up to tenant turnover</li>
+<li>Mudrooms and entryways: takes the abuse of boots, salt, water, and gravel</li>
+<li>Kitchens: handles spills and moisture without worry</li>
+<li>Bathrooms: water resistance is everything here</li>
+<li>Basements: the only reasonable choice over concrete</li>
+<li>Laundry rooms: for obvious reasons</li>
+<li>Rental properties: holds up to tenant turnover</li>
 </ul>
 
 <p><strong>Hardwood makes sense in:</strong></p>
 <ul>
-<li>Living rooms — nothing matches the warmth and character of real wood</li>
-<li>Dining rooms — hardwood elevates the space</li>
-<li>Bedrooms — comfortable, quiet, ages beautifully</li>
-<li>Hallways connecting hardwood rooms — keeps the flow consistent</li>
+<li>Living rooms: nothing matches the warmth and character of real wood</li>
+<li>Dining rooms: hardwood elevates the space</li>
+<li>Bedrooms: comfortable, quiet, ages beautifully</li>
+<li>Hallways connecting hardwood rooms: keeps the flow consistent</li>
 </ul>
 
 <h2>What About Resale Value?</h2>
 
 <p>Hardwood adds measurable value to a home sale. Real estate agents in the Rutland area consistently say hardwood floors are one of the top three features buyers ask about. You won't recoup the full cost, but you'll recoup more of it than almost any other renovation.</p>
 
-<p>LVP is neutral to slightly positive. Buyers don't get excited about it, but they don't penalize you for it either — as long as it's quality product that looks good. Cheap LVP that's peeling at the edges or has obvious repeating patterns will turn buyers off.</p>
+<p>LVP is neutral to slightly positive. Buyers don't get excited about it, but they don't penalize you for it either, as long as it's quality product that looks good. Cheap LVP that's peeling at the edges or has obvious repeating patterns will turn buyers off.</p>
 
 <h2>Which Brands Do We Trust?</h2>
 
-<p>For LVP, we install a lot of COREtec and Shaw Floorte. Both have rigid core construction, attached underlayment, and realistic wood textures. We avoid the thin, flexible LVP — anything under 5mm thick feels cheap underfoot and dents easily. Budget $4-5 per square foot minimum on material to get something that'll hold up and look right.</p>
+<p>For LVP, we install a lot of COREtec and Shaw Floorte. Both have rigid core construction, attached underlayment, and realistic wood textures. We avoid the thin, flexible LVP, anything under 5mm thick feels cheap underfoot and dents easily. Budget $4-5 per square foot minimum on material to get something that'll hold up and look right.</p>
 
 <p>For hardwood, we work with whatever the client prefers, but we recommend white oak over red oak for Vermont homes. White oak is harder, more water-resistant, and the grain pattern hides wear better. It's become the standard for good reason.</p>
 
@@ -3052,7 +3028,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>The up-front savings let landlords floor an entire unit for what hardwood would cost in the living room alone. And when a tenant moves out, the floors clean up with a mop instead of a drum sander.</p>
 
-<p>We've been installing both materials across Rutland County since 2009. If you're not sure what makes sense for your project, we'll come take a look and give you a straight recommendation. No pressure to pick the expensive option — just what'll work best for your home and how you use it.</p>
+<p>We've been installing both materials across Rutland County since 2009. If you're not sure what makes sense for your project, we'll come take a look and give you a straight recommendation. No pressure to pick the expensive option, just what'll work best for your home and how you use it.</p>
 `,
   },
   {
@@ -3091,21 +3067,21 @@ export const blogPosts: BlogPost[] = [
     metaDescription:
       "Vermont frost line depth: 48 inches in most of Rutland County, 54 to 60 inches above 1,500 feet. Fence posts go below it or frost heave lifts them out.",
     content: `
-<p data-speakable="true"><strong>Yes — fence posts need to be set below the frost line, and in Vermont that is deeper than most people think: the frost line sits at 48 inches in most of Rutland County and pushes to 54–60 inches at higher elevations like Killington, Mendon, and Shrewsbury. A post that stops short of it will heave.</strong> Here is what that looks like in practice.</p>
+<p data-speakable="true"><strong>Yes, fence posts need to be set below the frost line, and in Vermont that is deeper than most people think: the frost line sits at 48 inches in most of Rutland County and pushes to 54–60 inches at higher elevations like Killington, Mendon, and Shrewsbury. A post that stops short of it will heave.</strong> Here is what that looks like in practice.</p>
 
 <p>Got a call in March from a homeowner in Killington whose fence looked like a row of crooked teeth. Every third post was tilted at a different angle. The fence was two years old. When we dug up the first post, the concrete footing was sitting at 24 inches. Twenty-four inches, in Killington. The frost line up there is a solid 48 inches, sometimes deeper. That fence never had a chance.</p>
 
-<p>Frost line depth is the single most important factor in whether a Vermont fence stays straight. Get it wrong and physics will tear your fence apart — slowly, silently, every freeze-thaw cycle.</p>
+<p>Frost line depth is the single most important factor in whether a Vermont fence stays straight. Get it wrong and physics will tear your fence apart: slowly, silently, every freeze-thaw cycle.</p>
 
 <h2>What Is the Frost Line in Vermont?</h2>
 
-<p>The frost line is the maximum depth at which ground moisture freezes in winter. Below that line, the soil temperature stays above 32 degrees year-round. In most of Rutland County, the frost line sits at 48 inches. Higher elevations — Killington, Mendon, Shrewsbury — can push to 54 or even 60 inches in exposed areas.</p>
+<p>The frost line is the maximum depth at which ground moisture freezes in winter. Below that line, the soil temperature stays above 32 degrees year-round. In most of Rutland County, the frost line sits at 48 inches. Higher elevations (Killington, Mendon, Shrewsbury) can push to 54 or even 60 inches in exposed areas.</p>
 
 <p>Vermont building code follows the International Building Code, which sets the frost depth for our region at 48 inches. That's the minimum. We treat it as a starting point, not a target.</p>
 
 <h2>What Happens When Posts Aren't Deep Enough?</h2>
 
-<p>Here's the physics in plain English: water in the soil freezes and expands. That expansion pushes everything upward — rocks, roots, and fence posts. This is frost heave. A post set at 24 inches is sitting entirely within the freeze zone. As the ground freezes from the top down, ice grips the post and the concrete footing and lifts the whole thing. When it thaws, the post doesn't drop back to where it started. Dirt fills the gap underneath. Next freeze, it heaves a little higher.</p>
+<p>Here's the physics in plain English: water in the soil freezes and expands. That expansion pushes everything upward: rocks, roots, and fence posts. This is frost heave. A post set at 24 inches is sitting entirely within the freeze zone. As the ground freezes from the top down, ice grips the post and the concrete footing and lifts the whole thing. When it thaws, the post doesn't drop back to where it started. Dirt fills the gap underneath. Next freeze, it heaves a little higher.</p>
 
 <p>Over two or three winters, a shallow post can rise 3-6 inches out of the ground. The fence leans. Gates stop closing. Panels pop out. What started as a depth shortcut becomes a full fence replacement.</p>
 
@@ -3113,19 +3089,19 @@ export const blogPosts: BlogPost[] = [
 
 <h2>How Deep Does Meticulous Actually Dig?</h2>
 
-<p>We dig to 52-54 inches for standard fence posts in the Rutland valley floor. For higher elevations — anything above 1,500 feet — we go 56-60 inches. That gives us a solid 4-6 inches below the frost line, which is where you need to be.</p>
+<p>We dig to 52-54 inches for standard fence posts in the Rutland valley floor. For higher elevations (anything above 1,500 feet) we go 56-60 inches. That gives us a solid 4-6 inches below the frost line, which is where you need to be.</p>
 
-<p>The bottom of the post or the bottom of the concrete footing needs to be below the frost line. Not the top of the concrete, not the middle — the very bottom. If your frost line is 48 inches and your concrete footing is 8 inches tall, the bottom of that hole needs to be at least 56 inches. A lot of installers get this math wrong.</p>
+<p>The bottom of the post or the bottom of the concrete footing needs to be below the frost line. Not the top of the concrete, not the middle: the very bottom. If your frost line is 48 inches and your concrete footing is 8 inches tall, the bottom of that hole needs to be at least 56 inches. A lot of installers get this math wrong.</p>
 
-<p>We use a gas-powered two-man auger for most jobs. In rocky Vermont soil — which is most Vermont soil — we sometimes switch to a mini excavator with a rock auger attachment. Hitting ledge at 30 inches is a real possibility in parts of Rutland County. When that happens, we drill through it or pin to it with rebar epoxied into the rock. We don't just stop short and hope for the best.</p>
+<p>We use a gas-powered two-man auger for most jobs. In rocky Vermont soil, which is most Vermont soil, we sometimes switch to a mini excavator with a rock auger attachment. Hitting ledge at 30 inches is a real possibility in parts of Rutland County. When that happens, we drill through it or pin to it with rebar epoxied into the rock. We don't just stop short and hope for the best.</p>
 
 <h2>Concrete or Gravel Backfill: Which Is Better?</h2>
 
 <p>This is the great fence post debate, and we've tried both extensively over 15 years.</p>
 
-<p><strong>Concrete</strong> is the industry standard. Mix it in the hole around the post, let it set, move on. The upside is rigidity — that post isn't going anywhere laterally. The downside: concrete creates a smooth surface that frost can grip and lift. If the bottom of that concrete plug isn't below the frost line, frost heave will pull the whole unit up like a cork.</p>
+<p><strong>Concrete</strong> is the industry standard. Mix it in the hole around the post, let it set, move on. The upside is rigidity. That post isn't going anywhere laterally. The downside: concrete creates a smooth surface that frost can grip and lift. If the bottom of that concrete plug isn't below the frost line, frost heave will pull the whole unit up like a cork.</p>
 
-<p><strong>Gravel backfill</strong> (3/4-inch crushed stone) takes a different approach. You pack the gravel in tight around the post. Gravel drains water away from the post, reducing the moisture available for frost heave. It also doesn't give frost anything smooth to grip — the irregular surfaces let the ground move without taking the post with it. The wood lasts longer too, because it's not sitting in a concrete bathtub holding moisture.</p>
+<p><strong>Gravel backfill</strong> (3/4-inch crushed stone) takes a different approach. You pack the gravel in tight around the post. Gravel drains water away from the post, reducing the moisture available for frost heave. It also doesn't give frost anything smooth to grip: the irregular surfaces let the ground move without taking the post with it. The wood lasts longer too, because it's not sitting in a concrete bathtub holding moisture.</p>
 
 <p>Here's what we do: <strong>gravel at the bottom, concrete at the top.</strong> We put 6 inches of crushed gravel at the base of the hole for drainage, set the post, pack gravel up to about 12 inches from grade, then pour concrete for the top section. The concrete gives lateral rigidity at the surface where it matters. The gravel at the bottom handles drainage and reduces frost grip on the footing. Best of both worlds.</p>
 
@@ -3134,11 +3110,11 @@ export const blogPosts: BlogPost[] = [
 <p>Walk your fence line in early spring, right after the ground thaws. Look for:</p>
 
 <ul>
-<li><strong>Posts that are visibly higher</strong> than they were in fall — measure from the bottom rail to the ground if you want to track it</li>
-<li><strong>Concrete collars visible at ground level</strong> — if you can see the concrete around the base of the post, it's been pushed up</li>
-<li><strong>Leaning posts</strong> that were straight when installed — frost heave rarely lifts evenly</li>
-<li><strong>Gates that no longer latch</strong> — one post heaved a half inch and now the gate drags or won't close</li>
-<li><strong>Cracked concrete at the base</strong> — frost pressure can fracture the footing, and once it's cracked, it's compromised</li>
+<li><strong>Posts that are visibly higher</strong> than they were in fall: measure from the bottom rail to the ground if you want to track it</li>
+<li><strong>Concrete collars visible at ground level</strong>: if you can see the concrete around the base of the post, it's been pushed up</li>
+<li><strong>Leaning posts</strong> that were straight when installed: frost heave rarely lifts evenly</li>
+<li><strong>Gates that no longer latch</strong>: one post heaved a half inch and now the gate drags or won't close</li>
+<li><strong>Cracked concrete at the base</strong>: frost pressure can fracture the footing, and once it's cracked, it's compromised</li>
 </ul>
 
 <p>If you're seeing any of these on a fence that's less than five years old, the posts almost certainly aren't deep enough. It doesn't fix itself. Each winter makes it worse.</p>
@@ -3330,14 +3306,17 @@ export const blogPosts: BlogPost[] = [
 
 <p>Walk the house top down with all the lights on and the windows closed.</p>
 
-<ul>
-<li><strong>Smell first.</strong> Musty smell means moisture. Animal smell means something got in. Chemical smell means a refrigerant leak or a propane issue. Trust your nose. Two of the worst spring open-ups we have ever done started with the homeowner saying "the basement just smells weird."</li>
-<li><strong>Check every ceiling under a bathroom.</strong> Water stains around plumbing penetrations are the early warning of a winter leak that is now drying.</li>
-<li><strong>Look behind every appliance.</strong> Mice and red squirrels nest behind dishwashers, ovens, and fridges. Pull each forward enough to see the wall behind. Take photos.</li>
-<li><strong>Inspect attic and crawlspace.</strong> Both are where pest entry happens first and where insulation degradation hides longest. Look for soiled or compressed insulation, droppings, and any visible daylight at soffits or ridge.</li>
-<li><strong>Test every smoke and CO detector.</strong> Replace any battery that is more than a year old. Carbon monoxide is the most common cause of serious incidents in second homes that have sat empty all winter then have a propane appliance fired up for the first time.</li>
-<li><strong>Run every appliance for at least one full cycle while you are watching it.</strong> Dishwasher on heat, washer with hot water, dryer with the lint trap clear. Catch a failed pump or a chewed line now, not at 11pm with guests in the house.</li>
-</ul>
+<p><strong>Smell first.</strong> Musty smell means moisture. Animal smell means something got in. Chemical smell means a refrigerant leak or a propane issue. Trust your nose. Two of the worst spring open-ups we have ever done started with the homeowner saying "the basement just smells weird."</p>
+
+<p><strong>Check every ceiling under a bathroom.</strong> Water stains around plumbing penetrations are the early warning of a winter leak that is now drying.</p>
+
+<p><strong>Look behind every appliance.</strong> Mice and red squirrels nest behind dishwashers, ovens, and fridges. Pull each forward enough to see the wall behind. Take photos.</p>
+
+<p><strong>Inspect attic and crawlspace.</strong> Both are where pest entry happens first and where insulation degradation hides longest. Look for soiled or compressed insulation, droppings, and any visible daylight at soffits or ridge.</p>
+
+<p><strong>Test every smoke and CO detector.</strong> Replace any battery that is more than a year old. Carbon monoxide is the most common cause of serious incidents in second homes that have sat empty all winter then have a propane appliance fired up for the first time.</p>
+
+<p><strong>Run every appliance for at least one full cycle while you are watching it.</strong> Dishwasher on heat, washer with hot water, dryer with the lint trap clear. Catch a failed pump or a chewed line now, not at 11pm with guests in the house.</p>
 
 <h2>What About the Septic, the Generator, and the Outdoor Systems?</h2>
 
