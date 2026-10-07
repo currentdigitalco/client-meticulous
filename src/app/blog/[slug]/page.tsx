@@ -101,10 +101,14 @@ export default async function Page({ params }: { params: Promise<Params> }) {
   // Prefer an explicit ISO publish date when the post sets one; otherwise resolve
   // the "Month Year" display string to the 1st of the month (day-1 default).
   const datePublished = post.datePublished ?? parseIsoDate(post.date);
-  // Site-wide "last touched" stamp for the older posts, but a post published
-  // after it must never claim a dateModified earlier than its datePublished
-  // (invalid, and a false understatement). Newer posts carry their own date.
-  const dateModified = datePublished > "2026-07-27" ? datePublished : "2026-07-27";
+  // The post's own last real change (`updated`, git-derived), else its publish
+  // date. Until 2026-10-06 this was a site-wide "2026-07-27" constant, which
+  // claimed a change on posts that had not changed and hid the 2026-10-05
+  // rewrite on the ones that had. The sitemap lastmod reads the same field,
+  // so the two signals agree. A stale `updated` never understates the
+  // publish date.
+  const dateModified =
+    post.updated && post.updated > datePublished ? post.updated : datePublished;
   const capsule = extractCapsule(post.content);
   const faqs = extractFaqs(post.content);
 

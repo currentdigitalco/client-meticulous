@@ -41,6 +41,11 @@ export interface ServiceDetail {
   process: ProcessStep[];
   differentiators: string[];
   relatedServices: string[];
+  /**
+   * ISO date (YYYY-MM-DD) of the last real change to the rendered hub page:
+   * title/meta, copy, the Q&A or the related posts. The sitemap lastmod reads
+   * it (omitted when unset); bump it when the page changes, never for a build.
+   */
   lastUpdated?: string;
   relatedBlogs?: { slug: string; title: string }[];
   faqs: ServiceFAQ[];
@@ -216,6 +221,7 @@ export const serviceDetails: ServiceDetail[] = [
       "Focused on lasting results, not just quick cosmetic fixes that fade by mid-summer",
     ],
     relatedServices: ["grounds-maintenance", "hardscaping"],
+    lastUpdated: "2026-09-15",
     faqs: [
       {
         question: "How much does landscaping cost in Rutland County, VT?",
@@ -686,7 +692,7 @@ export const serviceDetails: ServiceDetail[] = [
       "We handle the full scope — from excavation to finish grading — so you're not coordinating multiple trades",
     ],
     relatedServices: ["carpentry", "landscaping"],
-    lastUpdated: "2026-08-03",
+    lastUpdated: "2026-09-15",
     relatedBlogs: [
       {
         slug: "stone-wall-building-repair-rutland-county-vermont",
@@ -793,7 +799,7 @@ export const serviceDetails: ServiceDetail[] = [
       "Clean job sites and professional conduct — we respect your property while we work on it",
     ],
     relatedServices: ["hardscaping", "property-maintenance"],
-    lastUpdated: "2026-08-03",
+    lastUpdated: "2026-09-15",
     relatedBlogs: [
       {
         slug: "fence-cost-vermont",
@@ -900,6 +906,7 @@ export const serviceDetails: ServiceDetail[] = [
       "Consistent team and checklists ensure the same quality every single time",
     ],
     relatedServices: ["rental-support", "property-maintenance"],
+    lastUpdated: "2026-09-15",
     faqs: [
       {
         question: "Do you clean vacation rentals between guests in Killington, VT?",
@@ -987,7 +994,7 @@ export const serviceDetails: ServiceDetail[] = [
       "Full-spectrum support from grounds to guest prep means fewer vendors and simpler management",
     ],
     relatedServices: ["housekeeping", "property-maintenance"],
-    lastUpdated: "2026-07-13",
+    lastUpdated: "2026-09-15",
     relatedBlogs: [
       {
         slug: "lawn-care-cost-rutland-county-vermont",

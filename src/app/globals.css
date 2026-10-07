@@ -278,6 +278,38 @@ html.scroll-locked, html.scroll-locked body {
   transform: scaleX(1);
 }
 
+/* Secondary in-season links under a panel's CTA (2026-10-06): the CTA's
+   uppercase tracking family one step smaller and quieter, cream only, the
+   same forest-light underline on hover. */
+.screen-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.5rem;
+  margin-top: 1.25rem;
+  max-width: 480px;
+}
+.screen-link {
+  font-size: 0.6875rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: rgba(250,247,242,0.7);
+  text-decoration: none;
+  padding-bottom: 2px;
+  border-bottom: 1px solid rgba(250,247,242,0.25);
+  transition: color 0.3s, border-color 0.3s;
+}
+.screen-link:hover {
+  color: var(--cream);
+  border-color: var(--forest-light);
+}
+@media (max-width: 768px) {
+  .screen-links {
+    gap: 0.4rem 1rem;
+    margin-top: 1rem;
+  }
+}
+
 /* ========== NAVIGATION ========== */
 .nav-logo {
   position: fixed;

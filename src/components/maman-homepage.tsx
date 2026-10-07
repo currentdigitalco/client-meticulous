@@ -73,6 +73,11 @@ const screens = [
     cta: "/services/grounds-maintenance",
     ctaLabel: "View services",
     layout: "left" as const,
+    links: [
+      { href: "/services/fall-cleanup", label: "Fall cleanup & leaf removal" },
+      { href: "/services/landscaping", label: "Landscaping" },
+      { href: "/blog/when-to-schedule-fall-cleanup-vermont", label: "When to book a fall cleanup" },
+    ],
   },
   {
     id: "hardscape",
@@ -84,6 +89,7 @@ const screens = [
     cta: "/contact",
     ctaLabel: "Start your project",
     layout: "right" as const,
+    links: [{ href: "/services/carpentry", label: "Carpentry & construction" }],
   },
   {
     id: "winter",
@@ -95,6 +101,9 @@ const screens = [
     cta: "/services/snow-ice-management",
     ctaLabel: "Learn more",
     layout: "left" as const,
+    links: [
+      { href: "/blog/what-is-included-in-snow-removal-vermont", label: "What a snow service clears" },
+    ],
   },
   {
     id: "rental",
@@ -106,6 +115,10 @@ const screens = [
     cta: "/contact",
     ctaLabel: "Get a quote",
     layout: "right" as const,
+    links: [
+      { href: "/services/housekeeping", label: "Housekeeping & turnovers" },
+      { href: "/services/rental-support", label: "Rental property support" },
+    ],
   },
   {
     id: "cta",
@@ -117,6 +130,7 @@ const screens = [
     cta: "/contact",
     ctaLabel: "Request a quote",
     layout: "left" as const,
+    links: [{ href: "/service-areas", label: "Every town we serve" }],
   },
 ];
 
@@ -581,6 +595,18 @@ export function MamanHomepage() {
                       {screen.ctaLabel}
                       <ArrowRight size={14} strokeWidth={2} />
                     </a>
+                  )}
+
+                  {/* In-season links (2026-10-06): the pages one click from the
+                      homepage are crawled with it. Server-rendered on every panel. */}
+                  {screen.links && (
+                    <nav className="screen-links" aria-label="Related pages">
+                      {screen.links.map((link) => (
+                        <a key={link.href} href={link.href} className="screen-link">
+                          {link.label}
+                        </a>
+                      ))}
+                    </nav>
                   )}
                 </div>
               </div>

@@ -18,6 +18,15 @@ export interface BlogPost {
    * / dateModified. Older posts omit it and keep the day-1 behavior.
    */
   datePublished?: string;
+  /**
+   * Optional ISO date (YYYY-MM-DD) of the last real change to the rendered
+   * post: title, meta or body. The sitemap lastmod and the BlogPosting
+   * dateModified both read `updated ?? datePublished`, so set it when the
+   * post actually changes and never for a rebuild. The 2026-10-06 values
+   * were derived from git: the 2026-10-05 company-voice rewrite (482ad6c)
+   * and the 2026-07-27 title fit (dc259aa).
+   */
+  updated?: string;
   readTime: string;
   image: string;
   /**
@@ -54,6 +63,7 @@ export const blogPosts: BlogPost[] = [
     category: "Fall & Winter Prep",
     date: "September 2026",
     datePublished: "2026-09-28",
+    updated: "2026-10-05",
     readTime: "7 min read",
     image: "/images/blog-seasonal-snow-contract-vs-per-storm-vermont.jpeg",
     imageAlt: "Vermont gravel driveway under the first dusting of snow beside a fieldstone wall in Rutland County before plowing season.",
@@ -69,6 +79,7 @@ export const blogPosts: BlogPost[] = [
     category: "Fall & Winter Prep",
     date: "September 2026",
     datePublished: "2026-09-21",
+    updated: "2026-10-05",
     readTime: "8 min read",
     image: "/images/blog-driveway-markers-before-snow-vermont.jpeg",
     imageAlt: "Driveway markers staked along a Vermont gravel driveway edge in late autumn before snow plowing season.",
@@ -84,6 +95,7 @@ export const blogPosts: BlogPost[] = [
     category: "Fall & Winter Prep",
     date: "September 2026",
     datePublished: "2026-09-14",
+    updated: "2026-10-05",
     readTime: "9 min read",
     image: "/images/blog-how-many-fall-cleanups-vermont.jpeg",
     imageAlt:
@@ -151,6 +163,7 @@ export const blogPosts: BlogPost[] = [
     category: "Fall & Winter Prep",
     date: "September 2026",
     datePublished: "2026-09-07",
+    updated: "2026-10-05",
     readTime: "10 min read",
     image: "/images/blog-when-to-schedule-fall-cleanup-vermont.jpeg",
     imageAlt:
@@ -273,6 +286,7 @@ export const blogPosts: BlogPost[] = [
       "Everyone signs a snow contract in October and finds out what it covers in January. A standard seasonal plow contract clears the driveway on a trigger depth, but walkways, steps, entries, de-icing, and the berm the town plow leaves are separate questions the agreement has to answer by name. Here is what a Rutland County plow contract actually covers, what sits outside every one of them, and the lines to read before the first storm instead of during it.",
     category: "Snow Removal",
     date: "August 2026",
+    updated: "2026-10-05",
     readTime: "11 min read",
     image: "/images/blog-what-is-included-in-snow-removal-vermont.jpeg",
     featured: false,
@@ -392,6 +406,7 @@ export const blogPosts: BlogPost[] = [
       "Late August through mid-September is the best six weeks of the year to repair a Vermont lawn, and most people wait until spring and get worse results for more money. Warm soil, cooling nights and collapsed weed pressure line up in a way they never do in April. Here is how to tell whether your thin patches are a seeding problem, a soil problem, a drainage problem or grubs, what overseeding actually fixes and what it cannot, and why the same window that repairs a lawn is also when fall cleanup and snow contracts get booked.",
     category: "Lawn Care",
     date: "August 2026",
+    updated: "2026-10-05",
     readTime: "10 min read",
     image: "/images/blog-fix-a-damaged-lawn-late-summer-vermont.jpeg",
     featured: false,
@@ -471,6 +486,7 @@ export const blogPosts: BlogPost[] = [
       "Most Rutland County homeowners assume plowing runs on a schedule, but it runs on a trigger depth: once accumulation crosses roughly two to three inches, a truck moves, whether that happens once or four times in one storm. A two-foot storm is never a single visit, because a plow that waits for the last flake just buries the driveway in ice nobody can push. Overnight and pre-dawn routes decide who is cleared before the school bus and who waits, freezing rain and drifting undo a clean plow in under an hour, and an unoccupied second home needs automatic dispatch, not a phone call nobody is there to make. Here is what actually decides when your truck shows up, and how often to expect it.",
     category: "Snow & Ice",
     date: "August 2026",
+    updated: "2026-10-05",
     readTime: "10 min read",
     image: "/images/blog-how-often-should-my-driveway-be-plowed-vt.jpeg",
     featured: false,
@@ -604,6 +620,7 @@ export const blogPosts: BlogPost[] = [
       "Fall cleanup is the visit owners are most tempted to skip, and it is the one whose absence you do not see until April. In Rutland County the lawn sits under snow for roughly four months, and a wet leaf mat left beneath it smothers the grass and breeds snow mold while you cannot see it. The debris washes into the drainage and plugs it, so the spring melt backs up instead of running off. Skip one planned fall visit and you buy three reactive spring ones to undo it. Here is the cause-and-effect, laid out so it argues for itself.",
     category: "Fall & Winter Prep",
     date: "August 2026",
+    updated: "2026-10-05",
     readTime: "9 min read",
     image: "/images/blog-why-fall-cleanup-matters-vermont.jpeg",
     featured: false,
@@ -724,6 +741,7 @@ export const blogPosts: BlogPost[] = [
       "The plowing decision in Vermont gets made in late summer, not the night of the first storm. Seasonal snow contracts are sold from August through October, and once a plow route fills for the season a new driveway gets added at the back of the line or not at all. In Rutland County the hill towns around Killington can see plowable snow by late October, so booking early is the difference between a truck at your driveway before sunrise and a scramble in November. Here is when to reserve your slot and exactly what a seasonal contract covers.",
     category: "Snow & Ice",
     date: "August 2026",
+    updated: "2026-10-05",
     readTime: "8 min read",
     image: "/images/blog-when-to-book-snow-removal-vermont.jpeg",
     featured: false,
@@ -852,6 +870,7 @@ export const blogPosts: BlogPost[] = [
       "A new fence in Rutland County runs about $8 to $80 per linear foot installed, and the material sets the band: wire and field fencing at the low end, pressure-treated and cedar in the middle, vinyl and aluminum at the top. But the sticker range is only half the story. Frost depth, ledge, and slope are what actually decide where in that band your quote lands, and why two identical-looking fences can price a thousand dollars apart. Here is the honest per-foot math for a Vermont install.",
     category: "Fencing",
     date: "August 2026",
+    updated: "2026-10-05",
     readTime: "9 min read",
     image: "/images/blog-fence-cost-vermont.jpeg",
     featured: false,
@@ -984,6 +1003,7 @@ export const blogPosts: BlogPost[] = [
       "A fence post in Rutland County either sits below the frost line or the frost lifts it out over a few winters. The frost line here runs 48 inches and deeper at elevation, and that floor beats the usual one-third burial rule. Here is how deep to set a post, what size and spacing a 6-foot fence needs, when concrete helps and when it makes the heaving worse, and which wood actually survives Vermont ground.",
     category: "Fencing",
     date: "July 2026",
+    updated: "2026-10-05",
     readTime: "9 min read",
     image: "/images/blog-fence-posts-vermont-depth-frost-line.jpeg",
     featured: false,
@@ -1108,6 +1128,7 @@ export const blogPosts: BlogPost[] = [
       "By the time crabgrass shows up in a Rutland County lawn, it is July and the easy fix (a spring pre-emergent) is months behind you. Crabgrass germinates once the soil holds above 55°F, which in Vermont is mid-to-late May, so summer is a control job, not a prevention one. Here is what actually kills crabgrass that is already up, why mowing at 3 to 3.5 inches shades it out, the Vermont control calendar by soil temperature, and how to thicken the turf so it does not come back next year.",
     category: "Lawn Care",
     date: "July 2026",
+    updated: "2026-10-05",
     readTime: "8 min read",
     image: "/images/blog-stop-crabgrass-vermont-lawn-summer.jpeg",
     featured: false,
@@ -1218,6 +1239,7 @@ export const blogPosts: BlogPost[] = [
       "Japanese knotweed is the one plant on a Rutland County property you cannot dig out, mow off, or wait out. It is on Vermont's Noxious Weed Quarantine, its rhizomes run 20 feet sideways and 10 feet down, and every broken fragment starts a new stand. Here is what actually kills it, why it takes multiple seasons, the disposal rules that are easy to break, and why bringing in a crew while the patch is still small is the cheapest way through it.",
     category: "Property Maintenance",
     date: "July 2026",
+    updated: "2026-10-05",
     readTime: "9 min read",
     image: "/images/blog-japanese-knotweed-removal-vermont.jpeg",
     featured: false,
@@ -1337,6 +1359,7 @@ export const blogPosts: BlogPost[] = [
       "The straw-blond lawn on a Killington or Woodstock property in July is almost always dormant, not dead — and the fix is not more water. Here is the three-part field test to tell the difference in ninety seconds, why cool-season turf shuts down around Rutland County in mid-July, and the exact watering, mowing, and traffic rules that keep a dormant lawn recoverable instead of killing it while trying to save it.",
     category: "Lawn Care",
     date: "July 2026",
+    updated: "2026-10-05",
     readTime: "9 min read",
     image: "/images/blog-is-my-lawn-dead-or-dormant-vermont.jpeg",
     featured: false,
@@ -1467,6 +1490,7 @@ export const blogPosts: BlogPost[] = [
       "Lawn care in Rutland County, Vermont runs roughly $60 to $110 per mowing visit in 2026 — Vermont is the most expensive state in the US for lawn care, and there are real reasons for it. Here is what a per-visit mow, a full-season contract, and a full property-management plan actually cost in Killington, Rutland, Woodstock, Ludlow, Mendon, Chittenden, Pittsfield, Brandon, and Castleton, and what the right number looks like for a second-home owner who needs the lawn handled remotely.",
     category: "Pricing",
     date: "June 2026",
+    updated: "2026-10-05",
     readTime: "9 min read",
     image: "/images/blog-lawn-care-cost-rutland-county-vermont.jpeg",
     featured: false,
@@ -1557,6 +1581,7 @@ export const blogPosts: BlogPost[] = [
       "Almost every brown, thin, weed-filled Rutland County lawn we get called to in August has the same root cause, and it is not drought, fungus, or fertilizer. It is mowing height. The blade was set too low in June, the lawn was scalped weekly through July, and by mid-August the turf is fried because the roots never had a chance. Here is what mowing height should actually be on a Vermont property at 1,000 to 2,000 feet of elevation, why three inches is the floor, and the mowing schedule that keeps the lawn green through a Rutland County summer instead of fighting it back to life every September.",
     category: "Lawn Care",
     date: "June 2026",
+    updated: "2026-10-05",
     readTime: "8 min read",
     image: "/images/blog-lawn-mowing-height-rutland-county-vermont-summer.jpeg",
     featured: false,
@@ -1639,6 +1664,7 @@ export const blogPosts: BlogPost[] = [
       "Most irrigation systems on Rutland County properties were installed by a crew that does not live here through the winter. They water on the wrong schedule for a Vermont summer, they are never tuned for our short, humid growing season, and they are almost never blown out correctly before the first hard freeze. Here is how lawn irrigation should actually work at 1,000 to 2,000 feet of elevation, and the mistakes that waste water in July and crack your pipes in October.",
     category: "Lawn Care",
     date: "June 2026",
+    updated: "2026-10-05",
     readTime: "8 min read",
     image: "/images/blog-lawn-irrigation-rutland-county-vermont.jpeg",
     featured: false,
@@ -1708,6 +1734,7 @@ export const blogPosts: BlogPost[] = [
       "Stone walls are the most photographed feature on a Vermont property and the most consistently misbuilt. Most new dry-stack walls in Rutland County fail within five winters because the base, the batter, and the cap were all wrong. Here is what a real stone wall costs in Killington and Woodstock, the timeline to build one, and the failures we tear out every June.",
     category: "Hardscape",
     date: "June 2026",
+    updated: "2026-10-05",
     readTime: "9 min read",
     image: "/images/blog-stone-wall-building-repair-rutland-county-vermont.jpeg",
     featured: false,
@@ -1833,6 +1860,7 @@ export const blogPosts: BlogPost[] = [
       "Vermont's growing season is roughly fourteen weeks long, and a Rutland County property that looks effortless on Labor Day is the result of a real schedule, not a weekly mow. Here is the week-by-week maintenance calendar we run on the second homes we manage in Killington, Woodstock, Ludlow, and Pittsfield, and where most properties go wrong.",
     category: "Property Maintenance",
     date: "June 2026",
+    updated: "2026-10-05",
     readTime: "10 min read",
     image: "/images/blog-summer-grounds-maintenance-schedule-vermont.jpeg",
     featured: false,
@@ -1925,6 +1953,7 @@ export const blogPosts: BlogPost[] = [
       "Late May is when the bugs take over a Rutland County property. Black flies are at their worst, the first mosquito hatch is out of the standing water, and tick season is in full swing right when guests start arriving. Here is what actually keeps a Killington or Woodstock property usable through the summer, and what is a waste of money.",
     category: "Property Maintenance",
     date: "May 2026",
+    updated: "2026-10-05",
     readTime: "9 min read",
     image: "/images/blog-tick-mosquito-control-vermont-properties.jpeg",
     featured: false,
@@ -2004,6 +2033,7 @@ export const blogPosts: BlogPost[] = [
       "Every May we walk Rutland County properties where the lawn along the driveway looks like a war zone, peeled up by the plow blade and burned by salt. Here is how we reseed, repair plow scars, and get a Killington or Woodstock lawn presentable before Memorial Day guests arrive.",
     category: "Lawn Care",
     date: "May 2026",
+    updated: "2026-10-05",
     readTime: "8 min read",
     image: "/images/blog-lawn-reseeding-snowplow-damage-vermont-may.jpeg",
     featured: false,
@@ -2151,6 +2181,7 @@ export const blogPosts: BlogPost[] = [
       "By the second week of May in Rutland County, the frost is finally out of the ground and every hardscape failure from last winter is now visible. Here is how we diagnose and repair frost-heaved walkways and patios before the summer guests arrive.",
     category: "Hardscape",
     date: "May 2026",
+    updated: "2026-07-27",
     readTime: "8 min read",
     image: "/images/blog-frost-heave-walkways-patios.jpeg",
     featured: false,
@@ -2283,6 +2314,7 @@ export const blogPosts: BlogPost[] = [
       "Most lawn care companies in Rutland County are interchangeable on paper. The differences show up in May when one shows up on schedule and one doesn't. Here is how to vet them before you sign.",
     category: "Lawn Care",
     date: "May 2026",
+    updated: "2026-10-05",
     readTime: "9 min read",
     image: "/images/blog-choose-lawn-care.jpeg",
     featured: false,
@@ -2404,6 +2436,7 @@ export const blogPosts: BlogPost[] = [
       "Mud season hits Rutland County hard. Your yard, driveway, and walkways take a beating between March and May. Here is what to address first and what can wait.",
     category: "Property Maintenance",
     date: "April 2026",
+    updated: "2026-07-27",
     readTime: "7 min read",
     image: "/images/blog-mud-season-cleanup.jpeg",
     featured: false,
@@ -2605,6 +2638,7 @@ export const blogPosts: BlogPost[] = [
       "Most lawn care companies will aerate your yard in April and take your money. Here's why that's the wrong move for Vermont soil — and when to actually do it.",
     category: "Lawn Care",
     date: "March 2026",
+    updated: "2026-10-05",
     readTime: "4 min read",
     image: "/images/blog-aerate-lawn.jpeg",
     featured: false,
@@ -2683,6 +2717,7 @@ export const blogPosts: BlogPost[] = [
       "We've torn out and repaired enough patios to know what holds up after five Vermont winters and what doesn't. Here's the honest comparison.",
     category: "Hardscape",
     date: "February 2026",
+    updated: "2026-10-05",
     readTime: "6 min read",
     image: "/images/blog-bluestone-pavers.jpeg",
     featured: false,
@@ -2781,6 +2816,7 @@ export const blogPosts: BlogPost[] = [
       "Cedar looks great the day it goes in. Vinyl looks the same in year ten. Here's what actually matters when you're choosing a fence in Vermont.",
     category: "Fencing",
     date: "January 2026",
+    updated: "2026-10-05",
     readTime: "5 min read",
     image: "/images/blog-cedar-fence.jpeg",
     featured: false,
@@ -2871,6 +2907,7 @@ export const blogPosts: BlogPost[] = [
       "September through November is when you either set yourself up for an easy winter or a series of expensive emergencies. Here's the checklist we use for our managed properties.",
     category: "Snow Removal",
     date: "October 2025",
+    updated: "2026-10-05",
     readTime: "7 min read",
     image: "/images/blog-winter-prep.jpeg",
     featured: false,
@@ -2953,6 +2990,7 @@ export const blogPosts: BlogPost[] = [
       "We've installed both in hundreds of Vermont homes. Here's the honest comparison from the guys who are on their knees laying it down.",
     category: "Flooring",
     date: "September 2025",
+    updated: "2026-10-05",
     readTime: "5 min read",
     image: "/images/blog-lvp-flooring.jpeg",
     featured: false,
@@ -3061,6 +3099,7 @@ export const blogPosts: BlogPost[] = [
       "If your fence posts aren't below the frost line, your fence will move. We've fixed enough leaning fences to know exactly how deep to go.",
     category: "Fencing",
     date: "August 2025",
+    updated: "2026-10-06",
     readTime: "4 min read",
     image: "/images/blog-frost-line.jpeg",
     featured: false,
@@ -3121,7 +3160,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>We fix a lot of other people's fences. The most common cause of failure, by far, is shallow posts. Digging to 52 inches instead of 36 inches adds maybe 15 minutes per hole and costs almost nothing extra in materials. But it's the difference between a fence that stands straight for 20 years and one that's falling apart in three.</p>
 
-<p>If your fence is showing signs of heave, or you're planning a new fence and want it done right the first time, give us a call. We've been setting posts in Rutland County soil since 2009, and we know where the rocks are. For the full rundown on post depth, size, spacing, and which wood lasts in Vermont ground, read our guide to <a href="/blog/fence-posts-vermont-depth-frost-line">how deep to set fence posts and the frost-line rule</a>. For the price side of the decision, see our breakdown of <a href="/blog/fence-cost-vermont">what a fence costs in Vermont by material, length, and terrain</a>.</p>
+<p>If your fence is showing signs of heave, or you're planning a new fence and want it done right the first time, give us a call. We've been setting posts in Rutland County soil since 2009, and we know where the rocks are. Fence posts are part of our <a href="/services/carpentry">carpentry and construction work</a>, alongside decks and exterior repairs. For the full rundown on post depth, size, spacing, and which wood lasts in Vermont ground, read our guide to <a href="/blog/fence-posts-vermont-depth-frost-line">how deep to set fence posts and the frost-line rule</a>. For the price side of the decision, see our breakdown of <a href="/blog/fence-cost-vermont">what a fence costs in Vermont by material, length, and terrain</a>.</p>
 `,
   },
   {
@@ -3132,6 +3171,7 @@ export const blogPosts: BlogPost[] = [
       "By late April every gravel and asphalt driveway in Rutland County looks rough. Some of it is cosmetic. Some of it is the start of a $4,000 problem. Here is how to tell the difference.",
     category: "Property Maintenance",
     date: "April 2026",
+    updated: "2026-07-27",
     readTime: "8 min read",
     image: "/images/blog-driveway-damage-after-vermont-mud-season.jpeg",
     featured: false,
@@ -3251,6 +3291,7 @@ export const blogPosts: BlogPost[] = [
       "Mud season is ending and second-home owners are heading back up to Killington, Woodstock, and the rest of Rutland County. Here is the exact open-up checklist we run on the homes we manage so the place is ready for the season instead of revealing a $6,000 problem.",
     category: "Property Maintenance",
     date: "May 2026",
+    updated: "2026-10-05",
     readTime: "9 min read",
     image: "/images/blog-opening-vermont-second-home-spring-checklist.jpeg",
     featured: false,
