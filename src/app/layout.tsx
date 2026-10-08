@@ -129,7 +129,7 @@ export default function RootLayout({
     additionalType: "https://schema.org/LocalBusiness",
     name: "Meticulous LLC",
     legalName: "Meticulous Mowing & Property Management LLC",
-    alternateName: "Meticulous",
+    alternateName: ["Meticulous", "Meticulous Mowing"],
     description:
       "Complete property care built around higher standards. Grounds maintenance, landscaping, snow & ice management, hardscaping, carpentry, housekeeping, and rental property support across Rutland County, Vermont since 2009.",
     telephone: "+1-802-342-8293",
