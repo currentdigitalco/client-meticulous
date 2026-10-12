@@ -252,6 +252,12 @@ A: A seasonal contract is a flat winter price billed in installments and coverin
 Q: What counts as a push in a Vermont snow removal contract?
 A: The agreement should name a trigger depth and say who calls it. Meticulous sets a stated accumulation and makes the call automatically, so no homeowner phone call is needed at 4am. Ask specifically how a storm running over two days is counted, because that is either one push or three depending on how the contract is written, and it can move a per-storm winter substantially. Drifting should also be addressed: a wind event after a dry snow can close a driveway with no new accumulation. See <https://meticulous802.com/blog/seasonal-snow-contract-vs-per-storm-vermont>.
 
+Q: What does a seasonal snow contract assume about the winter?
+A: Every seasonal price is built on an assumed normal winter, which in the Rutland valley means roughly 60 to 80 inches over a dozen to twenty-five plowable events. Contracts handle a heavier winter one of three ways: unlimited (one price covers every event, the contractor carries a record year), an inch cap with a per-inch overage rate, or a visit cap with a per-push rate above it. Meticulous seasonal contracts are unlimited. Source: https://meticulous802.com/blog/seasonal-snow-contract-overage-vermont
+
+Q: Is an inch cap or a visit cap fairer on a snow contract?
+A: A visit cap tracks the real work more closely. One 14-inch storm is usually one or two pushes, while seven 2-inch storms are seven, so an inch cap can bill an overage in a winter when the truck was barely out. If a contract caps by inches it should also say where the inches are measured, because a valley reading says little about a driveway at 1,800 feet in Mendon.
+
 Q: What should be finished in the first week of October on a Rutland County property?
 A: Four items, in order. First, the last mow of the year on valley lawns gets scalped to 2.5 to 3 inches on a dry pass so snow mold has less blade to press against — hill towns above 1,500 feet were already there a week earlier. Second, hose bibs come off and get blown out at the interior valve, and any irrigation system runs a zone-by-zone compressed-air blowdown; waiting until mid-October risks a hard frost catching a half-drained line. Third, gutters get cleared after the maple and ash drop but before the oaks let go, and downspout extensions get re-pointed so runoff clears the foundation. Fourth, driveway stakes go in while the ground is still soft enough to take them — once first hard frost firms the top four inches, staking becomes spade work. Property owners who book these four as one visit get a coordinated hand-off into the seasonal snow contract and avoid the two or three reactive visits that come from deferring any one of them.
 
@@ -272,7 +278,11 @@ Last updated: 2026-10-08. Business information, service area coverage, and prici
 
 <!-- BEGIN GENERATED BLOG ARCHIVE — regenerate with execution/regenerate_llms_blog_archive.py -->
 
-Complete archive of all 33 published blog posts, newest first. Every URL below is a live, indexable page.
+Complete archive of all 34 published blog posts, newest first. Every URL below is a live, indexable page.
+
+- **Will a Plow Truck Fit My Driveway? What to Check First** (published 2026-10-05)
+  https://meticulous802.com/blog/will-a-plow-fit-my-driveway-vermont
+  Under 10 feet of clear width and a plow truck is not getting up it. How to measure the pinch point, where the snow goes, and when to use a tractor.
 
 - **Seasonal Snow Contract or Pay Per Storm in Vermont?** (published 2026-09-28)
   https://meticulous802.com/blog/seasonal-snow-contract-vs-per-storm-vermont
