@@ -555,8 +555,12 @@ export const serviceDetails: ServiceDetail[] = [
       "We carry proper insurance and use commercial-grade equipment built for Vermont conditions",
     ],
     relatedServices: ["fall-cleanup", "property-maintenance"],
-    lastUpdated: "2026-10-05",
+    lastUpdated: "2026-10-12",
     relatedBlogs: [
+      {
+        slug: "seasonal-snow-contract-overage-vermont",
+        title: "What a Seasonal Snow Contract Assumes About Your Winter",
+      },
       {
         slug: "will-a-plow-fit-my-driveway-vermont",
         title: "Will a Plow Truck Fit My Driveway? What to Check First",
@@ -620,6 +624,11 @@ export const serviceDetails: ServiceDetail[] = [
         question: "Does a seasonal snow contract include walkways and salting in Rutland, VT?",
         answer:
           "Ours does. Plowing clears the driving surface, and everything a person actually touches on a snowy morning is the part a plow-only arrangement misses. Our seasonal contracts include hand-shoveled walkways, steps, porches, and entries; salt or sand on driving surfaces and walkways, using rock salt, treated salt, or sand depending on conditions; post-storm cleanup passes with bank pushback and re-salting; and priority dispatch ahead of per-push work. Many contracts in the county list walkways, de-icing, and the berm the town plow leaves at the end of your drive as separate line items, so read those lines before you sign anything.",
+      },
+      {
+        question: "What happens to my seasonal snow price in a record winter in Rutland County, VT?",
+        answer:
+          "Nothing. Our seasonal contracts cover every plowable event from the first storm to the last, so a record winter does not turn into an overage bill in February, and a quiet one does not earn a refund either. That is the trade: the same number in any winter and a spot near the front of the route. Other contracts cap the season by inches or by visits and bill above the cap, which is fair when both numbers are written down. Ask any contractor which kind they are quoting before you sign.",
       },
       {
         question: "Do you plow commercial lots in Rutland, VT?",
