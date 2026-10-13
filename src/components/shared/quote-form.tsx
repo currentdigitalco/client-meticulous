@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { Send, Phone } from "lucide-react";
 import { FORM_ACCESS_KEY, FORM_SUBMIT_URL } from "@/lib/form-config";
+import { trackEvent } from "@/lib/analytics";
 
 const SERVICE_OPTIONS = [
   { value: "grounds-maintenance", label: "Grounds maintenance" },
@@ -60,6 +61,11 @@ export function QuoteForm({
       });
       const json = await res.json();
       if (json.success) {
+        trackEvent("generate_lead", {
+          form: "quote_form",
+          ...(defaultService ? { service: defaultService } : {}),
+          ...(defaultCity ? { city: defaultCity } : {}),
+        });
         setSubmitted(true);
         formEl.reset();
       } else {

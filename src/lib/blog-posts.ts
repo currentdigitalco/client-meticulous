@@ -1,3 +1,5 @@
+import type { PostToolPlacement } from "./post-tools";
+
 export interface BlogPost {
   slug: string;
   title: string;
@@ -37,6 +39,12 @@ export interface BlogPost {
   featured: boolean;
   metaDescription: string;
   content: string;
+  /**
+   * Optional interactive tool rendered inside the post body, right after the
+   * exact `insertAfter` substring. Configs live in src/lib/post-tools.ts; a
+   * missing anchor fails the build.
+   */
+  tool?: PostToolPlacement;
 }
 
 export const blogPosts: BlogPost[] = [
@@ -2738,6 +2746,11 @@ export const blogPosts: BlogPost[] = [
     featured: false,
     metaDescription:
       "Bluestone vs concrete pavers in Vermont: $19 to $34 vs $13 to $23 per sq ft, which survives 100 freeze-thaw cycles a year, and which we recommend.",
+    // Quiz sits after the installed-cost comparison, mid-post.
+    tool: {
+      id: "bluestone_quiz",
+      insertAfter: "close that gap significantly.</p>",
+    },
     content: `
 <p>A few years back we got called out to a patio in Mendon that was three years old and already falling apart. Concrete pavers shifting, corners chipping, whole sections heaving up two inches above their neighbors. The homeowner said they'd paid good money for a "professional" install. Turned out the base was four inches of crushed stone on top of clay with no compaction and no edge restraint. The material didn't fail. The install failed.</p>
 
@@ -3120,6 +3133,11 @@ export const blogPosts: BlogPost[] = [
     featured: false,
     metaDescription:
       "Vermont frost line depth: 48 inches in most of Rutland County, 54 to 60 inches above 1,500 feet. Fence posts go below it or frost heave lifts them out.",
+    // Post-depth tool sits right after the dig-depth answer and footing math.
+    tool: {
+      id: "post_depth",
+      insertAfter: "A lot of installers get this math wrong.</p>",
+    },
     content: `
 <p data-speakable="true"><strong>Yes, fence posts need to be set below the frost line, and in Vermont that is deeper than most people think: the frost line sits at 48 inches in most of Rutland County and pushes to 54–60 inches at higher elevations like Killington, Mendon, and Shrewsbury. A post that stops short of it will heave.</strong> Here is what that looks like in practice.</p>
 
