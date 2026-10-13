@@ -88,9 +88,10 @@ function unknownAnswer(step: string, value: string): never {
 //     the frost line: both posts.
 //   - The one-third burial rule, and that the frost-line floor beats it
 //     everywhere in the county: fence-posts-vermont-depth-frost-line, "How
-//     Deep Should a Fence Post Go Below the Vermont Frost Line?". We compute it
-//     as a third of the post's total length in the ground: a post of length L
-//     with L/3 buried leaves 2L/3 above grade, so burial = fence height / 2.
+//     Deep Should a Fence Post Go Below the Vermont Frost Line?". It is stated
+//     there (and here) as a third of the FENCE'S HEIGHT in the ground: a 6 ft
+//     fence gets 24 in on an 8 ft post (corrected 2026-10-13; the post had
+//     called that "one-third of the post height", which is a quarter).
 //   - Ledge at 30 in; rock auger on a mini excavator; drill through ledge or
 //     pin to it with rebar epoxied into the rock: frost-line-depth-vermont-
 //     fencing, "How Deep Does Meticulous Actually Dig?".
@@ -115,9 +116,8 @@ function computePostDepth(answers: ToolAnswers): ToolResult {
 
   const heightFt = FENCE_HEIGHT_FT[heightKey];
   if (heightFt === undefined) unknownAnswer("height", heightKey);
-  // A third of the post's length in the ground = half the above-grade height.
-  const thirdRuleIn = (heightFt / 2) * 12;
-  const postLengthFt = heightFt * 1.5;
+  // The old one-third rule: bury a third of the fence's height.
+  const thirdRuleIn = (heightFt * 12) / 3;
 
   let digLow: number;
   let digHigh: number;
@@ -143,17 +143,17 @@ function computePostDepth(answers: ToolAnswers): ToolResult {
   }
 
   // Use whichever rule is deeper. With the published figures the frost line
-  // wins for every height offered (max third-rule depth is 48 in), but the
+  // wins for every height offered (max third-rule depth is 32 in), but the
   // comparison stays live so a new height option can't silently undercut it.
   if (thirdRuleIn > digLow) {
     digLow = thirdRuleIn;
     if (digHigh < digLow) digHigh = digLow;
     reasons.push(
-      `A third of the post in the ground. ${heightFt === 8 ? "An" : "A"} ${heightFt} ft fence needs about a ${postLengthFt} ft post, and a third of that is ${thirdRuleIn} inches. That is deeper than the frost line here, so it decides the hole.`,
+      `The old one-third rule buries a third of the fence's height: ${thirdRuleIn} inches for ${heightFt === 8 ? "an" : "a"} ${heightFt} ft fence. That is deeper than the frost line here, so it decides the hole.`,
     );
   } else {
     reasons.push(
-      `A third of the post in the ground. ${heightFt === 8 ? "An" : "A"} ${heightFt} ft fence needs about a ${postLengthFt} ft post, and a third of that is ${thirdRuleIn} inches. The frost line is deeper, so it decides the hole.`,
+      `The old one-third rule buries a third of the fence's height: ${thirdRuleIn} inches for ${heightFt === 8 ? "an" : "a"} ${heightFt} ft fence. The frost line is deeper, so it decides the hole.`,
     );
   }
   reasons.push(

@@ -1055,7 +1055,7 @@ export const blogPosts: BlogPost[] = [
 
 <h2>How Deep Should a Fence Post Go Below the Vermont Frost Line?</h2>
 
-<p>Deep enough that the bottom of the post clears the frost line, which in Rutland County is the 48-inch floor, and that floor almost always governs over the old one-third rule. The one-third rule you hear from installers down south says to bury one-third of the post height: an 8-foot post for a 6-foot fence gets 2 feet in the ground. That math produces a 24-inch hole. In Killington, where the frost runs 48 inches or more, a 24-inch post is buried entirely inside the freeze zone. It has no chance.</p>
+<p>Deep enough that the bottom of the post clears the frost line, which in Rutland County is the 48-inch floor, and that floor almost always governs over the old one-third rule. The one-third rule you hear from installers down south says to bury one-third of the fence's height: a 6-foot fence on an 8-foot post gets 2 feet in the ground. That math produces a 24-inch hole. In Killington, where the frost runs 48 inches or more, a 24-inch post is buried entirely inside the freeze zone. It has no chance.</p>
 
 <p>So in Vermont the two rules collide, and the frost line wins. Run both numbers and dig to whichever is deeper:</p>
 
