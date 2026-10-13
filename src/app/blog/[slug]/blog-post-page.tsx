@@ -7,10 +7,16 @@ import Link from "next/link";
 import { InnerLayout } from "@/components/shared/inner-layout";
 import { ArrowLeft, Clock, Phone } from "lucide-react";
 import type { BlogPost } from "@/lib/blog-posts";
+import { splitPostContent } from "@/lib/post-tools";
+import { PostTool } from "@/components/blog/post-tool";
 
 gsap.registerPlugin(ScrollTrigger);
 
 export function BlogPostPage({ post }: { post: BlogPost }) {
+  const [contentBefore, contentAfter] = post.tool
+    ? splitPostContent(post.content, post.tool)
+    : [post.content, ""];
+
   useEffect(() => {
     const ctx = gsap.context(() => {
       gsap.fromTo(
@@ -80,11 +86,25 @@ export function BlogPostPage({ post }: { post: BlogPost }) {
             {post.title}
           </h1>
 
-          {/* Content */}
-          <div
-            className="post-body mt-12 prose-meticulous"
-            dangerouslySetInnerHTML={{ __html: post.content }}
-          />
+          {/* Content (with the post's interactive tool spliced in at its anchor) */}
+          {post.tool ? (
+            <div className="post-body mt-12">
+              <div
+                className="prose-meticulous"
+                dangerouslySetInnerHTML={{ __html: contentBefore }}
+              />
+              <PostTool toolId={post.tool.id} postSlug={post.slug} />
+              <div
+                className="prose-meticulous"
+                dangerouslySetInnerHTML={{ __html: contentAfter }}
+              />
+            </div>
+          ) : (
+            <div
+              className="post-body mt-12 prose-meticulous"
+              dangerouslySetInnerHTML={{ __html: post.content }}
+            />
+          )}
 
           {/* CTA */}
           <div className="mt-16 p-8 md:p-12 rounded-2xl bg-forest/30 ring-1 ring-forest/20">
