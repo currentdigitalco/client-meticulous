@@ -107,21 +107,19 @@ export default function RootLayout({
 
   // aggregateRating describes the FULL Google review corpus, not the excerpts
   // above — it must match the public profile exactly (it is checkable in one
-  // click). Verified live 2026-10-01 against the GBP v4 reviews endpoint:
-  // 33 reviews @ 4.7.
+  // click). Verified live 2026-10-15 against the GBP v4 reviews endpoint:
+  // 34 reviews @ 4.6.
   //
-  // This pair DRIFTS and has now taken four distinct states, not two:
-  //   32@4.7 (7/24) → 31@4.8 (7/27) → 32@4.7 (8/12, 8/19) → 32@4.8 (8/26) → 33@4.7 (10/01)
-  // The older note here explained it as "one specific review repeatedly
-  // removed and reinstated by Google." That no longer covers it: the COUNT
-  // moved up to 33 while the rating dropped back to 4.7, so a new review
-  // arrived and either came in below the previous average or coincided with
-  // a reviewer edit. Do not carry a single-review theory forward.
+  // This pair DRIFTS and has now taken five distinct states:
+  //   32@4.7 (7/24) → 31@4.8 (7/27) → 32@4.7 (8/12, 8/19) → 32@4.8 (8/26) → 33@4.7 (10/01) → 34@4.6 (10/15)
+  // 10/15: a new review arrived and the 1★ Brogren review that we no longer
+  // attempt to remove pulled the average down 4.7 → 4.6. 4.6 is the honest
+  // number; keep it.
   //
   // Patch to the live figure every time; do not treat a return to a previous
   // state as evidence a patch failed.
   // Re-verify: python execution/gbp_fetch_reviews.py --slug meticulous
-  const gbpReviews = { rating: "4.7", count: "33", verifiedOn: "2026-10-01" };
+  const gbpReviews = { rating: "4.6", count: "34", verifiedOn: "2026-10-15" };
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "HomeAndConstructionBusiness",
