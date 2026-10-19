@@ -555,8 +555,9 @@ export const serviceDetails: ServiceDetail[] = [
       "We carry proper insurance and use commercial-grade equipment built for Vermont conditions",
     ],
     relatedServices: ["fall-cleanup", "property-maintenance"],
-    lastUpdated: "2026-10-12",
+    lastUpdated: "2026-10-19",
     relatedBlogs: [
+      { slug: "rental-snow-removal-landlord-or-tenant-vermont", title: "Snow Removal at a Vermont Rental: Landlord, Tenant or Contract?" },
       {
         slug: "seasonal-snow-contract-overage-vermont",
         title: "What a Seasonal Snow Contract Assumes About Your Winter",
@@ -1003,8 +1004,9 @@ export const serviceDetails: ServiceDetail[] = [
       "Full-spectrum support from grounds to guest prep means fewer vendors and simpler management",
     ],
     relatedServices: ["housekeeping", "property-maintenance"],
-    lastUpdated: "2026-09-15",
+    lastUpdated: "2026-10-19",
     relatedBlogs: [
+      { slug: "rental-snow-removal-landlord-or-tenant-vermont", title: "Snow Removal at a Vermont Rental: Landlord, Tenant or Contract?" },
       {
         slug: "lawn-care-cost-rutland-county-vermont",
         title: "Lawn Care Cost in Rutland County, Vermont: 2026 Pricing",
