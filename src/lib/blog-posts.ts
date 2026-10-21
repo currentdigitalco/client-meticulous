@@ -310,7 +310,7 @@ export const blogPosts: BlogPost[] = [
 
 <h2>Get on the Fall Cleanup Schedule Before Leaf Drop</h2>
 
-<p>If you want your property handed cleanly from fall into winter, the fall cleanup is the visit that decides it, and the week to book it is now, in early September, before the first maple drops and the routes fill. We will walk the property, scope the leaf load, beds, gutters, and drainage, time the cleanup to your actual drop and elevation, and for most clients pair it with a <a href="/services/snow-ice-management">seasonal snow and ice contract</a> so the same crew carries the place from fall into winter. We do <a href="/services/fall-cleanup">fall cleanups</a> from <a href="/service-areas/rutland">Rutland</a> to <a href="/service-areas/killington">Killington</a> and the towns around them.</p>`,
+<p>If you want your property handed cleanly from fall into winter, the fall cleanup is the visit that decides it, and the week to book it falls in early September, before the first maple drops and the routes fill. We will walk the property, scope the leaf load, beds, gutters, and drainage, time the cleanup to your actual drop and elevation, and for most clients pair it with a <a href="/services/snow-ice-management">seasonal snow and ice contract</a> so the same crew carries the place from fall into winter. We do <a href="/services/fall-cleanup">fall cleanups</a> from <a href="/service-areas/rutland">Rutland</a> to <a href="/service-areas/killington">Killington</a> and the towns around them.</p>`,
   },
   {
     slug: "what-is-included-in-snow-removal-vermont",
@@ -1047,7 +1047,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>The rule is one line: the bottom of the post, or the bottom of its footing, has to sit below the frost line, and in Rutland County that means at least 48 inches down. The frost line is the deepest point at which soil moisture freezes in winter. Below it, the ground stays above 32 degrees year-round, so nothing down there freezes, expands, or moves. Anything set above that line is inside the freeze zone, and the freeze zone is where fences die.</p>
 
-<p>Vermont follows the International Residential Code, which sets our regional frost depth at 48 inches. We treat that as the floor, not the goal. On the Rutland valley floor we set posts to 52 or 54 inches. Above about 1,500 feet, on exposed lots around Killington, Mendon, and Chittenden, the frost drives deeper and we go 56 to 60 inches. The extra depth costs a few minutes of auger time per hole and almost nothing in material, and it is the whole difference between a fence that holds and one that walks.</p>
+<p>The frost line is 48 inches across most of Rutland County. We treat that as the floor, not the goal. On the Rutland valley floor we set posts to 52 or 54 inches. Above about 1,500 feet, on exposed lots around Killington, Mendon, and Chittenden, the frost drives deeper and we go 56 to 60 inches. The extra depth costs a few minutes of auger time per hole and almost nothing in material, and it is the whole difference between a fence that holds and one that walks.</p>
 
 <h2>Why Does Frost Heave Wreck a Fence?</h2>
 
@@ -1262,14 +1262,14 @@ export const blogPosts: BlogPost[] = [
       "Japanese knotweed is the one plant on a Rutland County property you cannot dig out, mow off, or wait out. It is on Vermont's Noxious Weed Quarantine, its rhizomes run 20 feet sideways and 10 feet down, and every broken fragment starts a new stand. Here is what actually kills it, why it takes multiple seasons, the disposal rules that are easy to break, and why bringing in a crew while the patch is still small is the cheapest way through it.",
     category: "Property Maintenance",
     date: "July 2026",
-    updated: "2026-10-05",
+    updated: "2026-10-21",
     readTime: "9 min read",
     image: "/images/blog-japanese-knotweed-removal-vermont.jpeg",
     featured: false,
     metaDescription:
       "Japanese knotweed removal in Vermont is a multi-season job. Rhizomes run 20 ft out and it's on the state Noxious Weed Quarantine. Here's what kills it.",
     content: `
-<p><em>Updated July 2026.</em></p>
+<p><em>Updated October 2026.</em></p>
 
 <p data-speakable="true"><strong>Japanese knotweed removal in Vermont is a multi-season job, not a weekend one.</strong> The rhizomes run up to 20 feet sideways and 10 feet deep, and every broken fragment re-sprouts, so digging spreads it. Expect three or more years of repeated cutting, or a cut-and-inject herbicide program, to actually kill an established stand.</p>
 
@@ -1373,7 +1373,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>If you have knotweed on a property anywhere from Killington and Woodstock down through Rutland, Brandon, Pittsford, Mendon, Chittenden, Pittsfield, Ludlow, Proctor, West Rutland, and Castleton, the smartest and cheapest move is to have it assessed while the stand is still small. We walk the property, map how far the stand actually reaches, tell you honestly whether it is a cutting job or a cut-and-treat job, and lay out the multi-season plan and cost in writing before anything starts.</p>
 
-<p>Call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send a note through the <a href="/contact">contact page</a> with the property address and a photo of the stand. We will tell you what you are dealing with, what it takes to actually kill it, and how to keep it from spreading in the meantime. Knotweed does not get cheaper to remove by waiting, and it does not go away on its own. The stands we beat are the ones somebody decided to start on this year instead of next.</p>`,
+<p>Knotweed does not get cheaper to remove by waiting, and it does not go away on its own. The stands we beat are the ones somebody decided to start on this year instead of next.</p>`,
   },
   {
     slug: "is-my-lawn-dead-or-dormant-vermont",
@@ -1436,7 +1436,7 @@ export const blogPosts: BlogPost[] = [
 <li><strong>Do not fertilize.</strong> A dormant lawn cannot metabolize nitrogen. Applying a lawn fertilizer to browned-out turf in July does not feed the plant: it burns the crown, salts the surface soil, and puts a stressed lawn into permanent decline. Every fertilizer window in Vermont is on the cool side of the calendar. Late spring, early fall. Not midsummer.</li>
 <li><strong>Do not mow.</strong> Dormant turf does not need to be cut, and every mowing pass adds foot traffic, wheel compaction, and blade-tip trauma to a plant already surviving on reserves. Skip the mow until the lawn greens up again, or if you have to keep the property looking maintained for guests, raise the deck to four inches and cut only when there is measurable regrowth. Never scalp a stressed lawn: it is the fastest way to convert dormant grass into dead grass.</li>
 <li><strong>Do not walk on it heavily.</strong> Dormant crowns are fragile. Repeated foot traffic on the same lines (the dog's path, the path to the mailbox, the kids' short-cut across the front lawn) crushes the crowns and shows up as permanent trails when the rest of the lawn greens up. Reroute traffic to the driveway or the walks for the dry weeks.</li>
-<li><strong>Do not spray herbicide.</strong> Broadleaf herbicides and crabgrass pre-emergents assume actively growing turf. Applied to a stressed, dormant lawn, they do more damage to the desirable grass than to the weeds you are trying to kill. Weed control moves to September on a dormant summer lawn. If the brown you are seeing is actually crabgrass creeping into the thin spots, our guide to <a href="/blog/stop-crabgrass-vermont-lawn-summer">stopping crabgrass in a Vermont lawn in summer</a> covers the post-emergent and mowing plan for that.</li>
+<li><strong>Do not spray herbicide.</strong> Broadleaf herbicides and crabgrass pre-emergents assume actively growing turf. Applied to a stressed, dormant lawn, they do more damage to the desirable grass than to the weeds you are trying to kill. Weed control moves to September on a dormant summer lawn. If the brown you are seeing is actually crabgrass creeping into the thin spots, that needs the post-emergent and mowing plan we lay out in <a href="/blog/stop-crabgrass-vermont-lawn-summer">stopping crabgrass in a Vermont lawn in summer</a>.</li>
 </ul>
 
 <p>The theme across all four: leave it alone. A cool-season lawn is genuinely built to survive a Vermont July without any help. Most of the damage that shows up in the fall is from the owner trying to fix a lawn that did not need fixing.</p>
@@ -1594,7 +1594,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>We quote every Rutland County property after a walk-through, on a flat per-visit rate for mow-only customers and a flat monthly retainer for full-season and property-management customers. The number lands inside the ranges above for the property size and scope, and the contract names what is included (mowing height, cleanup cadence, irrigation start and blow-out dates, snow service trigger depth, walk-through frequency, photo update cadence, and the emergency response window) before any work starts. Second-home owners get a single point of contact, monthly billing on card or ACH, and a photo log of every visit emailed the same day.</p>
 
-<p>If you own property anywhere from Killington and Woodstock down through <a href="/service-areas/rutland">Rutland</a>, Mendon, Chittenden, Pittsfield, Ludlow, Brandon, West Rutland, Proctor, and <a href="/service-areas/castleton">Castleton</a> and want a real quote, not a phone-call estimate, call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send a note through the <a href="/contact">contact page</a>. For the broader summer schedule on a Vermont property, see our <a href="/blog/summer-grounds-maintenance-schedule-vermont">Rutland County summer grounds-maintenance schedule</a>, and for the single highest-payoff correction most properties need first, our <a href="/blog/lawn-mowing-height-rutland-county-vermont-summer">mowing height guide</a>. The right lawn-care number for a Vermont property is the one that names what is in scope. Anything else is a guess.</p>`,
+<p>For a property in <a href="/service-areas/rutland">Rutland</a>, <a href="/service-areas/castleton">Castleton</a> or anywhere else we work, a real quote comes from a walk-through, not a phone-call estimate. For the broader summer schedule on a Vermont property, see our <a href="/blog/summer-grounds-maintenance-schedule-vermont">Rutland County summer grounds-maintenance schedule</a>, and for the single highest-payoff correction most properties need first, our <a href="/blog/lawn-mowing-height-rutland-county-vermont-summer">mowing height guide</a>. The right lawn-care number for a Vermont property is the one that names what is in scope. Anything else is a guess.</p>`,
   },
   {
     slug: "lawn-mowing-height-rutland-county-vermont-summer",
