@@ -1569,12 +1569,17 @@ export const blogPosts: BlogPost[] = [
 
 <p>The retainer is the math that makes second-home ownership in Killington, Woodstock, Ludlow, and the rest of the Rutland County ski and lake country actually work. Booking each service à la carte (a mow, then a separate call for a downed branch, then a separate call for a stuck irrigation valve, then a separate call for the snowplow blow-out) costs more, takes longer to coordinate, and leaves the owner with five different invoices and no single point of contact. A retainer is one call, one invoice, one crew that knows the property.</p>
 
-| Property type | Approx scope | 2026 retainer (Rutland County) |
-| --- | --- | --- |
-| Single-family second home, &lt; 1 acre, mow + basic upkeep | Weekly mow, beds, walk-through, photo updates | $280 – $420 / mo |
-| Single-family second home, 1–2 acres, mow + snow + irrigation | Weekly mow, snow plow + walk, irrigation start/blow-out, two seasonal clean-ups | $420 – $650 / mo |
-| Larger second home or short-term rental, 2+ acres, full grounds | Mow + snow + irrigation + bed maintenance + interior check + emergency response | $650 – $850 / mo |
-| High-touch ski home / weekly-rental property | Above + same-day turnaround on guest issues + landscape lighting + spring/fall property prep | $850 – $1,400+ / mo |
+<table>
+<thead>
+<tr><th>Property type</th><th>Approx scope</th><th>2026 retainer (Rutland County)</th></tr>
+</thead>
+<tbody>
+<tr><td>Single-family second home, &lt; 1 acre, mow + basic upkeep</td><td>Weekly mow, beds, walk-through, photo updates</td><td>$280 – $420 / mo</td></tr>
+<tr><td>Single-family second home, 1–2 acres, mow + snow + irrigation</td><td>Weekly mow, snow plow + walk, irrigation start/blow-out, two seasonal clean-ups</td><td>$420 – $650 / mo</td></tr>
+<tr><td>Larger second home or short-term rental, 2+ acres, full grounds</td><td>Mow + snow + irrigation + bed maintenance + interior check + emergency response</td><td>$650 – $850 / mo</td></tr>
+<tr><td>High-touch ski home / weekly-rental property</td><td>Above + same-day turnaround on guest issues + landscape lighting + spring/fall property prep</td><td>$850 – $1,400+ / mo</td></tr>
+</tbody>
+</table>
 
 <p>For the second-home owner, the test is not the dollar number on the retainer. It is whether the contract includes the things that actually fail on an unoccupied Vermont property: the blown irrigation head in August, the limb across the driveway in November, the snowplow that has to come at 4am after a 12-inch storm so the driveway is clear for a Saturday arrival. A retainer that does not include emergency response in writing is not actually a property-management contract.</p>
 
@@ -2557,6 +2562,7 @@ export const blogPosts: BlogPost[] = [
       "Snowmelt season sends thousands of gallons across your property in weeks. Here is how to spot drainage failures early and fix them before they rot your foundation.",
     category: "Property Maintenance",
     date: "April 2026",
+    updated: "2026-10-21",
     readTime: "6 min read",
     image: "/images/blog-spring-drainage.jpeg",
     featured: false,
@@ -2627,7 +2633,7 @@ export const blogPosts: BlogPost[] = [
 </tbody>
 </table>
 
-<p>For most residential properties in the Rutland valley, a combination of regrading plus downspout extensions solves 80% of foundation water problems. It is not glamorous work, but it is effective.</p>
+<p>For most residential properties in the Rutland valley, the fix for foundation water is regrading plus downspout extensions. It is not glamorous work, but it is effective.</p>
 
 <p>For hillside properties, which we have plenty of around Killington, Mendon, and Shrewsbury, a curtain drain across the uphill side of the house is often necessary. These intercept groundwater flowing downhill before it reaches the foundation. We install them with perforated pipe in a gravel-filled trench, wrapped in filter fabric to keep clay from clogging the system. Done right, they last 20 to 30 years.</p>
 
