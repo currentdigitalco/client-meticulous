@@ -897,7 +897,7 @@ export const blogPosts: BlogPost[] = [
       "A new fence in Rutland County runs about $8 to $80 per linear foot installed, and the material sets the band: wire and field fencing at the low end, pressure-treated and cedar in the middle, vinyl and aluminum at the top. But the sticker range is only half the story. Frost depth, ledge, and slope are what actually decide where in that band your quote lands, and why two identical-looking fences can price a thousand dollars apart. Here is the honest per-foot math for a Vermont install.",
     category: "Fencing",
     date: "August 2026",
-    updated: "2026-10-05",
+    updated: "2026-10-21",
     readTime: "9 min read",
     image: "/images/blog-fence-cost-vermont.jpeg",
     featured: false,
@@ -1012,9 +1012,7 @@ export const blogPosts: BlogPost[] = [
 
 <h2>Get a Fence Quote for Your Rutland County Property</h2>
 
-<p>If you are ready for a real number, we will walk your line, read the soil and elevation, flag where the ledge hides, and give you an itemized quote that accounts for the ground instead of pretending it is flat and clear. We handle <a href="/services/carpentry">fence installation and exterior carpentry</a> across Killington, Rutland, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, West Rutland, Brandon, and Castleton, and we set posts below the Vermont frost line so the fence you pay for is still standing straight in year twenty.</p>
-
-<p>Call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send your property address and a photo of the fence line through the <a href="/contact">contact page</a>. Meticulous LLC is owned and run by Dan Villarreal, and we have been building and setting fences in Rutland County soil since 2009, so the quote you get is the fence you get.</p>`,
+<p>If you are ready for a real number, we will walk your line, read the soil and elevation, flag where the ledge hides, and give you an itemized quote that accounts for the ground instead of pretending it is flat and clear. Our <a href="/services/carpentry">fence installation and exterior carpentry</a> crew sets every post below the Vermont frost line, so the fence you pay for is still standing straight in year twenty.</p>`,
   },
   {
     slug: "fence-posts-vermont-depth-frost-line",
@@ -1030,14 +1028,14 @@ export const blogPosts: BlogPost[] = [
       "A fence post in Rutland County either sits below the frost line or the frost lifts it out over a few winters. The frost line here runs 48 inches and deeper at elevation, and that floor beats the usual one-third burial rule. Here is how deep to set a post, what size and spacing a 6-foot fence needs, when concrete helps and when it makes the heaving worse, and which wood actually survives Vermont ground.",
     category: "Fencing",
     date: "July 2026",
-    updated: "2026-10-05",
+    updated: "2026-10-21",
     readTime: "9 min read",
     image: "/images/blog-fence-posts-vermont-depth-frost-line.jpeg",
     featured: false,
     metaDescription:
       "Fence posts in Vermont go 52 to 54 inches deep on the valley floor and 56 to 60 at elevation. Post size and spacing for a 6-foot fence, and best wood.",
     content: `
-<p><em>Updated July 2026.</em></p>
+<p><em>Updated October 2026.</em></p>
 
 <p data-speakable="true"><strong>In Rutland County, Vermont, a fence post has to sit below the frost line, which runs 48 inches deep here and deeper at elevation. The rule that governs fence post depth is simple: get the bottom of the post below the frost line, or the frost will lift it out for you.</strong> That 48-inch floor beats the one-third burial rule everywhere in the county.</p>
 
@@ -1053,7 +1051,7 @@ export const blogPosts: BlogPost[] = [
 
 <h2>Why Does Frost Heave Wreck a Fence?</h2>
 
-<p>Frost heave wrecks a fence because water in the soil freezes, expands, and jacks anything shallow upward, and a fence post is a perfect handle for it to grab. Here is the mechanism. As the ground freezes from the top down, ice forms in the soil and expands roughly 9 percent by volume. That expansion has to go somewhere, so it pushes up. Ice bonds to the sides of a post or its concrete collar and drags the whole assembly up with it, a little at a time. This is the freeze-thaw jack, and on a shallow post it lifts about an inch a winter.</p>
+<p>Frost heave wrecks a fence because water in the soil freezes, expands, and jacks anything shallow upward, and a fence post is a perfect handle for it to grab. Here is the mechanism. As the ground freezes from the top down, the water in the soil turns to ice, and ice is about 9 percent less dense than the water it came from, according to the <a href="https://www.usgs.gov/water-science-school/science/water-density">U.S. Geological Survey</a>, so it takes up more room. That expansion has to go somewhere, so it pushes up. Ice bonds to the sides of a post or its concrete collar and drags the whole assembly up with it, a little at a time. This is the freeze-thaw jack, and on a shallow post it lifts about an inch a winter.</p>
 
 <p>The reason it never corrects itself is what happens on the thaw. When the ground releases the post in spring, the post does not drop cleanly back into its old hole. Soil and grit have already slid into the gap underneath, so the post settles a little higher than it started. Freeze, lift, thaw, backfill, repeat. Over two or three winters a post set at 30 or 36 inches can ride three to six inches out of the ground, and a fence line where each post heaves a different amount turns into a row of crooked teeth. Vermont makes this worse than most places because our freeze-thaw cycles are frequent and our soils hold water, and wet soil heaves harder than dry.</p>
 
@@ -1081,7 +1079,7 @@ export const blogPosts: BlogPost[] = [
 </thead>
 <tbody>
 <tr><td>6-ft solid privacy</td><td>4x4 (6x6 at gates/corners)</td><td>6 ft on center</td><td>Tighten to 6 ft, not 8, on exposed and windy lots to cut racking.</td></tr>
-<tr><td>6-ft semi-privacy (spaced boards)</td><td>4x4</td><td>6 to 8 ft on center</td><td>Gaps cut wind load 30 to 40 percent, so the fence and posts last longer.</td></tr>
+<tr><td>6-ft semi-privacy (spaced boards)</td><td>4x4</td><td>6 to 8 ft on center</td><td>Gaps let some wind through, so the posts carry less load and the fence lasts longer.</td></tr>
 <tr><td>4-ft picket or yard fence</td><td>4x4</td><td>8 ft on center</td><td>Lower sail area tolerates wider spans.</td></tr>
 <tr><td>Gate and end posts (any fence)</td><td>6x6</td><td>n/a</td><td>Set deepest and stiffest; gates swing on them all day and they carry the most stress.</td></tr>
 </tbody>
@@ -1144,9 +1142,7 @@ export const blogPosts: BlogPost[] = [
 
 <h2>Planning a Fence? Get the Posts Right the First Time</h2>
 
-<p>If you are putting in a new fence and want it standing straight in year ten, or you have a leaning fence that heave has already gotten into, we walk the line, read the soil and elevation, and set posts to the depth Rutland County ground actually requires. We handle fence installation and exterior carpentry across Killington, Rutland, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, West Rutland, Brandon, and Castleton, and we know where the ledge hides and how deep the frost really drives on each of them. For the physics behind all of this, our deeper piece on <a href="/blog/frost-line-depth-vermont-fencing">frost line depth for Vermont fences</a> walks through it, and the full <a href="/services/carpentry">fence installation and carpentry</a> service page covers the rest of the exterior work. If you are still at the budgeting stage, our breakdown of <a href="/blog/fence-cost-vermont">what a fence costs in Vermont by material and terrain</a> lays out the per-foot ranges first.</p>
-
-<p>Call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send the property address and a photo of the fence line through the <a href="/contact">contact page</a>. Meticulous LLC is owned and run by Dan Villarreal, and we have been setting posts in Rutland County soil since 2009, so we set them once, below the frost line, and they stay where we put them.</p>`,
+<p>If you are putting in a new fence and want it standing straight in year ten, or you have a leaning fence that heave has already gotten into, we walk the line, read the soil and elevation, and set posts to the depth Rutland County ground actually requires. For the physics behind all of this, our deeper piece on <a href="/blog/frost-line-depth-vermont-fencing">frost line depth for Vermont fences</a> walks through it, and the full <a href="/services/carpentry">fence installation and carpentry</a> service page covers the rest of the exterior work. If you are still at the budgeting stage, our breakdown of <a href="/blog/fence-cost-vermont">what a fence costs in Vermont by material and terrain</a> lays out the per-foot ranges first.</p>`,
   },
   {
     slug: "stop-crabgrass-vermont-lawn-summer",
@@ -1155,14 +1151,14 @@ export const blogPosts: BlogPost[] = [
       "By the time crabgrass shows up in a Rutland County lawn, it is July and the easy fix (a spring pre-emergent) is months behind you. Crabgrass germinates once the soil holds above 55°F, which in Vermont is mid-to-late May, so summer is a control job, not a prevention one. Here is what actually kills crabgrass that is already up, why mowing at 3 to 3.5 inches shades it out, the Vermont control calendar by soil temperature, and how to thicken the turf so it does not come back next year.",
     category: "Lawn Care",
     date: "July 2026",
-    updated: "2026-10-05",
+    updated: "2026-10-21",
     readTime: "8 min read",
     image: "/images/blog-stop-crabgrass-vermont-lawn-summer.jpeg",
     featured: false,
     metaDescription:
       "Stop crabgrass in a Vermont lawn in summer: the pre-emergent window closed in May, so July means post-emergent (quinclorac) plus mowing at 3 inches.",
     content: `
-<p><em>Updated July 2026.</em></p>
+<p><em>Updated October 2026.</em></p>
 
 <p data-speakable="true"><strong>To stop crabgrass in a Vermont lawn in summer, skip the pre-emergent (that window closed back in May) and switch to a post-emergent like quinclorac on the young plants, then mow at 3 to 3.5 inches to shade the soil.</strong> Crabgrass germinates once soil temperature holds above 55°F, so by July it is a control job, not a prevention one.</p>
 
@@ -1255,9 +1251,9 @@ export const blogPosts: BlogPost[] = [
 
 <h2>Get a Lawn Assessment Before It Seeds</h2>
 
-<p>If your Rutland County lawn is speckled with crabgrass right now and you are not sure whether to spray it, pull it, or just mow tall and ride out the season, we walk the lawn, identify how far it has spread, and lay out the plan that fits the property. We manage lawns across Killington, Rutland, Woodstock, Ludlow, Mendon, Pittsfield, Chittenden, Proctor, West Rutland, Brandon, and Castleton, and the properties we run on a full-season program (rated <strong>4.5+ across 30+ Google reviews</strong>) rarely see crabgrass because the mowing, watering, and spring timing are handled before it ever gets a foothold.</p>
+<p>If your Rutland County lawn is speckled with crabgrass right now and you are not sure whether to spray it, pull it, or just mow tall and ride out the season, we walk the lawn, identify how far it has spread, and lay out the plan that fits the property.</p>
 
-<p>Call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send the property address and a photo of the patches through the <a href="/contact">contact page</a>, or read more about the towns we cover on our <a href="/service-areas/rutland">Rutland service area</a> page. Meticulous LLC is owned and run by Dan Villarreal, and we have been keeping Vermont lawns thick enough to crowd out crabgrass since 2009. The best time to stop next year's crabgrass is this fall, so the sooner we look at the lawn, the cheaper the fix.</p>`,
+<p>The best time to stop next year's crabgrass is this fall, so the sooner we look at the lawn, the cheaper the fix. You can read more about the towns we cover on our <a href="/service-areas/rutland">Rutland service area</a> page.</p>`,
   },
   {
     slug: "japanese-knotweed-removal-vermont",
@@ -1383,23 +1379,23 @@ export const blogPosts: BlogPost[] = [
     slug: "is-my-lawn-dead-or-dormant-vermont",
     title: "Is Your Lawn Dead or Dormant? A Vermont Summer Guide (2026)",
     excerpt:
-      "The straw-blond lawn on a Killington or Woodstock property in July is almost always dormant, not dead — and the fix is not more water. Here is the three-part field test to tell the difference in ninety seconds, why cool-season turf shuts down around Rutland County in mid-July, and the exact watering, mowing, and traffic rules that keep a dormant lawn recoverable instead of killing it while trying to save it.",
+      "The straw-blond lawn on a Killington or Woodstock property in July is almost always dormant, not dead, and the fix is not more water. Here is the three-part field test to tell the difference in ninety seconds, why cool-season turf shuts down around Rutland County in mid-July, and the exact watering, mowing, and traffic rules that keep a dormant lawn recoverable instead of killing it while trying to save it.",
     category: "Lawn Care",
     date: "July 2026",
-    updated: "2026-10-05",
+    updated: "2026-10-21",
     readTime: "9 min read",
     image: "/images/blog-is-my-lawn-dead-or-dormant-vermont.jpeg",
     featured: false,
     metaDescription:
       "Is your Vermont lawn dead or dormant? The 3-part field test and the ½–1 inch every 3–4 weeks water spec that holds a Rutland County lawn through July.",
     content: `
-<p><em>Updated July 2026.</em></p>
+<p><em>Updated October 2026.</em></p>
 
 <p data-speakable="true"><strong>A straw-blond Rutland County lawn in July is almost always dormant, not dead.</strong> Cool-season turf shuts down when soil sits above 80&deg;F, usually the second week of July around Killington. To hold it without waking it up: a half to one inch of water every 3&#8211;4 weeks. Do not fertilize, mow, or walk it.</p>
 
-<h2>Is My Lawn Dead or Dormant? A Vermont Field Test</h2>
+<h2>Is Your Lawn Dead or Dormant? A Vermont Field Test</h2>
 
-<p>Almost always dormant. Residential lawns across Killington, Rutland, Woodstock, Ludlow, Mendon, Pittsfield, Chittenden, Proctor, West Rutland, Brandon, and Castleton run heavy on Kentucky bluegrass and fine fescue with some perennial ryegrass mixed in. Every one of those is a cool-season grass, and every one voluntarily shuts down top growth when soil temperature and moisture cross a threshold. The plant is protecting the crown. It is not dying.</p>
+<p>Almost always dormant. Residential lawns around Rutland County run heavy on Kentucky bluegrass and fine fescue with some perennial ryegrass mixed in. Every one of those is a cool-season grass, and every one voluntarily shuts down top growth when soil temperature and moisture cross a threshold. The plant is protecting the crown. It is not dying.</p>
 
 <p>The three-part field test takes about ninety seconds and does not need any tools:</p>
 
@@ -1419,7 +1415,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>The 2026 summer in Rutland County has been drier than average through the first week of July, with surface soil temperatures running in the low 80s on the sun-exposed lawns we service in Killington and Woodstock. That is the profile that triggers early dormancy. If the pattern holds, expect most cool-season lawns in the county to be fully brown by the last week of the month.</p>
 
-<h2>Should I Water a Dormant Lawn, and How Much?</h2>
+<h2>Should You Water a Dormant Lawn, and How Much?</h2>
 
 <p>Commit or do not. This is the single most common mistake we see on Rutland County properties in July: the owner panics at the brown lawn, waters it lightly for a week, stops when a thunderstorm rolls through, then starts and stops again a week later. Every one of those on-off cycles is worse for the plant than doing nothing at all, because each shot of water is trying to break dormancy without giving the plant enough to actually recover, and the repeated start-stop drains the crown reserves the plant needs to survive.</p>
 
@@ -1432,7 +1428,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>For an owner in New York or Boston who is not at the property to run a real irrigation program, holding dormant is the smart choice. The lawn will look brown for a few more weeks, then green up cleanly when the September rains come. The full watering rules for our climate are laid out in our <a href="/blog/lawn-irrigation-rutland-county-vermont">Rutland County lawn irrigation guide</a>, including why evening watering is the wrong call in a Vermont summer and what a proper zone-tuned program looks like.</p>
 
-<h2>What Should I NOT Do to a Stressed Vermont Lawn?</h2>
+<h2>What Should You NOT Do to a Stressed Vermont Lawn?</h2>
 
 <p>Four things, and every one of them shows up as a call to us in September when the lawn does not come back.</p>
 
@@ -1478,7 +1474,7 @@ export const blogPosts: BlogPost[] = [
 <h2>Vermont Dormant Lawn FAQs</h2>
 
 <p class="faq-q"><strong>How long can a Vermont lawn stay dormant before it starts dying?</strong></p>
-<p>A cool-season lawn can hold dormancy for four to five weeks with no permanent damage as long as it gets some crown moisture. Between six and eight weeks the risk of stand loss rises. Past eight weeks with zero water, expect 20 to 40 percent of the lawn to need reseeding in the fall.</p>
+<p>A cool-season lawn can hold dormancy for four to five weeks with no permanent damage as long as it gets some crown moisture. Between six and eight weeks the risk of stand loss rises. Past eight weeks with zero water, expect to reseed part of the lawn in the fall.</p>
 
 <p class="faq-q"><strong>Will watering a dormant lawn wake it back up?</strong></p>
 <p>Only if you commit. Light, sporadic watering does not break dormancy: it stresses the plant. A full green-up requires one to one and a half inches per week, consistently, from the day you start until the fall rains take over. If you cannot commit to that, do not start.</p>
@@ -1486,7 +1482,7 @@ export const blogPosts: BlogPost[] = [
 <p class="faq-q"><strong>What is the water spec for holding a dormant Vermont lawn without waking it?</strong></p>
 <p>A half to one inch every three to four weeks, delivered in a single deep morning session, skipped if the last week already produced more than a half inch of rain. That keeps the crowns hydrated without pushing the plant into a growth cycle it cannot sustain.</p>
 
-<p class="faq-q"><strong>My second-home lawn in Killington browned out and I am not up for three weeks, so what should the caretaker do?</strong></p>
+<p class="faq-q"><strong>A second-home lawn in Killington browned out and the owner is not up for three weeks. What should the caretaker do?</strong></p>
 <p>Nothing beyond the hold-dormant water spec above, and only if a real dry stretch is on the forecast. No mowing, no fertilizer, no herbicide. A weekly photo-update log so the owner can see the pattern is the correct level of engagement. Anything more usually makes it worse.</p>
 
 <p class="faq-q"><strong>Is it worth aerating and overseeding a dormant lawn to speed recovery?</strong></p>
@@ -1503,9 +1499,9 @@ export const blogPosts: BlogPost[] = [
 
 <h2>Get a Mid-Summer Property Walk</h2>
 
-<p>If your Rutland County property browned out this July and you are not sure whether it is dormant, dead, grub-driven, or fungal, we walk the lawn, run the field tests, and tell you which of the four you are dealing with, usually within about half an hour on site. We manage properties across Killington, Rutland, Woodstock, Ludlow, Mendon, Pittsfield, Chittenden, Proctor, West Rutland, Brandon, and Castleton on the schedule laid out in our <a href="/blog/summer-grounds-maintenance-schedule-vermont">Vermont summer grounds maintenance schedule</a>, and second-home owners get the mid-summer walk as part of the retainer.</p>
+<p>If your Rutland County property browned out this July and you are not sure whether it is dormant, dead, grub-driven, or fungal, we walk the lawn, run the field tests, and tell you which of the four you are dealing with, usually within about half an hour on site. Our <a href="/blog/summer-grounds-maintenance-schedule-vermont">Vermont summer grounds maintenance schedule</a> lays out what the rest of the season looks like.</p>
 
-<p>Call <strong>(802) 342-8293</strong>, email <strong>getmeticulous@gmail.com</strong>, or send a note through the <a href="/contact">contact page</a> with the property address and a photo of the brown patch. We will tell you whether it needs anything now or whether the smart move is to hold dormant and wait for the September rains. The right answer for a stressed Vermont lawn in July is usually less work, not more. That is the answer we would rather give you before you spend money doing the wrong thing.</p>`,
+<p>Send the property address and a photo of the brown patch through the <a href="/contact">contact page</a>, and we will tell you whether it needs anything now or whether the smart move is to hold dormant and wait for the September rains. The right answer for a stressed Vermont lawn in July is usually less work, not more. That is the answer we would rather give you before you spend money doing the wrong thing.</p>`,
   },
   {
     slug: "lawn-care-cost-rutland-county-vermont",
@@ -1887,7 +1883,7 @@ export const blogPosts: BlogPost[] = [
       "Vermont's growing season is roughly fourteen weeks long, and a Rutland County property that looks effortless on Labor Day is the result of a real schedule, not a weekly mow. Here is the week-by-week maintenance calendar we run on the second homes we manage in Killington, Woodstock, Ludlow, and Pittsfield, and where most properties go wrong.",
     category: "Property Maintenance",
     date: "June 2026",
-    updated: "2026-10-05",
+    updated: "2026-10-21",
     readTime: "10 min read",
     image: "/images/blog-summer-grounds-maintenance-schedule-vermont.jpeg",
     featured: false,
@@ -1969,7 +1965,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Every second home we manage in Rutland County runs on this schedule. Weekly mow at a tall cut, on a fixed day. Two fertilizer applications, timed to the season, not to the marketing calendar. Bi-weekly bed weeding, mulch refresh in early June, hardscape pressure wash in late June, perimeter tick treatments in late May and mid-July, deadheading and staking through the summer, aeration and overseed in the early-September window. The owner gets a property that looks the same in August whether they are in Vermont or in Manhattan, because the schedule does not depend on whether they are watching it.</p>
 
-<p>If you own a second home or run a property in Killington, Rutland, Woodstock, Ludlow, Pittsfield, Chittenden, Mendon, Proctor, West Rutland, Brandon, or Castleton and you want the summer schedule run the way it is supposed to be run, <a href="/contact">get in touch</a>. We will walk the property, lay out the calendar in writing, and have it on the books before the next mow. For the dollar side of all of this (per-visit mowing rates, full-season contracts, and what a second-home property-management retainer actually runs in Rutland County) see our <a href="/blog/lawn-care-cost-rutland-county-vermont">2026 lawn care cost guide</a>.</p>
+<p>If you own a second home or run a property in the Killington and Rutland area and you want the summer schedule run the way it is supposed to be run, <a href="/contact">get in touch</a>. We will walk the property, lay out the calendar in writing, and have it on the books before the next mow. For the dollar side of all of this (per-visit mowing rates, full-season contracts, and what a second-home property-management retainer actually runs in Rutland County) see our <a href="/blog/lawn-care-cost-rutland-county-vermont">2026 lawn care cost guide</a>.</p>
 `,
   },
   {
@@ -1980,7 +1976,7 @@ export const blogPosts: BlogPost[] = [
       "Late May is when the bugs take over a Rutland County property. Black flies are at their worst, the first mosquito hatch is out of the standing water, and tick season is in full swing right when guests start arriving. Here is what actually keeps a Killington or Woodstock property usable through the summer, and what is a waste of money.",
     category: "Property Maintenance",
     date: "May 2026",
-    updated: "2026-10-05",
+    updated: "2026-10-21",
     readTime: "9 min read",
     image: "/images/blog-tick-mosquito-control-vermont-properties.jpeg",
     featured: false,
@@ -1989,7 +1985,7 @@ export const blogPosts: BlogPost[] = [
     content: `
 <p>There is a two-week stretch in late May when a Vermont property goes from snow-recovery mode to bug season with no warning. The frost is finally out, the lawn is greening up, the second-home owners are arriving for the season, and the woods come alive with the three pests that define a Rutland County summer: black flies at their absolute worst, the first mosquito hatch rising off every pool of standing water, and ticks questing in the tall grass along every tree line. It is the exact moment a property looks its best and becomes least usable. We get the calls every year from owners in Killington, Pittsfield, Mendon, Woodstock, Chittenden, and Ludlow who came up for Memorial Day weekend and could not sit on their own deck.</p>
 
-<p>Vermont pest pressure is not a landscaping afterthought. It is a real factor in whether a property is enjoyable from late May through August, and in the case of ticks it is a genuine health issue. Rutland County sits in one of the higher Lyme disease incidence regions in the country, and the blacklegged tick that carries it is active any time the ground is above freezing. This is the post we wish every Vermont second-home owner read in early May, because most of the effective work is timing-dependent and the window is now. The information applies whether you hire <a href="/services/property-maintenance">Meticulous</a> or handle it yourself. The point is to spend on what works and skip what does not.</p>
+<p>Vermont pest pressure is not a landscaping afterthought. It is a real factor in whether a property is enjoyable from late May through August, and in the case of ticks it is a genuine health issue. Rutland County sits in one of the higher Lyme disease incidence regions in the country, and the blacklegged tick that carries it is active any time the ground is above freezing. What works here depends on timing, and for most of it the window opens in early May. Everything below applies whether you hire <a href="/services/property-maintenance">Meticulous</a> or handle it yourself. The point is to spend on what works and skip what does not.</p>
 
 <h2>Black Flies: The Worst Two Weeks of the Vermont Year</h2>
 
