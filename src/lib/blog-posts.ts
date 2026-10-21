@@ -1510,10 +1510,10 @@ export const blogPosts: BlogPost[] = [
     // per-visit figure the post states.
     seoTitle: "Lawn Care Cost in Rutland County, VT: $60 to $110 per Visit",
     excerpt:
-      "Lawn care in Rutland County, Vermont runs roughly $60 to $110 per mowing visit in 2026 — Vermont is the most expensive state in the US for lawn care, and there are real reasons for it. Here is what a per-visit mow, a full-season contract, and a full property-management plan actually cost in Killington, Rutland, Woodstock, Ludlow, Mendon, Chittenden, Pittsfield, Brandon, and Castleton, and what the right number looks like for a second-home owner who needs the lawn handled remotely.",
+      "Lawn care in Rutland County, Vermont runs roughly $60 to $110 per mowing visit in 2026. Vermont is the most expensive state in the US for lawn care, and there are real reasons for it. Here is what a per-visit mow, a full-season contract, and a full property-management plan actually cost in Killington, Rutland, Woodstock, Ludlow, Mendon, Chittenden, Pittsfield, Brandon, and Castleton, and what the right number looks like for a second-home owner who needs the lawn handled remotely.",
     category: "Pricing",
     date: "June 2026",
-    updated: "2026-10-05",
+    updated: "2026-10-21",
     readTime: "9 min read",
     image: "/images/blog-lawn-care-cost-rutland-county-vermont.jpeg",
     featured: false,
@@ -1582,7 +1582,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Vermont lawn care runs above the US median for three reasons. First, the active growing season is short (about 22 weeks at Rutland County elevations of 800 to 1,800 feet) so the equipment, insurance, and crew cost have to be amortized across many fewer mowable weeks than they are in a southern state with a 40+ week season. Second, residential lot sizes are big (the state average is close to 29,000 square feet vs roughly 9,000 square feet nationally) so a "typical mow" is genuinely more square footage than the same word covers in a denser market. Third, the labor pool for seasonal trades in central Vermont is small enough that the wage to keep a reliable crew from May through October is higher than the national average for the same trade.</p>
 
-<p>The combination is real, not a markup. A vendor coming in 30 percent under the regional range is either an out-of-state quote that does not understand the season length, a first-year operator running below break-even, or a crew that will not be reachable when the snowplow needs to come at 4am in February.</p>
+<p>The combination is real, not a markup. A vendor coming in well under the regional range is either an out-of-state quote that does not understand the season length, a first-year operator running below break-even, or a crew that will not be reachable when the snowplow needs to come at 4am in February.</p>
 
 <h2>What About Remote Billing and Photo Updates for Second-Home Owners?</h2>
 
@@ -1757,7 +1757,7 @@ export const blogPosts: BlogPost[] = [
       "Stone walls are the most photographed feature on a Vermont property and the most consistently misbuilt. Most new dry-stack walls in Rutland County fail within five winters because the base, the batter, and the cap were all wrong. Here is what a real stone wall costs in Killington and Woodstock, the timeline to build one, and the failures we tear out every June.",
     category: "Hardscape",
     date: "June 2026",
-    updated: "2026-10-05",
+    updated: "2026-10-21",
     readTime: "9 min read",
     image: "/images/blog-stone-wall-building-repair-rutland-county-vermont.jpeg",
     featured: false,
@@ -1851,7 +1851,7 @@ export const blogPosts: BlogPost[] = [
 <li><strong>Cracked mortared wall.</strong> The footing was 12 to 18 inches deep, well above frost line. The first winter lifted the wall in irregular patterns and the mortar cracked at every joint. By year three, the cracks are open enough that water gets in, and the wall starts to break apart.</li>
 </ul>
 
-<p>None of these failures are repairable in place. The wall has to be pulled back to the base, the base has to be rebuilt to spec, drainage has to be installed, and the stones have to be reset properly. The labor on a tear-out and rebuild is roughly 130% of the labor on a new build, because the original stone has to be cleaned, sorted, and re-fit. The pricing premium on doing the wall right the first time is small. The pricing premium on rebuilding a failed wall is large.</p>
+<p>None of these failures are repairable in place. The wall has to be pulled back to the base, the base has to be rebuilt to spec, drainage has to be installed, and the stones have to be reset properly. A tear-out and rebuild takes more labor than a new build, because the original stone has to be cleaned, sorted, and re-fit. The pricing premium on doing the wall right the first time is small. The pricing premium on rebuilding a failed wall is large.</p>
 
 <h2>What to Ask a Contractor Before You Sign</h2>
 
@@ -2658,7 +2658,7 @@ export const blogPosts: BlogPost[] = [
     slug: "when-to-aerate-your-lawn-vermont",
     title: "When to Aerate Your Lawn in Vermont",
     excerpt:
-      "Most lawn care companies will aerate your yard in April and take your money. Here's why that's the wrong move for Vermont soil — and when to actually do it.",
+      "Most lawn care companies will aerate your yard in April and take your money. Here's why that's the wrong move for Vermont soil, and when to actually do it.",
     category: "Lawn Care",
     date: "March 2026",
     updated: "2026-10-05",
@@ -3108,8 +3108,8 @@ export const blogPosts: BlogPost[] = [
     // result never earned the click. Titled as its own top query.
     //
     // NOTE: /blog/fence-posts-vermont-depth-frost-line (merged 2026-07-27)
-    // covers the same ground. This post is the incumbent — it holds the
-    // rankings — so it keeps the FROST LINE depth intent. The newer post is
+    // covers the same ground. This post is the incumbent (it holds the
+    // rankings), so it keeps the FROST LINE depth intent. The newer post is
     // titled on the POST dig depth ("how deep to set fence posts", 52-60 in)
     // plus wood and spacing, and never says "frost line" in its title. Keep
     // the split: frost line here, post depth there.
@@ -3204,7 +3204,7 @@ export const blogPosts: BlogPost[] = [
       "By late April every gravel and asphalt driveway in Rutland County looks rough. Some of it is cosmetic. Some of it is the start of a $4,000 problem. Here is how to tell the difference.",
     category: "Property Maintenance",
     date: "April 2026",
-    updated: "2026-07-27",
+    updated: "2026-10-21",
     readTime: "8 min read",
     image: "/images/blog-driveway-damage-after-vermont-mud-season.jpeg",
     featured: false,
@@ -3293,7 +3293,7 @@ export const blogPosts: BlogPost[] = [
 <li>Multiple soft spots across different sections of the driveway</li>
 <li>Standing water that has been pooling for two or more seasons</li>
 <li>Crown completely gone, with the driveway sloping toward the house or staying flat</li>
-<li>Asphalt with alligator cracking covering more than 25% of the surface</li>
+<li>Alligator cracking spread across much of an asphalt surface</li>
 <li>Repeated grading bills every spring with the same problems returning</li>
 </ul>
 
