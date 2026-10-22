@@ -263,6 +263,10 @@ export default function RootLayout({
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
             gtag('config', 'G-V4HN0DL14L');
+            document.addEventListener('click', function (e) {
+              var a = e.target && e.target.closest ? e.target.closest('a[href^="tel:"]') : null;
+              if (a) gtag('event', 'phone_call_click', { link_url: a.getAttribute('href') });
+            });
           `}
         </Script>
       </head>
