@@ -555,7 +555,7 @@ export const serviceDetails: ServiceDetail[] = [
       "We carry proper insurance and use commercial-grade equipment built for Vermont conditions",
     ],
     relatedServices: ["fall-cleanup", "property-maintenance"],
-    lastUpdated: "2026-10-19",
+    lastUpdated: "2026-10-22",
     relatedBlogs: [
       { slug: "rental-snow-removal-landlord-or-tenant-vermont", title: "Snow Removal at a Vermont Rental: Landlord, Tenant or Contract?" },
       {
@@ -640,6 +640,16 @@ export const serviceDetails: ServiceDetail[] = [
         question: "Do you plow second homes in Killington, VT when nobody is there?",
         answer:
           "Yes. That is exactly what trigger-based automatic dispatch is for. An empty ski house cannot call a plow company, so a per-push arrangement that runs on a phone call leaves it buried. We set the trigger before the season, watch the weather, and clear the property automatically when a storm reaches the threshold, whether the owner is in Boston, New York, or on a beach in February. Killington routinely sees 200 or more inches of snow a season, so equipment and trigger depths are set for that load. Photo confirmation is available on request after any visit.",
+      },
+      {
+        question: "Is my driveway too narrow or too long to get on a plow contract in Rutland County, VT?",
+        answer:
+          "Probably not, so do not rule yourself out before we look. Long rural driveways, tight village lots and shared drives are all routine work here: we scale the equipment to the property, with smaller machines and hand shoveling on tight lots rather than an oversized truck that tears up the edges, and long drives and turnarounds priced in up front. The one number worth measuring is clear width at the narrowest point, between the things that do not move. About 10 feet is comfortable, 9 is workable on a straight run, and 8 or under needs a site visit before anyone commits. The walkthrough is free, with no obligation.",
+      },
+      {
+        question: "Do you plow rental properties in Rutland County, VT, or is that the tenant's job?",
+        answer:
+          "The lease decides who owes the work, and a good one lists the surfaces each side clears: steps, walks, the parking spot. If it is silent, treat it as the owner's job and put that in writing. Shared walks and parking at a multi-unit building usually stay with the owner, and a long rural drive needs a plow whatever the lease says. We plow residential, rental and commercial properties on trigger-based automatic dispatch, so the drive gets cleared when the tenant is away or the owner is out of state. Liability questions belong with your attorney or insurance agent, not your plow contractor.",
       },
     ],
   },

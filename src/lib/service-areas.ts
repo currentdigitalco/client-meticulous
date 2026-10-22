@@ -124,7 +124,7 @@ export const serviceAreas: ServiceArea[] = [
       "We serve Ludlow homeowners and rental operators with the full stack: plow contracts, hospitality-grade turnovers, and grounds care that keeps the property presentable for the next booking.",
       "Because we already run routes through Killington and the Route 4 corridor, adding Ludlow properties to the schedule doesn't stretch us thin or hurt our response times.",
     ],
-    localContext: "Ludlow is built around Okemo Mountain Resort and the year-round Jackson Gore base area. Properties here range from village condos to slope-side second homes, and the rental market is active through both winter and shoulder seasons. Early October is the Ludlow foliage-peak and winterization window: Jackson Gore condo HOA grounds are into their final mow at a 3.5-inch winter cut, Echo Lake docks are coming out this week before overnight lows push the water into the 40s, and slope-side second homes are getting gutter-clear and shutoff checks ahead of the leaf-peeper bookings running Oct 4-12. Okemo-season plow contracts are all locked and plow stakes are going in along the Route 100 driveways before the ground firms up — stake installs after first hard frost become spade work and run double the time.",
+    localContext: "Ludlow is built around Okemo Mountain Resort and the year-round Jackson Gore base area. Properties here range from village condos to slope-side second homes, and the rental market is active through both winter and shoulder seasons. Late October at Okemo's elevation is a short window: hose bibs and irrigation lines on slope-side second homes are blown out before the first overnight run below 28 degrees, which reaches the mountain earlier than the valley, and the season closes with a shorter final cut and a fall cleanup before the snow. Driveway edges, culverts and septic lids along Route 100 get staked while the ground is still soft so the first storm finds them marked.",
     priorityServices: ["snow-ice-management", "housekeeping", "rental-support", "grounds-maintenance"],
     landmarks: ["Okemo Mountain Resort", "Jackson Gore", "Route 100", "Main Street Ludlow", "Echo Lake"],
     faqs: [
@@ -141,7 +141,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Summer is our prime hardscape season. We install patios, retaining walls, and walkways throughout the Ludlow area, engineered for Vermont's freeze-thaw cycles.",
       },
     ],
-    lastUpdated: "2026-10-01",
+    lastUpdated: "2026-10-22",
   },
   {
     slug: "pittsfield",
@@ -155,7 +155,7 @@ export const serviceAreas: ServiceArea[] = [
       "We service Pittsfield homeowners, second-home owners, and rental operators with plow contracts, grounds care, and property oversight — especially important for the remote owners who can't easily check on their place in person.",
       "Our coverage of the Route 100 corridor from Killington north means Pittsfield properties aren't an afterthought — we're already running routes through the area.",
     ],
-    localContext: "Pittsfield sits in a narrow valley along the Tweed River with a small village center and homes spread along Route 100 and the surrounding back roads. The town is known for long driveways, high snow accumulation, and a mix of year-round residents, second-home owners, and rental properties catering to the Killington market. Early October is the fall-cleanup core for the Route 100 corridor: foliage is at peak along Tweed River sightlines, leaf-drop is accelerating with the week's wind, and the last mow of the season is being staged at a 3-inch winter cut on the valley properties. Gutter-clear is finishing on the back-road second homes before the first hard frost, which the forecast puts in Pittsfield this week. Plow contracts for the 2026-27 season are locked with route order set — long back-road driveways get first pass on any storm larger than 4 inches, and plow stakes are in before the ground firms up.",
+    localContext: "Pittsfield sits in a narrow valley along the Tweed River with a small village center and homes spread along Route 100 and the surrounding back roads. The town is known for long driveways, high snow accumulation, and a mix of year-round residents, second-home owners, and rental properties catering to the Killington market. Late October in the Tweed River valley is the hand-off from fall to winter: leaf drop finishes sooner here than in the valley towns and the first sticking snow comes fast behind it, so cleanup and the final mow are timed together on the Route 100 properties. Long back-road driveways get staked at the edges, culverts and turnarounds while the ground is still soft, on the same pre-season walkthrough that sets each driveway's plow trigger depth.",
     priorityServices: ["snow-ice-management", "grounds-maintenance", "property-maintenance", "rental-support"],
     landmarks: ["Route 100", "Tweed River", "Pittsfield Village", "Amee Farm", "Route 100 north corridor"],
     faqs: [
@@ -172,7 +172,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Our regular service area covers the Route 100 corridor from Killington through Pittsfield and up to Stockbridge. Properties beyond that we handle case by case.",
       },
     ],
-    lastUpdated: "2026-10-01",
+    lastUpdated: "2026-10-22",
   },
   {
     slug: "chittenden",
@@ -217,7 +217,7 @@ export const serviceAreas: ServiceArea[] = [
       "Because we route through Mendon constantly on our way between Rutland and the mountain, our Mendon clients get consistent service without the travel-time premium that distant services charge.",
       "We handle grounds maintenance, snow contracts, carpentry, and property support for Mendon homeowners — whether you live here year-round or use the place as a ski retreat.",
     ],
-    localContext: "Mendon straddles Route 4 between Rutland and Killington, with properties along the corridor, up toward Mendon Mountain, and in the rural outlying areas. The town has a mix of working families, retirees, and second-home owners. Winter snow loads are substantial: Mendon sits at elevation and catches storms that roll east from Killington Peak. Early October has Mendon through foliage peak and into winterization: mountain-side parcels are getting gutter-clear and shutoff before the first elevation frost (which usually lands here a week before it reaches the valley), Route 4 corridor properties are on their last mow at a 3-inch winter cut, and deck-reseal windows are closed on the mountain side. Plow stakes are in on the longer corridor driveways, and plow contracts for Mendon Mountain properties are locked with route order set — Killington-side storms reach Mendon elevation hours before they fade over the valley.",
+    localContext: "Mendon straddles Route 4 between Rutland and Killington, with properties along the corridor, up toward Mendon Mountain, and in the rural outlying areas. The town has a mix of working families, retirees, and second-home owners. Winter snow loads are substantial: Mendon sits at elevation and catches storms that roll east from Killington Peak. Late October has Mendon running ahead of the valley: hill towns above 1,500 feet usually take their final cut a week or two earlier because plowable snow can arrive by the last week of the month, and heavily forested lots on the mountain side sometimes need a third cleanup pass because the leaf drop runs long. Corridor and mountain-side driveways get staked while the ground is still soft so culverts, septic lids and turnarounds are marked before the first storm.",
     priorityServices: ["snow-ice-management", "grounds-maintenance", "property-maintenance", "carpentry"],
     landmarks: ["Route 4", "Mendon Mountain", "Turn of River Lodge", "Long Trail access"],
     faqs: [
@@ -234,7 +234,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. As a registered Vermont residential contractor, we handle deck rebuilds, rot repair, siding, trim, and structural work throughout Mendon.",
       },
     ],
-    lastUpdated: "2026-10-01",
+    lastUpdated: "2026-10-22",
   },
   {
     slug: "proctor",
@@ -248,7 +248,7 @@ export const serviceAreas: ServiceArea[] = [
       "Properties in Proctor tend to be closer-knit than the rural towns further east, which changes what property care looks like — tighter lots, shared boundaries, and historic homes that benefit from careful craftsmanship rather than heavy-equipment solutions.",
       "We handle the full scope for Proctor homeowners and property managers, from grounds maintenance and snow plowing to hardscape repairs and carpentry on older homes.",
     ],
-    localContext: "Proctor was built around the Vermont marble industry and still shows that character in its stone buildings and compact village layout. The town has a dense residential core, the Otter Creek running through the center, and Proctor Falls as a local landmark. Properties here are often older with original stonework and architectural details that need a specific kind of care. Early October in Proctor is winterization week on Main Street: village lawns are getting their last mow at a 3-inch winter cut, historic-home gutter-clear is finishing ahead of the leaf-drop peak along the Otter Creek sightlines, and marble-and-slate walkway repointing is in its last viable week before mortar cure times become a problem. Fall-cleanup routes are running the dense residential core, and the final tranche of Main Street seasonal plow contracts is being signed as winter route capacity closes out.",
+    localContext: "Proctor was built around the Vermont marble industry and still shows that character in its stone buildings and compact village layout. The town has a dense residential core, the Otter Creek running through the center, and Proctor Falls as a local landmark. Properties here are often older with original stonework and architectural details that need a specific kind of care. Late October is final-cut time for Proctor's village lawns: valley towns usually take their last mow in the third or fourth week of the month once nighttime lows reach the mid-30s, cut shorter than the summer height so snow mold has less blade to press against. Gutters on the older village homes are cleared of leaf load before December, and the leaves are hauled off the property instead of sitting on the grass under four months of snow.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "carpentry", "property-maintenance", "hardscaping"],
     landmarks: ["Proctor Falls", "Otter Creek", "Vermont Marble Museum", "Main Street Proctor"],
     faqs: [
@@ -265,7 +265,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "We handle stonework as part of hardscape installation and repair. For specialty historic preservation work, we collaborate with local stone masons when the job calls for it.",
       },
     ],
-    lastUpdated: "2026-10-01",
+    lastUpdated: "2026-10-22",
   },
   {
     slug: "west-rutland",
@@ -593,7 +593,7 @@ export const serviceAreas: ServiceArea[] = [
       "We service Mount Holly homeowners and second-home owners with the same care we bring to our Ludlow and Killington clients: snow contracts, grounds care, rental turnovers, and property oversight for remote owners who need reliable eyes on the ground.",
       "Because we route through Ludlow and the Okemo area regularly, adding Mount Holly properties doesn't stretch our response times. You get consistent service from crews who know the terrain.",
     ],
-    localContext: "Mount Holly is a small rural town in southeastern Rutland County, situated along Route 103 south of Ludlow. The town has a mix of year-round residents, second-home owners, and properties that serve the Okemo Mountain rental market. Elevation here is significant: snow loads are heavy and mud season runs later than in the valley. The Tarbellville area and surrounding hills have properties with long driveways and dense tree cover that demand reliable equipment and crew scheduling. Late September has the elevation calendar tightening toward the Okemo season: Lake Ninevah rentals have stepped off the peak turnover-mow cadence as shoulder-season guest windows lengthen, Okemo-corridor second homes are on the confirmed fall-cleanup schedule ahead of the leaf-drop peak, and gutter clears are being staged on the long-driveway parcels before the first hard rain. Access markers and driveway staking are going in this week on the higher-elevation contracts before first frost, and seasonal plow routes for the 2026-27 winter are locked with priority order set.",
+    localContext: "Mount Holly is a small rural town in southeastern Rutland County, situated along Route 103 south of Ludlow. The town has a mix of year-round residents, second-home owners, and properties that serve the Okemo Mountain rental market. Elevation here is significant: snow loads are heavy and mud season runs later than in the valley. The Tarbellville area and surrounding hills have properties with long driveways and dense tree cover that demand reliable equipment and crew scheduling. Late October is the last open window at Mount Holly's elevation: hill towns above 1,500 feet take their final cut a week or two ahead of the valley because plowable snow can land by the last week of the month, and that closing pass goes down shorter so snow mold has less blade to press against. Long driveways under the Tarbellville tree cover get their edges, culverts and turnarounds staked while the ground is still soft, and gutters are cleared of leaf load before December so they do not freeze into ice dams by February.",
     priorityServices: ["snow-ice-management", "grounds-maintenance", "property-maintenance", "rental-support"],
     landmarks: ["Route 103", "Tarbellville", "Green Mountain National Forest", "Lake Ninevah"],
     faqs: [
@@ -610,7 +610,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Spring cleanup — driveway condition assessment, frost heave repair, grounds debris clearance, and season-opening property checks — is a core service for our Mount Holly clients.",
       },
     ],
-    lastUpdated: "2026-09-24",
+    lastUpdated: "2026-10-22",
   },
   {
     slug: "poultney",
@@ -624,7 +624,7 @@ export const serviceAreas: ServiceArea[] = [
       "We service Poultney homeowners and rural property owners with grounds care, hardscaping, winter service, and the kind of carpentry work that older slate-region homes need season after season.",
       "Because we already run routes through Fair Haven and Castleton, adding Poultney properties slots cleanly into the schedule. You get a Rutland County crew that knows the slate-belt terrain and isn't pricing for a long-haul drive.",
     ],
-    localContext: "Poultney is the largest slate-belt town in Vermont, with a historic downtown along Main Street, the Castleton-Poultney satellite campus, and rural properties stretching out to East Poultney and the back-road network running into the surrounding hills. Stone outcrops, slate retaining walls, and steep driveways are common features that demand specific equipment and a careful hand. Late September has the Poultney calendar deep in the fall pivot: Lake St. Catherine rentals are winding down the summer turnover schedule with a handful of foliage-weekend bookings still on the calendar, the East Poultney back-road hardscape queue is closing out before mortar cure tightens with the first frost forecast, and fall-cleanup routes are on the confirmed schedule for the historic Main Street homes ahead of the leaf-drop peak. Seasonal plow contracts on the steep slate-belt back roads are locked with priority order set, and long-driveway grading is being scheduled now before the ground cools.",
+    localContext: "Poultney is the largest slate-belt town in Vermont, with a historic downtown along Main Street, the Castleton-Poultney satellite campus, and rural properties stretching out to East Poultney and the back-road network running into the surrounding hills. Stone outcrops, slate retaining walls, and steep driveways are common features that demand specific equipment and a careful hand. Late October is the fall-cleanup peak for Poultney's treed village lots and back-road parcels: leaves are blown, gathered and hauled off the property rather than pushed to the road edge, and heavily treed lots get a two-visit split, a bulk pass at the drop and a final pass after the stragglers. Steep slate-belt driveways get their edges, culverts and turnarounds staked while the ground is still soft, so every obstacle is marked before the first storm.",
     priorityServices: ["grounds-maintenance", "landscaping", "hardscaping", "carpentry", "snow-ice-management"],
     landmarks: ["Downtown Poultney", "Route 30", "East Poultney", "Lake St. Catherine", "Main Street Poultney"],
     faqs: [
@@ -645,7 +645,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Usually dormant. When it gets hot and dry, Vermont cool-season grass goes tan and stops growing to protect its crown, then greens back up when the weather breaks. Tug a handful. If it holds firm and the crown at the base is still white and firm, it is alive and waiting. If it pulls out with no resistance, that patch is gone and needs reseeding. We can tell the difference on a walk-through before anyone rips up a living lawn.",
       },
     ],
-    lastUpdated: "2026-09-24",
+    lastUpdated: "2026-10-22",
   },
 ];
 
