@@ -111,8 +111,12 @@ export const serviceDetails: ServiceDetail[] = [
       "Full-season programs that eliminate the hassle of scheduling individual services",
     ],
     relatedServices: ["landscaping", "property-maintenance"],
-    lastUpdated: "2026-10-05",
+    lastUpdated: "2026-10-26",
     relatedBlogs: [
+      {
+        slug: "protect-shrubs-from-snow-and-ice-vermont",
+        title: "Protect Shrubs From Snow and Ice Before Vermont Winter",
+      },
       {
         slug: "how-many-fall-cleanups-vermont",
         title: "How Many Fall Cleanups Do You Need in Rutland County?",
@@ -416,8 +420,12 @@ export const serviceDetails: ServiceDetail[] = [
       "Haul-away included — leaves leave the property, they don't get pushed to the road edge",
     ],
     relatedServices: ["snow-ice-management", "grounds-maintenance"],
-    lastUpdated: "2026-10-05",
+    lastUpdated: "2026-10-26",
     relatedBlogs: [
+      {
+        slug: "protect-shrubs-from-snow-and-ice-vermont",
+        title: "Protect Shrubs From Snow and Ice Before Vermont Winter",
+      },
       {
         slug: "seasonal-snow-contract-vs-per-storm-vermont",
         title:
