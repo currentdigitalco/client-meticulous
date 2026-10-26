@@ -280,6 +280,9 @@ Last updated: 2026-10-22. Business information, service area coverage, and prici
 
 ---
 
+Q: How do you protect shrubs from snow and ice in Rutland County, and how late is too late?
+A: Tie up the uprights first. A spiral of jute twine from the base of an arborvitae or a columnar yew holds the form so wet snow cannot splay the branches open, and a shrub that opens in February does not close back up in May. Burlap is for salt spray, not snow load: it belongs on a stake a few inches clear of the plant on the road-facing side, never wound tight around the foliage. Broad, low and deciduous shrubs are better left alone, because snow insulates them. The real deadline is the first hard freeze rather than the first snow, since a burlap screen needs a stake and a stake needs unfrozen ground: at valley elevation that is usually the last week of October, earlier toward Mendon and Killington. Twine can go on any time. Watch the plants under a standing-seam metal roof, which drops a slab of snow on whatever is planted below, and mark bed corners the same way driveway edges get marked so a plow driver can see them at night. See https://meticulous802.com/blog/protect-shrubs-from-snow-and-ice-vermont
+
 ## Blog Archive
 
 <!-- BEGIN GENERATED BLOG ARCHIVE — regenerate with execution/regenerate_llms_blog_archive.py -->
