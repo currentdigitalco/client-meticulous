@@ -287,7 +287,19 @@ A: Tie up the uprights first. A spiral of jute twine from the base of an arborvi
 
 <!-- BEGIN GENERATED BLOG ARCHIVE — regenerate with execution/regenerate_llms_blog_archive.py -->
 
-Complete archive of all 34 published blog posts, newest first. Every URL below is a live, indexable page.
+Complete archive of all 37 published blog posts, newest first. Every URL below is a live, indexable page.
+
+- **Protect Shrubs From Snow and Ice Before Vermont Winter** (published 2026-10-26)
+  https://meticulous802.com/blog/protect-shrubs-from-snow-and-ice-vermont
+  How to protect shrubs from snow and ice in Rutland County: what to wrap, what to skip, where the plow line matters, and how late is too late.
+
+- **Snow Removal at a Vermont Rental: Landlord, Tenant or Contract?** (published 2026-10-19)
+  https://meticulous802.com/blog/rental-snow-removal-landlord-or-tenant-vermont
+  Rental property snow removal, landlord or tenant: what the lease decides, what it can't, and how Vermont owners cover the morning nobody shovels.
+
+- **What a Seasonal Snow Contract Assumes About Your Winter** (published 2026-10-12)
+  https://meticulous802.com/blog/seasonal-snow-contract-overage-vermont
+  Every seasonal snow contract assumes a normal winter. How unlimited, inch-cap and visit-cap contracts handle a heavy one, and what to ask before you sign.
 
 - **Will a Plow Truck Fit My Driveway? What to Check First** (published 2026-10-05)
   https://meticulous802.com/blog/will-a-plow-fit-my-driveway-vermont
