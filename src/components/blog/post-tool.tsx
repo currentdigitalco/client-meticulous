@@ -225,19 +225,16 @@ function ToolLeadForm({ toolId, postSlug, cta, resultSummary, answerLines }: Too
     setError(null);
     const formEl = e.currentTarget;
     const data = new FormData(formEl);
-    const contact = String(data.get("contact") ?? "").trim();
-    const isEmail = contact.includes("@");
-    if (!isEmail && contact.replace(/\D/g, "").length < 7) {
-      setError("Add a phone number or an email so we can reach you.");
+    const phone = String(data.get("phone") ?? "").trim();
+    const digits = phone.replace(/\D/g, "").length;
+    if (digits < 10 || digits > 15) {
+      setError("Add a phone number (10 digits) so we can call you back.");
       return;
     }
 
     setSubmitting(true);
     data.append("access_key", FORM_ACCESS_KEY);
     data.append("subject", cta.subject);
-    // Web3Forms uses `email` as the reply-to address.
-    data.delete("contact");
-    data.append(isEmail ? "email" : "phone", contact);
     data.append("service", cta.service);
     data.append("tool", toolId);
     data.append("post_slug", postSlug);
@@ -292,8 +289,8 @@ function ToolLeadForm({ toolId, postSlug, cta, resultSummary, answerLines }: Too
             <input id={`${idBase}-name`} type="text" name="name" required autoComplete="name" placeholder="Your name" className={input} />
           </div>
           <div>
-            <label htmlFor={`${idBase}-contact`} className="sr-only">Phone or email</label>
-            <input id={`${idBase}-contact`} type="text" name="contact" required autoComplete="on" placeholder="Phone or email" className={input} />
+            <label htmlFor={`${idBase}-phone`} className="sr-only">Phone</label>
+            <input id={`${idBase}-phone`} type="tel" name="phone" required inputMode="tel" autoComplete="tel" placeholder="Phone" className={input} />
           </div>
           <div>
             <label htmlFor={`${idBase}-town`} className="sr-only">Town</label>

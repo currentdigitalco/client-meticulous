@@ -171,7 +171,11 @@ export function Contact() {
                     id="phone"
                     name="phone"
                     required
+                    inputMode="tel"
                     autoComplete="tel"
+                    // 10–15 digits, any separators — rejects "123" / "x" without fighting formatting
+                    pattern="\D*(\d\D*){10,15}"
+                    title="Enter a phone number we can call you back on — at least 10 digits."
                     className={cn(
                       "w-full rounded-xl border-0 bg-soil-light/80 px-4 py-3.5 text-cream",
                       "ring-1 ring-white/10 placeholder:text-stone-light/30",

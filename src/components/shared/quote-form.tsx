@@ -106,7 +106,7 @@ export function QuoteForm({
         </div>
         <div>
           <label htmlFor="qf-phone" className="sr-only">Phone</label>
-          <input id="qf-phone" type="tel" name="phone" required placeholder="Phone" className={inputBase} />
+          <input id="qf-phone" type="tel" name="phone" required inputMode="tel" autoComplete="tel" pattern="\D*(\d\D*){10,15}" title="Enter a phone number we can call you back on — at least 10 digits." placeholder="Phone" className={inputBase} />
         </div>
       </div>
       <div>
