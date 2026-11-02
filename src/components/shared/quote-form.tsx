@@ -95,7 +95,7 @@ export function QuoteForm({
     );
   }
 
-  const inputBase = "w-full rounded-xl bg-soil-light/30 ring-1 ring-white/10 px-4 py-3 text-[15px] text-cream placeholder:text-stone-dark/40 focus:outline-none focus:ring-forest-light/50 transition";
+  const inputBase = "w-full rounded-xl bg-soil-light/30 ring-1 ring-white/10 px-4 py-3 text-[16px] md:text-[15px] text-cream placeholder:text-stone-dark/40 focus:outline-none focus:ring-forest-light/50 transition";
 
   return (
     <form onSubmit={handleSubmit} className={compact ? "space-y-4" : "space-y-5"}>
