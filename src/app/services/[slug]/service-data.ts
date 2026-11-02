@@ -420,8 +420,12 @@ export const serviceDetails: ServiceDetail[] = [
       "Haul-away included — leaves leave the property, they don't get pushed to the road edge",
     ],
     relatedServices: ["snow-ice-management", "grounds-maintenance"],
-    lastUpdated: "2026-10-26",
+    lastUpdated: "2026-11-02",
     relatedBlogs: [
+      {
+        slug: "compare-snow-removal-quotes-vermont",
+        title: "Three Snow Quotes, One Is Half the Others: What Is Missing",
+      },
       {
         slug: "protect-shrubs-from-snow-and-ice-vermont",
         title: "Protect Shrubs From Snow and Ice Before Vermont Winter",
@@ -563,8 +567,12 @@ export const serviceDetails: ServiceDetail[] = [
       "We carry proper insurance and use commercial-grade equipment built for Vermont conditions",
     ],
     relatedServices: ["fall-cleanup", "property-maintenance"],
-    lastUpdated: "2026-10-22",
+    lastUpdated: "2026-11-02",
     relatedBlogs: [
+      {
+        slug: "compare-snow-removal-quotes-vermont",
+        title: "Three Snow Quotes, One Is Half the Others: What Is Missing",
+      },
       { slug: "rental-snow-removal-landlord-or-tenant-vermont", title: "Snow Removal at a Vermont Rental: Landlord, Tenant or Contract?" },
       {
         slug: "seasonal-snow-contract-overage-vermont",
