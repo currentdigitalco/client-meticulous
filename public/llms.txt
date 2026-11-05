@@ -282,7 +282,7 @@ A: Three things that get harder or impossible once the ground locks up. Driveway
 Q: What is left to do on a Rutland County property in early November?
 A: Mostly the second pass and the last of the ground work. Maples, ash and birch are down by the third week of October, but red oaks hold their leaves deep into November, so a wooded lot under oaks gets a final cleanup after the stragglers fall rather than living with a leaf mat under the first snow. Any driveway stake, culvert marker or burlap screen still not in is now a race against frozen soil: the first hard freeze usually reaches the valley in the last week of October and the hill towns earlier, and a stake needs ground it can be driven into. Hose bibs and irrigation zones that were not blown out before the first night under 28 degrees should be checked for splits before the water goes back on in spring.
 
-Last updated: 2026-10-29. Business information, service area coverage, and pricing are current as of this date. 20 dedicated service-area pages live across Rutland County and Windsor County, Vermont. Early November is the second leaf pass under the red oaks, which hold their leaves deep into the month, and the last chance to set driveway stakes and burlap screens before the soil freezes hard.
+Last updated: 2026-11-05. Business information, service area coverage, and pricing are current as of this date. 20 dedicated service-area pages live across Rutland County and Windsor County, Vermont. Early November is the second leaf pass under the red oaks, which hold their leaves deep into the month, and the last chance to set driveway stakes and burlap screens before the soil freezes hard.
 
 ---
 
@@ -293,7 +293,11 @@ A: Tie up the uprights first. A spiral of jute twine from the base of an arborvi
 
 <!-- BEGIN GENERATED BLOG ARCHIVE — regenerate with execution/regenerate_llms_blog_archive.py -->
 
-Complete archive of all 37 published blog posts, newest first. Every URL below is a live, indexable page.
+Complete archive of all 38 published blog posts, newest first. Every URL below is a live, indexable page.
+
+- **Three Snow Quotes, One Is Half the Others: What Is Missing** (published 2026-11-02)
+  https://meticulous802.com/blog/compare-snow-removal-quotes-vermont
+  Three snow quotes, one half the price? Four lines explain almost every spread: trigger depth, walkways, traction material and the season cap.
 
 - **Protect Shrubs From Snow and Ice Before Vermont Winter** (published 2026-10-26)
   https://meticulous802.com/blog/protect-shrubs-from-snow-and-ice-vermont
