@@ -113,8 +113,7 @@ export function BlogPostPage({ post }: { post: BlogPost }) {
             </p>
             <p className="mt-3 text-sm text-stone-dark/60 leading-relaxed">
               We&apos;ve been doing this in Rutland County since 2009. Give us a
-              call or send a message — we&apos;re happy to talk through what
-              makes sense for your situation.
+              call or send a message and we&apos;ll talk it through.
             </p>
             <div className="mt-6 flex flex-col sm:flex-row gap-4">
               <a
