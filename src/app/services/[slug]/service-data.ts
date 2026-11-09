@@ -111,8 +111,12 @@ export const serviceDetails: ServiceDetail[] = [
       "Full-season programs that eliminate the hassle of scheduling individual services",
     ],
     relatedServices: ["landscaping", "property-maintenance"],
-    lastUpdated: "2026-10-26",
+    lastUpdated: "2026-11-09",
     relatedBlogs: [
+      {
+        slug: "final-mow-height-snow-mold-vermont",
+        title: "The Last Mow Before Snow, and What It Actually Prevents",
+      },
       {
         slug: "protect-shrubs-from-snow-and-ice-vermont",
         title: "Protect Shrubs From Snow and Ice Before Vermont Winter",
@@ -388,7 +392,7 @@ export const serviceDetails: ServiceDetail[] = [
       },
       {
         title: "Final Mow & Lawn Winterizing",
-        description: "An end-of-season cut at a shorter height to reduce snow-mold pressure through the winter, with clean edges so the property looks finished until the snow covers it.",
+        description: "An end-of-season cut a little shorter than the summer height, done after the leaves are off, so the grass does not lie over and mat under the first snow. Clean edges go in on the same pass so the property looks finished until the snow covers it.",
       },
       {
         title: "Garden Bed Cleanout",
@@ -420,8 +424,12 @@ export const serviceDetails: ServiceDetail[] = [
       "Haul-away included — leaves leave the property, they don't get pushed to the road edge",
     ],
     relatedServices: ["snow-ice-management", "grounds-maintenance"],
-    lastUpdated: "2026-11-02",
+    lastUpdated: "2026-11-09",
     relatedBlogs: [
+      {
+        slug: "final-mow-height-snow-mold-vermont",
+        title: "The Last Mow Before Snow, and What It Actually Prevents",
+      },
       {
         slug: "compare-snow-removal-quotes-vermont",
         title: "Three Snow Quotes, One Is Half the Others: What Is Missing",
@@ -485,7 +493,7 @@ export const serviceDetails: ServiceDetail[] = [
       {
         question: "What does a fall cleanup include in Rutland, VT?",
         answer:
-          "Leaf removal from lawns, beds, and hard surfaces, hauled off-site rather than left in curbside piles; a final mow at a shorter height to reduce snow mold pressure; garden bed cleanout with perennials cut back and annuals pulled; gutter and downspout clearing; storm and blowdown debris removal; and snow-ready prep with driveway edges and obstacles marked for the plow. When a property gets two passes, gutter clearing and plow prep ride on the final visit, because cleaning gutters while the oaks are still dropping into them is wasted work. Larger properties with heavy tree cover may get that two-visit split.",
+          "Leaf removal from lawns, beds, and hard surfaces, hauled off-site rather than left in curbside piles; a final mow a little shorter than the summer height, done after the leaves are off so the grass does not mat under the snow; garden bed cleanout with perennials cut back and annuals pulled; gutter and downspout clearing; storm and blowdown debris removal; and snow-ready prep with driveway edges and obstacles marked for the plow. When a property gets two passes, gutter clearing and plow prep ride on the final visit, because cleaning gutters while the oaks are still dropping into them is wasted work. Larger properties with heavy tree cover may get that two-visit split.",
       },
       {
         question: "How much does fall cleanup cost in Rutland County, VT?",
