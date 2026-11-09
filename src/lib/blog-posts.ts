@@ -2939,7 +2939,7 @@ export const blogPosts: BlogPost[] = [
 
 <p><strong>Wind resistance:</strong> Privacy fences act like sails. In exposed areas (hilltops, open fields) wind is a bigger concern than snow. Cedar can rack and lean over time if the posts aren't deep enough and braced properly. Vinyl stays plumb longer because the panels lock into the posts, but if a gust catches a panel wrong, it can pop out of the channel entirely.</p>
 
-<p>For properties with a lot of wind exposure, and we have plenty in Rutland County, we sometimes recommend a semi-privacy design with small gaps between boards. Cuts wind load by 30-40% and the fence lasts years longer.</p>
+<p>For properties with a lot of wind exposure, and we have plenty in Rutland County, we sometimes recommend a semi-privacy design with small gaps between boards. The gaps let wind pass through instead of loading the whole panel, which takes strain off the posts.</p>
 
 <h2>What Do Vermont Building Codes Require?</h2>
 
