@@ -296,7 +296,11 @@ A: Tie up the uprights first. A spiral of jute twine from the base of an arborvi
 
 <!-- BEGIN GENERATED BLOG ARCHIVE — regenerate with execution/regenerate_llms_blog_archive.py -->
 
-Complete archive of all 38 published blog posts, newest first. Every URL below is a live, indexable page.
+Complete archive of all 39 published blog posts, newest first. Every URL below is a live, indexable page.
+
+- **The Last Mow Before Snow, and What It Actually Prevents** (published 2026-11-09)
+  https://meticulous802.com/blog/final-mow-height-snow-mold-vermont
+  Final mow height before winter matters less for snow mold than you've heard. What the turf research says, and why the leaves decide April.
 
 - **Three Snow Quotes, One Is Half the Others: What Is Missing** (published 2026-11-02)
   https://meticulous802.com/blog/compare-snow-removal-quotes-vermont
@@ -316,7 +320,7 @@ Complete archive of all 38 published blog posts, newest first. Every URL below i
 
 - **Will a Plow Truck Fit My Driveway? What to Check First** (published 2026-10-05)
   https://meticulous802.com/blog/will-a-plow-fit-my-driveway-vermont
-  Under 10 feet of clear width and a plow truck is not getting up it. How to measure the pinch point, where the snow goes, and when to use a tractor.
+  A plow truck is comfortable on about 10 feet of clear width. How to measure the pinch point, where the snow goes, and when to use a tractor.
 
 - **Seasonal Snow Contract or Pay Per Storm in Vermont?** (published 2026-09-28)
   https://meticulous802.com/blog/seasonal-snow-contract-vs-per-storm-vermont
