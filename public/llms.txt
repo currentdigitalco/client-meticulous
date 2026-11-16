@@ -292,11 +292,18 @@ Last updated: 2026-11-05. Business information, service area coverage, and prici
 Q: How do you protect shrubs from snow and ice in Rutland County, and how late is too late?
 A: Tie up the uprights first. A spiral of jute twine from the base of an arborvitae or a columnar yew holds the form so wet snow cannot splay the branches open, and a shrub that opens in February does not close back up in May. Burlap is for salt spray, not snow load: it belongs on a stake a few inches clear of the plant on the road-facing side, never wound tight around the foliage. Broad, low and deciduous shrubs are better left alone, because snow insulates them. The real deadline is the first hard freeze rather than the first snow, since a burlap screen needs a stake and a stake needs unfrozen ground: at valley elevation that is usually the last week of October, earlier toward Mendon and Killington. Twine can go on any time. Watch the plants under a standing-seam metal roof, which drops a slab of snow on whatever is planted below, and mark bed corners the same way driveway edges get marked so a plow driver can see them at night. See https://meticulous802.com/blog/protect-shrubs-from-snow-and-ice-vermont
 
+### Should I buy a snowblower or hire snow removal in Vermont?
+Buy the snowblower if you are at the house for every storm and the driveway is short and flat enough for one person with a walk-behind to open before work, which describes a lot of in-town Rutland houses. If you are away during the week, or the drive is long, steep or has a turnaround, a seasonal contract is the cheaper winter: in the mountain towns the season brings 200-plus inches, the town plow ridge at the road comes after you have finished, and a snowblower does nothing for ice on the steps. Our seasonal contracts set a trigger depth at an October walkthrough, dispatch automatically, hand-shovel walkways and steps, apply salt or sand and push the banks back after the storm. Some full-time owners keep a small machine for the walks and contract the driveway. See <https://meticulous802.com/blog/buy-snowblower-or-hire-snow-removal-vermont>.
+
 ## Blog Archive
 
 <!-- BEGIN GENERATED BLOG ARCHIVE — regenerate with execution/regenerate_llms_blog_archive.py -->
 
-Complete archive of all 39 published blog posts, newest first. Every URL below is a live, indexable page.
+Complete archive of all 40 published blog posts, newest first. Every URL below is a live, indexable page.
+
+- **Buy a Snowblower or Hire It Out? An Honest Rutland County Answer** (published 2026-11-16)
+  https://meticulous802.com/blog/buy-snowblower-or-hire-snow-removal-vermont
+  Buying a snowblower vs hiring snow removal in Vermont: when the machine is the right call, when it is not, and what a seasonal contract covers.
 
 - **The Last Mow Before Snow, and What It Actually Prevents** (published 2026-11-09)
   https://meticulous802.com/blog/final-mow-height-snow-mold-vermont

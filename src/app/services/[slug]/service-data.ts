@@ -424,8 +424,12 @@ export const serviceDetails: ServiceDetail[] = [
       "Haul-away included — leaves leave the property, they don't get pushed to the road edge",
     ],
     relatedServices: ["snow-ice-management", "grounds-maintenance"],
-    lastUpdated: "2026-11-09",
+    lastUpdated: "2026-11-16",
     relatedBlogs: [
+      {
+        slug: "buy-snowblower-or-hire-snow-removal-vermont",
+        title: "Buy a Snowblower or Hire It Out? An Honest Rutland County Answer",
+      },
       {
         slug: "final-mow-height-snow-mold-vermont",
         title: "The Last Mow Before Snow, and What It Actually Prevents",
@@ -575,8 +579,12 @@ export const serviceDetails: ServiceDetail[] = [
       "We carry proper insurance and use commercial-grade equipment built for Vermont conditions",
     ],
     relatedServices: ["fall-cleanup", "property-maintenance"],
-    lastUpdated: "2026-11-02",
+    lastUpdated: "2026-11-16",
     relatedBlogs: [
+      {
+        slug: "buy-snowblower-or-hire-snow-removal-vermont",
+        title: "Buy a Snowblower or Hire It Out? An Honest Rutland County Answer",
+      },
       {
         slug: "compare-snow-removal-quotes-vermont",
         title: "Three Snow Quotes, One Is Half the Others: What Is Missing",
