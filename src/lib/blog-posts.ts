@@ -2809,7 +2809,7 @@ export const blogPosts: BlogPost[] = [
       "We've torn out and repaired enough patios to know what holds up after five Vermont winters and what doesn't. Here's the honest comparison.",
     category: "Hardscape",
     date: "February 2026",
-    updated: "2026-10-05",
+    updated: "2026-11-19",
     readTime: "6 min read",
     image: "/images/blog-bluestone-pavers.jpeg",
     featured: false,
@@ -2850,6 +2850,10 @@ export const blogPosts: BlogPost[] = [
 </table>
 
 <p>A typical 300-square-foot patio runs $4,000-$7,000 in concrete pavers or $6,000-$10,000 in bluestone. That's a meaningful difference upfront. But here's what most quotes don't tell you: the maintenance and replacement costs over 15-20 years close that gap significantly.</p>
+
+<h2>How Much Is Bluestone per Square Foot?</h2>
+
+<p>Installed, bluestone runs $19 to $34 per square foot in Rutland County: $8 to $15 for the stone itself, $3 to $5 for base prep and $8 to $14 for labor. That puts a 300-square-foot bluestone patio at roughly $6,000 to $10,000, against $4,000 to $7,000 for the same patio in concrete pavers.</p>
 
 <h2>How Do Maintenance Needs Compare?</h2>
 
@@ -3196,7 +3200,7 @@ export const blogPosts: BlogPost[] = [
       "If your fence posts aren't below the frost line, your fence will move. We've fixed enough leaning fences to know exactly how deep to go.",
     category: "Fencing",
     date: "August 2025",
-    updated: "2026-10-06",
+    updated: "2026-11-19",
     readTime: "4 min read",
     image: "/images/blog-frost-line.jpeg",
     featured: false,
@@ -3208,6 +3212,8 @@ export const blogPosts: BlogPost[] = [
       insertAfter: "A lot of installers get this math wrong.</p>",
     },
     content: `
+<h2>Do Fence Posts Need to Be Below Frost Line?</h2>
+
 <p data-speakable="true"><strong>Yes, fence posts need to be set below the frost line, and in Vermont that is deeper than most people think: the frost line sits at 48 inches in most of Rutland County and pushes to 54–60 inches at higher elevations like Killington, Mendon, and Shrewsbury. A post that stops short of it will heave.</strong> Here is what that looks like in practice.</p>
 
 <p>Got a call in March from a homeowner in Killington whose fence looked like a row of crooked teeth. Every third post was tilted at a different angle. The fence was two years old. When we dug up the first post, the concrete footing was sitting at 24 inches. Twenty-four inches, in Killington. The frost line up there is a solid 48 inches, sometimes deeper. That fence never had a chance.</p>

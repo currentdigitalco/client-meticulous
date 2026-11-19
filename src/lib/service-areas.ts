@@ -93,7 +93,7 @@ export const serviceAreas: ServiceArea[] = [
       "We work with Woodstock homeowners, estate managers, and innkeepers who want their property presented at a level that matches the village itself — manicured beds, clean hardscape, and grounds that look intentional from the road.",
       "Most of our Woodstock clients are either year-round residents with high expectations or second-home owners who need a trusted local to keep things looking right while they're away.",
     ],
-    localContext: "Woodstock is one of the most visited towns in Vermont, with a protected historic character that extends to how properties are maintained. Stone walls, specimen trees, and curated gardens are common features that need specific expertise. The week of October 8 puts Woodstock estates in the center of peak foliage: Route 4 corridor properties and village inns are running camera-ready through the busiest leaf-week arrivals, so we are on daily sweep of stone walks and driveways between weekend turnovers, pulling the final deadheads from perennial beds, and running the first leaf passes on the lawns as the maples hit color. Fall-cleanup routes on the second homes are mid-run, snow stakes are going in on the longer rural driveways, and gutter clears are being scheduled before the leaf drop finishes.",
+    localContext: "Woodstock is one of the most visited towns in Vermont, with a protected historic character that extends to how properties are maintained. Stone walls, specimen trees, and curated gardens are common features that need specific expertise. Late November turns Woodstock properties to winter care: stone walks and inn entrances move onto the plow and ice-melt route ahead of the holiday visitor weeks, specimen shrubs near drives get protected from plow throw and salt, and gutters on the older village homes are cleared of the last leaf load before they freeze.",
     priorityServices: ["landscaping", "grounds-maintenance", "hardscaping", "property-maintenance"],
     landmarks: ["Woodstock Village Green", "Billings Farm", "Marsh-Billings-Rockefeller National Historical Park", "Route 4", "Ottauquechee River"],
     faqs: [
@@ -110,7 +110,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Woodstock is within our regular service radius. We schedule routes efficiently so clients aren't paying a premium for distance.",
       },
     ],
-    lastUpdated: "2026-10-08",
+    lastUpdated: "2026-11-19",
   },
   {
     slug: "ludlow",
@@ -186,7 +186,7 @@ export const serviceAreas: ServiceArea[] = [
       "We handle the full range of property care services in Chittenden — grounds maintenance, snow management, landscaping, and hardscape work — with crews that know how to operate on the narrower rural roads and longer site drives.",
       "Most Chittenden properties need a partner who understands the rhythm of the town: spread-out properties, long winters, and owners who value reliability over flash.",
     ],
-    localContext: "Chittenden is home to the Chittenden Reservoir and Lefferts Pond, plus a mix of small working farms, rural homesites, and second-home properties tucked into the Green Mountain foothills. The town is largely forested with winding back roads and a small village center. Properties tend to be large, with mature landscaping and significant snow exposure. The week of October 8 is the full-pivot week for Chittenden properties: reservoir-front lots are mid-way through leaf-drop with the first cleanup passes done, long forested driveways are getting snow-stake walks and reflector sets so plow routes are keyed in before the first storm, and working farms are closed out of field work for the year. Gutter clears on the second homes are finishing this week ahead of the next hard rain, and seasonal plow contracts are locked with route order set.",
+    localContext: "Chittenden is home to the Chittenden Reservoir and Lefferts Pond, plus a mix of small working farms, rural homesites, and second-home properties tucked into the Green Mountain foothills. The town is largely forested with winding back roads and a small village center. Properties tend to be large, with mature landscaping and significant snow exposure. Late November is plow season in Chittenden: the long forested driveways are staked and reflectored, reservoir-front lots have their leaves off the lawn before the snow settles in, and second-home owners away for the season get storm-by-storm plowing so the drive is open whenever they arrive.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "landscaping", "property-maintenance"],
     landmarks: ["Chittenden Reservoir", "Lefferts Pond", "Green Mountain National Forest", "Chittenden Dam"],
     faqs: [
@@ -203,7 +203,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Spring opening and fall closing are common services for our Chittenden clients. We can also handle winterization, frost-prep, and pre-arrival readiness checks.",
       },
     ],
-    lastUpdated: "2026-10-08",
+    lastUpdated: "2026-11-19",
   },
   {
     slug: "mendon",
@@ -279,7 +279,7 @@ export const serviceAreas: ServiceArea[] = [
       "Property care here tends to be practical and no-nonsense — owners want reliable service, fair pricing, and crews that show up when they're supposed to.",
       "That's how we run. West Rutland is a core part of our service area and we handle the full scope: grounds, plowing, repairs, and property support for homes and businesses throughout town.",
     ],
-    localContext: "West Rutland has a strong working identity, with agricultural land, small industrial areas, and historic residential neighborhoods. Route 4A runs through the town connecting it to the main Rutland area. The town's Grange Hall, marble quarries, and Clarendon Gorge make it a distinct community from Rutland proper despite the proximity. Early October along Route 4A is deep in the fall-cleanup push: second-cut hay is done and the working parcels are open for field-edge trim and parcel-line runs, storefront and residential lawns are on their last mow at a 3-inch winter cut, and the historic residential blocks are getting leaf-drop sweeps on the first windy days this week. Plow stakes are going in along the longer Route 4A driveways, and the final tranche of commercial and residential seasonal plow contracts is being signed as central-county route capacity closes out for winter.",
+    localContext: "West Rutland has a strong working identity, with agricultural land, small industrial areas, and historic residential neighborhoods. Route 4A runs through the town connecting it to the main Rutland area. The town's Grange Hall, marble quarries, and Clarendon Gorge make it a distinct community from Rutland proper despite the proximity. Late November along Route 4A is the switch to winter service: the working parcels and residential lawns are done for the year, leaves are off the grass so they do not mat under the snow, and the longer Route 4A driveways are staked at the edges and culverts so the plow can find them once the banks build up.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "property-maintenance", "carpentry"],
     landmarks: ["Route 4A", "Clarendon Gorge", "West Rutland Town Hall", "West Rutland Marble Quarry"],
     faqs: [
@@ -296,7 +296,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. Because we're local and route efficiently, we're usually at or below the rates of out-of-county services while delivering faster response and better accountability.",
       },
     ],
-    lastUpdated: "2026-10-01",
+    lastUpdated: "2026-11-19",
   },
   {
     slug: "brandon",
@@ -310,7 +310,7 @@ export const serviceAreas: ServiceArea[] = [
       "We work with Brandon homeowners, business owners, and second-home owners on everything from seasonal grounds maintenance to full hardscape builds and carpentry projects.",
       "Brandon is close enough to Rutland that we service it regularly, and distinctive enough that we approach each property based on its character rather than running a template.",
     ],
-    localContext: "Brandon sits along Route 7 with a historic downtown, the Neshobe River running through it, and residential neighborhoods that span from the village center out to rural properties on the surrounding roads. The town has a thriving arts scene, with Brandon Artists Guild and the annual Brandon Arts Festival drawing regional attention to the community. Early October has Brandon at peak color on the Route 7 maples: gallery storefronts are on their last mow at a 3-inch winter cut, downtown planter beds are into the cool-season swap with mums and cabbage running for the foliage weekend crowds, and rural back-road properties are deep in the fall-cleanup push through the leaf-drop peak. Historic-home gutter-clear is finishing before the first hard rain of the week, and the final tranche of 2026-27 seasonal plow contracts is being signed with route order set before snow works down the Neshobe valley.",
+    localContext: "Brandon sits along Route 7 with a historic downtown, the Neshobe River running through it, and residential neighborhoods that span from the village center out to rural properties on the surrounding roads. The town has a thriving arts scene, with Brandon Artists Guild and the annual Brandon Arts Festival drawing regional attention to the community. Late November in Brandon is snow-season setup: downtown storefront walks and lots move onto the plow and salt route, the last leaf load is hauled off village lawns before it mats under the snow, and rural back-road driveways are staked at the edges so the plow can hold the line through the Neshobe valley winter.",
     priorityServices: ["landscaping", "grounds-maintenance", "hardscaping", "carpentry", "property-maintenance"],
     landmarks: ["Downtown Brandon", "Neshobe River", "Brandon Artists Guild", "Route 7", "Brandon Falls"],
     faqs: [
@@ -327,7 +327,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Our core service area is Rutland County plus Woodstock and Ludlow. Properties north of Brandon toward Middlebury we handle case-by-case based on scope and schedule.",
       },
     ],
-    lastUpdated: "2026-10-01",
+    lastUpdated: "2026-11-19",
   },
   {
     slug: "castleton",
@@ -341,7 +341,7 @@ export const serviceAreas: ServiceArea[] = [
       "We service both sides of that equation. Residential and commercial property care in the village, plus seasonal opening and closing, grounds maintenance, and property oversight for lakefront homes that sit empty during the off-season.",
       "Lakefront properties have their own rhythm — spring opening, dock management, seasonal cleanups, and fall winterization. We handle the transitions so owners aren't scrambling the first warm weekend.",
     ],
-    localContext: "Castleton is home to Castleton University, Lake Bomoseen (Vermont's largest lake entirely within the state), and a mix of village residential, rural properties, and lakefront homes. The town has a strong seasonal pattern driven by the university calendar and lake season. Many properties are second homes or short-term rentals, especially around Bomoseen. The week of October 8 is dock-pull and winterization week around Bomoseen: dock-pull-and-store crews are running the shoreline on the second-home properties heading south before ice-in, lakefront grounds have moved from mow rotation to leaf-drop cleanup as the maples turn, and the last finish cut of the year is being scheduled on the village and university-adjacent lawns. Snow stakes are going in on the longer lakefront driveways and seasonal plow contracts are locked with route order set.",
+    localContext: "Castleton is home to Castleton University, Lake Bomoseen (Vermont's largest lake entirely within the state), and a mix of village residential, rural properties, and lakefront homes. The town has a strong seasonal pattern driven by the university calendar and lake season. Many properties are second homes or short-term rentals, especially around Bomoseen. Late November around Lake Bomoseen means the lake season is closed out: docks are out, lakefront lawns have had their final leaf removal, and the longer lakefront and village driveways are staked and on the plow route before the first real storm.",
     priorityServices: ["grounds-maintenance", "property-maintenance", "snow-ice-management", "housekeeping", "rental-support"],
     landmarks: ["Lake Bomoseen", "Castleton University", "Bomoseen State Park", "Hubbardton Battlefield", "Route 4A"],
     faqs: [
@@ -358,7 +358,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. We handle cleaning, linen changes, and readiness checks between bookings, synced to your rental calendar with photo confirmation.",
       },
     ],
-    lastUpdated: "2026-10-08",
+    lastUpdated: "2026-11-19",
   },
   {
     slug: "wallingford",
@@ -562,7 +562,7 @@ export const serviceAreas: ServiceArea[] = [
       "We service Fair Haven homeowners and business owners with grounds maintenance, winter service, and property care that gets routed efficiently alongside our West Rutland and Castleton coverage.",
       "Most of our Fair Haven clients are year-round residents who want a local crew they can count on season after season, not a rotating cast of subcontractors from outside the county.",
     ],
-    localContext: "Fair Haven has a distinct identity anchored in Vermont's historic slate industry, with older homes, a walkable village, and properties that sit on a mix of village lots and rural parcels. The town is on the Vermont border with New York, giving it a slightly different weather pattern than the eastern Rutland County towns. The week of October 8 has Fair Haven in the thick of fall work along Route 4A: Village Green and business-front lawns are getting their final finish cut of the year as cold nights halt growth, leaf-sweep passes are running on the slate-walk residential blocks ahead of the next hard rain, and the last slate-walkway repointing and hardscape wrap-up is finishing before the ground tightens. Snow stakes are in on the longer western-corridor driveways and seasonal plow contracts are locked with route order set.",
+    localContext: "Fair Haven has a distinct identity anchored in Vermont's historic slate industry, with older homes, a walkable village, and properties that sit on a mix of village lots and rural parcels. The town is on the Vermont border with New York, giving it a slightly different weather pattern than the eastern Rutland County towns. Late November in Fair Haven moves the village onto winter service: business-front walks and lots go on the plow and salt route, slate walkways get ice melt that will not etch the stone, and the longer western-corridor driveways are staked at the edges before the snow builds.",
     priorityServices: ["grounds-maintenance", "snow-ice-management", "property-maintenance", "carpentry"],
     landmarks: ["Route 4A", "Fair Haven Village Green", "Fair Haven Town Hall", "Castleton River", "Wells Village nearby"],
     faqs: [
@@ -579,7 +579,7 @@ export const serviceAreas: ServiceArea[] = [
         answer: "Yes. We handle commercial plowing for storefronts, parking areas, and business properties throughout Fair Haven village, with early-morning priority service so entries are clear before the business day starts.",
       },
     ],
-    lastUpdated: "2026-10-08",
+    lastUpdated: "2026-11-19",
   },
   {
     slug: "mount-holly",
