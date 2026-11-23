@@ -579,8 +579,12 @@ export const serviceDetails: ServiceDetail[] = [
       "We carry proper insurance and use commercial-grade equipment built for Vermont conditions",
     ],
     relatedServices: ["fall-cleanup", "property-maintenance"],
-    lastUpdated: "2026-11-16",
+    lastUpdated: "2026-11-23",
     relatedBlogs: [
+      {
+        slug: "how-much-does-snow-removal-cost-vermont",
+        title: "How Much Does Snow Removal Cost? What Moves the Price in VT",
+      },
       {
         slug: "buy-snowblower-or-hire-snow-removal-vermont",
         title: "Buy a Snowblower or Hire It Out? An Honest Rutland County Answer",
