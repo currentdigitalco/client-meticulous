@@ -4,6 +4,13 @@ import { useState } from "react";
 import { Send, Phone } from "lucide-react";
 import { FORM_ACCESS_KEY, FORM_SUBMIT_URL } from "@/lib/form-config";
 import { trackEvent } from "@/lib/analytics";
+import {
+  HEARD_FROM_LABEL,
+  HEARD_FROM_OPTIONS,
+  HEARD_FROM_PLACEHOLDER,
+  heardFromEvent,
+  heardFromLabel,
+} from "@/lib/heard-from";
 
 const SERVICE_OPTIONS = [
   { value: "grounds-maintenance", label: "Grounds maintenance" },
@@ -45,6 +52,10 @@ export function QuoteForm({
 
     const formEl = e.currentTarget;
     const payload = new FormData(formEl);
+    const heardEvent = heardFromEvent(payload.get("heard_from"));
+    const heardLabel = heardFromLabel(payload.get("heard_from"));
+    if (heardLabel) payload.set("heard_from", heardLabel);
+    else payload.delete("heard_from");
     payload.append("access_key", FORM_ACCESS_KEY);
     payload.append("subject", subject);
     if (defaultCity) payload.append("source_city", defaultCity);
@@ -66,6 +77,7 @@ export function QuoteForm({
           ...(defaultService ? { service: defaultService } : {}),
           ...(defaultCity ? { city: defaultCity } : {}),
         });
+        if (heardEvent) trackEvent(heardEvent);
         setSubmitted(true);
         formEl.reset();
       } else {
@@ -131,6 +143,15 @@ export function QuoteForm({
       <div>
         <label htmlFor="qf-message" className="sr-only">Message</label>
         <textarea id="qf-message" name="message" rows={compact ? 3 : 4} placeholder="What does the property need? (the more detail, the faster we can quote)" className={inputBase} />
+      </div>
+      <div>
+        <label htmlFor="qf-heard-from" className="mb-2 block text-sm text-stone-dark/60">{HEARD_FROM_LABEL}</label>
+        <select id="qf-heard-from" name="heard_from" defaultValue="" className={inputBase}>
+          <option value="">{HEARD_FROM_PLACEHOLDER}</option>
+          {HEARD_FROM_OPTIONS.map((o) => (
+            <option key={o.value} value={o.value}>{o.label}</option>
+          ))}
+        </select>
       </div>
       <input type="checkbox" name="botcheck" tabIndex={-1} autoComplete="off" className="hidden" aria-hidden="true" />
       {error && (

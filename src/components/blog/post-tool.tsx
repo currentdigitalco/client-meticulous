@@ -4,6 +4,13 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import { ArrowLeft, Phone, RotateCcw, Send } from "lucide-react";
 import { FORM_ACCESS_KEY, FORM_SUBMIT_URL } from "@/lib/form-config";
 import { trackEvent } from "@/lib/analytics";
+import {
+  HEARD_FROM_LABEL,
+  HEARD_FROM_OPTIONS,
+  HEARD_FROM_PLACEHOLDER,
+  heardFromEvent,
+  heardFromLabel,
+} from "@/lib/heard-from";
 import { POST_TOOLS, type PostToolId, type ToolAnswers } from "@/lib/post-tools";
 
 // Data-driven step tool embedded in a blog post (configs: src/lib/post-tools.ts).
@@ -233,6 +240,10 @@ function ToolLeadForm({ toolId, postSlug, cta, resultSummary, answerLines }: Too
     }
 
     setSubmitting(true);
+    const heardEvent = heardFromEvent(data.get("heard_from"));
+    const heardLabel = heardFromLabel(data.get("heard_from"));
+    if (heardLabel) data.set("heard_from", heardLabel);
+    else data.delete("heard_from");
     data.append("access_key", FORM_ACCESS_KEY);
     data.append("subject", cta.subject);
     data.append("service", cta.service);
@@ -247,6 +258,7 @@ function ToolLeadForm({ toolId, postSlug, cta, resultSummary, answerLines }: Too
       const json = await res.json();
       if (json.success) {
         trackEvent("generate_lead", { tool: toolId, post_slug: postSlug });
+        if (heardEvent) trackEvent(heardEvent);
         setSubmitted(true);
         formEl.reset();
       } else {
@@ -296,6 +308,15 @@ function ToolLeadForm({ toolId, postSlug, cta, resultSummary, answerLines }: Too
             <label htmlFor={`${idBase}-town`} className="sr-only">Town</label>
             <input id={`${idBase}-town`} type="text" name="town" autoComplete="address-level2" placeholder="Town" className={input} />
           </div>
+        </div>
+        <div>
+          <label htmlFor={`${idBase}-heard-from`} className="mb-2 block text-sm text-stone-dark/60">{HEARD_FROM_LABEL}</label>
+          <select id={`${idBase}-heard-from`} name="heard_from" defaultValue="" className={input}>
+            <option value="">{HEARD_FROM_PLACEHOLDER}</option>
+            {HEARD_FROM_OPTIONS.map((o) => (
+              <option key={o.value} value={o.value}>{o.label}</option>
+            ))}
+          </select>
         </div>
         <input type="checkbox" name="botcheck" tabIndex={-1} autoComplete="off" className="hidden" aria-hidden="true" />
         {error && (
