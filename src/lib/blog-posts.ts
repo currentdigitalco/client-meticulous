@@ -299,7 +299,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Schedule it in early September, roughly two weeks before leaf drop begins, because that is the only stretch when you can still choose your slot instead of taking whatever is left. The fall cleanup calendar in Rutland County runs from the last week of September through mid-November, timed to elevation and tree cover, and the routes fill from the top down. By early October the roster is mostly committed to contract holders, and a walk-in call in late October gets pushed to the tail end of November, when snow has already flattened the leaf mat and half the intended work is no longer possible to do well.</p>
 
-<p>There is a second reason the early-September window matters, and it has nothing to do with leaves. Booking the cleanup before the season fills is what secures the coordinated hand-off into a seasonal snow contract, so the same crew that hauls your leaves in October is the one plowing your driveway in December. On the properties we run year-round, both get booked on the same call. Miss the window and you are not just late for leaves, you are trying to find a plow in November, which in this county you do not want to be doing.</p>
+<p>There is a second reason the early-September window matters, and it has nothing to do with leaves. Booking the cleanup before the season fills is what secures the coordinated hand-off into a seasonal snow contract, so the same crew that hauls your leaves in October is the one plowing your driveway in December. On the properties we run year-round, both get booked on the same call. Miss the window and you are late for the leaves, and you are looking for a plow in November.</p>
 
 <h2>Why are leaves the smallest part of a fall cleanup?</h2>
 
@@ -319,7 +319,7 @@ export const blogPosts: BlogPost[] = [
 </tbody>
 </table>
 
-<p>Notice how few of those lines are about leaves. The leaf removal is the visible half. The other five are the reason a skipped fall turns into a spring repair list instead of a clean startup.</p>
+<p>The leaf removal is the visible half. The other five are the reason a skipped fall turns into a spring repair list instead of a clean startup.</p>
 
 <h2>What gets cut back now, and what waits until spring?</h2>
 
@@ -354,7 +354,7 @@ export const blogPosts: BlogPost[] = [
 <li><strong>Confirm the snow plan</strong> so the crew that just cleaned the property knows the trigger depth, the priority paths, and where the snow gets stacked before the first storm, not during it.</li>
 </ol>
 
-<p>Done right, the property disappears under the first snow already set up for the whole winter. That is the real product of a fall cleanup: not a tidy lawn for the three weeks before it snows, but a property a plow can work safely for four months. If you want the detail on the winter side, our post on <a href="/blog/when-to-book-snow-removal-vermont">when to book snow removal in Vermont</a> covers what a seasonal contract actually locks in.</p>
+<p>Done right, the property disappears under the first snow already set up for the whole winter. A tidy lawn only lasts the three weeks before it snows. A property a plow can work safely lasts four months. If you want the detail on the winter side, our post on <a href="/blog/when-to-book-snow-removal-vermont">when to book snow removal in Vermont</a> covers what a seasonal contract actually locks in.</p>
 
 <h2>One visit or two: how does leaf drop actually run here?</h2>
 
