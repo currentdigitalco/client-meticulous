@@ -291,7 +291,7 @@ A: Three things that get harder or impossible once the ground locks up. Driveway
 Q: What is left to do on a Rutland County property in early November?
 A: Mostly the second pass and the last of the ground work. Maples, ash and birch are down by the third week of October, but red oaks hold their leaves deep into November, so a wooded lot under oaks gets a final cleanup after the stragglers fall rather than living with a leaf mat under the first snow. Any driveway stake, culvert marker or burlap screen still not in is now a race against frozen soil: the first hard freeze usually reaches the valley in the last week of October and the hill towns earlier, and a stake needs ground it can be driven into. Hose bibs and irrigation zones that were not blown out before the first night under 28 degrees should be checked for splits before the water goes back on in spring.
 
-Last updated: 2026-11-19. Business information, service area coverage, and pricing are current as of this date. 20 dedicated service-area pages live across Rutland County and Windsor County, Vermont. Late November is the switch from fall cleanup to snow season: leaves come off the lawns before they mat under the snow, and driveway edges, culverts and turnarounds get staked before the ground freezes hard.
+Last updated: 2026-11-26. Business information, service area coverage, and pricing are current as of this date. 20 dedicated service-area pages live across Rutland County and Windsor County, Vermont. Late November is the switch from fall cleanup to snow season: leaves come off the lawns before they mat under the snow, and driveway edges, culverts and turnarounds get staked before the ground freezes hard.
 
 ---
 
@@ -305,7 +305,11 @@ Buy the snowblower if you are at the house for every storm and the driveway is s
 
 <!-- BEGIN GENERATED BLOG ARCHIVE — regenerate with execution/regenerate_llms_blog_archive.py -->
 
-Complete archive of all 40 published blog posts, newest first. Every URL below is a live, indexable page.
+Complete archive of all 41 published blog posts, newest first. Every URL below is a live, indexable page.
+
+- **How Much Does Snow Removal Cost? What Moves the Price in VT** (published 2026-11-23)
+  https://meticulous802.com/blog/how-much-does-snow-removal-cost-vermont
+  How much does snow removal cost in Rutland County, VT? The five things that move a plow quote, from driveway grade to elevation, and what ours includes.
 
 - **Buy a Snowblower or Hire It Out? An Honest Rutland County Answer** (published 2026-11-16)
   https://meticulous802.com/blog/buy-snowblower-or-hire-snow-removal-vermont
